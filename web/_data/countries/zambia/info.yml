@@ -1,0 +1,16 @@
+name: Zambia
+ref_area: 894
+platform:
+  url: https://zambia.opendataforafrica.org/addin/sdg
+  system: Open Data Platform
+  status: Production
+
+data:
+  status: Unknown
+metadata:
+  status: Unknown
+
+sdglab:
+  country: 33
+
+issues: []

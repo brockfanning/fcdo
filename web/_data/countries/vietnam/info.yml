@@ -1,0 +1,16 @@
+name: Viet Nam
+ref_area: 704
+platform:
+  url: ''
+  system: PX Web
+  status: Development
+
+data:
+  status: Unknown
+metadata:
+  status: Unknown
+
+sdglab:
+  country: 4
+
+issues: []

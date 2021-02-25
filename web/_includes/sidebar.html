@@ -1,0 +1,8 @@
+<div class="sidebar sticky">
+    <ul>
+        {% assign countries = site.data.countries | sort: 'name' %}
+        {% for country in countries %}
+            <li><a href="{{ site.baseurl }}/{{ country.slug }}">{{ country.name }}</a></li>
+        {% endfor %}
+    </ul>
+</div>

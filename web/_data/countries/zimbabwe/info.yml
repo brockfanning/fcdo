@@ -1,0 +1,16 @@
+name: Zimbabwe
+ref_area: 716
+platform:
+  url: https://zimbabwe.opendataforafrica.org/sdg
+  system: Open Data Platform
+  status: Production
+
+data:
+  status: Unknown
+metadata:
+  status: Unknown
+
+sdglab:
+  country: 37
+
+issues: []

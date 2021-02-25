@@ -1,0 +1,16 @@
+name: Rwanda
+ref_area: 646
+platform:
+  url: https://sustainabledevelopment-rwanda.github.io/
+  system: Open SDG
+  status: Production
+
+data:
+  status: Unknown
+metadata:
+  status: Unknown
+
+sdglab:
+  country: 44
+
+issues: []

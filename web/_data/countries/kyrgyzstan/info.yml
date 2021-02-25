@@ -1,0 +1,18 @@
+name: Kyrgyzstan
+ref_area: 417
+platform:
+  url: https://sustainabledevelopment-kyrgyzstan.github.io/
+  system: Open SDG
+  status: Production
+
+data:
+  status: Unknown
+metadata:
+  status: Unknown
+
+kyryzstan: 17
+
+sdmx:
+  - using sdmx as data source
+
+issues: []

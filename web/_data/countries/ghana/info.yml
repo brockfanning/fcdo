@@ -1,0 +1,20 @@
+name: Ghana
+ref_area: 288
+platform:
+  url: https://sustainabledevelopment-ghana.github.io/sdg-indicators/
+  repositories:
+    - https://github.com/sustainabledevelopment-ghana/sdg-indicators/
+  system: Open SDG
+  status: Development
+
+data:
+  status: Unknown
+metadata:
+  status: Unknown
+
+sdglab:
+  country: 0
+
+issues:
+  - Data in platform is out of date
+  - New data needs to be modeled

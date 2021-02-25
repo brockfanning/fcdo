@@ -1,0 +1,11 @@
+---
+layout: single
+---
+
+<h2>Countries</h2>
+
+<ul>
+{% for country in page.countries %}
+    <li><a href="{{ site.baseurl }}/{{ country['slug'] }}">{{ country['name'] }}</a></li>
+{% endfor %}
+</ul>

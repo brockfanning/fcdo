@@ -1,0 +1,19 @@
+name: Tanzania
+ref_area: 834
+platform:
+  url: ''
+  system: Goal Tracker
+  repositories:
+    - https://github.com/Goaltracker/datasets/tree/master/datasets/goaltracker-tanzania
+  status: Development
+
+data:
+  status: Unknown
+metadata:
+  status: Unknown
+
+sdglab:
+  country: 0
+
+issues:
+  - no platform yet? How can we get the data?

@@ -1,0 +1,24 @@
+name: Cambodia
+ref_area: 116
+platform:
+  url: http://camstat.nis.gov.kh/?locale=en&start=0&constraints[0]=6nQpoAP%2C0%7CSDG%20indicators%23SDG%23&facet=6nQpoAP
+  system: .Stat suite
+  status: Production
+
+data:
+  status: Unknown
+metadata:
+  status: Unknown
+
+sdglab:
+  country: 58
+
+sdmx:
+  global:
+    data: https://nsiws-stable-camstat-live.officialstatistics.org/rest/data/IAEG-SDGs,DF_SDG_GLC,1.2/A..............?startPeriod=2008&endPeriod=2019
+    structure: https://nsiws-stable-camstat-live.officialstatistics.org/rest/dataflow/IAEG-SDGs/DF_SDG_GLC/1.2?references=all&detail=referencepartial
+  national:
+    data: https://nsiws-stable-camstat-live.officialstatistics.org/rest/data/KH_NIS,DF_SDG_KH,1.2/A..............?startPeriod=2008&endPeriod=2019
+    structure: https://nsiws-stable-camstat-live.officialstatistics.org/rest/dataflow/KH_NIS/DF_SDG_KH/1.2?references=all&detail=referencepartial
+
+issues: []

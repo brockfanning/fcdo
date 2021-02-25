@@ -1,0 +1,37 @@
+---
+layout: single
+---
+
+<h2>SDG Lab</h2>
+
+<p>{{ page.info.sdglab.country }} series reported nationally</p>
+
+<h2>Platform</h2>
+
+{% if page.info.platform.url %}
+<div>
+    <a href="{{ page.info.platform.url }}" target="_blank">{{ page.info.platform.url }}</a>
+</div>
+{% endif %}
+
+{% if page.info.platform.system %}
+<div>{{ page.info.platform.system }}</div>
+{% endif %}
+
+{% if page.info.issues.size > 0 %}
+<h2>Issues</h2>
+<ul>
+{% for issue in page.info.issues %}
+    <li>{{ issue }}</li>
+{% endfor %}
+</ul>
+{% endif %}
+
+{% if page.info.notes.size > 0 %}
+<h2>Notes</h2>
+<ul>
+{% for note in page.info.notes %}
+    <li>{{ note }}</li>
+{% endfor %}
+</ul>
+{% endif %}

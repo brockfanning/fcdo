@@ -1,0 +1,16 @@
+name: Nepal
+ref_area: 524
+platform:
+  url: ''
+  system: Open SDG
+  status: Development
+
+data:
+  status: Unknown
+metadata:
+  status: Unknown
+
+sdglab:
+  country: 27
+
+issues: []

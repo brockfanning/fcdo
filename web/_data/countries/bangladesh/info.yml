@@ -1,0 +1,20 @@
+name: Bangladesh
+ref_area: 50
+platform:
+  url: https://sdg.gov.bd
+  system: SDG Tracker
+  status: Production
+
+data:
+  status: Unknown
+metadata:
+  status: Unknown
+
+sdglab:
+  country: 0
+
+issues:
+  - search causes server errors
+  - downloaded files do not make disaggregation clear
+  - not much disaggregation
+  - no sdmx

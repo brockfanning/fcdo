@@ -1,0 +1,16 @@
+name: Uganda
+ref_area: 800
+platform:
+  url: https://uganda.opendataforafrica.org/sdg
+  system: Open Data Platform
+  status: Production
+
+data:
+  status: Unknown
+metadata:
+  status: Unknown
+
+sdglab:
+  country: 39
+
+issues: []

@@ -1,0 +1,16 @@
+name: Myanmar
+ref_area: 104
+platform:
+  url: https://sdg-my.github.io/sdg-myanmar-indicators/
+  system: Open SDG
+  status: Development
+
+data:
+  status: Unknown
+metadata:
+  status: Unknown
+
+sdglab:
+  country: 36
+
+issues: []

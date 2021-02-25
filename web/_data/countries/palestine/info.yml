@@ -1,0 +1,21 @@
+name: State of Palestine
+ref_area: 275
+platform:
+  url: http://pcbs.gov.ps/MainSDGs.aspx
+  system: PX Web
+  status: Production
+
+data:
+  status: Unknown
+metadata:
+  status: Unknown
+
+sdglab:
+  country: 48
+
+notes:
+  - better intro then Jordan
+
+issues:
+  - error trying to change chart settings
+  - same issues as Jordan
