@@ -5,7 +5,7 @@ platform:
   repositories:
     - https://github.com/sustainabledevelopment-ghana/sdg-indicators/
   system: Open SDG
-  status: Development
+  status: Testing
   examples:
     goal: https://sustainabledevelopment-ghana.github.io/no-poverty/
     indicator: https://sustainabledevelopment-ghana.github.io/1-1-1/
