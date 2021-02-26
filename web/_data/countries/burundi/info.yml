@@ -6,17 +6,16 @@ platform:
   status: Production
 
 data:
-  status: Unknown
+  status: SDMX published
+  details: Some unexpected attributes
 metadata:
-  status: Unknown
+  status: Needs SDMX mapping
+  details: TBD.
 
 sdglab:
   country: 15
 
 notes:
-  - Only 3 indicators have SDMX links posted
-
-questions:
   - What is the connection between indicators and metadata/data/sdmx?
   - IE - what determines whether a metadata/data/sdmx button appears?
 
@@ -199,4 +198,5 @@ metadata_urls:
   - "9.c.1 Proportion de la population ayant accès à un réseau mobile, par type de technologie"
   - "Proportion de la population possédant un téléphone portable, par sexe"
 
-issues: []
+issues:
+  -  Difficulty downloading data (email never arrived)

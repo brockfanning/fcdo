@@ -6,9 +6,10 @@ platform:
   status: Production
 
 data:
-  status: Unknown
+  status: SDMX published
+  details: ''
 metadata:
-  status: Unknown
+  status: Needs SDMX mapping
 
 sdglab:
   country: 44

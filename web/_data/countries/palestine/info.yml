@@ -6,9 +6,11 @@ platform:
   status: Production
 
 data:
-  status: Unknown
+  status: Needs SDMX conversion
+  details: Are values in output?
+  example: http://pcbs.gov.ps/SDGsIndicators/api/v1/en/myDb/START/01/01T1_2/01T1_2IC010202/SD1_2_C010202_01
 metadata:
-  status: Unknown
+  status: Needs machine readable version
 
 sdglab:
   country: 48

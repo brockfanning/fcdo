@@ -6,15 +6,18 @@ platform:
   status: Production
 
 data:
-  status: Unknown
+  status: Needs SDMX mapping
+  disaggregation: None
 metadata:
-  status: Unknown
+  status: Not available
+  details: Downloads of global metadata
 
 sdglab:
   country: 0
 
+notes:
+  - Lack of disaggregation may make SDMX mapping easier
+
 issues:
   - search causes server errors
   - downloaded files do not make disaggregation clear
-  - not much disaggregation
-  - no sdmx

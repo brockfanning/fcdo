@@ -8,7 +8,8 @@ platform:
   status: Development
 
 data:
-  status: Unknown
+  status: Needs SDMX mapping
+  details: Using Frictionless DataPackages
 metadata:
   status: Unknown
 

@@ -2,6 +2,8 @@
 layout: single
 ---
 
+<a target="_blank" href="https://unstats.un.org/capacity-development/UNSD-FCDO/{{ page.slug }}/">FCDO link</a>
+
 <h2>SDG Lab</h2>
 
 <p>{{ page.info.sdglab.country }} series reported nationally</p>
@@ -16,6 +18,25 @@ layout: single
 
 {% if page.info.platform.system %}
 <div>{{ page.info.platform.system }}</div>
+{% endif %}
+
+<div>Status: {{ page.info.platform.status }}</div>
+
+<h2>Data</h2>
+
+<div>Status: {{ page.info.data.status }}</div>
+{% if page.info.data.disaggregation %}
+<div>Disaggregation: {{ page.info.data.disaggregation }}</div>
+{% endif %}
+{% if page.info.data.details %}
+<div>Details: {{ page.info.data.details }}</div>
+{% endif %}
+
+<h2>Metadata</h2>
+
+<div>Status: {{ page.info.metadata.status }}</div>
+{% if page.info.metadata.details %}
+<div>Details: {{ page.info.metadata.details }}</div>
 {% endif %}
 
 {% if page.info.issues.size > 0 %}

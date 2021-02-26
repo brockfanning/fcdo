@@ -59,6 +59,7 @@ module FcdoPlugins
       self.data['layout'] = 'country'
       self.data['title'] = info['name']
       self.data['info'] = info['info']
+      self.data['slug'] = info['slug']
     end
   end
 

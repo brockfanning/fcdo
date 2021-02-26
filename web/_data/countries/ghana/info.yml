@@ -8,7 +8,7 @@ platform:
   status: Development
 
 data:
-  status: Unknown
+  status: Needs SDMX mapping
 metadata:
   status: Unknown
 

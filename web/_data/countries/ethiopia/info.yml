@@ -6,15 +6,15 @@ platform:
   status: Production
 
 data:
-  status: Unknown
+  status: SDMX published
+  details: Some unexpected attributes
 metadata:
-  status: Unknown
+  status: Using global
 
 sdglab:
   country: 18
 
-notes:
-  - Metadata is all pointing to global PDFs
+notes: []
 
 sdmx:
   - https://ethiopia.opendataforafrica.org/api/1.0/sdmx/data/btdqdo?key=..1000000........

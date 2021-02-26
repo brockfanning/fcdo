@@ -6,7 +6,7 @@ platform:
   status: Production
 
 data:
-  status: Unknown
+  status: SDMX published
 metadata:
   status: Unknown
 

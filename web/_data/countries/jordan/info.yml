@@ -6,9 +6,9 @@ platform:
   status: Production
 
 data:
-  status: Unknown
+  status: Needs SDMX conversion
 metadata:
-  status: Unknown
+  status: Needs machine readable version
 
 sdglab:
   country: 8
