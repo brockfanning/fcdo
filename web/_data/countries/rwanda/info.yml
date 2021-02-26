@@ -4,6 +4,11 @@ platform:
   url: https://sustainabledevelopment-rwanda.github.io/
   system: Open SDG
   status: Production
+  examples:
+    goal: https://sustainabledevelopment-rwanda.github.io/1/
+    indicator: https://sustainabledevelopment-rwanda.github.io/1-1-1/
+    data: https://github.com/sustainabledevelopment-rwanda/sdg-data-rwanda/blob/develop/sdmx-data/RW_SDG_SDMX_V2.xml
+    metadata: https://github.com/sustainabledevelopment-rwanda/sdg-data-rwanda/blob/develop/meta/1-1-1.md
 
 data:
   status: SDMX published

@@ -22,6 +22,27 @@ layout: single
 
 <div>Status: {{ page.info.platform.status }}</div>
 
+{% if page.info.platform.examples %}
+<h2>Examples</h2>
+{% for example in page.info.platform.examples %}
+    {% assign example_value = example[1] %}
+    {% assign example_value_is_link = false %}
+    {% assign startsWith = 'http' %}
+    {% assign example_value_starts = example_value | slice: 0, 4 %}
+    {% if example_value_starts == 'http' %}
+        {% assign example_value_is_link = true %}
+    {% endif %}
+    <div>
+    {{ example[0] | capitalize }}:
+    {% if example_value_is_link %}
+        <a target="_blank" href="{{ example_value }}">Link</a>
+    {% else %}
+        {{ example_value }}
+    {% endif %}
+    </div>
+{% endfor %}
+{% endif %}
+
 <h2>Data</h2>
 
 <div>Status: {{ page.info.data.status }}</div>

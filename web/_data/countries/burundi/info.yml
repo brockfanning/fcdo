@@ -4,6 +4,10 @@ platform:
   url: https://burundi.opendataforafrica.org/addin/sdg
   system: Open Data Platform
   status: Production
+  examples:
+    indicator: https://burundi.opendataforafrica.org/bouqlgc
+    data: https://burundi.opendataforafrica.org/api/1.0/sdmx/data/trppeeg?key=1.1000000.1000000.SI_COV_SOCAST.BI.F+M.Y15T49._T+U+R._T
+    metadata: https://burundi.opendataforafrica.org/grivyuf/burundi-sdg-indicators-metadata-repository?0-c-indicateurs-prioris%C3%A9s-dans-le-rapport-national-odd=1.3.1.%20Nombre%20d%E2%80%99associations%20mutualistes%20engag%C3%A9s%20dans%20la%20promotion%20des%20programmes%20de%20d%C3%A9veloppement%20communautaire%20(%25)
 
 data:
   status: SDMX published

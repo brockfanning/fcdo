@@ -6,6 +6,11 @@ platform:
     - https://github.com/sustainabledevelopment-ghana/sdg-indicators/
   system: Open SDG
   status: Development
+  examples:
+    goal: https://sustainabledevelopment-ghana.github.io/no-poverty/
+    indicator: https://sustainabledevelopment-ghana.github.io/1-1-1/
+    data: https://github.com/sustainabledevelopment-ghana/sdg-indicators/blob/develop/data/indicator_1-1-1.csv
+    metadata: https://github.com/sustainabledevelopment-ghana/sdg-indicators/blob/develop/_indicators/1-1-1.md
 
 data:
   status: Needs SDMX mapping

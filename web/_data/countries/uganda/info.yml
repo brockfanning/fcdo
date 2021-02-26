@@ -4,6 +4,10 @@ platform:
   url: https://uganda.opendataforafrica.org/sdg
   system: Open Data Platform
   status: Production
+  examples:
+    indicator: https://uganda.opendataforafrica.org/ogdlaig
+    data: https://uganda.opendataforafrica.org/api/1.0/sdmx/data/SDGUGANDA?key=1.1000000.1000000.SI_POV_NAHC.UG._T._T._T._T
+    metadat: Links to global metadata
 
 data:
   status: SDMX published

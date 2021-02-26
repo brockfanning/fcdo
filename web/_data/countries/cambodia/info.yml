@@ -4,6 +4,9 @@ platform:
   url: http://camstat.nis.gov.kh/?locale=en&start=0&constraints[0]=6nQpoAP%2C0%7CSDG%20indicators%23SDG%23&facet=6nQpoAP
   system: .Stat suite
   status: Production
+  examples:
+    indicator: http://camstat.nis.gov.kh/vis?locale=en&start=0&constraints[0]=6nQpoAP%2C0%7CSDG%20indicators%23SDG%23&facet=6nQpoAP&dataflow[datasourceId]=CamStat-stable&dataflow[dataflowId]=DF_SDG_KH&dataflow[agencyId]=KH_NIS&dataflow[version]=1.2&period=2008%2C2020&frequency=A&dataquery=A..SI_POV_NAHC............&layout[header]=TIME_PERIOD&layout[rows]=REF_AREA%2CURBANISATION
+    data: https://nsiws-stable-camstat-live.officialstatistics.org/rest/data/KH_NIS,DF_SDG_KH,1.2/A..SI_POV_NAHC............?startPeriod=2008&endPeriod=2020
 
 data:
   status: SDMX published

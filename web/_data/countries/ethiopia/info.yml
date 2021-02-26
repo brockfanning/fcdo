@@ -4,6 +4,10 @@ platform:
   url: https://ethiopia.opendataforafrica.org/SDG/
   system: Open Data Platform
   status: Production
+  examples:
+    indicator: https://ethiopia.opendataforafrica.org/rsmyide
+    data: https://ethiopia.opendataforafrica.org/api/1.0/sdmx/data/btdqdo?key=1.1000000.1000000.SI_POV_NAHC.ET01+ET02+ET03+ET04+ET05+ET06+ET07+ET12+ET13+ET14+ET15._T._T.U._T._T
+    metadata: Links to global
 
 data:
   status: SDMX published

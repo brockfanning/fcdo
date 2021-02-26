@@ -4,6 +4,10 @@ platform:
   url: https://zimbabwe.opendataforafrica.org/sdg
   system: Open Data Platform
   status: Production
+  examples:
+    indicator: https://zimbabwe.opendataforafrica.org/ptoykcf
+    data: https://zimbabwe.opendataforafrica.org/api/1.0/sdmx/data/aopprng?key=16.1000650.1001240.VC_SNS_WALN.716.F+M._T._T
+    metadata: Links to global metadata
 
 data:
   status: SDMX published

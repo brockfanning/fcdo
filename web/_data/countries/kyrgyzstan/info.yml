@@ -4,6 +4,11 @@ platform:
   url: https://sustainabledevelopment-kyrgyzstan.github.io/
   system: Open SDG
   status: Production
+  examples:
+    goal: https://sustainabledevelopment-kyrgyzstan.github.io/1/
+    indicator: https://sustainabledevelopment-kyrgyzstan.github.io/1-1-1/
+    data: https://github.com/sdg-kyrgyzstan/open-sdg-data-starter/blob/develop/data/1.1.1.xml
+    metadata: https://github.com/sdg-kyrgyzstan/open-sdg-data-starter/blob/develop/meta/1-1-1.xlsx
 
 data:
   status: SDMX published

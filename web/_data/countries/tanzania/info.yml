@@ -6,6 +6,8 @@ platform:
   repositories:
     - https://github.com/Goaltracker/datasets/tree/master/datasets/goaltracker-tanzania
   status: Development
+  examples:
+    data: https://github.com/Goaltracker/datasets/blob/master/datasets/goaltracker-tanzania/ddf--datapoints--adolescent_birth_rate--by--area--year.csv
 
 data:
   status: Needs SDMX mapping

@@ -4,6 +4,11 @@ platform:
   url: https://sdg-my.github.io/sdg-myanmar-indicators/
   system: Open SDG
   status: Development
+  examples:
+    goal: https://sdg-my.github.io/sdg-myanmar-indicators/1/
+    indicator: https://sdg-my.github.io/sdg-myanmar-indicators/1-5-1/
+    data: https://github.com/sdg-my/sdg-myanmar-data/blob/develop/data/1.5.1.xml
+    metadata: https://github.com/sdg-my/sdg-myanmar-data/blob/develop/meta/1-5-1.md
 
 data:
   status: Unknown

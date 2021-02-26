@@ -4,6 +4,10 @@ platform:
   url: https://sdg.gov.bd
   system: SDG Tracker
   status: Production
+  examples:
+    indicator: https://sdg.gov.bd/page/indicator-wise/5/423/2/5#1
+    metadata: https://sdg.gov.bd/public/files/upload/IndicatorMetadataFiles/5ab9246240ec5_3_Indicator1.2.1.pdf
+    data: Open menu in top-right of chart for downloads
 
 data:
   status: Needs SDMX mapping

@@ -4,6 +4,10 @@ platform:
   url: http://jorinfo.dos.gov.jo/Databank/pxweb/en/SDG/
   system: PX Web
   status: Production
+  examples:
+    indicator: http://jorinfo.dos.gov.jo/Databank/pxweb/en/SDG/SDG__GOL01__Target01/111.px/table/tableViewLayout2/
+    data: http://jorinfo.dos.gov.jo/Databank/api/v1/en/SDG/GOL01/Target01/111.px
+    metadata: Click on "About table"
 
 data:
   status: Needs SDMX conversion
