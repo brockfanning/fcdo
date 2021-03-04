@@ -19,4 +19,7 @@ metadata:
 sdglab:
   country: 39
 
+json:
+  data: https://uganda.opendataforafrica.org/api/2.0/data?datasetId=SDGUGANDA
+
 issues: []

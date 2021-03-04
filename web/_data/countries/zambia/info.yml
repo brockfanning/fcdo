@@ -19,4 +19,7 @@ metadata:
 sdglab:
   country: 33
 
+json:
+  data: https://zambia.opendataforafrica.org/api/2.0/data?datasetId=SDGZAMBIA
+
 issues: []

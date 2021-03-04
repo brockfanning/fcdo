@@ -18,6 +18,9 @@ metadata:
 sdglab:
   country: 0
 
+json:
+  data: https://liberia.opendataforafrica.org/api/2.0/data?datasetId=LRSDG2016
+
 notes:
   - what does "not available" mean?
 

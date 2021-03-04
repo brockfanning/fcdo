@@ -23,6 +23,9 @@ notes:
   - What is the connection between indicators and metadata/data/sdmx?
   - IE - what determines whether a metadata/data/sdmx button appears?
 
+json:
+  data: https://burundi.opendataforafrica.org/api/2.0/data?datasetId=trppeeg
+
 sdmx:
     - https://burundi.opendataforafrica.org/api/1.0/sdmx/data/trppeeg/1.1000000.1000000.SI_COV_SOCAST.BI.F+M.Y15T49._T+U+R._T.A
     - https://burundi.opendataforafrica.org/api/1.0/sdmx/data/trppeeg/1.1000000.1000010.SI_COV_SOCINS.BI.F+M.Y15T49._T+U+R._T.A

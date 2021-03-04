@@ -19,6 +19,9 @@ metadata:
 sdglab:
   country: 0
 
+json:
+  data: https://mozambique.opendataforafrica.org/api/2.0/data?datasetId=czjymoe
+
 sdmx:
   - https://mozambique.opendataforafrica.org/api/1.0/sdmx/data/czjymoe?key=G.1.1000000.1000000.SI_POV_DAY1.508.F+M+_T._T+Y0T4+Y5T9+Y10T14+Y15T19+Y20T24+Y25T29+Y30T34+Y35T39+Y40T44+Y45T49+Y50T54+Y55T59+Y_GE60._T+U+R._T._T+ISCO88_1+TU+TNU+ISCO68_2+ONA+ISCO08_7+PC+PS+ED+C+ISCO68_6+OO._T._T._T
 
