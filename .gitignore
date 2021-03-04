@@ -2,3 +2,4 @@ web/_site
 venv
 web/.jekyll-cache
 web/Gemfile.lock
+__pycache__
