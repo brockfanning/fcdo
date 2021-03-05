@@ -2,6 +2,7 @@ install:
 	cd web && bundle install
 
 build:
+	python scripts/build.py
 	cd web && bundle exec jekyll build
 
 serve: build

@@ -52,6 +52,9 @@ layout: single
 {% if page.info.data.details %}
 <div>Details: {{ page.info.data.details }}</div>
 {% endif %}
+{% if page.info.data.converted %}
+<div>Converted: <a href="{{ site.baseurl }}/data/{{ page.slug }}.xml">SXML</a></div>
+{% endif %}
 
 <h2>Metadata</h2>
 
