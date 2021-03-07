@@ -11,7 +11,7 @@ platform:
 
 data:
   status: SDMX published
-  details: Some unexpected attributes
+  details: The SDMX format is not compatible with the SDG Lab. Also disaggregation is not identified in dimensions - only name.
   converted: true
 metadata:
   status: Using global

@@ -2,6 +2,13 @@ from urllib.request import urlopen
 import json
 from sdg.inputs import InputBase
 
+"""
+TODO:
+1. SDMX output should always do all dimensions right? Not skip ''
+2. Use DSD to auto-convert English labels of UNIT_MEASURE into ids.
+   (and maybe other dimensions too)
+"""
+
 class InputOpenDataPlatform_Json(InputBase):
 
 
@@ -67,7 +74,7 @@ class InputOpenDataPlatform_Json(InputBase):
 
     def set_required_columns(self, row):
         if 'OBS_STATUS' not in row:
-            row['OBS_STATUS'] = ''
+            row['OBS_STATUS'] = 'A'
 
 
     def get_years(self, row):
@@ -83,6 +90,9 @@ class InputOpenDataPlatform_Json(InputBase):
         percentages = ['Percent', 'Percentage', '%']
         if unit in percentages:
             return 'PT'
+        numbers = ['Number', 'Number (Units)', 'Number (Thousands)']
+        if unit in numbers:
+            return 'NUMBER'
         return unit
 
 

@@ -1,2 +1,3 @@
 git+https://github.com/dougmet/yamlmd
 git+https://github.com/brockfanning/sdg-build-1@fcdo-feature-set
+git+https://github.com/brockfanning/sdmx@xml-writer-structure-specific
