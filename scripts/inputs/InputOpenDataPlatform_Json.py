@@ -61,9 +61,11 @@ class InputOpenDataPlatform_Json(InputBase):
         return {
             'seriesdescription': 'SERIES',
             'area': 'REF_AREA',
+            'geoarea': 'REF_AREA',
             'sex': 'SEX',
             'age': 'AGE',
             'urbanisation': 'URBANISATION',
+            'urbanization': 'URBANISATION',
             'education-level': 'EDUCATION_LEV',
             'occupation': 'OCCUPATION',
             'disability-status': 'DISABILITY_STATUS',

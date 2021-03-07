@@ -1,6 +1,6 @@
-from . import InputOpenDataPlatform_Json
+from .InputOpenDataPlatform_Json import InputOpenDataPlatform_Json
 
-class InputOpenDataPlatform_Json_Liberia(InputOpenDataPlatform_Json.InputOpenDataPlatform_Json):
+class InputOpenDataPlatform_Json_Liberia(InputOpenDataPlatform_Json):
 
     def get_indicator_id(self, row):
         return row['target']['indicator']

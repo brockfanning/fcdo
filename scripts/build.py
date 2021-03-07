@@ -28,12 +28,10 @@ for item in os.listdir(root):
         if info['platform']['system'] == 'Open Data Platform':
             data_file = os.path.join(root, item, 'data.json')
             if item == 'mozambique':
-                continue
                 odp_input = InputOpenDataPlatform_Json_Mozambique(source=data_file)
             elif item == 'liberia':
                 odp_input = InputOpenDataPlatform_Json_Liberia(source=data_file)
             else:
-                continue
                 odp_input = InputOpenDataPlatform_Json(source=data_file)
             odp_output = OutputSdmxMl(
                 [odp_input],

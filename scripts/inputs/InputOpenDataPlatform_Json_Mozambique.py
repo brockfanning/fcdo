@@ -1,6 +1,6 @@
-from . import InputOpenDataPlatform_Json
+from .InputOpenDataPlatform_Json import InputOpenDataPlatform_Json
 
-class InputOpenDataPlatform_Json_Mozambique(InputOpenDataPlatform_Json.InputOpenDataPlatform_Json):
+class InputOpenDataPlatform_Json_Mozambique(InputOpenDataPlatform_Json):
 
     def get_dimension_map(self):
         return {
