@@ -4,9 +4,8 @@ from sdg.inputs import InputBase
 
 """
 TODO:
-1. SDMX output should always do all dimensions right? Not skip ''
-2. Use DSD to auto-convert English labels of UNIT_MEASURE into ids.
-   (and maybe other dimensions too)
+1. Filter out national data
+2. Resolve any more code mapping issues
 """
 
 class InputOpenDataPlatform_Json(InputBase):
