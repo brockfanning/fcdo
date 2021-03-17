@@ -91,10 +91,12 @@ class InputOpenDataPlatform_Json(InputBase):
         percentages = ['Percent', 'Percentage', '%']
         if unit in percentages:
             return 'PT'
-        numbers = ['Number', 'Number (Units)', 'Number (Thousands)']
-        if unit in numbers:
-            return 'NUMBER'
-        return unit
+        # For all others (for now) fallback to NUMBER
+        return 'NUMBER'
+        #numbers = ['Number', 'Number (Units)', 'Number (Thousands)']
+        #if unit in numbers:
+        #    return 'NUMBER'
+        #return unit
 
 
     def get_unit_multiplier(self, row):
