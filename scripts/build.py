@@ -76,7 +76,8 @@ for item in os.listdir(root):
                 schema_input,
                 translations=translations,
                 dsd=dsd_path,
-                output_folder=temp_output_folder
+                output_folder=temp_output_folder,
+                structure_specific=True,
             )
             odp_output.execute()
             path_from = os.path.join(temp_output_folder, 'sdmx', 'all.xml')
