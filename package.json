@@ -1,0 +1,24 @@
+{
+  "name": "fcdo",
+  "version": "1.0.0",
+  "description": "## Status types",
+  "main": "index.js",
+  "dependencies": {
+    "mammoth": "^1.4.16",
+    "sdg-metadata-convert": "brockfanning/sdg-metadata-convert#word-output-templates"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brockfanning/fcdo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brockfanning/fcdo/issues"
+  },
+  "homepage": "https://github.com/brockfanning/fcdo#readme"
+}
