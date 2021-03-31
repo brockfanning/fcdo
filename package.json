@@ -4,7 +4,9 @@
   "description": "## Status types",
   "main": "index.js",
   "dependencies": {
+    "cheerio": "^1.0.0-rc.5",
     "mammoth": "^1.4.16",
+    "nunjucks": "^3.2.3",
     "sdg-metadata-convert": "brockfanning/sdg-metadata-convert#word-output-templates"
   },
   "devDependencies": {},
