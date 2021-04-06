@@ -1,2 +1,4 @@
 git+https://github.com/dougmet/yamlmd
 git+https://github.com/brockfanning/sdg-build-1@fcdo-feature-set-testing3
+sdmx1
+pyjstat
