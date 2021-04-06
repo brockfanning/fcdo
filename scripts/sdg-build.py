@@ -24,14 +24,14 @@ def alter_indicator_id(indicator_id):
     return indicator_id.replace('.', '-')
 
 countries = [
-    #'jordan',
-    #'palestine',
-    #'burundi',
+    'jordan',
+    'palestine',
+    'burundi',
     'ethiopia',
-    #'mozambique',
-    #'uganda',
-    #'zambia',
-    #'zimbabwe',
+    'mozambique',
+    'uganda',
+    'zambia',
+    'zimbabwe',
 ]
 for country in countries:
     config_path = os.path.join('scripts', 'sdg-build-config', country + '.yml')
