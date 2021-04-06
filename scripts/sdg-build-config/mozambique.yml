@@ -12,6 +12,7 @@ docs_intro: This summary uses code from the Open SDG project to
 inputs:
   - class: InputOpenDataPlatform
     source: scripts/sdg-build-config/input-data/mozambique.json
+    indicator_key: indicador
 
 translations:
   - class: TranslationInputSdgTranslations
