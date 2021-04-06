@@ -12,7 +12,7 @@ platform:
 data:
   status: SDMX published
   details: Some unexpected attributes
-  converted: true
+  sdg_build: true
 metadata:
   status: Using global
 

@@ -3,4 +3,8 @@ venv
 web/.jekyll-cache
 web/Gemfile.lock
 __pycache__
+.vscode
+_site/
+_build/
+dsd.xml
 node_modules
