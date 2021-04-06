@@ -52,8 +52,8 @@ layout: single
 {% if page.info.data.details %}
 <div>Details: {{ page.info.data.details }}</div>
 {% endif %}
-{% if page.info.data.converted %}
-<div>Converted: <a href="{{ site.baseurl }}/data/{{ page.slug }}.xml">SXML</a></div>
+{% if page.info.data.sdg_build %}
+<div><a href="sdg-build/">Data summary</a></div>
 {% endif %}
 
 <h2>Metadata</h2>

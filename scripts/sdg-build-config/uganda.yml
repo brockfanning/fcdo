@@ -1,17 +1,17 @@
-docs_baseurl: /fcdo/ethiopia/sdg-build
+docs_baseurl: /fcdo/uganda/sdg-build
 languages:
   - en
-site_dir: _build/ethiopia
+site_dir: _build/uganda
 schema_file: _prose.yml
 src_dir: 'scripts/sdg-build-config'
 
-docs_branding: Ethiopia SDG data summary
+docs_branding: Uganda SDG data summary
 docs_intro: This summary uses code from the Open SDG project to
-  display reports and examples from the Ethiopia SDG data.
+  display reports and examples from the Uganda SDG data.
 
 inputs:
   - class: InputOpenDataPlatform
-    source: scripts/sdg-build-config/input-data/ethiopia.json
+    source: scripts/sdg-build-config/input-data/uganda.json
 
 translations:
   - class: TranslationInputSdgTranslations

@@ -1,8 +1,2 @@
 git+https://github.com/dougmet/yamlmd
-#git+https://github.com/brockfanning/sdg-build-1@fcdo-feature-set-testing3
-git+https://github.com/brockfanning/sdg-build-1@odp-input
-sdmx1
-requests
-html5lib
-bs4
-pyjstat
+git+https://github.com/brockfanning/sdg-build-1@fcdo-feature-set-testing3

@@ -26,12 +26,17 @@ def alter_indicator_id(indicator_id):
 countries = [
     #'jordan',
     #'palestine',
-    'burundi',
+    #'burundi',
+    'ethiopia',
+    #'mozambique',
+    #'uganda',
+    #'zambia',
+    #'zimbabwe',
 ]
 for country in countries:
     config_path = os.path.join('scripts', 'sdg-build-config', country + '.yml')
     alter_data = alter_data_by_country(country)
-    open_sdg_build(config=config_path, alter_data=alter_data)
+    open_sdg_build(config=config_path, alter_data=alter_data, alter_indicator_id=alter_indicator_id)
     source = os.path.join('_build', country)
     destination = os.path.join('web', '_site', country, 'sdg-build')
     shutil.move(source, destination)
