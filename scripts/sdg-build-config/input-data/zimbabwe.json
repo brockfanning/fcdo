@@ -1,0 +1,5600 @@
+{
+    "continuationToken":null,
+    "data":[
+       {
+          "goal":{
+             "key":1000000,
+             "name":"Goal 1. End poverty in all its forms everywhere",
+             "id":"1"
+          },
+          "target":{
+             "key":1000000,
+             "name":"1.2 By 2030, reduce at least by half the proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions",
+             "id":"1.2"
+          },
+          "indicator":{
+             "key":1000000,
+             "name":"1.2.1 Proportion of population living below the national poverty line, by sex and age",
+             "id":"1.2.1"
+          },
+          "seriesdescription":{
+             "key":1000000,
+             "name":"Proportion of population living below the national poverty line (%)",
+             "id":"SI_POV_NAHC"
+          },
+          "geoarea":{
+             "key":1000000,
+             "name":"Zimbabwe",
+             "id":"716",
+             "RegionId":"ZW"
+          },
+          "sex":{
+             "key":1000000,
+             "name":"Female",
+             "id":"F"
+          },
+          "age":{
+             "key":1000000,
+             "name":"All age ranges or no breakdown by age",
+             "id":"_T"
+          },
+          "urbanisation":{
+             "key":1000000,
+             "name":"Total or no breakdown by education level",
+             "id":"_T"
+          },
+          "tsKey":1001020,
+          "startDate":"2017-01-01T00:00:00",
+          "endDate":"2017-01-01T00:00:00",
+          "frequency":"A",
+          "unit":"Percent",
+          "scale":1,
+          "values":[
+             70.7
+          ]
+       },
+       {
+          "goal":{
+             "key":1000000,
+             "name":"Goal 1. End poverty in all its forms everywhere",
+             "id":"1"
+          },
+          "target":{
+             "key":1000000,
+             "name":"1.2 By 2030, reduce at least by half the proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions",
+             "id":"1.2"
+          },
+          "indicator":{
+             "key":1000000,
+             "name":"1.2.1 Proportion of population living below the national poverty line, by sex and age",
+             "id":"1.2.1"
+          },
+          "seriesdescription":{
+             "key":1000000,
+             "name":"Proportion of population living below the national poverty line (%)",
+             "id":"SI_POV_NAHC"
+          },
+          "geoarea":{
+             "key":1000000,
+             "name":"Zimbabwe",
+             "id":"716",
+             "RegionId":"ZW"
+          },
+          "sex":{
+             "key":1000010,
+             "name":"Male",
+             "id":"M"
+          },
+          "age":{
+             "key":1000000,
+             "name":"All age ranges or no breakdown by age",
+             "id":"_T"
+          },
+          "urbanisation":{
+             "key":1000000,
+             "name":"Total or no breakdown by education level",
+             "id":"_T"
+          },
+          "tsKey":1001030,
+          "startDate":"2017-01-01T00:00:00",
+          "endDate":"2017-01-01T00:00:00",
+          "frequency":"A",
+          "unit":"Percent",
+          "scale":1,
+          "values":[
+             70.5
+          ]
+       },
+       {
+          "goal":{
+             "key":1000000,
+             "name":"Goal 1. End poverty in all its forms everywhere",
+             "id":"1"
+          },
+          "target":{
+             "key":1000000,
+             "name":"1.2 By 2030, reduce at least by half the proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions",
+             "id":"1.2"
+          },
+          "indicator":{
+             "key":1000000,
+             "name":"1.2.1 Proportion of population living below the national poverty line, by sex and age",
+             "id":"1.2.1"
+          },
+          "seriesdescription":{
+             "key":1000000,
+             "name":"Proportion of population living below the national poverty line (%)",
+             "id":"SI_POV_NAHC"
+          },
+          "geoarea":{
+             "key":1000000,
+             "name":"Zimbabwe",
+             "id":"716",
+             "RegionId":"ZW"
+          },
+          "sex":{
+             "key":1000020,
+             "name":"Both sexes or no breakdown by sex",
+             "id":"_T"
+          },
+          "age":{
+             "key":1000000,
+             "name":"All age ranges or no breakdown by age",
+             "id":"_T"
+          },
+          "urbanisation":{
+             "key":1000000,
+             "name":"Total or no breakdown by education level",
+             "id":"_T"
+          },
+          "tsKey":1000000,
+          "startDate":"2017-01-01T00:00:00",
+          "endDate":"2017-01-01T00:00:00",
+          "frequency":"A",
+          "unit":"Percent",
+          "scale":1,
+          "values":[
+             70.5
+          ]
+       },
+       {
+          "goal":{
+             "key":1000000,
+             "name":"Goal 1. End poverty in all its forms everywhere",
+             "id":"1"
+          },
+          "target":{
+             "key":1000010,
+             "name":"1.3 Implement nationally appropriate social protection systems and measures for all, including floors, and by 2030 achieve substantial coverage of the poor and the vulnerable",
+             "id":"1.3"
+          },
+          "indicator":{
+             "key":1000020,
+             "name":"1.3.1 Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable",
+             "id":"1.3.1"
+          },
+          "seriesdescription":{
+             "key":1001360,
+             "name":"Proportion of population covered by at least one social protection benefit (%)",
+             "id":"SI_COV_BENFTS"
+          },
+          "geoarea":{
+             "key":1000000,
+             "name":"Zimbabwe",
+             "id":"716",
+             "RegionId":"ZW"
+          },
+          "sex":{
+             "key":1000020,
+             "name":"Both sexes or no breakdown by sex",
+             "id":"_T"
+          },
+          "age":{
+             "key":1000000,
+             "name":"All age ranges or no breakdown by age",
+             "id":"_T"
+          },
+          "urbanisation":{
+             "key":1000000,
+             "name":"Total or no breakdown by education level",
+             "id":"_T"
+          },
+          "tsKey":1001040,
+          "startDate":"2014-01-01T00:00:00",
+          "endDate":"2014-01-01T00:00:00",
+          "frequency":"A",
+          "unit":"Percent",
+          "scale":1,
+          "values":[
+             5.0
+          ]
+       },
+       {
+          "goal":{
+             "key":1000000,
+             "name":"Goal 1. End poverty in all its forms everywhere",
+             "id":"1"
+          },
+          "target":{
+             "key":1000020,
+             "name":"1.4 By 2030, ensure that all men and women, in particular the poor and the vulnerable, have equal rights to economic resources, as well as access to basic services, ownership and control over land and other forms of property, inheritance, natural resources, appropriate new technology and financial services, including microfinance",
+             "id":"1.4"
+          },
+          "indicator":{
+             "key":1000030,
+             "name":"1.4.1 Proportion of population living in households with access to basic services",
+             "id":"1.4.1"
+          },
+          "seriesdescription":{
+             "key":1001370,
+             "name":"Proportion of population living in households with access to basic services",
+             "id":"SP_ACS_BSRV"
+          },
+          "geoarea":{
+             "key":1000000,
+             "name":"Zimbabwe",
+             "id":"716",
+             "RegionId":"ZW"
+          },
+          "sex":{
+             "key":1000020,
+             "name":"Both sexes or no breakdown by sex",
+             "id":"_T"
+          },
+          "age":{
+             "key":1000000,
+             "name":"All age ranges or no breakdown by age",
+             "id":"_T"
+          },
+          "urbanisation":{
+             "key":1000000,
+             "name":"Total or no breakdown by education level",
+             "id":"_T"
+          },
+          "tsKey":1001050,
+          "startDate":"2017-01-01T00:00:00",
+          "endDate":"2017-01-01T00:00:00",
+          "frequency":"A",
+          "unit":"Percent",
+          "scale":1,
+          "values":[
+             36.9
+          ]
+       },
+       {
+          "goal":{
+             "key":1000000,
+             "name":"Goal 1. End poverty in all its forms everywhere",
+             "id":"1"
+          },
+          "target":{
+             "key":1000030,
+             "name":"1.5 By 2030, build the resilience of the poor and those in vulnerable situations and reduce their exposure and vulnerability to climate-related extreme events and other economic, social and environmental shocks and disasters",
+             "id":"1.5"
+          },
+          "indicator":{
+             "key":1000040,
+             "name":"1.5.3 Has Zimbabwe adopted and implemented national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015–2030",
+             "id":"1.5.3"
+          },
+          "seriesdescription":{
+             "key":1000030,
+             "name":"Countries with legislative and/or regulatory provisions been made for managing disaster risk (1 = YES; 0 = NO)",
+             "id":"SG_DSR_LEGREG"
+          },
+          "geoarea":{
+             "key":1000000,
+             "name":"Zimbabwe",
+             "id":"716",
+             "RegionId":"ZW"
+          },
+          "sex":{
+             "key":1000020,
+             "name":"Both sexes or no breakdown by sex",
+             "id":"_T"
+          },
+          "age":{
+             "key":1000000,
+             "name":"All age ranges or no breakdown by age",
+             "id":"_T"
+          },
+          "urbanisation":{
+             "key":1000000,
+             "name":"Total or no breakdown by education level",
+             "id":"_T"
+          },
+          "tsKey":1000050,
+          "startDate":"2014-01-01T00:00:00",
+          "endDate":"2019-01-01T00:00:00",
+          "frequency":"A",
+          "unit":"",
+          "scale":1,
+          "values":[
+             1.0,
+             1.0,
+             1.0,
+             1.0,
+             1.0,
+             1.0
+          ]
+       },
+       {
+          "goal":{
+             "key":1000000,
+             "name":"Goal 1. End poverty in all its forms everywhere",
+             "id":"1"
+          },
+          "target":{
+             "key":1000040,
+             "name":"1.a Ensure significant mobilization of resources from a variety of sources, including through enhanced development cooperation, in order to provide adequate and predictable means for developing countries, in particular least developed countries, to implement programmes and policies to end poverty in all its dimensions",
+             "id":"1.a"
+          },
+          "indicator":{
+             "key":1000050,
+             "name":"1.a.2 Proportion of total government spending on essential services (education, health and social protection)",
+             "id":"1.a.2"
+          },
+          "seriesdescription":{
+             "key":1000040,
+             "name":"Proportion of total government spending on essential services, education (%)",
+             "id":"SD_XPD_ESED"
+          },
+          "geoarea":{
+             "key":1000000,
+             "name":"Zimbabwe",
+             "id":"716",
+             "RegionId":"ZW"
+          },
+          "sex":{
+             "key":1000020,
+             "name":"Both sexes or no breakdown by sex",
+             "id":"_T"
+          },
+          "age":{
+             "key":1000000,
+             "name":"All age ranges or no breakdown by age",
+             "id":"_T"
+          },
+          "urbanisation":{
+             "key":1000000,
+             "name":"Total or no breakdown by education level",
+             "id":"_T"
+          },
+          "tsKey":1000060,
+          "startDate":"2014-01-01T00:00:00",
+          "endDate":"2017-01-01T00:00:00",
+          "frequency":"A",
+          "unit":"Percent",
+          "scale":1,
+          "values":[
+             36.6566251883454,
+             40.3765887834546,
+             32.5914871233359,
+             32.5914871233359
+          ]
+       },
+       {
+          "goal":{
+             "key":1000000,
+             "name":"Goal 1. End poverty in all its forms everywhere",
+             "id":"1"
+          },
+          "target":{
+             "key":1000040,
+             "name":"1.a Ensure significant mobilization of resources from a variety of sources, including through enhanced development cooperation, in order to provide adequate and predictable means for developing countries, in particular least developed countries, to implement programmes and policies to end poverty in all its dimensions",
+             "id":"1.a"
+          },
+          "indicator":{
+             "key":1000050,
+             "name":"1.a.2 Proportion of total government spending on essential services (education, health and social protection)",
+             "id":"1.a.2"
+          },
+          "seriesdescription":{
+             "key":1000050,
+             "name":"Prevalence of moderate or severe food insecurity in the adult population (%)",
+             "id":"AG_PRD_FIESMSI"
+          },
+          "geoarea":{
+             "key":1000000,
+             "name":"Zimbabwe",
+             "id":"716",
+             "RegionId":"ZW"
+          },
+          "sex":{
+             "key":1000020,
+             "name":"Both sexes or no breakdown by sex",
+             "id":"_T"
+          },
+          "age":{
+             "key":1000000,
+             "name":"All age ranges or no breakdown by age",
+             "id":"_T"
+          },
+          "urbanisation":{
+             "key":1000000,
+             "name":"Total or no breakdown by education level",
+             "id":"_T"
+          },
+          "tsKey":1001060,
+          "startDate":"2015-01-01T00:00:00",
+          "endDate":"2015-01-01T00:00:00",
+          "frequency":"A",
+          "unit":"Percent",
+          "scale":1,
+          "values":[
+             30.0
+          ]
+       },
+       {
+          "goal":{
+             "key":1000000,
+             "name":"Goal 1. End poverty in all its forms everywhere",
+             "id":"1"
+          },
+          "target":{
+             "key":1000930,
+             "name":"1.1  By 2030, eradicate extreme poverty for all people everywhere, currently measured as people living on less than $1.25 a day",
+             "id":"1.1"
+          },
+          "indicator":{
+             "key":1001150,
+             "name":"1.1.1 Proportion of population below the international poverty line, by sex, age, employment status and geographical location (urban/rural)",
+             "id":"1.1.1"
+          },
+          "seriesdescription":{
+             "key":1001350,
+             "name":"Proportion of population below international poverty line (%)",
+             "id":"SI_POV_DAY1"
+          },
+          "geoarea":{
+             "key":1000000,
+             "name":"Zimbabwe",
+             "id":"716",
+             "RegionId":"ZW"
+          },
+          "sex":{
+             "key":1000000,
+             "name":"Female",
+             "id":"F"
+          },
+          "age":{
+             "key":1000000,
+             "name":"All age ranges or no breakdown by age",
+             "id":"_T"
+          },
+          "urbanisation":{
+             "key":1000000,
+             "name":"Total or no breakdown by education level",
+             "id":"_T"
+          },
+          "tsKey":1001070,
+          "startDate":"2017-01-01T00:00:00",
+          "endDate":"2017-01-01T00:00:00",
+          "frequency":"A",
+          "unit":"Percent",
+          "scale":1,
+          "values":[
+             29.3
+          ]
+       },
+       {
+          "goal":{
+             "key":1000000,
+             "name":"Goal 1. End poverty in all its forms everywhere",
+             "id":"1"
+          },
+          "target":{
+             "key":1000930,
+             "name":"1.1  By 2030, eradicate extreme poverty for all people everywhere, currently measured as people living on less than $1.25 a day",
+             "id":"1.1"
+          },
+          "indicator":{
+             "key":1001150,
+             "name":"1.1.1 Proportion of population below the international poverty line, by sex, age, employment status and geographical location (urban/rural)",
+             "id":"1.1.1"
+          },
+          "seriesdescription":{
+             "key":1001350,
+             "name":"Proportion of population below international poverty line (%)",
+             "id":"SI_POV_DAY1"
+          },
+          "geoarea":{
+             "key":1000000,
+             "name":"Zimbabwe",
+             "id":"716",
+             "RegionId":"ZW"
+          },
+          "sex":{
+             "key":1000010,
+             "name":"Male",
+             "id":"M"
+          },
+          "age":{
+             "key":1000000,
+             "name":"All age ranges or no breakdown by age",
+             "id":"_T"
+          },
+          "urbanisation":{
+             "key":1000000,
+             "name":"Total or no breakdown by education level",
+             "id":"_T"
+          },
+          "tsKey":1001080,
+          "startDate":"2017-01-01T00:00:00",
+          "endDate":"2017-01-01T00:00:00",
+          "frequency":"A",
+          "unit":"Percent",
+          "scale":1,
+          "values":[
+             29.4
+          ]
+       },
+       {
+          "goal":{
+             "key":1000000,
+             "name":"Goal 1. End poverty in all its forms everywhere",
+             "id":"1"
+          },
+          "target":{
+             "key":1000930,
+             "name":"1.1  By 2030, eradicate extreme poverty for all people everywhere, currently measured as people living on less than $1.25 a day",
+             "id":"1.1"
+          },
+          "indicator":{
+             "key":1001150,
+             "name":"1.1.1 Proportion of population below the international poverty line, by sex, age, employment status and geographical location (urban/rural)",
+             "id":"1.1.1"
+          },
+          "seriesdescription":{
+             "key":1001350,
+             "name":"Proportion of population below international poverty line (%)",
+             "id":"SI_POV_DAY1"
+          },
+          "geoarea":{
+             "key":1000000,
+             "name":"Zimbabwe",
+             "id":"716",
+             "RegionId":"ZW"
+          },
+          "sex":{
+             "key":1000020,
+             "name":"Both sexes or no breakdown by sex",
+             "id":"_T"
+          },
+          "age":{
+             "key":1000000,
+             "name":"All age ranges or no breakdown by age",
+             "id":"_T"
+          },
+          "urbanisation":{
+             "key":1000000,
+             "name":"Total or no breakdown by education level",
+             "id":"_T"
+          },
+          "tsKey":1001090,
+          "startDate":"2017-01-01T00:00:00",
+          "endDate":"2017-01-01T00:00:00",
+          "frequency":"A",
+          "unit":"Percent",
+          "scale":1,
+          "values":[
+             29.4
+          ]
+       },
+       {
+          "goal":{
+             "key":1000010,
+             "name":"Goal 2. End hunger, achieve food security and improved nutrition and promote sustainable agriculture",
+             "id":"2"
+          },
+          "target":{
+             "key":1000060,
+             "name":"2.2 By 2030, end all forms of malnutrition, including achieving, by 2025, the internationally agreed targets on stunting and wasting in children under 5 years of age, and address the nutritional needs of adolescent girls, pregnant and lactating women and older persons",
+             "id":"2.2"
+          },
+          "indicator":{
+             "key":1000070,
+             "name":"2.2.1 Prevalence of stunting (height for age <-2 standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age",
+             "id":"2.2.1"
+          },
+          "seriesdescription":{
+             "key":1000060,
+             "name":"Proportion of children moderately or severely stunted (%)",
+             "id":"SH_STA_STUNT"
+          },
+          "geoarea":{
+             "key":1000000,
+             "name":"Zimbabwe",
+             "id":"716",
+             "RegionId":"ZW"
+          },
+          "sex":{
+             "key":1000020,
+             "name":"Both sexes or no breakdown by sex",
+             "id":"_T"
+          },
+          "age":{
+             "key":1000000,
+             "name":"All age ranges or no breakdown by age",
+             "id":"_T"
+          },
+          "urbanisation":{
+             "key":1000000,
+             "name":"Total or no breakdown by education level",
+             "id":"_T"
+          },
+          "tsKey":1000080,
+          "startDate":"2015-01-01T00:00:00",
+          "endDate":"2019-01-01T00:00:00",
+          "frequency":"A",
+          "unit":"Percent",
+          "scale":1,
+          "values":[
+             26.8,
+             null,
+             null,
+             null,
+             23.5
+          ]
+       },
+       {
+          "goal":{
+             "key":1000010,
+             "name":"Goal 2. End hunger, achieve food security and improved nutrition and promote sustainable agriculture",
+             "id":"2"
+          },
+          "target":{
+             "key":1000060,
+             "name":"2.2 By 2030, end all forms of malnutrition, including achieving, by 2025, the internationally agreed targets on stunting and wasting in children under 5 years of age, and address the nutritional needs of adolescent girls, pregnant and lactating women and older persons",
+             "id":"2.2"
+          },
+          "indicator":{
+             "key":1000080,
+             "name":"2.2.2 Prevalence of malnutrition (weight for height >+2 or <-2 standard deviation from the median of the WHO Child Growth Standards) among children under 5 years of age, by type (wasting and overweight)",
+             "id":"2.2.2"
+          },
+          "seriesdescription":{
+             "key":1001380,
+             "name":"Proportion of children moderately or severely wasted (%)",
+             "id":"SH_STA_WASTE"
+          },
+          "geoarea":{
+             "key":1000000,
+             "name":"Zimbabwe",
+             "id":"716",
+             "RegionId":"ZW"
+          },
+          "sex":{
+             "key":1000020,
+             "name":"Both sexes or no breakdown by sex",
+             "id":"_T"
+          },
+          "age":{
+             "key":1000000,
+             "name":"All age ranges or no breakdown by age",
+             "id":"_T"
+          },
+          "urbanisation":{
+             "key":1000000,
+             "name":"Total or no breakdown by education level",
+             "id":"_T"
+          },
+          "tsKey":1001100,
+          "startDate":"2019-01-01T00:00:00",
+          "endDate":"2019-01-01T00:00:00",
+          "frequency":"A",
+          "unit":"Percent",
+          "scale":1,
+          "values":[
+             2.9
+          ]
+       },
+       {
+          "goal":{
+             "key":1000010,
+             "name":"Goal 2. End hunger, achieve food security and improved nutrition and promote sustainable agriculture",
+             "id":"2"
+          },
+          "target":{
+             "key":1000060,
+             "name":"2.2 By 2030, end all forms of malnutrition, including achieving, by 2025, the internationally agreed targets on stunting and wasting in children under 5 years of age, and address the nutritional needs of adolescent girls, pregnant and lactating women and older persons",
+             "id":"2.2"
+          },
+          "indicator":{
+             "key":1000080,
+             "name":"2.2.2 Prevalence of malnutrition (weight for height >+2 or <-2 standard deviation from the median of the WHO Child Growth Standards) among children under 5 years of age, by type (wasting and overweight)",
+             "id":"2.2.2"
+          },
+          "seriesdescription":{
+             "key":1001390,
+             "name":"Proportion of children moderately or severely overweight (%)",
+             "id":"SH_STA_OVRWGT"
+          },
+          "geoarea":{
+             "key":1000000,
+             "name":"Zimbabwe",
+             "id":"716",
+             "RegionId":"ZW"
+          },
+          "sex":{
+             "key":1000020,
+             "name":"Both sexes or no breakdown by sex",
+             "id":"_T"
+          },
+          "age":{
+             "key":1000000,
+             "name":"All age ranges or no breakdown by age",
+             "id":"_T"
+          },
+          "urbanisation":{
+             "key":1000000,
+             "name":"Total or no breakdown by education level",
+             "id":"_T"
+          },
+          "tsKey":1001110,
+          "startDate":"2019-01-01T00:00:00",
+          "endDate":"2019-01-01T00:00:00",
+          "frequency":"A",
+          "unit":"Percent",
+          "scale":1,
+          "values":[
+             2.5
+          ]
+       },
+       {
+          "goal":{
+             "key":1000010,
+             "name":"Goal 2. End hunger, achieve food security and improved nutrition and promote sustainable agriculture",
+             "id":"2"
+          },
+          "target":{
+             "key":1000070,
+             "name":"2.3 By 2030, double the agricultural productivity and incomes of small-scale food producers, in particular women, indigenous peoples, family farmers, pastoralists and fishers, including through secure and equal access to land, other productive resources and inputs, knowledge, financial services, markets and opportunities for value addition and non-farm employment",
+             "id":"2.3"
+          },
+          "indicator":{
+             "key":1000090,
+             "name":"2.3.1 Volume of production per labour unit by classes of farming/pastoral/forestry enterprise size",
+             "id":"2.3.1"
+          },
+          "seriesdescription":{
+             "key":1000080,
+             "name":"Productivity of small-scale food producers (agricultural output per labour day, PPP) (constant 2011 international $)",
+             "id":"PD_AGR_SSFP"
+          },
+          "geoarea":{
+             "key":1000000,
+             "name":"Zimbabwe",
+             "id":"716",
+             "RegionId":"ZW"
+          },
+          "sex":{
+             "key":1000020,
+             "name":"Both sexes or no breakdown by sex",
+             "id":"_T"
+          },
+          "age":{
+             "key":1000000,
+             "name":"All age ranges or no breakdown by age",
+             "id":"_T"
+          },
+          "urbanisation":{
+             "key":1000000,
+             "name":"Total or no breakdown by education level",
+             "id":"_T"
+          },
+          "tsKey":1000100,
+          "startDate":"2015-01-01T00:00:00",
+          "endDate":"2015-01-01T00:00:00",
+          "frequency":"A",
+          "unit":"Constant USD",
+          "scale":1,
+          "values":[
+             0.28
+          ]
+       },
+       {
+          "goal":{
+             "key":1000010,
+             "name":"Goal 2. End hunger, achieve food security and improved nutrition and promote sustainable agriculture",
+             "id":"2"
+          },
+          "target":{
+             "key":1000080,
+             "name":"2.4 By 2030, ensure sustainable food production systems and implement resilient agricultural practices that increase productivity and production, that help maintain ecosystems, that strengthen capacity for adaptation to climate change, extreme weather, drought, flooding and other disasters and that progressively improve land and soil quality",
+             "id":"2.4"
+          },
+          "indicator":{
+             "key":1000100,
+             "name":"2.4.1 Proportion of agricultural area under productive and sustainable agriculture",
+             "id":"2.4.1"
+          },
+          "seriesdescription":{
+             "key":1001400,
+             "name":"Proportion of agricultural area under productive and sustainable agriculture",
+             "id":"AG_LND_SUST"
+          },
+          "geoarea":{
+             "key":1000000,
+             "name":"Zimbabwe",
+             "id":"716",
+             "RegionId":"ZW"
+          },
+          "sex":{
+             "key":1000020,
+             "name":"Both sexes or no breakdown by sex",
+             "id":"_T"
+          },
+          "age":{
+             "key":1000000,
+             "name":"All age ranges or no breakdown by age",
+             "id":"_T"
+          },
+          "urbanisation":{
+             "key":1000000,
+             "name":"Total or no breakdown by education level",
+             "id":"_T"
+          },
+          "tsKey":1001120,
+          "startDate":"2016-01-01T00:00:00",
+          "endDate":"2016-01-01T00:00:00",
+          "frequency":"A",
+          "unit":"Percent",
+          "scale":1,
+          "values":[
+             0.6
+          ]
+       },
+       {
+          "goal":{
+             "key":1000010,
+             "name":"Goal 2. End hunger, achieve food security and improved nutrition and promote sustainable agriculture",
+             "id":"2"
+          },
+          "target":{
+             "key":1000090,
+             "name":"2.c Adopt measures to ensure the proper functioning of food commodity markets and their derivatives and facilitate timely access to market information, including on food reserves, in order to help limit extreme food price volatility",
+             "id":"2.c"
+          },
+          "indicator":{
+             "key":1000110,
+             "name":"2.c.1 Food inflation rate",
+             "id":"2.c.1"
+          },
+          "seriesdescription":{
+             "key":1001410,
+             "name":"Indicator of Food Price Anomalies (IFPA), by type of product",
+             "id":"AG_FPA_COMM"
+          },
+          "geoarea":{
+             "key":1000000,
+             "name":"Zimbabwe",
+             "id":"716",
+             "RegionId":"ZW"
+          },
+          "sex":{
+             "key":1000020,
+             "name":"Both sexes or no breakdown by sex",
+             "id":"_T"
+          },
+          "age":{
+             "key":1000000,
+             "name":"All age ranges or no breakdown by age",
+             "id":"_T"
+          },
+          "urbanisation":{
+             "key":1000000,
+             "name":"Total or no breakdown by education level",
+             "id":"_T"
+          },
+          "tsKey":1001130,
+          "startDate":"2014-01-01T00:00:00",
+          "endDate":"2018-01-01T00:00:00",
+          "frequency":"A",
+          "unit":"Percent",
+          "scale":1,
+          "values":[
+             58.8566143687747,
+             56.8900470070933,
+             55.03794245916,
+             56.4157635344363,
+             64.7928089703452
+          ]
+       },
+       {
+          "goal":{
+             "key":1000020,
+             "name":"Goal 3. Ensure healthy lives and promote well-being for all at all ages",
+             "id":"3"
+          },
+          "target":{
+             "key":1000100,
+             "name":"3.1 By 2030, reduce the global maternal mortality ratio to less than 70 per 100,000 live births",
+             "id":"3.1"
+          },
+          "indicator":{
+             "key":1000120,
+             "name":"3.1.1 Maternal mortality ratio",
+             "id":"3.1.1"
+          },
+          "seriesdescription":{
+             "key":1000110,
+             "name":"Maternal mortality ratio",
+             "id":"SH_STA_MMR"
+          },
+          "geoarea":{
+             "key":1000000,
+             "name":"Zimbabwe",
+             "id":"716",
+             "RegionId":"ZW"
+          },
+          "sex":{
+             "key":1000020,
+             "name":"Both sexes or no breakdown by sex",
+             "id":"_T"
+          },
+          "age":{
+             "key":1000000,
+             "name":"All age ranges or no breakdown by age",
+             "id":"_T"
+          },
+          "urbanisation":{
+             "key":1000000,
+             "name":"Total or no breakdown by education level",
+             "id":"_T"
+          },
+          "tsKey":1000130,
+          "startDate":"2015-01-01T00:00:00",
+          "endDate":"2019-01-01T00:00:00",
+          "frequency":"A",
+          "unit":"per 100,000 live births",
+          "scale":1,
+          "values":[
+             651.0,
+             null,
+             525.0,
+             null,
+             462.0
+          ]
+       },
+       {
+          "goal":{
+             "key":1000020,
+             "name":"Goal 3. Ensure healthy lives and promote well-being for all at all ages",
+             "id":"3"
+          },
+          "target":{
+             "key":1000100,
+             "name":"3.1 By 2030, reduce the global maternal mortality ratio to less than 70 per 100,000 live births",
+             "id":"3.1"
+          },
+          "indicator":{
+             "key":1000130,
+             "name":"3.1.2 Proportion of births attended by skilled health personnel",
+             "id":"3.1.2"
+          },
+          "seriesdescription":{
+             "key":1000120,
+             "name":"Proportion of births attended by skilled health personnel (%)",
+             "id":"SH_STA_BRTC"
+          },
+          "geoarea":{
+             "key":1000000,
+             "name":"Zimbabwe",
+             "id":"716",
+             "RegionId":"ZW"
+          },
+          "sex":{
+             "key":1000020,
+             "name":"Both sexes or no breakdown by sex",
+             "id":"_T"
+          },
+          "age":{
+             "key":1000000,
+             "name":"All age ranges or no breakdown by age",
+             "id":"_T"
+          },
+          "urbanisation":{
+             "key":1000000,
+             "name":"Total or no breakdown by education level",
+             "id":"_T"
+          },
+          "tsKey":1000140,
+          "startDate":"2015-01-01T00:00:00",
+          "endDate":"2019-01-01T00:00:00",
+          "frequency":"A",
+          "unit":"Percent",
+          "scale":1,
+          "values":[
+             78.0,
+             null,
+             null,
+             null,
+             86.0
+          ]
+       },
+       {
+          "goal":{
+             "key":1000020,
+             "name":"Goal 3. Ensure healthy lives and promote well-being for all at all ages",
+             "id":"3"
+          },
+          "target":{
+             "key":1000110,
+             "name":"3.2 By 2030, end preventable deaths of newborns and children under 5 years of age, with all countries aiming to reduce neonatal mortality to at least as low as 12 per 1,000 live births and under‑5 mortality to at least as low as 25 per 1,000 live births",
+             "id":"3.2"
+          },
+          "indicator":{
+             "key":1000140,
+             "name":"3.2.1 Under‑5 mortality rate",
+             "id":"3.2.1"
+          },
+          "seriesdescription":{
+             "key":1000130,
+             "name":"Infant mortality rate (deaths per 1,000 live births)",
+             "id":"SH_DYN_IMRT"
+          },
+          "geoarea":{
+             "key":1000000,
+             "name":"Zimbabwe",
+             "id":"716",
+             "RegionId":"ZW"
+          },
+          "sex":{
+             "key":1000020,
+             "name":"Both sexes or no breakdown by sex",
+             "id":"_T"
+          },
+          "age":{
+             "key":1000000,
+             "name":"All age ranges or no breakdown by age",
+             "id":"_T"
+          },
+          "urbanisation":{
+             "key":1000000,
+             "name":"Total or no breakdown by education level",
+             "id":"_T"
+          },
+          "tsKey":1000150,
+          "startDate":"2015-01-01T00:00:00",
+          "endDate":"2019-01-01T00:00:00",
+          "frequency":"A",
+          "unit":"per 1,000 live births",
+          "scale":1,
+          "values":[
+             69.0,
+             null,
+             72.4,
+             null,
+             65.0
+          ]
+       },
+       {
+          "goal":{
+             "key":1000020,
+             "name":"Goal 3. Ensure healthy lives and promote well-being for all at all ages",
+             "id":"3"
+          },
+          "target":{
+             "key":1000110,
+             "name":"3.2 By 2030, end preventable deaths of newborns and children under 5 years of age, with all countries aiming to reduce neonatal mortality to at least as low as 12 per 1,000 live births and under‑5 mortality to at least as low as 25 per 1,000 live births",
+             "id":"3.2"
+          },
+          "indicator":{
+             "key":1000150,
+             "name":"3.2.2 Neonatal mortality rate",
+             "id":"3.2.2"
+          },
+          "seriesdescription":{
+             "key":1000140,
+             "name":"Neonatal mortality rate (deaths per 1,000 live births)",
+             "id":"SH_DYN_NMRT"
+          },
+          "geoarea":{
+             "key":1000000,
+             "name":"Zimbabwe",
+             "id":"716",
+             "RegionId":"ZW"
+          },
+          "sex":{
+             "key":1000020,
+             "name":"Both sexes or no breakdown by sex",
+             "id":"_T"
+          },
+          "age":{
+             "key":1000000,
+             "name":"All age ranges or no breakdown by age",
+             "id":"_T"
+          },
+          "urbanisation":{
+             "key":1000000,
+             "name":"Total or no breakdown by education level",
+             "id":"_T"
+          },
+          "tsKey":1000160,
+          "startDate":"2015-01-01T00:00:00",
+          "endDate":"2019-01-01T00:00:00",
+          "frequency":"A",
+          "unit":"per 1,000 live births",
+          "scale":1,
+          "values":[
+             29.0,
+             null,
+             null,
+             null,
+             32.0
+          ]
+       },
+       {
+          "goal":{
+             "key":1000020,
+             "name":"Goal 3. Ensure healthy lives and promote well-being for all at all ages",
+             "id":"3"
+          },
+          "target":{
+             "key":1000120,
+             "name":"3.3 By 2030, end the epidemics of AIDS, tuberculosis, malaria and neglected tropical diseases and combat hepatitis, water-borne diseases and other communicable diseases",
+             "id":"3.3"
+          },
+          "indicator":{
+             "key":1000160,
+             "name":"3.3.2 Tuberculosis incidence per 100,000 population",
+             "id":"3.3.2"
+          },
+          "seriesdescription":{
+             "key":1000150,
+             "name":"Tuberculosis incidence (per 100,000 population)",
+             "id":"SH_TBS_INCID"
+          },
+          "geoarea":{
+             "key":1000000,
+             "name":"Zimbabwe",
+             "id":"716",
+             "RegionId":"ZW"
+          },
+          "sex":{
+             "key":1000020,
+             "name":"Both sexes or no breakdown by sex",
+             "id":"_T"
+          },
+          "age":{
+             "key":1000000,
+             "name":"All age ranges or no breakdown by age",
+             "id":"_T"
+          },
+          "urbanisation":{
+             "key":1000000,
+             "name":"Total or no breakdown by education level",
+             "id":"_T"
+          },
+          "tsKey":1000170,
+          "startDate":"2015-01-01T00:00:00",
+          "endDate":"2015-01-01T00:00:00",
+          "frequency":"A",
+          "unit":"per 100,000 population",
+          "scale":1,
+          "values":[
+             236.0
+          ]
+       },
+       {
+          "goal":{
+             "key":1000020,
+             "name":"Goal 3. Ensure healthy lives and promote well-being for all at all ages",
+             "id":"3"
+          },
+          "target":{
+             "key":1000120,
+             "name":"3.3 By 2030, end the epidemics of AIDS, tuberculosis, malaria and neglected tropical diseases and combat hepatitis, water-borne diseases and other communicable diseases",
+             "id":"3.3"
+          },
+          "indicator":{
+             "key":1000170,
+             "name":"3.3.3 Malaria incidence per 1,000 population",
+             "id":"3.3.3"
+          },
+          "seriesdescription":{
+             "key":1000160,
+             "name":"Malaria incidence per 1,000 population at risk (per 1,000 population)",
+             "id":"SH_STA_MALR"
+          },
+          "geoarea":{
+             "key":1000000,
+             "name":"Zimbabwe",
+             "id":"716",
+             "RegionId":"ZW"
+          },
+          "sex":{
+             "key":1000020,
+             "name":"Both sexes or no breakdown by sex",
+             "id":"_T"
+          },
+          "age":{
+             "key":1000000,
+             "name":"All age ranges or no breakdown by age",
+             "id":"_T"
+          },
+          "urbanisation":{
+             "key":1000000,
+             "name":"Total or no breakdown by education level",
+             "id":"_T"
+          },
+          "tsKey":1000180,
+          "startDate":"2014-01-01T00:00:00",
+          "endDate":"2018-01-01T00:00:00",
+          "frequency":"A",
+          "unit":"per 1,000 population",
+          "scale":1,
+          "values":[
+             29.0,
+             null,
+             14.0,
+             10.0,
+             5.0
+          ]
+       },
+       {
+          "goal":{
+             "key":1000020,
+             "name":"Goal 3. Ensure healthy lives and promote well-being for all at all ages",
+             "id":"3"
+          },
+          "target":{
+             "key":1000130,
+             "name":"3.6 By 2020, halve the number of global deaths and injuries from road traffic accidents",
+             "id":"3.6"
+          },
+          "indicator":{
+             "key":1000180,
+             "name":"3.6.1 Death rate due to road traffic injuries (Reported Deaths)",
+             "id":"3.6.1"
+          },
+          "seriesdescription":{
+             "key":1000170,
+             "name":"Death rate due to road traffic injuries (per 100,000 population)",
+             "id":"SH_STA_TRAF"
+          },
+          "geoarea":{
+             "key":1000000,
+             "name":"Zimbabwe",
+             "id":"716",
+             "RegionId":"ZW"
+          },
+          "sex":{
+             "key":1000020,
+             "name":"Both sexes or no breakdown by sex",
+             "id":"_T"
+          },
+          "age":{
+             "key":1000000,
+             "name":"All age ranges or no breakdown by age",
+             "id":"_T"
+          },
+          "urbanisation":{
+             "key":1000000,
+             "name":"Total or no breakdown by education level",
+             "id":"_T"
+          },
+          "tsKey":1000190,
+          "startDate":"2014-01-01T00:00:00",
+          "endDate":"2018-01-01T00:00:00",
+          "frequency":"A",
+          "unit":"per 100,000 population",
+          "scale":1,
+          "values":[
+             2042.0,
+             2368.0,
+             1584.0,
+             1793.0,
+             1918.0
+          ]
+       },
+       {
+          "goal":{
+             "key":1000020,
+             "name":"Goal 3. Ensure healthy lives and promote well-being for all at all ages",
+             "id":"3"
+          },
+          "target":{
+             "key":1000140,
+             "name":"3.7 By 2030, ensure universal access to sexual and reproductive health-care services, including for family planning, information and education, and the integration of reproductive health into national strategies and programmes",
+             "id":"3.7"
+          },
+          "indicator":{
+             "key":1000190,
+             "name":"3.7.1 Proportion of women of reproductive age (aged 15–49 years) who have their need for family planning satisfied with modern methods",
+             "id":"3.7.1"
+          },
+          "seriesdescription":{
+             "key":1000180,
+             "name":"Proportion of women married or in a union of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods (% of women aged 15-49 years)",
+             "id":"SH_FPL_MTMM"
+          },
+          "geoarea":{
+             "key":1000000,
+             "name":"Zimbabwe",
+             "id":"716",
+             "RegionId":"ZW"
+          },
+          "sex":{
+             "key":1000000,
+             "name":"Female",
+             "id":"F"
+          },
+          "age":{
+             "key":1000090,
+             "name":"15 to 49 years old",
+             "id":"Y15T49"
+          },
+          "urbanisation":{
+             "key":1000000,
+             "name":"Total or no breakdown by education level",
+             "id":"_T"
+          },
+          "tsKey":1001140,
+          "startDate":"2014-01-01T00:00:00",
+          "endDate":"2015-01-01T00:00:00",
+          "frequency":"A",
+          "unit":"Percent",
+          "scale":1,
+          "values":[
+             67.0,
+             85.2
+          ]
+       },
+       {
+          "goal":{
+             "key":1000020,
+             "name":"Goal 3. Ensure healthy lives and promote well-being for all at all ages",
+             "id":"3"
+          },
+          "target":{
+             "key":1000140,
+             "name":"3.7 By 2030, ensure universal access to sexual and reproductive health-care services, including for family planning, information and education, and the integration of reproductive health into national strategies and programmes",
+             "id":"3.7"
+          },
+          "indicator":{
+             "key":1000200,
+             "name":"3.7.2 Adolescent birth rate (aged 15–19 years) per 1,000 women in that age group",
+             "id":"3.7.2"
+          },
+          "seriesdescription":{
+             "key":1000190,
+             "name":"Adolescent birth rate (per 1,000 women aged 15-19 years)",
+             "id":"SP_DYN_ADKL"
+          },
+          "geoarea":{
+             "key":1000000,
+             "name":"Zimbabwe",
+             "id":"716",
+             "RegionId":"ZW"
+          },
+          "sex":{
+             "key":1000000,
+             "name":"Female",
+             "id":"F"
+          },
+          "age":{
+             "key":1000100,
+             "name":"15 to 19 years old",
+             "id":"Y15T19"
+          },
+          "urbanisation":{
+             "key":1000000,
+             "name":"Total or no breakdown by education level",
+             "id":"_T"
+          },
+          "tsKey":1001150,
+          "startDate":"2015-01-01T00:00:00",
+          "endDate":"2017-01-01T00:00:00",
+          "frequency":"A",
+          "unit":"per 1,000 population",
+          "scale":1,
+          "values":[
+             110.0,
+             null,
+             77.6
+          ]
+       },
+       {
+          "goal":{
+             "key":1000020,
+             "name":"Goal 3. Ensure healthy lives and promote well-being for all at all ages",
+             "id":"3"
+          },
+          "target":{
+             "key":1000140,
+             "name":"3.7 By 2030, ensure universal access to sexual and reproductive health-care services, including for family planning, information and education, and the integration of reproductive health into national strategies and programmes",
+             "id":"3.7"
+          },
+          "indicator":{
+             "key":1000200,
+             "name":"3.7.2 Adolescent birth rate (aged 15–19 years) per 1,000 women in that age group",
+             "id":"3.7.2"
+          },
+          "seriesdescription":{
+             "key":1000190,
+             "name":"Adolescent birth rate (per 1,000 women aged 15-19 years)",
+             "id":"SP_DYN_ADKL"
+          },
+          "geoarea":{
+             "key":1000000,
+             "name":"Zimbabwe",
+             "id":"716",
+             "RegionId":"ZW"
+          },
+          "sex":{
+             "key":1000000,
+             "name":"Female",
+             "id":"F"
+          },
+          "age":{
+             "key":1000110,
+             "name":"15 to 20 years old",
+             "id":"Y15T20"
+          },
+          "urbanisation":{
+             "key":1000000,
+             "name":"Total or no breakdown by education level",
+             "id":"_T"
+          },
+          "tsKey":1001160,
+          "startDate":"2019-01-01T00:00:00",
+          "endDate":"2019-01-01T00:00:00",
+          "frequency":"A",
+          "unit":"per 1,000 population",
+          "scale":1,
+          "values":[
+             108.0
+          ]
+       },
+       {
+          "goal":{
+             "key":1000020,
+             "name":"Goal 3. Ensure healthy lives and promote well-being for all at all ages",
+             "id":"3"
+          },
+          "target":{
+             "key":1000150,
+             "name":"3.8 Achieve universal health coverage, including financial risk protection, access to quality essential health-care services and access to safe, effective, quality and affordable essential medicines and vaccines for all",
+             "id":"3.8"
+          },
+          "indicator":{
+             "key":1000210,
+             "name":"3.8.1 Coverage of essential health services (defined as the average coverage of essential services based on tracer interventions that include reproductive, maternal, newborn and child health, infectious diseases, non-communicable diseases and service capacity and access, among the general and the most disadvantaged population) (ANC 4+)",
+             "id":"3.8.1"
+          },
+          "seriesdescription":{
+             "key":1000200,
+             "name":"Universal health coverage (UHC) service coverage index",
+             "id":"SH_ACS_UNHC"
+          },
+          "geoarea":{
+             "key":1000000,
+             "name":"Zimbabwe",
+             "id":"716",
+             "RegionId":"ZW"
+          },
+          "sex":{
+             "key":1000020,
+             "name":"Both sexes or no breakdown by sex",
+             "id":"_T"
+          },
+          "age":{
+             "key":1000000,
+             "name":"All age ranges or no breakdown by age",
+             "id":"_T"
+          },
+          "urbanisation":{
+             "key":1000000,
+             "name":"Total or no breakdown by education level",
+             "id":"_T"
+          },
+          "tsKey":1000220,
+          "startDate":"2016-01-01T00:00:00",
+          "endDate":"2016-01-01T00:00:00",
+          "frequency":"A",
+          "unit":"Index",
+          "scale":1,
+          "values":[
+             93.3
+          ]
+       },
+       {
+          "goal":{
+             "key":1000020,
+             "name":"Goal 3. Ensure healthy lives and promote well-being for all at all ages",
+             "id":"3"
+          },
+          "target":{
+             "key":1000940,
+             "name":"3.b  Support the research and development of vaccines and medicines for the communicable and non-communicable diseases that primarily affect developing countries, provide access to affordable essential medicines and vaccines, in accordance with the Doha Declaration on the TRIPS Agreement and Public Health, which affirms the right of developing countries to use to the full the provisions in the Agreement on Trade-Related Aspects of Intellectual Property Rights regarding flexibilities to protect public health, and, in particular, provide access to medicines for all",
+             "id":"3.b"
+          },
+          "indicator":{
+             "key":1001160,
+             "name":"3.b.1 Proportion of the target population covered by all vaccines included in their national programme",
+             "id":"3.b.1"
+          },
+          "seriesdescription":{
+             "key":1001420,
+             "name":"Proportion of the target population with access to 3 doses of diphtheria-tetanus-pertussis (DTP3) (%)",
+             "id":"SH_ACS_DTP3"
+          },
+          "geoarea":{
+             "key":1000000,
+             "name":"Zimbabwe",
+             "id":"716",
+             "RegionId":"ZW"
+          },
+          "sex":{
+             "key":1000020,
+             "name":"Both sexes or no breakdown by sex",
+             "id":"_T"
+          },
+          "age":{
+             "key":1000000,
+             "name":"All age ranges or no breakdown by age",
+             "id":"_T"
+          },
+          "urbanisation":{
+             "key":1000000,
+             "name":"Total or no breakdown by education level",
+             "id":"_T"
+          },
+          "tsKey":1001170,
+          "startDate":"2019-01-01T00:00:00",
+          "endDate":"2019-01-01T00:00:00",
+          "frequency":"A",
+          "unit":"Percent",
+          "scale":1,
+          "values":[
+             91.0
+          ]
+       },
+       {
+          "goal":{
+             "key":1000020,
+             "name":"Goal 3. Ensure healthy lives and promote well-being for all at all ages",
+             "id":"3"
+          },
+          "target":{
+             "key":1000940,
+             "name":"3.b  Support the research and development of vaccines and medicines for the communicable and non-communicable diseases that primarily affect developing countries, provide access to affordable essential medicines and vaccines, in accordance with the Doha Declaration on the TRIPS Agreement and Public Health, which affirms the right of developing countries to use to the full the provisions in the Agreement on Trade-Related Aspects of Intellectual Property Rights regarding flexibilities to protect public health, and, in particular, provide access to medicines for all",
+             "id":"3.b"
+          },
+          "indicator":{
+             "key":1001160,
+             "name":"3.b.1 Proportion of the target population covered by all vaccines included in their national programme",
+             "id":"3.b.1"
+          },
+          "seriesdescription":{
+             "key":1001430,
+             "name":"Proportion of the target population with access to pneumococcal conjugate 3rd dose (PCV3) (%)",
+             "id":"SH_ACS_PCV3"
+          },
+          "geoarea":{
+             "key":1000000,
+             "name":"Zimbabwe",
+             "id":"716",
+             "RegionId":"ZW"
+          },
+          "sex":{
+             "key":1000020,
+             "name":"Both sexes or no breakdown by sex",
+             "id":"_T"
+          },
+          "age":{
+             "key":1000000,
+             "name":"All age ranges or no breakdown by age",
+             "id":"_T"
+          },
+          "urbanisation":{
+             "key":1000000,
+             "name":"Total or no breakdown by education level",
+             "id":"_T"
+          },
+          "tsKey":1001180,
+          "startDate":"2019-01-01T00:00:00",
+          "endDate":"2019-01-01T00:00:00",
+          "frequency":"A",
+          "unit":"Percent",
+          "scale":1,
+          "values":[
+             90.6
+          ]
+       },
+       {
+          "goal":{
+             "key":1000020,
+             "name":"Goal 3. Ensure healthy lives and promote well-being for all at all ages",
+             "id":"3"
+          },
+          "target":{
+             "key":1000940,
+             "name":"3.b  Support the research and development of vaccines and medicines for the communicable and non-communicable diseases that primarily affect developing countries, provide access to affordable essential medicines and vaccines, in accordance with the Doha Declaration on the TRIPS Agreement and Public Health, which affirms the right of developing countries to use to the full the provisions in the Agreement on Trade-Related Aspects of Intellectual Property Rights regarding flexibilities to protect public health, and, in particular, provide access to medicines for all",
+             "id":"3.b"
+          },
+          "indicator":{
+             "key":1001160,
+             "name":"3.b.1 Proportion of the target population covered by all vaccines included in their national programme",
+             "id":"3.b.1"
+          },
+          "seriesdescription":{
+             "key":1001440,
+             "name":"Proportion of the target population with access to measles-containing-vaccine second-dose (MCV2) (%)",
+             "id":"SH_ACS_MCV2"
+          },
+          "geoarea":{
+             "key":1000000,
+             "name":"Zimbabwe",
+             "id":"716",
+             "RegionId":"ZW"
+          },
+          "sex":{
+             "key":1000020,
+             "name":"Both sexes or no breakdown by sex",
+             "id":"_T"
+          },
+          "age":{
+             "key":1000000,
+             "name":"All age ranges or no breakdown by age",
+             "id":"_T"
+          },
+          "urbanisation":{
+             "key":1000000,
+             "name":"Total or no breakdown by education level",
+             "id":"_T"
+          },
+          "tsKey":1001190,
+          "startDate":"2019-01-01T00:00:00",
+          "endDate":"2019-01-01T00:00:00",
+          "frequency":"A",
+          "unit":"Percent",
+          "scale":1,
+          "values":[
+             68.4
+          ]
+       },
+       {
+          "goal":{
+             "key":1000030,
+             "name":"Goal 4. Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all",
+             "id":"4"
+          },
+          "target":{
+             "key":1000160,
+             "name":"4.2 By 2030, ensure that all girls and boys have access to quality early childhood development, care and pre‑primary education so that they are ready for primary education",
+             "id":"4.2"
+          },
+          "indicator":{
+             "key":1000220,
+             "name":"4.2.1 Proportion of children under 5 years of age who are developmentally on track in health, learning and psychosocial well-being, by sex",
+             "id":"4.2.1"
+          },
+          "seriesdescription":{
+             "key":1000210,
+             "name":"Proportion of children aged 36−59 months who are developmentally on track in at least three of the following domains: literacy-numeracy, physical development, social-emotional development, and learning (% of children aged 36-59 months)",
+             "id":"SE_DEV_ONTRK"
+          },
+          "geoarea":{
+             "key":1000000,
+             "name":"Zimbabwe",
+             "id":"716",
+             "RegionId":"ZW"
+          },
+          "sex":{
+             "key":1000020,
+             "name":"Both sexes or no breakdown by sex",
+             "id":"_T"
+          },
+          "age":{
+             "key":1000120,
+             "name":"under 5 years old",
+             "id":"Y0T4"
+          },
+          "urbanisation":{
+             "key":1000000,
+             "name":"Total or no breakdown by education level",
+             "id":"_T"
+          },
+          "tsKey":1001200,
+          "startDate":"2014-01-01T00:00:00",
+          "endDate":"2019-01-01T00:00:00",
+          "frequency":"A",
+          "unit":"Percent",
+          "scale":1,
+          "values":[
+             61.8,
+             null,
+             null,
+             null,
+             null,
+             70.8
+          ]
+       },
+       {
+          "goal":{
+             "key":1000030,
+             "name":"Goal 4. Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all",
+             "id":"4"
+          },
+          "target":{
+             "key":1000160,
+             "name":"4.2 By 2030, ensure that all girls and boys have access to quality early childhood development, care and pre‑primary education so that they are ready for primary education",
+             "id":"4.2"
+          },
+          "indicator":{
+             "key":1000230,
+             "name":"4.2.2 Participation rate in organized learning (one year before the official primary entry age), by sex",
+             "id":"4.2.2"
+          },
+          "seriesdescription":{
+             "key":1000220,
+             "name":"Participation rate in organized learning (one year before the official primary entry age), by sex (%)",
+             "id":"SE_PRE_PARTN"
+          },
+          "geoarea":{
+             "key":1000000,
+             "name":"Zimbabwe",
+             "id":"716",
+             "RegionId":"ZW"
+          },
+          "sex":{
+             "key":1000010,
+             "name":"Male",
+             "id":"M"
+          },
+          "age":{
+             "key":1000000,
+             "name":"All age ranges or no breakdown by age",
+             "id":"_T"
+          },
+          "urbanisation":{
+             "key":1000000,
+             "name":"Total or no breakdown by education level",
+             "id":"_T"
+          },
+          "tsKey":1001210,
+          "startDate":"2017-01-01T00:00:00",
+          "endDate":"2017-01-01T00:00:00",
+          "frequency":"A",
+          "unit":"Percent",
+          "scale":1,
+          "values":[
+             74.1
+          ]
+       },
+       {
+          "goal":{
+             "key":1000030,
+             "name":"Goal 4. Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all",
+             "id":"4"
+          },
+          "target":{
+             "key":1000160,
+             "name":"4.2 By 2030, ensure that all girls and boys have access to quality early childhood development, care and pre‑primary education so that they are ready for primary education",
+             "id":"4.2"
+          },
+          "indicator":{
+             "key":1000230,
+             "name":"4.2.2 Participation rate in organized learning (one year before the official primary entry age), by sex",
+             "id":"4.2.2"
+          },
+          "seriesdescription":{
+             "key":1000220,
+             "name":"Participation rate in organized learning (one year before the official primary entry age), by sex (%)",
+             "id":"SE_PRE_PARTN"
+          },
+          "geoarea":{
+             "key":1000000,
+             "name":"Zimbabwe",
+             "id":"716",
+             "RegionId":"ZW"
+          },
+          "sex":{
+             "key":1000020,
+             "name":"Both sexes or no breakdown by sex",
+             "id":"_T"
+          },
+          "age":{
+             "key":1000000,
+             "name":"All age ranges or no breakdown by age",
+             "id":"_T"
+          },
+          "urbanisation":{
+             "key":1000000,
+             "name":"Total or no breakdown by education level",
+             "id":"_T"
+          },
+          "tsKey":1000240,
+          "startDate":"2019-01-01T00:00:00",
+          "endDate":"2019-01-01T00:00:00",
+          "frequency":"A",
+          "unit":"Percent",
+          "scale":1,
+          "values":[
+             81.0
+          ]
+       },
+       {
+          "goal":{
+             "key":1000030,
+             "name":"Goal 4. Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all",
+             "id":"4"
+          },
+          "target":{
+             "key":1000170,
+             "name":"4.3 By 2030, ensure equal access for all women and men to affordable and quality technical, vocational and tertiary education, including university",
+             "id":"4.3"
+          },
+          "indicator":{
+             "key":1000240,
+             "name":"4.3.1 Participation rate of youth and adults in formal and non-formal education and training in the previous 12 months, by sex",
+             "id":"4.3.1"
+          },
+          "seriesdescription":{
+             "key":1000230,
+             "name":"Participation rate in formal and non-formal education and training, by sex (%)",
+             "id":"SE_ADT_EDUCTRN"
+          },
+          "geoarea":{
+             "key":1000000,
+             "name":"Zimbabwe",
+             "id":"716",
+             "RegionId":"ZW"
+          },
+          "sex":{
+             "key":1000020,
+             "name":"Both sexes or no breakdown by sex",
+             "id":"_T"
+          },
+          "age":{
+             "key":1000000,
+             "name":"All age ranges or no breakdown by age",
+             "id":"_T"
+          },
+          "urbanisation":{
+             "key":1000000,
+             "name":"Total or no breakdown by education level",
+             "id":"_T"
+          },
+          "tsKey":1000250,
+          "startDate":"2017-01-01T00:00:00",
+          "endDate":"2017-01-01T00:00:00",
+          "frequency":"A",
+          "unit":"Percent",
+          "scale":1,
+          "values":[
+             37.2
+          ]
+       },
+       {
+          "goal":{
+             "key":1000030,
+             "name":"Goal 4. Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all",
+             "id":"4"
+          },
+          "target":{
+             "key":1000180,
+             "name":"4.6  By 2030, ensure that all youth and a substantial proportion of adults, both men and women, achieve literacy and numeracy",
+             "id":"4.6"
+          },
+          "indicator":{
+             "key":1000250,
+             "name":"4.6.1 Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy and (b) numeracy skills, by sex",
+             "id":"4.6.1"
+          },
+          "seriesdescription":{
+             "key":1000240,
+             "name":"Proportion of population achieving at least a fixed level of proficiency in functional skills, by sex, age and type of skill (%)",
+             "id":"SE_ADT_FUNS"
+          },
+          "geoarea":{
+             "key":1000000,
+             "name":"Zimbabwe",
+             "id":"716",
+             "RegionId":"ZW"
+          },
+          "sex":{
+             "key":1000020,
+             "name":"Both sexes or no breakdown by sex",
+             "id":"_T"
+          },
+          "age":{
+             "key":1000000,
+             "name":"All age ranges or no breakdown by age",
+             "id":"_T"
+          },
+          "urbanisation":{
+             "key":1000000,
+             "name":"Total or no breakdown by education level",
+             "id":"_T"
+          },
+          "tsKey":1000260,
+          "startDate":"2017-01-01T00:00:00",
+          "endDate":"2017-01-01T00:00:00",
+          "frequency":"A",
+          "unit":"Percent",
+          "scale":1,
+          "values":[
+             94.3
+          ]
+       },
+       {
+          "goal":{
+             "key":1000030,
+             "name":"Goal 4. Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all",
+             "id":"4"
+          },
+          "target":{
+             "key":1000960,
+             "name":"4.4  By 2030, substantially increase the number of youth and adults who have relevant skills, including technical and vocational skills, for employment, decent jobs and entrepreneurship",
+             "id":"4.4"
+          },
+          "indicator":{
+             "key":1001180,
+             "name":"4.4.1 Proportion of youth and adults with information and communications technology (ICT) skills, by type of skill",
+             "id":"4.4.1"
+          },
+          "seriesdescription":{
+             "key":1001460,
+             "name":"Proportion of youth and adults with information and communications technology (ICT) skills, by type of skill and sex (%)",
+             "id":"SE_ADT_ACTS"
+          },
+          "geoarea":{
+             "key":1000000,
+             "name":"Zimbabwe",
+             "id":"716",
+             "RegionId":"ZW"
+          },
+          "sex":{
+             "key":1000000,
+             "name":"Female",
+             "id":"F"
+          },
+          "age":{
+             "key":1000090,
+             "name":"15 to 49 years old",
+             "id":"Y15T49"
+          },
+          "urbanisation":{
+             "key":1000000,
+             "name":"Total or no breakdown by education level",
+             "id":"_T"
+          },
+          "tsKey":1001220,
+          "startDate":"2019-01-01T00:00:00",
+          "endDate":"2019-01-01T00:00:00",
+          "frequency":"A",
+          "unit":"Percent",
+          "scale":1,
+          "values":[
+             13.1
+          ]
+       },
+       {
+          "goal":{
+             "key":1000030,
+             "name":"Goal 4. Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all",
+             "id":"4"
+          },
+          "target":{
+             "key":1000960,
+             "name":"4.4  By 2030, substantially increase the number of youth and adults who have relevant skills, including technical and vocational skills, for employment, decent jobs and entrepreneurship",
+             "id":"4.4"
+          },
+          "indicator":{
+             "key":1001180,
+             "name":"4.4.1 Proportion of youth and adults with information and communications technology (ICT) skills, by type of skill",
+             "id":"4.4.1"
+          },
+          "seriesdescription":{
+             "key":1001460,
+             "name":"Proportion of youth and adults with information and communications technology (ICT) skills, by type of skill and sex (%)",
+             "id":"SE_ADT_ACTS"
+          },
+          "geoarea":{
+             "key":1000000,
+             "name":"Zimbabwe",
+             "id":"716",
+             "RegionId":"ZW"
+          },
+          "sex":{
+             "key":1000000,
+             "name":"Female",
+             "id":"F"
+          },
+          "age":{
+             "key":1000130,
+             "name":"15 to 24 years old",
+             "id":"Y15T24"
+          },
+          "urbanisation":{
+             "key":1000000,
+             "name":"Total or no breakdown by education level",
+             "id":"_T"
+          },
+          "tsKey":1001230,
+          "startDate":"2019-01-01T00:00:00",
+          "endDate":"2019-01-01T00:00:00",
+          "frequency":"A",
+          "unit":"Percent",
+          "scale":1,
+          "values":[
+             14.7
+          ]
+       },
+       {
+          "goal":{
+             "key":1000030,
+             "name":"Goal 4. Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all",
+             "id":"4"
+          },
+          "target":{
+             "key":1000960,
+             "name":"4.4  By 2030, substantially increase the number of youth and adults who have relevant skills, including technical and vocational skills, for employment, decent jobs and entrepreneurship",
+             "id":"4.4"
+          },
+          "indicator":{
+             "key":1001180,
+             "name":"4.4.1 Proportion of youth and adults with information and communications technology (ICT) skills, by type of skill",
+             "id":"4.4.1"
+          },
+          "seriesdescription":{
+             "key":1001460,
+             "name":"Proportion of youth and adults with information and communications technology (ICT) skills, by type of skill and sex (%)",
+             "id":"SE_ADT_ACTS"
+          },
+          "geoarea":{
+             "key":1000000,
+             "name":"Zimbabwe",
+             "id":"716",
+             "RegionId":"ZW"
+          },
+          "sex":{
+             "key":1000010,
+             "name":"Male",
+             "id":"M"
+          },
+          "age":{
+             "key":1000090,
+             "name":"15 to 49 years old",
+             "id":"Y15T49"
+          },
+          "urbanisation":{
+             "key":1000000,
+             "name":"Total or no breakdown by education level",
+             "id":"_T"
+          },
+          "tsKey":1001240,
+          "startDate":"2019-01-01T00:00:00",
+          "endDate":"2019-01-01T00:00:00",
+          "frequency":"A",
+          "unit":"Percent",
+          "scale":1,
+          "values":[
+             22.3
+          ]
+       },
+       {
+          "goal":{
+             "key":1000030,
+             "name":"Goal 4. Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all",
+             "id":"4"
+          },
+          "target":{
+             "key":1000960,
+             "name":"4.4  By 2030, substantially increase the number of youth and adults who have relevant skills, including technical and vocational skills, for employment, decent jobs and entrepreneurship",
+             "id":"4.4"
+          },
+          "indicator":{
+             "key":1001180,
+             "name":"4.4.1 Proportion of youth and adults with information and communications technology (ICT) skills, by type of skill",
+             "id":"4.4.1"
+          },
+          "seriesdescription":{
+             "key":1001460,
+             "name":"Proportion of youth and adults with information and communications technology (ICT) skills, by type of skill and sex (%)",
+             "id":"SE_ADT_ACTS"
+          },
+          "geoarea":{
+             "key":1000000,
+             "name":"Zimbabwe",
+             "id":"716",
+             "RegionId":"ZW"
+          },
+          "sex":{
+             "key":1000010,
+             "name":"Male",
+             "id":"M"
+          },
+          "age":{
+             "key":1000130,
+             "name":"15 to 24 years old",
+             "id":"Y15T24"
+          },
+          "urbanisation":{
+             "key":1000000,
+             "name":"Total or no breakdown by education level",
+             "id":"_T"
+          },
+          "tsKey":1001250,
+          "startDate":"2019-01-01T00:00:00",
+          "endDate":"2019-01-01T00:00:00",
+          "frequency":"A",
+          "unit":"Percent",
+          "scale":1,
+          "values":[
+             21.6
+          ]
+       },
+       {
+          "goal":{
+             "key":1000030,
+             "name":"Goal 4. Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all",
+             "id":"4"
+          },
+          "target":{
+             "key":1000970,
+             "name":"4.5  By 2030, eliminate gender disparities in education and ensure equal access to all levels of education and vocational training for the vulnerable, including persons with disabilities, indigenous peoples and children in vulnerable situations",
+             "id":"4.5"
+          },
+          "indicator":{
+             "key":1001190,
+             "name":"4.5.1 Parity indices (female/male, rural/urban, bottom/top wealth quintile and others such as disability status, indigenous peoples and conflict-affected, as data become available) for all education indicators on this list that can be disaggregated",
+             "id":"4.5.1"
+          },
+          "seriesdescription":{
+             "key":1001470,
+             "name":"Gender parity index for participation rate in organized learning (one year before the official primary entry age), (ratio)",
+             "id":"SE_PRE_GPIPARTN"
+          },
+          "geoarea":{
+             "key":1000000,
+             "name":"Zimbabwe",
+             "id":"716",
+             "RegionId":"ZW"
+          },
+          "sex":{
+             "key":1000020,
+             "name":"Both sexes or no breakdown by sex",
+             "id":"_T"
+          },
+          "age":{
+             "key":1000000,
+             "name":"All age ranges or no breakdown by age",
+             "id":"_T"
+          },
+          "urbanisation":{
+             "key":1000000,
+             "name":"Total or no breakdown by education level",
+             "id":"_T"
+          },
+          "tsKey":1001260,
+          "startDate":"2019-01-01T00:00:00",
+          "endDate":"2019-01-01T00:00:00",
+          "frequency":"A",
+          "unit":"Index",
+          "scale":1,
+          "values":[
+             1.0
+          ]
+       },
+       {
+          "goal":{
+             "key":1000030,
+             "name":"Goal 4. Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all",
+             "id":"4"
+          },
+          "target":{
+             "key":1000970,
+             "name":"4.5  By 2030, eliminate gender disparities in education and ensure equal access to all levels of education and vocational training for the vulnerable, including persons with disabilities, indigenous peoples and children in vulnerable situations",
+             "id":"4.5"
+          },
+          "indicator":{
+             "key":1001190,
+             "name":"4.5.1 Parity indices (female/male, rural/urban, bottom/top wealth quintile and others such as disability status, indigenous peoples and conflict-affected, as data become available) for all education indicators on this list that can be disaggregated",
+             "id":"4.5.1"
+          },
+          "seriesdescription":{
+             "key":1001480,
+             "name":"Language test parity index for achievement (ratio)",
+             "id":"SE_LGP_ACHI"
+          },
+          "geoarea":{
+             "key":1000000,
+             "name":"Zimbabwe",
+             "id":"716",
+             "RegionId":"ZW"
+          },
+          "sex":{
+             "key":1000020,
+             "name":"Both sexes or no breakdown by sex",
+             "id":"_T"
+          },
+          "age":{
+             "key":1000000,
+             "name":"All age ranges or no breakdown by age",
+             "id":"_T"
+          },
+          "urbanisation":{
+             "key":1000000,
+             "name":"Total or no breakdown by education level",
+             "id":"_T"
+          },
+          "tsKey":1001270,
+          "startDate":"2019-01-01T00:00:00",
+          "endDate":"2019-01-01T00:00:00",
+          "frequency":"A",
+          "unit":"Index",
+          "scale":1,
+          "values":[
+             1.19
+          ]
+       },
+       {
+          "goal":{
+             "key":1000030,
+             "name":"Goal 4. Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all",
+             "id":"4"
+          },
+          "target":{
+             "key":1000980,
+             "name":"4.c  By 2030, substantially increase the supply of qualified teachers, including through international cooperation for teacher training in developing countries, especially least developed countries and small island developing States",
+             "id":"4.c"
+          },
+          "indicator":{
+             "key":1001200,
+             "name":"4.c.1 Proportion of teachers in: (a) pre-primary; (b) primary; (c) lower secondary; and (d) upper secondary education who have received at least the minimum organized teacher training (e.g. pedagogical training) pre-service or in-service required for teaching at the relevant level in a given country",
+             "id":"4.c.1"
+          },
+          "seriesdescription":{
+             "key":1001500,
+             "name":"Proportion of teachers who have received at least the minimum organized teacher training (e.g. pedagogical training) pre-service or in-service required for teaching at the relevant level in a given country, by sex and education level (%)",
+             "id":"SE_TRA_GRDL"
+          },
+          "geoarea":{
+             "key":1000000,
+             "name":"Zimbabwe",
+             "id":"716",
+             "RegionId":"ZW"
+          },
+          "sex":{
+             "key":1000020,
+             "name":"Both sexes or no breakdown by sex",
+             "id":"_T"
+          },
+          "age":{
+             "key":1000000,
+             "name":"All age ranges or no breakdown by age",
+             "id":"_T"
+          },
+          "urbanisation":{
+             "key":1000040,
+             "name":"Pre-primary education",
+             "id":"ISCED11_02"
+          },
+          "tsKey":1001280,
+          "startDate":"2016-01-01T00:00:00",
+          "endDate":"2018-01-01T00:00:00",
+          "frequency":"A",
+          "unit":"Percent",
+          "scale":1,
+          "values":[
+             50.5,
+             52.9,
+             58.5
+          ]
+       },
+       {
+          "goal":{
+             "key":1000030,
+             "name":"Goal 4. Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all",
+             "id":"4"
+          },
+          "target":{
+             "key":1000980,
+             "name":"4.c  By 2030, substantially increase the supply of qualified teachers, including through international cooperation for teacher training in developing countries, especially least developed countries and small island developing States",
+             "id":"4.c"
+          },
+          "indicator":{
+             "key":1001200,
+             "name":"4.c.1 Proportion of teachers in: (a) pre-primary; (b) primary; (c) lower secondary; and (d) upper secondary education who have received at least the minimum organized teacher training (e.g. pedagogical training) pre-service or in-service required for teaching at the relevant level in a given country",
+             "id":"4.c.1"
+          },
+          "seriesdescription":{
+             "key":1001500,
+             "name":"Proportion of teachers who have received at least the minimum organized teacher training (e.g. pedagogical training) pre-service or in-service required for teaching at the relevant level in a given country, by sex and education level (%)",
+             "id":"SE_TRA_GRDL"
+          },
+          "geoarea":{
+             "key":1000000,
+             "name":"Zimbabwe",
+             "id":"716",
+             "RegionId":"ZW"
+          },
+          "sex":{
+             "key":1000020,
+             "name":"Both sexes or no breakdown by sex",
+             "id":"_T"
+          },
+          "age":{
+             "key":1000000,
+             "name":"All age ranges or no breakdown by age",
+             "id":"_T"
+          },
+          "urbanisation":{
+             "key":1000050,
+             "name":"Primary education",
+             "id":"ISCED11_1"
+          },
+          "tsKey":1001290,
+          "startDate":"2016-01-01T00:00:00",
+          "endDate":"2018-01-01T00:00:00",
+          "frequency":"A",
+          "unit":"Percent",
+          "scale":1,
+          "values":[
+             97.2,
+             97.4,
+             97.1
+          ]
+       },
+       {
+          "goal":{
+             "key":1000030,
+             "name":"Goal 4. Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all",
+             "id":"4"
+          },
+          "target":{
+             "key":1000980,
+             "name":"4.c  By 2030, substantially increase the supply of qualified teachers, including through international cooperation for teacher training in developing countries, especially least developed countries and small island developing States",
+             "id":"4.c"
+          },
+          "indicator":{
+             "key":1001200,
+             "name":"4.c.1 Proportion of teachers in: (a) pre-primary; (b) primary; (c) lower secondary; and (d) upper secondary education who have received at least the minimum organized teacher training (e.g. pedagogical training) pre-service or in-service required for teaching at the relevant level in a given country",
+             "id":"4.c.1"
+          },
+          "seriesdescription":{
+             "key":1001500,
+             "name":"Proportion of teachers who have received at least the minimum organized teacher training (e.g. pedagogical training) pre-service or in-service required for teaching at the relevant level in a given country, by sex and education level (%)",
+             "id":"SE_TRA_GRDL"
+          },
+          "geoarea":{
+             "key":1000000,
+             "name":"Zimbabwe",
+             "id":"716",
+             "RegionId":"ZW"
+          },
+          "sex":{
+             "key":1000020,
+             "name":"Both sexes or no breakdown by sex",
+             "id":"_T"
+          },
+          "age":{
+             "key":1000000,
+             "name":"All age ranges or no breakdown by age",
+             "id":"_T"
+          },
+          "urbanisation":{
+             "key":1000060,
+             "name":"Lower secondary education",
+             "id":"ISCED11_2"
+          },
+          "tsKey":1001300,
+          "startDate":"2016-01-01T00:00:00",
+          "endDate":"2018-01-01T00:00:00",
+          "frequency":"A",
+          "unit":"Percent",
+          "scale":1,
+          "values":[
+             80.1,
+             83.7,
+             85.5
+          ]
+       },
+       {
+          "goal":{
+             "key":1000040,
+             "name":"Goal 5. Achieve gender equality and empower all women and girls",
+             "id":"5"
+          },
+          "target":{
+             "key":1000210,
+             "name":"5.2 Eliminate all forms of violence against all women and girls in the public and private spheres, including trafficking and sexual and other types of exploitation",
+             "id":"5.2"
+          },
+          "indicator":{
+             "key":1000280,
+             "name":"5.2.1 Proportion of ever-partnered women and girls aged 15 years and older subjected to physical, sexual or psychological violence by a current or former intimate partner in the previous 12 months, by form of violence and by age",
+             "id":"5.2.1"
+          },
+          "seriesdescription":{
+             "key":1000270,
+             "name":"Proportion of ever-partnered women and girls subjected to physical and sexual violence by a current or former intimate partner in the previous 12 months, by age (%)",
+             "id":"VC_VAW_MARR"
+          },
+          "geoarea":{
+             "key":1000000,
+             "name":"Zimbabwe",
+             "id":"716",
+             "RegionId":"ZW"
+          },
+          "sex":{
+             "key":1000000,
+             "name":"Female",
+             "id":"F"
+          },
+          "age":{
+             "key":1000140,
+             "name":"15 years old and over",
+             "id":"Y_GE15"
+          },
+          "urbanisation":{
+             "key":1000000,
+             "name":"Total or no breakdown by education level",
+             "id":"_T"
+          },
+          "tsKey":1001310,
+          "startDate":"2015-01-01T00:00:00",
+          "endDate":"2019-01-01T00:00:00",
+          "frequency":"A",
+          "unit":"Percent",
+          "scale":1,
+          "values":[
+             45.0,
+             null,
+             null,
+             null,
+             9.4
+          ]
+       },
+       {
+          "goal":{
+             "key":1000040,
+             "name":"Goal 5. Achieve gender equality and empower all women and girls",
+             "id":"5"
+          },
+          "target":{
+             "key":1000220,
+             "name":"5.3 Eliminate all harmful practices, such as child, early and forced marriage and female genital mutilation",
+             "id":"5.3"
+          },
+          "indicator":{
+             "key":1000290,
+             "name":"5.3.1 Proportion of women aged 20–24 years who were married or in a union before age 15 and before age 18",
+             "id":"5.3.1"
+          },
+          "seriesdescription":{
+             "key":1000280,
+             "name":"Proportion of womenaged 20-24 years who were married or in a union beforeage18 (%)",
+             "id":"SP_DYN_MRBF18"
+          },
+          "geoarea":{
+             "key":1000000,
+             "name":"Zimbabwe",
+             "id":"716",
+             "RegionId":"ZW"
+          },
+          "sex":{
+             "key":1000000,
+             "name":"Female",
+             "id":"F"
+          },
+          "age":{
+             "key":1000150,
+             "name":"20 to 24 years old",
+             "id":"Y20T24"
+          },
+          "urbanisation":{
+             "key":1000000,
+             "name":"Total or no breakdown by education level",
+             "id":"_T"
+          },
+          "tsKey":1001320,
+          "startDate":"2019-01-01T00:00:00",
+          "endDate":"2019-01-01T00:00:00",
+          "frequency":"A",
+          "unit":"Percent",
+          "scale":1,
+          "values":[
+             33.7
+          ]
+       },
+       {
+          "goal":{
+             "key":1000040,
+             "name":"Goal 5. Achieve gender equality and empower all women and girls",
+             "id":"5"
+          },
+          "target":{
+             "key":1000220,
+             "name":"5.3 Eliminate all harmful practices, such as child, early and forced marriage and female genital mutilation",
+             "id":"5.3"
+          },
+          "indicator":{
+             "key":1000290,
+             "name":"5.3.1 Proportion of women aged 20–24 years who were married or in a union before age 15 and before age 18",
+             "id":"5.3.1"
+          },
+          "seriesdescription":{
+             "key":1000280,
+             "name":"Proportion of womenaged 20-24 years who were married or in a union beforeage18 (%)",
+             "id":"SP_DYN_MRBF18"
+          },
+          "geoarea":{
+             "key":1000000,
+             "name":"Zimbabwe",
+             "id":"716",
+             "RegionId":"ZW"
+          },
+          "sex":{
+             "key":1000010,
+             "name":"Male",
+             "id":"M"
+          },
+          "age":{
+             "key":1000150,
+             "name":"20 to 24 years old",
+             "id":"Y20T24"
+          },
+          "urbanisation":{
+             "key":1000000,
+             "name":"Total or no breakdown by education level",
+             "id":"_T"
+          },
+          "tsKey":1001330,
+          "startDate":"2019-01-01T00:00:00",
+          "endDate":"2019-01-01T00:00:00",
+          "frequency":"A",
+          "unit":"Percent",
+          "scale":1,
+          "values":[
+             21.2
+          ]
+       },
+       {
+          "goal":{
+             "key":1000040,
+             "name":"Goal 5. Achieve gender equality and empower all women and girls",
+             "id":"5"
+          },
+          "target":{
+             "key":1000220,
+             "name":"5.3 Eliminate all harmful practices, such as child, early and forced marriage and female genital mutilation",
+             "id":"5.3"
+          },
+          "indicator":{
+             "key":1000290,
+             "name":"5.3.1 Proportion of women aged 20–24 years who were married or in a union before age 15 and before age 18",
+             "id":"5.3.1"
+          },
+          "seriesdescription":{
+             "key":1001510,
+             "name":"Proportion of women aged 20–24 years who were married or in a union before age 15 and before age 18",
+             "id":"SP_DYN_MRB"
+          },
+          "geoarea":{
+             "key":1000000,
+             "name":"Zimbabwe",
+             "id":"716",
+             "RegionId":"ZW"
+          },
+          "sex":{
+             "key":1000000,
+             "name":"Female",
+             "id":"F"
+          },
+          "age":{
+             "key":1000150,
+             "name":"20 to 24 years old",
+             "id":"Y20T24"
+          },
+          "urbanisation":{
+             "key":1000000,
+             "name":"Total or no breakdown by education level",
+             "id":"_T"
+          },
+          "tsKey":1001340,
+          "startDate":"2015-01-01T00:00:00",
+          "endDate":"2017-01-01T00:00:00",
+          "frequency":"A",
+          "unit":"Percent",
+          "scale":1,
+          "values":[
+             32.4,
+             null,
+             21.6
+          ]
+       },
+       {
+          "goal":{
+             "key":1000040,
+             "name":"Goal 5. Achieve gender equality and empower all women and girls",
+             "id":"5"
+          },
+          "target":{
+             "key":1000220,
+             "name":"5.3 Eliminate all harmful practices, such as child, early and forced marriage and female genital mutilation",
+             "id":"5.3"
+          },
+          "indicator":{
+             "key":1000290,
+             "name":"5.3.1 Proportion of women aged 20–24 years who were married or in a union before age 15 and before age 18",
+             "id":"5.3.1"
+          },
+          "seriesdescription":{
+             "key":1001520,
+             "name":"Proportion of womenaged 20-24 years who were married or in a union beforeage15 (%)",
+             "id":"SP_DYN_MRBF15"
+          },
+          "geoarea":{
+             "key":1000000,
+             "name":"Zimbabwe",
+             "id":"716",
+             "RegionId":"ZW"
+          },
+          "sex":{
+             "key":1000000,
+             "name":"Female",
+             "id":"F"
+          },
+          "age":{
+             "key":1000150,
+             "name":"20 to 24 years old",
+             "id":"Y20T24"
+          },
+          "urbanisation":{
+             "key":1000000,
+             "name":"Total or no breakdown by education level",
+             "id":"_T"
+          },
+          "tsKey":1001350,
+          "startDate":"2019-01-01T00:00:00",
+          "endDate":"2019-01-01T00:00:00",
+          "frequency":"A",
+          "unit":"Percent",
+          "scale":1,
+          "values":[
+             5.4
+          ]
+       },
+       {
+          "goal":{
+             "key":1000040,
+             "name":"Goal 5. Achieve gender equality and empower all women and girls",
+             "id":"5"
+          },
+          "target":{
+             "key":1000220,
+             "name":"5.3 Eliminate all harmful practices, such as child, early and forced marriage and female genital mutilation",
+             "id":"5.3"
+          },
+          "indicator":{
+             "key":1000290,
+             "name":"5.3.1 Proportion of women aged 20–24 years who were married or in a union before age 15 and before age 18",
+             "id":"5.3.1"
+          },
+          "seriesdescription":{
+             "key":1001520,
+             "name":"Proportion of womenaged 20-24 years who were married or in a union beforeage15 (%)",
+             "id":"SP_DYN_MRBF15"
+          },
+          "geoarea":{
+             "key":1000000,
+             "name":"Zimbabwe",
+             "id":"716",
+             "RegionId":"ZW"
+          },
+          "sex":{
+             "key":1000010,
+             "name":"Male",
+             "id":"M"
+          },
+          "age":{
+             "key":1000150,
+             "name":"20 to 24 years old",
+             "id":"Y20T24"
+          },
+          "urbanisation":{
+             "key":1000000,
+             "name":"Total or no breakdown by education level",
+             "id":"_T"
+          },
+          "tsKey":1001360,
+          "startDate":"2019-01-01T00:00:00",
+          "endDate":"2019-01-01T00:00:00",
+          "frequency":"A",
+          "unit":"Percent",
+          "scale":1,
+          "values":[
+             0.0
+          ]
+       },
+       {
+          "goal":{
+             "key":1000040,
+             "name":"Goal 5. Achieve gender equality and empower all women and girls",
+             "id":"5"
+          },
+          "target":{
+             "key":1000230,
+             "name":"5.4 Recognize and value unpaid care and domestic work through the provision of public services, infrastructure and social protection policies and the promotion of shared responsibility within the household and the family as nationally appropriate",
+             "id":"5.4"
+          },
+          "indicator":{
+             "key":1000300,
+             "name":"5.5.1 Proportion of seats held by women in (a) national parliaments and (b) local governments",
+             "id":"5.5.1"
+          },
+          "seriesdescription":{
+             "key":1001530,
+             "name":"Proportion of elected seats held by women in deliberative bodies of local government (%)",
+             "id":"SG_GEN_LOCGELS"
+          },
+          "geoarea":{
+             "key":1000000,
+             "name":"Zimbabwe",
+             "id":"716",
+             "RegionId":"ZW"
+          },
+          "sex":{
+             "key":1000000,
+             "name":"Female",
+             "id":"F"
+          },
+          "age":{
+             "key":1000000,
+             "name":"All age ranges or no breakdown by age",
+             "id":"_T"
+          },
+          "urbanisation":{
+             "key":1000000,
+             "name":"Total or no breakdown by education level",
+             "id":"_T"
+          },
+          "tsKey":1001370,
+          "startDate":"2015-01-01T00:00:00",
+          "endDate":"2015-01-01T00:00:00",
+          "frequency":"A",
+          "unit":"Percent",
+          "scale":1,
+          "values":[
+             31.9
+          ]
+       },
+       {
+          "goal":{
+             "key":1000040,
+             "name":"Goal 5. Achieve gender equality and empower all women and girls",
+             "id":"5"
+          },
+          "target":{
+             "key":1000240,
+             "name":"5.5 Ensure women’s full and effective participation and equal opportunities for leadership at all levels of decision-making in political, economic and public life",
+             "id":"5.5"
+          },
+          "indicator":{
+             "key":1000310,
+             "name":"5.5.2 Proportion of women in managerial positions",
+             "id":"5.5.2"
+          },
+          "seriesdescription":{
+             "key":1000300,
+             "name":"Proportion of women in managerial positions (%)",
+             "id":"IC_GEN_MGTL"
+          },
+          "geoarea":{
+             "key":1000000,
+             "name":"Zimbabwe",
+             "id":"716",
+             "RegionId":"ZW"
+          },
+          "sex":{
+             "key":1000000,
+             "name":"Female",
+             "id":"F"
+          },
+          "age":{
+             "key":1000000,
+             "name":"All age ranges or no breakdown by age",
+             "id":"_T"
+          },
+          "urbanisation":{
+             "key":1000000,
+             "name":"Total or no breakdown by education level",
+             "id":"_T"
+          },
+          "tsKey":1001380,
+          "startDate":"2014-01-01T00:00:00",
+          "endDate":"2017-01-01T00:00:00",
+          "frequency":"A",
+          "unit":"Percent",
+          "scale":1,
+          "values":[
+             27.6,
+             null,
+             null,
+             31.0
+          ]
+       },
+       {
+          "goal":{
+             "key":1000040,
+             "name":"Goal 5. Achieve gender equality and empower all women and girls",
+             "id":"5"
+          },
+          "target":{
+             "key":1000250,
+             "name":"5.6 Ensure universal access to sexual and reproductive health and reproductive rights as agreed in accordance with the Programme of Action of the International Conference on Population and Development and the Beijing Platform for Action and the outcome documents of their review conferences",
+             "id":"5.6"
+          },
+          "indicator":{
+             "key":1000320,
+             "name":"5.6.1 Proportion of women aged 15–49 years who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care",
+             "id":"5.6.1"
+          },
+          "seriesdescription":{
+             "key":1000310,
+             "name":"Proportion of women who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care (% of women aged 15-49 years)",
+             "id":"SH_FPL_INFM"
+          },
+          "geoarea":{
+             "key":1000000,
+             "name":"Zimbabwe",
+             "id":"716",
+             "RegionId":"ZW"
+          },
+          "sex":{
+             "key":1000000,
+             "name":"Female",
+             "id":"F"
+          },
+          "age":{
+             "key":1000090,
+             "name":"15 to 49 years old",
+             "id":"Y15T49"
+          },
+          "urbanisation":{
+             "key":1000000,
+             "name":"Total or no breakdown by education level",
+             "id":"_T"
+          },
+          "tsKey":1001390,
+          "startDate":"2014-01-01T00:00:00",
+          "endDate":"2014-01-01T00:00:00",
+          "frequency":"A",
+          "unit":"Percent",
+          "scale":1,
+          "values":[
+             67.0
+          ]
+       },
+       {
+          "goal":{
+             "key":1000040,
+             "name":"Goal 5. Achieve gender equality and empower all women and girls",
+             "id":"5"
+          },
+          "target":{
+             "key":1000990,
+             "name":"5.b  Enhance the use of enabling technology, in particular information and communications technology, to promote the empowerment of women",
+             "id":"5.b"
+          },
+          "indicator":{
+             "key":1001210,
+             "name":"5.b.1 Proportion of individuals who own a mobile telephone, by sex",
+             "id":"5.b.1"
+          },
+          "seriesdescription":{
+             "key":1001540,
+             "name":"Proportion of individuals who own a mobile telephone by sex (%)",
+             "id":"IT_MOB_OWN"
+          },
+          "geoarea":{
+             "key":1000000,
+             "name":"Zimbabwe",
+             "id":"716",
+             "RegionId":"ZW"
+          },
+          "sex":{
+             "key":1000000,
+             "name":"Female",
+             "id":"F"
+          },
+          "age":{
+             "key":1000000,
+             "name":"All age ranges or no breakdown by age",
+             "id":"_T"
+          },
+          "urbanisation":{
+             "key":1000000,
+             "name":"Total or no breakdown by education level",
+             "id":"_T"
+          },
+          "tsKey":1001400,
+          "startDate":"2019-01-01T00:00:00",
+          "endDate":"2019-01-01T00:00:00",
+          "frequency":"A",
+          "unit":"Percent",
+          "scale":1,
+          "values":[
+             72.0
+          ]
+       },
+       {
+          "goal":{
+             "key":1000040,
+             "name":"Goal 5. Achieve gender equality and empower all women and girls",
+             "id":"5"
+          },
+          "target":{
+             "key":1000990,
+             "name":"5.b  Enhance the use of enabling technology, in particular information and communications technology, to promote the empowerment of women",
+             "id":"5.b"
+          },
+          "indicator":{
+             "key":1001210,
+             "name":"5.b.1 Proportion of individuals who own a mobile telephone, by sex",
+             "id":"5.b.1"
+          },
+          "seriesdescription":{
+             "key":1001540,
+             "name":"Proportion of individuals who own a mobile telephone by sex (%)",
+             "id":"IT_MOB_OWN"
+          },
+          "geoarea":{
+             "key":1000000,
+             "name":"Zimbabwe",
+             "id":"716",
+             "RegionId":"ZW"
+          },
+          "sex":{
+             "key":1000010,
+             "name":"Male",
+             "id":"M"
+          },
+          "age":{
+             "key":1000000,
+             "name":"All age ranges or no breakdown by age",
+             "id":"_T"
+          },
+          "urbanisation":{
+             "key":1000000,
+             "name":"Total or no breakdown by education level",
+             "id":"_T"
+          },
+          "tsKey":1001410,
+          "startDate":"2019-01-01T00:00:00",
+          "endDate":"2019-01-01T00:00:00",
+          "frequency":"A",
+          "unit":"Percent",
+          "scale":1,
+          "values":[
+             73.0
+          ]
+       },
+       {
+          "goal":{
+             "key":1000050,
+             "name":"Goal 6. Ensure availability and sustainable management of water and sanitation for all",
+             "id":"6"
+          },
+          "target":{
+             "key":1000280,
+             "name":"6.1 By 2030, achieve universal and equitable access to safe and affordable drinking water for all",
+             "id":"6.1"
+          },
+          "indicator":{
+             "key":1000360,
+             "name":"6.1.1 Proportion of population using safely managed drinking water services",
+             "id":"6.1.1"
+          },
+          "seriesdescription":{
+             "key":1000350,
+             "name":"Proportion of population using safely managed drinking water services, by urban/rural (%)",
+             "id":"SH_H2O_SAFE"
+          },
+          "geoarea":{
+             "key":1000000,
+             "name":"Zimbabwe",
+             "id":"716",
+             "RegionId":"ZW"
+          },
+          "sex":{
+             "key":1000020,
+             "name":"Both sexes or no breakdown by sex",
+             "id":"_T"
+          },
+          "age":{
+             "key":1000000,
+             "name":"All age ranges or no breakdown by age",
+             "id":"_T"
+          },
+          "urbanisation":{
+             "key":1000000,
+             "name":"Total or no breakdown by education level",
+             "id":"_T"
+          },
+          "tsKey":1000360,
+          "startDate":"2014-01-01T00:00:00",
+          "endDate":"2017-01-01T00:00:00",
+          "frequency":"A",
+          "unit":"Percent",
+          "scale":1,
+          "values":[
+             76.0,
+             78.0,
+             null,
+             78.3
+          ]
+       },
+       {
+          "goal":{
+             "key":1000050,
+             "name":"Goal 6. Ensure availability and sustainable management of water and sanitation for all",
+             "id":"6"
+          },
+          "target":{
+             "key":1000290,
+             "name":"6.3 By 2030, improve water quality by reducing pollution, eliminating dumping and minimizing release of hazardous chemicals and materials, halving the proportion of untreated wastewater and substantially increasing recycling and safe reuse globally",
+             "id":"6.3"
+          },
+          "indicator":{
+             "key":1000380,
+             "name":"6.3.1 Proportion of wastewater safely treated",
+             "id":"6.3.1"
+          },
+          "seriesdescription":{
+             "key":1001560,
+             "name":"Proportion of safely treated domestic wastewater flows (%)",
+             "id":"EN_WWT_WWDS"
+          },
+          "geoarea":{
+             "key":1000000,
+             "name":"Zimbabwe",
+             "id":"716",
+             "RegionId":"ZW"
+          },
+          "sex":{
+             "key":1000020,
+             "name":"Both sexes or no breakdown by sex",
+             "id":"_T"
+          },
+          "age":{
+             "key":1000000,
+             "name":"All age ranges or no breakdown by age",
+             "id":"_T"
+          },
+          "urbanisation":{
+             "key":1000000,
+             "name":"Total or no breakdown by education level",
+             "id":"_T"
+          },
+          "tsKey":1001420,
+          "startDate":"2015-01-01T00:00:00",
+          "endDate":"2015-01-01T00:00:00",
+          "frequency":"A",
+          "unit":"Percent",
+          "scale":1,
+          "values":[
+             80.0
+          ]
+       },
+       {
+          "goal":{
+             "key":1000050,
+             "name":"Goal 6. Ensure availability and sustainable management of water and sanitation for all",
+             "id":"6"
+          },
+          "target":{
+             "key":1000800,
+             "name":"6.2  By 2030, achieve access to adequate and equitable sanitation and hygiene for all and end open defecation, paying special attention to the needs of women and girls and those in vulnerable situations",
+             "id":"6.2"
+          },
+          "indicator":{
+             "key":1000370,
+             "name":"6.2.1 Proportion of population using (a) safely managed sanitation services and (b) a hand-washing facility with soap and water",
+             "id":"6.2.1"
+          },
+          "seriesdescription":{
+             "key":1001550,
+             "name":"Proportion of population practicing open defecation, by urban/rural (%)",
+             "id":"SH_SAN_DEFECT"
+          },
+          "geoarea":{
+             "key":1000000,
+             "name":"Zimbabwe",
+             "id":"716",
+             "RegionId":"ZW"
+          },
+          "sex":{
+             "key":1000020,
+             "name":"Both sexes or no breakdown by sex",
+             "id":"_T"
+          },
+          "age":{
+             "key":1000000,
+             "name":"All age ranges or no breakdown by age",
+             "id":"_T"
+          },
+          "urbanisation":{
+             "key":1000000,
+             "name":"Total or no breakdown by education level",
+             "id":"_T"
+          },
+          "tsKey":1001430,
+          "startDate":"2014-01-01T00:00:00",
+          "endDate":"2017-01-01T00:00:00",
+          "frequency":"A",
+          "unit":"Percent",
+          "scale":1,
+          "values":[
+             62.0,
+             37.0,
+             null,
+             67.8
+          ]
+       },
+       {
+          "goal":{
+             "key":1000060,
+             "name":"Goal 7. Ensure access to affordable, reliable, sustainable and modern energy for all",
+             "id":"7"
+          },
+          "target":{
+             "key":1000300,
+             "name":"7.1 By 2030, ensure universal access to affordable, reliable and modern energy services",
+             "id":"7.1"
+          },
+          "indicator":{
+             "key":1000390,
+             "name":"7.1.1 Proportion of population with access to electricity",
+             "id":"7.1.1"
+          },
+          "seriesdescription":{
+             "key":1000380,
+             "name":"Proportion of population with access to electricity, by urban/rural (%)",
+             "id":"EG_ELC_ACCS"
+          },
+          "geoarea":{
+             "key":1000000,
+             "name":"Zimbabwe",
+             "id":"716",
+             "RegionId":"ZW"
+          },
+          "sex":{
+             "key":1000020,
+             "name":"Both sexes or no breakdown by sex",
+             "id":"_T"
+          },
+          "age":{
+             "key":1000000,
+             "name":"All age ranges or no breakdown by age",
+             "id":"_T"
+          },
+          "urbanisation":{
+             "key":1000000,
+             "name":"Total or no breakdown by education level",
+             "id":"_T"
+          },
+          "tsKey":1000390,
+          "startDate":"2014-01-01T00:00:00",
+          "endDate":"2019-01-01T00:00:00",
+          "frequency":"A",
+          "unit":"Percent",
+          "scale":1,
+          "values":[
+             60.0,
+             33.7,
+             null,
+             46.3,
+             null,
+             55.3
+          ]
+       },
+       {
+          "goal":{
+             "key":1000060,
+             "name":"Goal 7. Ensure access to affordable, reliable, sustainable and modern energy for all",
+             "id":"7"
+          },
+          "target":{
+             "key":1000300,
+             "name":"7.1 By 2030, ensure universal access to affordable, reliable and modern energy services",
+             "id":"7.1"
+          },
+          "indicator":{
+             "key":1000400,
+             "name":"7.1.2 Proportion of population with primary reliance on clean fuels and technology",
+             "id":"7.1.2"
+          },
+          "seriesdescription":{
+             "key":1000390,
+             "name":"Proportion of population with primary reliance on clean fuels and technology (%)",
+             "id":"EG_EGY_CLEAN"
+          },
+          "geoarea":{
+             "key":1000000,
+             "name":"Zimbabwe",
+             "id":"716",
+             "RegionId":"ZW"
+          },
+          "sex":{
+             "key":1000020,
+             "name":"Both sexes or no breakdown by sex",
+             "id":"_T"
+          },
+          "age":{
+             "key":1000000,
+             "name":"All age ranges or no breakdown by age",
+             "id":"_T"
+          },
+          "urbanisation":{
+             "key":1000000,
+             "name":"Total or no breakdown by education level",
+             "id":"_T"
+          },
+          "tsKey":1000400,
+          "startDate":"2017-01-01T00:00:00",
+          "endDate":"2019-01-01T00:00:00",
+          "frequency":"A",
+          "unit":"Percent",
+          "scale":1,
+          "values":[
+             21.6,
+             null,
+             27.7
+          ]
+       },
+       {
+          "goal":{
+             "key":1000060,
+             "name":"Goal 7. Ensure access to affordable, reliable, sustainable and modern energy for all",
+             "id":"7"
+          },
+          "target":{
+             "key":1000310,
+             "name":"7.2 By 2030, increase substantially the share of renewable energy in the global energy mix",
+             "id":"7.2"
+          },
+          "indicator":{
+             "key":1000410,
+             "name":"7.2.1 Renewable energy share in the total final energy consumption",
+             "id":"7.2.1"
+          },
+          "seriesdescription":{
+             "key":1000400,
+             "name":"Renewable energy share in the total final energy consumption (%)",
+             "id":"EG_FEC_RNEW"
+          },
+          "geoarea":{
+             "key":1000000,
+             "name":"Zimbabwe",
+             "id":"716",
+             "RegionId":"ZW"
+          },
+          "sex":{
+             "key":1000020,
+             "name":"Both sexes or no breakdown by sex",
+             "id":"_T"
+          },
+          "age":{
+             "key":1000000,
+             "name":"All age ranges or no breakdown by age",
+             "id":"_T"
+          },
+          "urbanisation":{
+             "key":1000000,
+             "name":"Total or no breakdown by education level",
+             "id":"_T"
+          },
+          "tsKey":1000410,
+          "startDate":"2015-01-01T00:00:00",
+          "endDate":"2016-01-01T00:00:00",
+          "frequency":"A",
+          "unit":"Percent",
+          "scale":1,
+          "values":[
+             41.5,
+             38.0
+          ]
+       },
+       {
+          "goal":{
+             "key":1000070,
+             "name":"Goal 8. Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all",
+             "id":"8"
+          },
+          "target":{
+             "key":1000320,
+             "name":"8.1 Sustain per capita economic growth in accordance with national circumstances and, in particular, at least 7 per cent gross domestic product growth per annum in the least developed countries",
+             "id":"8.1"
+          },
+          "indicator":{
+             "key":1000420,
+             "name":"8.1.1 Annual growth rate of real GDP per capita",
+             "id":"8.1.1"
+          },
+          "seriesdescription":{
+             "key":1000410,
+             "name":"Annual growth rate of real GDP per capita (%)",
+             "id":"NY_GDP_PCAP"
+          },
+          "geoarea":{
+             "key":1000000,
+             "name":"Zimbabwe",
+             "id":"716",
+             "RegionId":"ZW"
+          },
+          "sex":{
+             "key":1000020,
+             "name":"Both sexes or no breakdown by sex",
+             "id":"_T"
+          },
+          "age":{
+             "key":1000000,
+             "name":"All age ranges or no breakdown by age",
+             "id":"_T"
+          },
+          "urbanisation":{
+             "key":1000000,
+             "name":"Total or no breakdown by education level",
+             "id":"_T"
+          },
+          "tsKey":1000420,
+          "startDate":"2014-01-01T00:00:00",
+          "endDate":"2017-01-01T00:00:00",
+          "frequency":"A",
+          "unit":"Percent",
+          "scale":1,
+          "values":[
+             2.1,
+             2.4,
+             2.9,
+             7.3
+          ]
+       },
+       {
+          "goal":{
+             "key":1000070,
+             "name":"Goal 8. Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all",
+             "id":"8"
+          },
+          "target":{
+             "key":1000330,
+             "name":"8.2 Achieve higher levels of economic productivity through diversification, technological upgrading and innovation, including through a focus on high-value added and labour-intensive sectors",
+             "id":"8.2"
+          },
+          "indicator":{
+             "key":1000430,
+             "name":"8.2.1 Annual growth rate of real GDP per employed person",
+             "id":"8.2.1"
+          },
+          "seriesdescription":{
+             "key":1000420,
+             "name":"Annual growth rate of real GDP per employed person (%)",
+             "id":"SL_EMP_PCAP"
+          },
+          "geoarea":{
+             "key":1000000,
+             "name":"Zimbabwe",
+             "id":"716",
+             "RegionId":"ZW"
+          },
+          "sex":{
+             "key":1000020,
+             "name":"Both sexes or no breakdown by sex",
+             "id":"_T"
+          },
+          "age":{
+             "key":1000000,
+             "name":"All age ranges or no breakdown by age",
+             "id":"_T"
+          },
+          "urbanisation":{
+             "key":1000000,
+             "name":"Total or no breakdown by education level",
+             "id":"_T"
+          },
+          "tsKey":1000430,
+          "startDate":"2014-01-01T00:00:00",
+          "endDate":"2018-01-01T00:00:00",
+          "frequency":"A",
+          "unit":"Percent",
+          "scale":1,
+          "values":[
+             5.1,
+             5.02712202951238,
+             2.77509859438108,
+             3.81579182149032,
+             2.76677123251685
+          ]
+       },
+       {
+          "goal":{
+             "key":1000070,
+             "name":"Goal 8. Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all",
+             "id":"8"
+          },
+          "target":{
+             "key":1000340,
+             "name":"8.3 Promote development-oriented policies that support productive activities, decent job creation, entrepreneurship, creativity and innovation, and encourage the formalization and growth of micro-, small- and medium-sized enterprises, including through access to financial services",
+             "id":"8.3"
+          },
+          "indicator":{
+             "key":1000440,
+             "name":"8.3.1 Proportion of informal employment in non‑agriculture employment, by sex",
+             "id":"8.3.1"
+          },
+          "seriesdescription":{
+             "key":1000430,
+             "name":"Proportion of informal employment in non-agriculture employment, by sex (ILO harmonized estimates) (%)",
+             "id":"SL_ISV_IFRM"
+          },
+          "geoarea":{
+             "key":1000000,
+             "name":"Zimbabwe",
+             "id":"716",
+             "RegionId":"ZW"
+          },
+          "sex":{
+             "key":1000020,
+             "name":"Both sexes or no breakdown by sex",
+             "id":"_T"
+          },
+          "age":{
+             "key":1000000,
+             "name":"All age ranges or no breakdown by age",
+             "id":"_T"
+          },
+          "urbanisation":{
+             "key":1000000,
+             "name":"Total or no breakdown by education level",
+             "id":"_T"
+          },
+          "tsKey":1000440,
+          "startDate":"2014-01-01T00:00:00",
+          "endDate":"2017-01-01T00:00:00",
+          "frequency":"A",
+          "unit":"Percent",
+          "scale":1,
+          "values":[
+             50.0,
+             null,
+             null,
+             38.9
+          ]
+       },
+       {
+          "goal":{
+             "key":1000070,
+             "name":"Goal 8. Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all",
+             "id":"8"
+          },
+          "target":{
+             "key":1000350,
+             "name":"8.4 Improve progressively, through 2030, global resource efficiency in consumption and production and endeavour to decouple economic growth from environmental degradation, in accordance with the 10‑Year Framework of Programmes on Sustainable Consumption and Production, with developed countries taking the lead",
+             "id":"8.4"
+          },
+          "indicator":{
+             "key":1000450,
+             "name":"8.5.2 Unemployment rate, by sex, age and persons with disabilities",
+             "id":"8.5.2"
+          },
+          "seriesdescription":{
+             "key":1000440,
+             "name":"Unemployment rate, by sex and age (%)",
+             "id":"SL_TLF_UEM"
+          },
+          "geoarea":{
+             "key":1000000,
+             "name":"Zimbabwe",
+             "id":"716",
+             "RegionId":"ZW"
+          },
+          "sex":{
+             "key":1000020,
+             "name":"Both sexes or no breakdown by sex",
+             "id":"_T"
+          },
+          "age":{
+             "key":1000000,
+             "name":"All age ranges or no breakdown by age",
+             "id":"_T"
+          },
+          "urbanisation":{
+             "key":1000000,
+             "name":"Total or no breakdown by education level",
+             "id":"_T"
+          },
+          "tsKey":1000450,
+          "startDate":"2014-01-01T00:00:00",
+          "endDate":"2017-01-01T00:00:00",
+          "frequency":"A",
+          "unit":"Percent",
+          "scale":1,
+          "values":[
+             4.8,
+             null,
+             null,
+             11.2
+          ]
+       },
+       {
+          "goal":{
+             "key":1000070,
+             "name":"Goal 8. Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all",
+             "id":"8"
+          },
+          "target":{
+             "key":1000360,
+             "name":"8.6 By 2020, substantially reduce the proportion of youth not in employment, education or training",
+             "id":"8.6"
+          },
+          "indicator":{
+             "key":1000460,
+             "name":"8.6.1 Proportion of youth (aged 15–24 years) not in education, employment or training",
+             "id":"8.6.1"
+          },
+          "seriesdescription":{
+             "key":1000450,
+             "name":"Proportion of youth not in education, employment or training, by sex and age (%)",
+             "id":"SL_TLF_NEET"
+          },
+          "geoarea":{
+             "key":1000000,
+             "name":"Zimbabwe",
+             "id":"716",
+             "RegionId":"ZW"
+          },
+          "sex":{
+             "key":1000020,
+             "name":"Both sexes or no breakdown by sex",
+             "id":"_T"
+          },
+          "age":{
+             "key":1000130,
+             "name":"15 to 24 years old",
+             "id":"Y15T24"
+          },
+          "urbanisation":{
+             "key":1000000,
+             "name":"Total or no breakdown by education level",
+             "id":"_T"
+          },
+          "tsKey":1001440,
+          "startDate":"2014-01-01T00:00:00",
+          "endDate":"2017-01-01T00:00:00",
+          "frequency":"A",
+          "unit":"Percent",
+          "scale":1,
+          "values":[
+             27.4,
+             null,
+             null,
+             22.1
+          ]
+       },
+       {
+          "goal":{
+             "key":1000070,
+             "name":"Goal 8. Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all",
+             "id":"8"
+          },
+          "target":{
+             "key":1000370,
+             "name":"8.8 Protect labour rights and promote safe and secure working environments for all workers, including migrant workers, in particular women migrants, and those in precarious employment",
+             "id":"8.8"
+          },
+          "indicator":{
+             "key":1000480,
+             "name":"8.8.1 Frequency rates of fatal and non-fatal occupational injuries, by sex and migrant status (NSSA)",
+             "id":"8.8.1"
+          },
+          "seriesdescription":{
+             "key":1001580,
+             "name":"Fatal occupational injuries among employees, by sex and migrant status (per 100,000 employees)",
+             "id":"SL_EMP_FTLINJUR"
+          },
+          "geoarea":{
+             "key":1000000,
+             "name":"Zimbabwe",
+             "id":"716",
+             "RegionId":"ZW"
+          },
+          "sex":{
+             "key":1000020,
+             "name":"Both sexes or no breakdown by sex",
+             "id":"_T"
+          },
+          "age":{
+             "key":1000000,
+             "name":"All age ranges or no breakdown by age",
+             "id":"_T"
+          },
+          "urbanisation":{
+             "key":1000000,
+             "name":"Total or no breakdown by education level",
+             "id":"_T"
+          },
+          "tsKey":1001450,
+          "startDate":"2014-01-01T00:00:00",
+          "endDate":"2014-01-01T00:00:00",
+          "frequency":"A",
+          "unit":"per 100,000 employees",
+          "scale":1,
+          "values":[
+             0.05
+          ]
+       },
+       {
+          "goal":{
+             "key":1000070,
+             "name":"Goal 8. Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all",
+             "id":"8"
+          },
+          "target":{
+             "key":1000380,
+             "name":"8.10 Strengthen the capacity of domestic financial institutions to encourage and expand access to banking, insurance and financial services for all",
+             "id":"8.10"
+          },
+          "indicator":{
+             "key":1000510,
+             "name":"8.10.2 Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider",
+             "id":"8.10.2"
+          },
+          "seriesdescription":{
+             "key":1000500,
+             "name":"Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider (% of adults aged 15 years and older)",
+             "id":"FB_BNK_ACCSS"
+          },
+          "geoarea":{
+             "key":1000000,
+             "name":"Zimbabwe",
+             "id":"716",
+             "RegionId":"ZW"
+          },
+          "sex":{
+             "key":1000020,
+             "name":"Both sexes or no breakdown by sex",
+             "id":"_T"
+          },
+          "age":{
+             "key":1000140,
+             "name":"15 years old and over",
+             "id":"Y_GE15"
+          },
+          "urbanisation":{
+             "key":1000000,
+             "name":"Total or no breakdown by education level",
+             "id":"_T"
+          },
+          "tsKey":1001460,
+          "startDate":"2015-01-01T00:00:00",
+          "endDate":"2015-01-01T00:00:00",
+          "frequency":"A",
+          "unit":"Percent",
+          "scale":1,
+          "values":[
+             48.0
+          ]
+       },
+       {
+          "goal":{
+             "key":1000070,
+             "name":"Goal 8. Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all",
+             "id":"8"
+          },
+          "target":{
+             "key":1000390,
+             "name":"8.b By 2020, develop and operationalize a global strategy for youth employment and implement the Global Jobs Pact of the International Labour Organization",
+             "id":"8.b"
+          },
+          "indicator":{
+             "key":1000520,
+             "name":"8.b.1 Has Zimbabwe developed and operationalized national strategy for youth employment, as a distinct strategy or as part of a national employment strategy",
+             "id":"8.b.1"
+          },
+          "seriesdescription":{
+             "key":1001590,
+             "name":"Existence of a developed and operationalized national strategy for youth employment, as a distinct strategy or as part of a national employment strategy",
+             "id":"SL_CPA_YEMP"
+          },
+          "geoarea":{
+             "key":1000000,
+             "name":"Zimbabwe",
+             "id":"716",
+             "RegionId":"ZW"
+          },
+          "sex":{
+             "key":1000020,
+             "name":"Both sexes or no breakdown by sex",
+             "id":"_T"
+          },
+          "age":{
+             "key":1000000,
+             "name":"All age ranges or no breakdown by age",
+             "id":"_T"
+          },
+          "urbanisation":{
+             "key":1000000,
+             "name":"Total or no breakdown by education level",
+             "id":"_T"
+          },
+          "tsKey":1001470,
+          "startDate":"2014-01-01T00:00:00",
+          "endDate":"2019-01-01T00:00:00",
+          "frequency":"A",
+          "unit":"",
+          "scale":1,
+          "values":[
+             1.0,
+             1.0,
+             1.0,
+             1.0,
+             1.0,
+             1.0
+          ]
+       },
+       {
+          "goal":{
+             "key":1000070,
+             "name":"Goal 8. Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all",
+             "id":"8"
+          },
+          "target":{
+             "key":1000820,
+             "name":"8.7  Take immediate and effective measures to eradicate forced labour, end modern slavery and human trafficking and secure the prohibition and elimination of the worst forms of child labour, including recruitment and use of child soldiers, and by 2025 end child labour in all its forms",
+             "id":"8.7"
+          },
+          "indicator":{
+             "key":1000470,
+             "name":"8.7.1 Proportion and number of children aged 5–17 years engaged in child labour, by sex and age",
+             "id":"8.7.1"
+          },
+          "seriesdescription":{
+             "key":1001570,
+             "name":"Proportion of children engaged in economic activity and household chores, by sex and age (%)",
+             "id":"SL_TLF_CHLDEC"
+          },
+          "geoarea":{
+             "key":1000000,
+             "name":"Zimbabwe",
+             "id":"716",
+             "RegionId":"ZW"
+          },
+          "sex":{
+             "key":1000020,
+             "name":"Both sexes or no breakdown by sex",
+             "id":"_T"
+          },
+          "age":{
+             "key":1000160,
+             "name":"5 to 17 years old",
+             "id":"Y5T17"
+          },
+          "urbanisation":{
+             "key":1000000,
+             "name":"Total or no breakdown by education level",
+             "id":"_T"
+          },
+          "tsKey":1001480,
+          "startDate":"2014-01-01T00:00:00",
+          "endDate":"2019-01-01T00:00:00",
+          "frequency":"A",
+          "unit":"Percent",
+          "scale":1,
+          "values":[
+             4.7,
+             null,
+             null,
+             9.1,
+             null,
+             27.9
+          ]
+       },
+       {
+          "goal":{
+             "key":1000080,
+             "name":"Goal 9. Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation",
+             "id":"9"
+          },
+          "target":{
+             "key":1000400,
+             "name":"9.1 Develop quality, reliable, sustainable and resilient infrastructure, including regional and transborder infrastructure, to support economic development and human well-being, with a focus on affordable and equitable access for all",
+             "id":"9.1"
+          },
+          "indicator":{
+             "key":1000530,
+             "name":"9.1.2 Passenger and freight volumes, by mode of transport (Air and Rail)",
+             "id":"9.1.2"
+          },
+          "seriesdescription":{
+             "key":1001600,
+             "name":"Freight volume, by mode of transport (tonne kilometres)",
+             "id":"IS_RDP_FRGVOL"
+          },
+          "geoarea":{
+             "key":1000000,
+             "name":"Zimbabwe",
+             "id":"716",
+             "RegionId":"ZW"
+          },
+          "sex":{
+             "key":1000020,
+             "name":"Both sexes or no breakdown by sex",
+             "id":"_T"
+          },
+          "age":{
+             "key":1000000,
+             "name":"All age ranges or no breakdown by age",
+             "id":"_T"
+          },
+          "urbanisation":{
+             "key":1000000,
+             "name":"Total or no breakdown by education level",
+             "id":"_T"
+          },
+          "tsKey":1001490,
+          "startDate":"2015-01-01T00:00:00",
+          "endDate":"2015-01-01T00:00:00",
+          "frequency":"A",
+          "unit":"tonne kilometres",
+          "scale":1,
+          "values":[
+             13383.0
+          ]
+       },
+       {
+          "goal":{
+             "key":1000080,
+             "name":"Goal 9. Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation",
+             "id":"9"
+          },
+          "target":{
+             "key":1000410,
+             "name":"9.2 Promote inclusive and sustainable industrialization and, by 2030, significantly raise industry’s share of employment and gross domestic product, in line with national circumstances, and double its share in least developed countries",
+             "id":"9.2"
+          },
+          "indicator":{
+             "key":1000540,
+             "name":"9.2.1 Manufacturing value added as a proportion of GDP and per capita",
+             "id":"9.2.1"
+          },
+          "seriesdescription":{
+             "key":1000530,
+             "name":"Manufacturing value added as a proportion of GDP (%)",
+             "id":"NV_IND_MANF"
+          },
+          "geoarea":{
+             "key":1000000,
+             "name":"Zimbabwe",
+             "id":"716",
+             "RegionId":"ZW"
+          },
+          "sex":{
+             "key":1000020,
+             "name":"Both sexes or no breakdown by sex",
+             "id":"_T"
+          },
+          "age":{
+             "key":1000000,
+             "name":"All age ranges or no breakdown by age",
+             "id":"_T"
+          },
+          "urbanisation":{
+             "key":1000000,
+             "name":"Total or no breakdown by education level",
+             "id":"_T"
+          },
+          "tsKey":1000530,
+          "startDate":"2014-01-01T00:00:00",
+          "endDate":"2017-01-01T00:00:00",
+          "frequency":"A",
+          "unit":"Percent",
+          "scale":1,
+          "values":[
+             12.6,
+             11.9,
+             11.6,
+             11.0
+          ]
+       },
+       {
+          "goal":{
+             "key":1000080,
+             "name":"Goal 9. Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation",
+             "id":"9"
+          },
+          "target":{
+             "key":1000410,
+             "name":"9.2 Promote inclusive and sustainable industrialization and, by 2030, significantly raise industry’s share of employment and gross domestic product, in line with national circumstances, and double its share in least developed countries",
+             "id":"9.2"
+          },
+          "indicator":{
+             "key":1000550,
+             "name":"9.2.2 Manufacturing employment as a proportion of total employment",
+             "id":"9.2.2"
+          },
+          "seriesdescription":{
+             "key":1000540,
+             "name":"Manufacturing employment as a proportion of total employment (%)",
+             "id":"SL_TLF_MANF"
+          },
+          "geoarea":{
+             "key":1000000,
+             "name":"Zimbabwe",
+             "id":"716",
+             "RegionId":"ZW"
+          },
+          "sex":{
+             "key":1000020,
+             "name":"Both sexes or no breakdown by sex",
+             "id":"_T"
+          },
+          "age":{
+             "key":1000000,
+             "name":"All age ranges or no breakdown by age",
+             "id":"_T"
+          },
+          "urbanisation":{
+             "key":1000000,
+             "name":"Total or no breakdown by education level",
+             "id":"_T"
+          },
+          "tsKey":1000540,
+          "startDate":"2014-01-01T00:00:00",
+          "endDate":"2017-01-01T00:00:00",
+          "frequency":"A",
+          "unit":"Percent",
+          "scale":1,
+          "values":[
+             4.0,
+             null,
+             null,
+             1.2
+          ]
+       },
+       {
+          "goal":{
+             "key":1000080,
+             "name":"Goal 9. Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation",
+             "id":"9"
+          },
+          "target":{
+             "key":1000420,
+             "name":"9.3 Increase the access of small-scale industrial and other enterprises, in particular in developing countries, to financial services, including affordable credit, and their integration into value chains and markets",
+             "id":"9.3"
+          },
+          "indicator":{
+             "key":1000560,
+             "name":"9.3.1 Proportion of small-scale industries in total industry value added (MoWA)",
+             "id":"9.3.1"
+          },
+          "seriesdescription":{
+             "key":1000550,
+             "name":"Proportion of small-scale industries in total industry value added (%)",
+             "id":"NV_IND_SSIS"
+          },
+          "geoarea":{
+             "key":1000000,
+             "name":"Zimbabwe",
+             "id":"716",
+             "RegionId":"ZW"
+          },
+          "sex":{
+             "key":1000020,
+             "name":"Both sexes or no breakdown by sex",
+             "id":"_T"
+          },
+          "age":{
+             "key":1000000,
+             "name":"All age ranges or no breakdown by age",
+             "id":"_T"
+          },
+          "urbanisation":{
+             "key":1000000,
+             "name":"Total or no breakdown by education level",
+             "id":"_T"
+          },
+          "tsKey":1000550,
+          "startDate":"2014-01-01T00:00:00",
+          "endDate":"2014-01-01T00:00:00",
+          "frequency":"A",
+          "unit":"Percent",
+          "scale":1,
+          "values":[
+             24.0
+          ]
+       },
+       {
+          "goal":{
+             "key":1000080,
+             "name":"Goal 9. Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation",
+             "id":"9"
+          },
+          "target":{
+             "key":1000420,
+             "name":"9.3 Increase the access of small-scale industrial and other enterprises, in particular in developing countries, to financial services, including affordable credit, and their integration into value chains and markets",
+             "id":"9.3"
+          },
+          "indicator":{
+             "key":1000570,
+             "name":"9.3.2 Proportion of small-scale industries with a loan or line of credit (MoWA)",
+             "id":"9.3.2"
+          },
+          "seriesdescription":{
+             "key":1000560,
+             "name":"Proportion of small-scale industries with a loan or line of credit (%)",
+             "id":"FC_ACC_SSID"
+          },
+          "geoarea":{
+             "key":1000000,
+             "name":"Zimbabwe",
+             "id":"716",
+             "RegionId":"ZW"
+          },
+          "sex":{
+             "key":1000020,
+             "name":"Both sexes or no breakdown by sex",
+             "id":"_T"
+          },
+          "age":{
+             "key":1000000,
+             "name":"All age ranges or no breakdown by age",
+             "id":"_T"
+          },
+          "urbanisation":{
+             "key":1000000,
+             "name":"Total or no breakdown by education level",
+             "id":"_T"
+          },
+          "tsKey":1000560,
+          "startDate":"2014-01-01T00:00:00",
+          "endDate":"2014-01-01T00:00:00",
+          "frequency":"A",
+          "unit":"Percent",
+          "scale":1,
+          "values":[
+             39.0
+          ]
+       },
+       {
+          "goal":{
+             "key":1000080,
+             "name":"Goal 9. Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation",
+             "id":"9"
+          },
+          "target":{
+             "key":1000430,
+             "name":"9.5 Enhance scientific research, upgrade the technological capabilities of industrial sectors in all countries, in particular developing countries, including, by 2030, encouraging innovation and substantially increasing the number of research and development workers per 1 million people and public and private research and development spending",
+             "id":"9.5"
+          },
+          "indicator":{
+             "key":1000580,
+             "name":"9.5.1 Research and development expenditure as a proportion of GDP (MoFED)",
+             "id":"9.5.1"
+          },
+          "seriesdescription":{
+             "key":1000570,
+             "name":"Research and development expenditure as a proportion of GDP (%)",
+             "id":"GB_XPD_RSDV"
+          },
+          "geoarea":{
+             "key":1000000,
+             "name":"Zimbabwe",
+             "id":"716",
+             "RegionId":"ZW"
+          },
+          "sex":{
+             "key":1000020,
+             "name":"Both sexes or no breakdown by sex",
+             "id":"_T"
+          },
+          "age":{
+             "key":1000000,
+             "name":"All age ranges or no breakdown by age",
+             "id":"_T"
+          },
+          "urbanisation":{
+             "key":1000000,
+             "name":"Total or no breakdown by education level",
+             "id":"_T"
+          },
+          "tsKey":1000570,
+          "startDate":"2014-01-01T00:00:00",
+          "endDate":"2014-01-01T00:00:00",
+          "frequency":"A",
+          "unit":"Percent",
+          "scale":1,
+          "values":[
+             2.8
+          ]
+       },
+       {
+          "goal":{
+             "key":1000080,
+             "name":"Goal 9. Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation",
+             "id":"9"
+          },
+          "target":{
+             "key":1000440,
+             "name":"9.c Significantly increase access to information and communications technology and strive to provide universal and affordable access to the Internet in least developed countries by 2020",
+             "id":"9.c"
+          },
+          "indicator":{
+             "key":1000590,
+             "name":"9.c.1 Proportion of population covered by a mobile network, by technology within 500m",
+             "id":"9.c.1"
+          },
+          "seriesdescription":{
+             "key":1001610,
+             "name":"Proportion of population covered by at least a 2G mobile network (%)",
+             "id":"IT_MOB_2GNTWK"
+          },
+          "geoarea":{
+             "key":1000000,
+             "name":"Zimbabwe",
+             "id":"716",
+             "RegionId":"ZW"
+          },
+          "sex":{
+             "key":1000020,
+             "name":"Both sexes or no breakdown by sex",
+             "id":"_T"
+          },
+          "age":{
+             "key":1000000,
+             "name":"All age ranges or no breakdown by age",
+             "id":"_T"
+          },
+          "urbanisation":{
+             "key":1000000,
+             "name":"Total or no breakdown by education level",
+             "id":"_T"
+          },
+          "tsKey":1001500,
+          "startDate":"2014-01-01T00:00:00",
+          "endDate":"2014-01-01T00:00:00",
+          "frequency":"A",
+          "unit":"Percent",
+          "scale":1,
+          "values":[
+             96.0
+          ]
+       },
+       {
+          "goal":{
+             "key":1000090,
+             "name":"Goal 10. Reduce inequality within and among countries",
+             "id":"10"
+          },
+          "target":{
+             "key":1000450,
+             "name":"10.4 Adopt policies, especially fiscal, wage and social protection policies, and progressively achieve greater equality",
+             "id":"10.4"
+          },
+          "indicator":{
+             "key":1000600,
+             "name":"10.4.1 Labour share of GDP, comprising wages and social protection transfers (ZIMSTAT)",
+             "id":"10.4.1"
+          },
+          "seriesdescription":{
+             "key":1000590,
+             "name":"Labour share of GDP, comprising wages and social protection transfers (%)",
+             "id":"SL_EMP_GTOTL"
+          },
+          "geoarea":{
+             "key":1000000,
+             "name":"Zimbabwe",
+             "id":"716",
+             "RegionId":"ZW"
+          },
+          "sex":{
+             "key":1000020,
+             "name":"Both sexes or no breakdown by sex",
+             "id":"_T"
+          },
+          "age":{
+             "key":1000000,
+             "name":"All age ranges or no breakdown by age",
+             "id":"_T"
+          },
+          "urbanisation":{
+             "key":1000000,
+             "name":"Total or no breakdown by education level",
+             "id":"_T"
+          },
+          "tsKey":1000590,
+          "startDate":"2014-01-01T00:00:00",
+          "endDate":"2018-01-01T00:00:00",
+          "frequency":"A",
+          "unit":"Percent",
+          "scale":1,
+          "values":[
+             36.1308191869132,
+             36.4952760133087,
+             37.2280676188043,
+             37.4495374125864,
+             34.2124100471239
+          ]
+       },
+       {
+          "goal":{
+             "key":1000090,
+             "name":"Goal 10. Reduce inequality within and among countries",
+             "id":"10"
+          },
+          "target":{
+             "key":1001000,
+             "name":"10.3 Ensure equal opportunity and reduce inequalities of outcome, including by eliminating discriminatory laws, policies and practices and promoting appropriate legislation, policies and action in this regard",
+             "id":"10.3"
+          },
+          "indicator":{
+             "key":1001220,
+             "name":"10.3.1 Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months on the basis of a ground of discrimination prohibited under international human rights law",
+             "id":"10.3.1"
+          },
+          "seriesdescription":{
+             "key":1001620,
+             "name":"Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months on the basis of a ground of discrimination prohibited under international human rights law",
+             "id":"VC_VOV_DCMN"
+          },
+          "geoarea":{
+             "key":1000000,
+             "name":"Zimbabwe",
+             "id":"716",
+             "RegionId":"ZW"
+          },
+          "sex":{
+             "key":1000000,
+             "name":"Female",
+             "id":"F"
+          },
+          "age":{
+             "key":1000000,
+             "name":"All age ranges or no breakdown by age",
+             "id":"_T"
+          },
+          "urbanisation":{
+             "key":1000000,
+             "name":"Total or no breakdown by education level",
+             "id":"_T"
+          },
+          "tsKey":1001510,
+          "startDate":"2019-01-01T00:00:00",
+          "endDate":"2019-01-01T00:00:00",
+          "frequency":"A",
+          "unit":"Percent",
+          "scale":1,
+          "values":[
+             25.2
+          ]
+       },
+       {
+          "goal":{
+             "key":1000090,
+             "name":"Goal 10. Reduce inequality within and among countries",
+             "id":"10"
+          },
+          "target":{
+             "key":1001000,
+             "name":"10.3 Ensure equal opportunity and reduce inequalities of outcome, including by eliminating discriminatory laws, policies and practices and promoting appropriate legislation, policies and action in this regard",
+             "id":"10.3"
+          },
+          "indicator":{
+             "key":1001220,
+             "name":"10.3.1 Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months on the basis of a ground of discrimination prohibited under international human rights law",
+             "id":"10.3.1"
+          },
+          "seriesdescription":{
+             "key":1001620,
+             "name":"Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months on the basis of a ground of discrimination prohibited under international human rights law",
+             "id":"VC_VOV_DCMN"
+          },
+          "geoarea":{
+             "key":1000000,
+             "name":"Zimbabwe",
+             "id":"716",
+             "RegionId":"ZW"
+          },
+          "sex":{
+             "key":1000010,
+             "name":"Male",
+             "id":"M"
+          },
+          "age":{
+             "key":1000000,
+             "name":"All age ranges or no breakdown by age",
+             "id":"_T"
+          },
+          "urbanisation":{
+             "key":1000000,
+             "name":"Total or no breakdown by education level",
+             "id":"_T"
+          },
+          "tsKey":1001520,
+          "startDate":"2019-01-01T00:00:00",
+          "endDate":"2019-01-01T00:00:00",
+          "frequency":"A",
+          "unit":"Percent",
+          "scale":1,
+          "values":[
+             25.9
+          ]
+       },
+       {
+          "goal":{
+             "key":1000100,
+             "name":"Goal 11. Make cities and human settlements inclusive, safe, resilient and sustainable",
+             "id":"11"
+          },
+          "target":{
+             "key":1000480,
+             "name":"11.1 By 2030, ensure access for all to adequate, safe and affordable housing and basic services and upgrade slums",
+             "id":"11.1"
+          },
+          "indicator":{
+             "key":1000630,
+             "name":"11.1.1 Proportion of urban population living in slums, informal settlements or inadequate housing",
+             "id":"11.1.1"
+          },
+          "seriesdescription":{
+             "key":1000620,
+             "name":"Proportion of urban population living in slums (%)",
+             "id":"EN_LND_SLUM"
+          },
+          "geoarea":{
+             "key":1000000,
+             "name":"Zimbabwe",
+             "id":"716",
+             "RegionId":"ZW"
+          },
+          "sex":{
+             "key":1000020,
+             "name":"Both sexes or no breakdown by sex",
+             "id":"_T"
+          },
+          "age":{
+             "key":1000000,
+             "name":"All age ranges or no breakdown by age",
+             "id":"_T"
+          },
+          "urbanisation":{
+             "key":1000000,
+             "name":"Total or no breakdown by education level",
+             "id":"_T"
+          },
+          "tsKey":1000620,
+          "startDate":"2014-01-01T00:00:00",
+          "endDate":"2019-01-01T00:00:00",
+          "frequency":"A",
+          "unit":"Percent",
+          "scale":1,
+          "values":[
+             0.33,
+             0.33,
+             0.33,
+             0.4,
+             0.33,
+             0.33
+          ]
+       },
+       {
+          "goal":{
+             "key":1000100,
+             "name":"Goal 11. Make cities and human settlements inclusive, safe, resilient and sustainable",
+             "id":"11"
+          },
+          "target":{
+             "key":1000500,
+             "name":"11.5 By 2030, significantly reduce the number of deaths and the number of people affected and substantially decrease the direct economic losses relative to global gross domestic product caused by disasters, including water-related disasters, with a focus on protecting the poor and people in vulnerable situations",
+             "id":"11.5"
+          },
+          "indicator":{
+             "key":1000650,
+             "name":"11.5.1 Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population",
+             "id":"11.5.1"
+          },
+          "seriesdescription":{
+             "key":1001490,
+             "name":"Number of missing persons due to disaster (number)",
+             "id":"VC_DSR_MISS"
+          },
+          "geoarea":{
+             "key":1000000,
+             "name":"Zimbabwe",
+             "id":"716",
+             "RegionId":"ZW"
+          },
+          "sex":{
+             "key":1000020,
+             "name":"Both sexes or no breakdown by sex",
+             "id":"_T"
+          },
+          "age":{
+             "key":1000000,
+             "name":"All age ranges or no breakdown by age",
+             "id":"_T"
+          },
+          "urbanisation":{
+             "key":1000000,
+             "name":"Total or no breakdown by education level",
+             "id":"_T"
+          },
+          "tsKey":1001530,
+          "startDate":"2017-01-01T00:00:00",
+          "endDate":"2017-01-01T00:00:00",
+          "frequency":"A",
+          "unit":"per 100,000 population",
+          "scale":1,
+          "values":[
+             158.0
+          ]
+       },
+       {
+          "goal":{
+             "key":1000100,
+             "name":"Goal 11. Make cities and human settlements inclusive, safe, resilient and sustainable",
+             "id":"11"
+          },
+          "target":{
+             "key":1000510,
+             "name":"11.7 By 2030, provide universal access to safe, inclusive and accessible, green and public spaces, in particular for women and children, older persons and persons with disabilities",
+             "id":"11.7"
+          },
+          "indicator":{
+             "key":1000660,
+             "name":"11.7.1 Average share of the built-up area of cities that is open space for public use for all, by sex, age and persons with disabilities (Local Government)",
+             "id":"11.7.1"
+          },
+          "seriesdescription":{
+             "key":1001630,
+             "name":"Average share of the built-up area of cities that is open space for public use for all, by sex, age and persons with disabilities (Local Government)",
+             "id":"EN_URB_OPENSP"
+          },
+          "geoarea":{
+             "key":1000000,
+             "name":"Zimbabwe",
+             "id":"716",
+             "RegionId":"ZW"
+          },
+          "sex":{
+             "key":1000020,
+             "name":"Both sexes or no breakdown by sex",
+             "id":"_T"
+          },
+          "age":{
+             "key":1000000,
+             "name":"All age ranges or no breakdown by age",
+             "id":"_T"
+          },
+          "urbanisation":{
+             "key":1000000,
+             "name":"Total or no breakdown by education level",
+             "id":"_T"
+          },
+          "tsKey":1001540,
+          "startDate":"2014-01-01T00:00:00",
+          "endDate":"2018-01-01T00:00:00",
+          "frequency":"A",
+          "unit":"",
+          "scale":1,
+          "values":[
+             0.05,
+             0.05,
+             0.05,
+             0.05,
+             0.05
+          ]
+       },
+       {
+          "goal":{
+             "key":1000100,
+             "name":"Goal 11. Make cities and human settlements inclusive, safe, resilient and sustainable",
+             "id":"11"
+          },
+          "target":{
+             "key":1000510,
+             "name":"11.7 By 2030, provide universal access to safe, inclusive and accessible, green and public spaces, in particular for women and children, older persons and persons with disabilities",
+             "id":"11.7"
+          },
+          "indicator":{
+             "key":1001230,
+             "name":"11.7.2 Proportion of persons victim of physical or sexual harassment, by sex, age, disability status and place of occurrence, in the previous 12 months (use spousal violence-ZIMSTAT)",
+             "id":"11.7.2"
+          },
+          "seriesdescription":{
+             "key":1001640,
+             "name":"Proportion of persons victim of physical or sexual harassment, by sex, age, disability status and place of occurrence, in the previous 12 months (use spousal violence-ZIMSTAT)",
+             "id":"VC_VOH_SXPH"
+          },
+          "geoarea":{
+             "key":1000000,
+             "name":"Zimbabwe",
+             "id":"716",
+             "RegionId":"ZW"
+          },
+          "sex":{
+             "key":1000020,
+             "name":"Both sexes or no breakdown by sex",
+             "id":"_T"
+          },
+          "age":{
+             "key":1000000,
+             "name":"All age ranges or no breakdown by age",
+             "id":"_T"
+          },
+          "urbanisation":{
+             "key":1000000,
+             "name":"Total or no breakdown by education level",
+             "id":"_T"
+          },
+          "tsKey":1001550,
+          "startDate":"2019-01-01T00:00:00",
+          "endDate":"2019-01-01T00:00:00",
+          "frequency":"A",
+          "unit":"",
+          "scale":1,
+          "values":[
+             0.05
+          ]
+       },
+       {
+          "goal":{
+             "key":1000100,
+             "name":"Goal 11. Make cities and human settlements inclusive, safe, resilient and sustainable",
+             "id":"11"
+          },
+          "target":{
+             "key":1000520,
+             "name":"11.a Support positive economic, social and environmental links between urban, peri-urban and rural areas by strengthening national and regional development planning",
+             "id":"11.a"
+          },
+          "indicator":{
+             "key":1000670,
+             "name":"11.a.1 Proportion of population living in cities that implement urban and regional development plans integrating population projections and resource needs, by size of city",
+             "id":"11.a.1"
+          },
+          "seriesdescription":{
+             "key":1001650,
+             "name":"Proportion of population living in cities that implement urban and regional development plans integrating population projections and resource needs, by size of city",
+             "id":"SG_URB_PLAN"
+          },
+          "geoarea":{
+             "key":1000000,
+             "name":"Zimbabwe",
+             "id":"716",
+             "RegionId":"ZW"
+          },
+          "sex":{
+             "key":1000020,
+             "name":"Both sexes or no breakdown by sex",
+             "id":"_T"
+          },
+          "age":{
+             "key":1000000,
+             "name":"All age ranges or no breakdown by age",
+             "id":"_T"
+          },
+          "urbanisation":{
+             "key":1000000,
+             "name":"Total or no breakdown by education level",
+             "id":"_T"
+          },
+          "tsKey":1001560,
+          "startDate":"2014-01-01T00:00:00",
+          "endDate":"2019-01-01T00:00:00",
+          "frequency":"A",
+          "unit":"Percent",
+          "scale":1,
+          "values":[
+             100.0,
+             100.0,
+             100.0,
+             100.0,
+             100.0,
+             100.0
+          ]
+       },
+       {
+          "goal":{
+             "key":1000110,
+             "name":"Goal 12. Ensure sustainable consumption and production patterns",
+             "id":"12"
+          },
+          "target":{
+             "key":1000550,
+             "name":"12.6 Encourage companies, especially large and transnational companies, to adopt sustainable practices and to integrate sustainability information into their reporting cycle",
+             "id":"12.6"
+          },
+          "indicator":{
+             "key":1000700,
+             "name":"12.6.1 Number of companies publishing sustainability reports",
+             "id":"12.6.1"
+          },
+          "seriesdescription":{
+             "key":1001660,
+             "name":"Number of companies publishing sustainability reports",
+             "id":"EN_SCP_FRMN"
+          },
+          "geoarea":{
+             "key":1000000,
+             "name":"Zimbabwe",
+             "id":"716",
+             "RegionId":"ZW"
+          },
+          "sex":{
+             "key":1000020,
+             "name":"Both sexes or no breakdown by sex",
+             "id":"_T"
+          },
+          "age":{
+             "key":1000000,
+             "name":"All age ranges or no breakdown by age",
+             "id":"_T"
+          },
+          "urbanisation":{
+             "key":1000000,
+             "name":"Total or no breakdown by education level",
+             "id":"_T"
+          },
+          "tsKey":1001570,
+          "startDate":"2015-01-01T00:00:00",
+          "endDate":"2015-01-01T00:00:00",
+          "frequency":"A",
+          "unit":"Number",
+          "scale":1,
+          "values":[
+             6.0
+          ]
+       },
+       {
+          "goal":{
+             "key":1000130,
+             "name":"Goal 15. Protect, restore and promote sustainable use of terrestrial ecosystems, sustainably manage forests, combat desertification, and halt and reverse land degradation and halt biodiversity loss",
+             "id":"15"
+          },
+          "target":{
+             "key":1000620,
+             "name":"15.1 By 2020, ensure the conservation, restoration and sustainable use of terrestrial and inland freshwater ecosystems and their services, in particular forests, wetlands, mountains and drylands, in line with obligations under international agreements",
+             "id":"15.1"
+          },
+          "indicator":{
+             "key":1000830,
+             "name":"15.1.1 Forest area as a proportion of total land area",
+             "id":"15.1.1"
+          },
+          "seriesdescription":{
+             "key":1000800,
+             "name":"Forest area as a proportion of total land area (%)",
+             "id":"AG_LND_FRST"
+          },
+          "geoarea":{
+             "key":1000000,
+             "name":"Zimbabwe",
+             "id":"716",
+             "RegionId":"ZW"
+          },
+          "sex":{
+             "key":1000020,
+             "name":"Both sexes or no breakdown by sex",
+             "id":"_T"
+          },
+          "age":{
+             "key":1000000,
+             "name":"All age ranges or no breakdown by age",
+             "id":"_T"
+          },
+          "urbanisation":{
+             "key":1000000,
+             "name":"Total or no breakdown by education level",
+             "id":"_T"
+          },
+          "tsKey":1000800,
+          "startDate":"2015-01-01T00:00:00",
+          "endDate":"2015-01-01T00:00:00",
+          "frequency":"A",
+          "unit":"Percent",
+          "scale":1,
+          "values":[
+             50.0
+          ]
+       },
+       {
+          "goal":{
+             "key":1000130,
+             "name":"Goal 15. Protect, restore and promote sustainable use of terrestrial ecosystems, sustainably manage forests, combat desertification, and halt and reverse land degradation and halt biodiversity loss",
+             "id":"15"
+          },
+          "target":{
+             "key":1000630,
+             "name":"15.6 Promote fair and equitable sharing of the benefits arising from the utilization of genetic resources and promote appropriate access to such resources, as internationally agreed",
+             "id":"15.6"
+          },
+          "indicator":{
+             "key":1000840,
+             "name":"15.6.1 Has Zimbabwe adopted legislative, administrative and policy frameworks to ensure fair and equitable sharing of benefits",
+             "id":"15.6.1"
+          },
+          "seriesdescription":{
+             "key":1000810,
+             "name":"Countries that have legislative, administrative and policy framework or measures reported to the Access and Benefit-Sharing Clearing-House (1 = YES; 0 = NO)",
+             "id":"ER_CBD_ABSCLRHS"
+          },
+          "geoarea":{
+             "key":1000000,
+             "name":"Zimbabwe",
+             "id":"716",
+             "RegionId":"ZW"
+          },
+          "sex":{
+             "key":1000020,
+             "name":"Both sexes or no breakdown by sex",
+             "id":"_T"
+          },
+          "age":{
+             "key":1000000,
+             "name":"All age ranges or no breakdown by age",
+             "id":"_T"
+          },
+          "urbanisation":{
+             "key":1000000,
+             "name":"Total or no breakdown by education level",
+             "id":"_T"
+          },
+          "tsKey":1000810,
+          "startDate":"2014-01-01T00:00:00",
+          "endDate":"2019-01-01T00:00:00",
+          "frequency":"A",
+          "unit":"",
+          "scale":1,
+          "values":[
+             1.0,
+             1.0,
+             1.0,
+             1.0,
+             1.0,
+             1.0
+          ]
+       },
+       {
+          "goal":{
+             "key":1000140,
+             "name":"Goal 16. Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels",
+             "id":"16"
+          },
+          "target":{
+             "key":1000650,
+             "name":"16.1 Significantly reduce all forms of violence and related death rates everywhere",
+             "id":"16.1"
+          },
+          "indicator":{
+             "key":1000860,
+             "name":"16.1.1 Number of victims of intentional homicide per 100,000 population, by sex and age (ZIMSTAT)",
+             "id":"16.1.1"
+          },
+          "seriesdescription":{
+             "key":1000830,
+             "name":"Number of victims of intentional homicide per 100,000 population (victims per 100,000 population)",
+             "id":"VC_IHR_PSRC"
+          },
+          "geoarea":{
+             "key":1000000,
+             "name":"Zimbabwe",
+             "id":"716",
+             "RegionId":"ZW"
+          },
+          "sex":{
+             "key":1000020,
+             "name":"Both sexes or no breakdown by sex",
+             "id":"_T"
+          },
+          "age":{
+             "key":1000000,
+             "name":"All age ranges or no breakdown by age",
+             "id":"_T"
+          },
+          "urbanisation":{
+             "key":1000000,
+             "name":"Total or no breakdown by education level",
+             "id":"_T"
+          },
+          "tsKey":1000830,
+          "startDate":"2015-01-01T00:00:00",
+          "endDate":"2015-01-01T00:00:00",
+          "frequency":"A",
+          "unit":"Number",
+          "scale":1,
+          "values":[
+             73.0
+          ]
+       },
+       {
+          "goal":{
+             "key":1000140,
+             "name":"Goal 16. Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels",
+             "id":"16"
+          },
+          "target":{
+             "key":1000650,
+             "name":"16.1 Significantly reduce all forms of violence and related death rates everywhere",
+             "id":"16.1"
+          },
+          "indicator":{
+             "key":1001240,
+             "name":"16.1.4 Proportion of population that feel safe walking alone around the area they live",
+             "id":"16.1.4"
+          },
+          "seriesdescription":{
+             "key":1001680,
+             "name":"Proportion of population that feel safe walking alone around the area they live (%)",
+             "id":"VC_SNS_WALN"
+          },
+          "geoarea":{
+             "key":1000000,
+             "name":"Zimbabwe",
+             "id":"716",
+             "RegionId":"ZW"
+          },
+          "sex":{
+             "key":1000000,
+             "name":"Female",
+             "id":"F"
+          },
+          "age":{
+             "key":1000000,
+             "name":"All age ranges or no breakdown by age",
+             "id":"_T"
+          },
+          "urbanisation":{
+             "key":1000000,
+             "name":"Total or no breakdown by education level",
+             "id":"_T"
+          },
+          "tsKey":1001580,
+          "startDate":"2019-01-01T00:00:00",
+          "endDate":"2019-01-01T00:00:00",
+          "frequency":"A",
+          "unit":"Percent",
+          "scale":1,
+          "values":[
+             47.9
+          ]
+       },
+       {
+          "goal":{
+             "key":1000140,
+             "name":"Goal 16. Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels",
+             "id":"16"
+          },
+          "target":{
+             "key":1000650,
+             "name":"16.1 Significantly reduce all forms of violence and related death rates everywhere",
+             "id":"16.1"
+          },
+          "indicator":{
+             "key":1001240,
+             "name":"16.1.4 Proportion of population that feel safe walking alone around the area they live",
+             "id":"16.1.4"
+          },
+          "seriesdescription":{
+             "key":1001680,
+             "name":"Proportion of population that feel safe walking alone around the area they live (%)",
+             "id":"VC_SNS_WALN"
+          },
+          "geoarea":{
+             "key":1000000,
+             "name":"Zimbabwe",
+             "id":"716",
+             "RegionId":"ZW"
+          },
+          "sex":{
+             "key":1000010,
+             "name":"Male",
+             "id":"M"
+          },
+          "age":{
+             "key":1000000,
+             "name":"All age ranges or no breakdown by age",
+             "id":"_T"
+          },
+          "urbanisation":{
+             "key":1000000,
+             "name":"Total or no breakdown by education level",
+             "id":"_T"
+          },
+          "tsKey":1001590,
+          "startDate":"2019-01-01T00:00:00",
+          "endDate":"2019-01-01T00:00:00",
+          "frequency":"A",
+          "unit":"Percent",
+          "scale":1,
+          "values":[
+             82.8
+          ]
+       },
+       {
+          "goal":{
+             "key":1000140,
+             "name":"Goal 16. Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels",
+             "id":"16"
+          },
+          "target":{
+             "key":1000660,
+             "name":"16.2 End abuse, exploitation, trafficking and all forms of violence against and torture of children",
+             "id":"16.2"
+          },
+          "indicator":{
+             "key":1000880,
+             "name":"16.2.2 Number of victims of human trafficking per 100,000 population, by sex, age and form of exploitation (MoHA)",
+             "id":"16.2.2"
+          },
+          "seriesdescription":{
+             "key":1000850,
+             "name":"Age and sex distribution of detected victims of trafficking in persons (%)",
+             "id":"VC_VAW_DIST"
+          },
+          "geoarea":{
+             "key":1000000,
+             "name":"Zimbabwe",
+             "id":"716",
+             "RegionId":"ZW"
+          },
+          "sex":{
+             "key":1000020,
+             "name":"Both sexes or no breakdown by sex",
+             "id":"_T"
+          },
+          "age":{
+             "key":1000000,
+             "name":"All age ranges or no breakdown by age",
+             "id":"_T"
+          },
+          "urbanisation":{
+             "key":1000000,
+             "name":"Total or no breakdown by education level",
+             "id":"_T"
+          },
+          "tsKey":1000850,
+          "startDate":"2015-01-01T00:00:00",
+          "endDate":"2015-01-01T00:00:00",
+          "frequency":"A",
+          "unit":"Percent",
+          "scale":1,
+          "values":[
+             95.0
+          ]
+       },
+       {
+          "goal":{
+             "key":1000140,
+             "name":"Goal 16. Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels",
+             "id":"16"
+          },
+          "target":{
+             "key":1000660,
+             "name":"16.2 End abuse, exploitation, trafficking and all forms of violence against and torture of children",
+             "id":"16.2"
+          },
+          "indicator":{
+             "key":1001250,
+             "name":"16.2.1 Proportion of children aged 1-14 years who experienced physical punishment and/or psychological aggression by caregivers in last month",
+             "id":"16.2.1"
+          },
+          "seriesdescription":{
+             "key":1001690,
+             "name":"Proportion of children aged 1-14 years who experienced physical punishment and/or psychological aggression by caregivers in last month (% of children aged 1-14 years)",
+             "id":"VC_VAW_PHYPYV"
+          },
+          "geoarea":{
+             "key":1000000,
+             "name":"Zimbabwe",
+             "id":"716",
+             "RegionId":"ZW"
+          },
+          "sex":{
+             "key":1000020,
+             "name":"Both sexes or no breakdown by sex",
+             "id":"_T"
+          },
+          "age":{
+             "key":1000000,
+             "name":"All age ranges or no breakdown by age",
+             "id":"_T"
+          },
+          "urbanisation":{
+             "key":1000000,
+             "name":"Total or no breakdown by education level",
+             "id":"_T"
+          },
+          "tsKey":1001600,
+          "startDate":"2019-01-01T00:00:00",
+          "endDate":"2019-01-01T00:00:00",
+          "frequency":"A",
+          "unit":"Percent",
+          "scale":1,
+          "values":[
+             64.1
+          ]
+       },
+       {
+          "goal":{
+             "key":1000140,
+             "name":"Goal 16. Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels",
+             "id":"16"
+          },
+          "target":{
+             "key":1000680,
+             "name":"16.9 By 2030, provide legal identity for all, including birth registration",
+             "id":"16.9"
+          },
+          "indicator":{
+             "key":1000900,
+             "name":"16.9.1 Proportion of children under 5 years of age whose births have been registered with a civil authority, by age",
+             "id":"16.9.1"
+          },
+          "seriesdescription":{
+             "key":1000860,
+             "name":"Proportion of children under 5 years of age whose births have been registered with a civil authority (% of children under 5 years of age)",
+             "id":"SG_REG_BRTH"
+          },
+          "geoarea":{
+             "key":1000000,
+             "name":"Zimbabwe",
+             "id":"716",
+             "RegionId":"ZW"
+          },
+          "sex":{
+             "key":1000020,
+             "name":"Both sexes or no breakdown by sex",
+             "id":"_T"
+          },
+          "age":{
+             "key":1000000,
+             "name":"All age ranges or no breakdown by age",
+             "id":"_T"
+          },
+          "urbanisation":{
+             "key":1000000,
+             "name":"Total or no breakdown by education level",
+             "id":"_T"
+          },
+          "tsKey":1000870,
+          "startDate":"2017-01-01T00:00:00",
+          "endDate":"2019-01-01T00:00:00",
+          "frequency":"A",
+          "unit":"Percent",
+          "scale":1,
+          "values":[
+             38.2,
+             null,
+             48.7
+          ]
+       },
+       {
+          "goal":{
+             "key":1000140,
+             "name":"Goal 16. Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels",
+             "id":"16"
+          },
+          "target":{
+             "key":1001010,
+             "name":"16.3  Promote the rule of law at the national and international levels and ensure equal access to justice for all",
+             "id":"16.3"
+          },
+          "indicator":{
+             "key":1001260,
+             "name":"16.3.1 Proportion of victims of violence in the previous 12 months who reported their victimization to competent authorities or other officially recognized conflict resolution mechanisms",
+             "id":"16.3.1"
+          },
+          "seriesdescription":{
+             "key":1001700,
+             "name":"Police reporting rate for robbery, by sex (%)",
+             "id":"VC_PRR_ROBB"
+          },
+          "geoarea":{
+             "key":1000000,
+             "name":"Zimbabwe",
+             "id":"716",
+             "RegionId":"ZW"
+          },
+          "sex":{
+             "key":1000000,
+             "name":"Female",
+             "id":"F"
+          },
+          "age":{
+             "key":1000000,
+             "name":"All age ranges or no breakdown by age",
+             "id":"_T"
+          },
+          "urbanisation":{
+             "key":1000000,
+             "name":"Total or no breakdown by education level",
+             "id":"_T"
+          },
+          "tsKey":1001610,
+          "startDate":"2019-01-01T00:00:00",
+          "endDate":"2019-01-01T00:00:00",
+          "frequency":"A",
+          "unit":"Percent",
+          "scale":1,
+          "values":[
+             40.5
+          ]
+       },
+       {
+          "goal":{
+             "key":1000140,
+             "name":"Goal 16. Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels",
+             "id":"16"
+          },
+          "target":{
+             "key":1001010,
+             "name":"16.3  Promote the rule of law at the national and international levels and ensure equal access to justice for all",
+             "id":"16.3"
+          },
+          "indicator":{
+             "key":1001260,
+             "name":"16.3.1 Proportion of victims of violence in the previous 12 months who reported their victimization to competent authorities or other officially recognized conflict resolution mechanisms",
+             "id":"16.3.1"
+          },
+          "seriesdescription":{
+             "key":1001700,
+             "name":"Police reporting rate for robbery, by sex (%)",
+             "id":"VC_PRR_ROBB"
+          },
+          "geoarea":{
+             "key":1000000,
+             "name":"Zimbabwe",
+             "id":"716",
+             "RegionId":"ZW"
+          },
+          "sex":{
+             "key":1000010,
+             "name":"Male",
+             "id":"M"
+          },
+          "age":{
+             "key":1000000,
+             "name":"All age ranges or no breakdown by age",
+             "id":"_T"
+          },
+          "urbanisation":{
+             "key":1000000,
+             "name":"Total or no breakdown by education level",
+             "id":"_T"
+          },
+          "tsKey":1001620,
+          "startDate":"2019-01-01T00:00:00",
+          "endDate":"2019-01-01T00:00:00",
+          "frequency":"A",
+          "unit":"Percent",
+          "scale":1,
+          "values":[
+             38.2
+          ]
+       },
+       {
+          "goal":{
+             "key":1000150,
+             "name":"Goal 17. Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development",
+             "id":"17"
+          },
+          "target":{
+             "key":1000710,
+             "name":"17.1 Strengthen domestic resource mobilization, including through international support to developing countries, to improve domestic capacity for tax and other revenue collection",
+             "id":"17.1"
+          },
+          "indicator":{
+             "key":1000930,
+             "name":"17.1.1 Total government revenue as a proportion of GDP, by source",
+             "id":"17.1.1"
+          },
+          "seriesdescription":{
+             "key":1000890,
+             "name":"Total government revenue (budgetary central government) as a proportion of GDP (%)",
+             "id":"GR_G14_GDP"
+          },
+          "geoarea":{
+             "key":1000000,
+             "name":"Zimbabwe",
+             "id":"716",
+             "RegionId":"ZW"
+          },
+          "sex":{
+             "key":1000020,
+             "name":"Both sexes or no breakdown by sex",
+             "id":"_T"
+          },
+          "age":{
+             "key":1000000,
+             "name":"All age ranges or no breakdown by age",
+             "id":"_T"
+          },
+          "urbanisation":{
+             "key":1000000,
+             "name":"Total or no breakdown by education level",
+             "id":"_T"
+          },
+          "tsKey":1000900,
+          "startDate":"2014-01-01T00:00:00",
+          "endDate":"2017-01-01T00:00:00",
+          "frequency":"A",
+          "unit":"Percent",
+          "scale":1,
+          "values":[
+             20.01833806627,
+             19.1499670227922,
+             17.0989524764709,
+             17.3044617699741
+          ]
+       },
+       {
+          "goal":{
+             "key":1000150,
+             "name":"Goal 17. Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development",
+             "id":"17"
+          },
+          "target":{
+             "key":1000710,
+             "name":"17.1 Strengthen domestic resource mobilization, including through international support to developing countries, to improve domestic capacity for tax and other revenue collection",
+             "id":"17.1"
+          },
+          "indicator":{
+             "key":1000940,
+             "name":"17.1.2 Proportion of domestic budget funded by domestic taxes (MoFED)",
+             "id":"17.1.2"
+          },
+          "seriesdescription":{
+             "key":1000900,
+             "name":"Proportion of domestic budget funded by domestic taxes (% of GDP)",
+             "id":"GC_GOB_TAXD"
+          },
+          "geoarea":{
+             "key":1000000,
+             "name":"Zimbabwe",
+             "id":"716",
+             "RegionId":"ZW"
+          },
+          "sex":{
+             "key":1000020,
+             "name":"Both sexes or no breakdown by sex",
+             "id":"_T"
+          },
+          "age":{
+             "key":1000000,
+             "name":"All age ranges or no breakdown by age",
+             "id":"_T"
+          },
+          "urbanisation":{
+             "key":1000000,
+             "name":"Total or no breakdown by education level",
+             "id":"_T"
+          },
+          "tsKey":1000910,
+          "startDate":"2015-01-01T00:00:00",
+          "endDate":"2015-01-01T00:00:00",
+          "frequency":"A",
+          "unit":"Percent",
+          "scale":1,
+          "values":[
+             90.7
+          ]
+       },
+       {
+          "goal":{
+             "key":1000150,
+             "name":"Goal 17. Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development",
+             "id":"17"
+          },
+          "target":{
+             "key":1000720,
+             "name":"17.3 Mobilize additional financial resources for developing countries from multiple sources",
+             "id":"17.3"
+          },
+          "indicator":{
+             "key":1000950,
+             "name":"17.3.2 Volume of remittances (in United States dollars) as a proportion of total GDP",
+             "id":"17.3.2"
+          },
+          "seriesdescription":{
+             "key":1000910,
+             "name":"Volume of remittances (in United States dollars) as a proportion of total GDP (%)",
+             "id":"BX_TRF_PWKR"
+          },
+          "geoarea":{
+             "key":1000000,
+             "name":"Zimbabwe",
+             "id":"716",
+             "RegionId":"ZW"
+          },
+          "sex":{
+             "key":1000020,
+             "name":"Both sexes or no breakdown by sex",
+             "id":"_T"
+          },
+          "age":{
+             "key":1000000,
+             "name":"All age ranges or no breakdown by age",
+             "id":"_T"
+          },
+          "urbanisation":{
+             "key":1000000,
+             "name":"Total or no breakdown by education level",
+             "id":"_T"
+          },
+          "tsKey":1000920,
+          "startDate":"2014-01-01T00:00:00",
+          "endDate":"2017-01-01T00:00:00",
+          "frequency":"A",
+          "unit":"Percent",
+          "scale":1,
+          "values":[
+             6.0,
+             6.3,
+             5.4,
+             4.7
+          ]
+       },
+       {
+          "goal":{
+             "key":1000150,
+             "name":"Goal 17. Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development",
+             "id":"17"
+          },
+          "target":{
+             "key":1000730,
+             "name":"17.4 Assist developing countries in attaining long-term debt sustainability through coordinated policies aimed at fostering debt financing, debt relief and debt restructuring, as appropriate, and address the external debt of highly indebted poor countries to reduce debt distress",
+             "id":"17.4"
+          },
+          "indicator":{
+             "key":1000960,
+             "name":"17.4.1 Debt service as a proportion of exports of goods and services",
+             "id":"17.4.1"
+          },
+          "seriesdescription":{
+             "key":1000920,
+             "name":"Debt service as a proportion of exports of goods and services (%)",
+             "id":"DT_TDS_DECT"
+          },
+          "geoarea":{
+             "key":1000000,
+             "name":"Zimbabwe",
+             "id":"716",
+             "RegionId":"ZW"
+          },
+          "sex":{
+             "key":1000020,
+             "name":"Both sexes or no breakdown by sex",
+             "id":"_T"
+          },
+          "age":{
+             "key":1000000,
+             "name":"All age ranges or no breakdown by age",
+             "id":"_T"
+          },
+          "urbanisation":{
+             "key":1000000,
+             "name":"Total or no breakdown by education level",
+             "id":"_T"
+          },
+          "tsKey":1000930,
+          "startDate":"2015-01-01T00:00:00",
+          "endDate":"2015-01-01T00:00:00",
+          "frequency":"A",
+          "unit":"Percent",
+          "scale":1,
+          "values":[
+             19.2
+          ]
+       },
+       {
+          "goal":{
+             "key":1000150,
+             "name":"Goal 17. Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development",
+             "id":"17"
+          },
+          "target":{
+             "key":1001020,
+             "name":"17.8: Fully operationalize the technology bank and science, technology and innovation capacity-building mechanism for least developed countries by 2017 and enhance the use of enabling technology, in particular information and communications technology",
+             "id":"17.8"
+          },
+          "indicator":{
+             "key":1001270,
+             "name":"17.8.1 Proportion of individuals using the Internet",
+             "id":"17.8.1"
+          },
+          "seriesdescription":{
+             "key":1001710,
+             "name":"Internet users per 100 inhabitants",
+             "id":"IT_USE_II99"
+          },
+          "geoarea":{
+             "key":1000000,
+             "name":"Zimbabwe",
+             "id":"716",
+             "RegionId":"ZW"
+          },
+          "sex":{
+             "key":1000000,
+             "name":"Female",
+             "id":"F"
+          },
+          "age":{
+             "key":1000000,
+             "name":"All age ranges or no breakdown by age",
+             "id":"_T"
+          },
+          "urbanisation":{
+             "key":1000000,
+             "name":"Total or no breakdown by education level",
+             "id":"_T"
+          },
+          "tsKey":1001630,
+          "startDate":"2019-01-01T00:00:00",
+          "endDate":"2019-01-01T00:00:00",
+          "frequency":"A",
+          "unit":"Percent",
+          "scale":1,
+          "values":[
+             27.1
+          ]
+       },
+       {
+          "goal":{
+             "key":1000150,
+             "name":"Goal 17. Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development",
+             "id":"17"
+          },
+          "target":{
+             "key":1001020,
+             "name":"17.8: Fully operationalize the technology bank and science, technology and innovation capacity-building mechanism for least developed countries by 2017 and enhance the use of enabling technology, in particular information and communications technology",
+             "id":"17.8"
+          },
+          "indicator":{
+             "key":1001270,
+             "name":"17.8.1 Proportion of individuals using the Internet",
+             "id":"17.8.1"
+          },
+          "seriesdescription":{
+             "key":1001710,
+             "name":"Internet users per 100 inhabitants",
+             "id":"IT_USE_II99"
+          },
+          "geoarea":{
+             "key":1000000,
+             "name":"Zimbabwe",
+             "id":"716",
+             "RegionId":"ZW"
+          },
+          "sex":{
+             "key":1000010,
+             "name":"Male",
+             "id":"M"
+          },
+          "age":{
+             "key":1000000,
+             "name":"All age ranges or no breakdown by age",
+             "id":"_T"
+          },
+          "urbanisation":{
+             "key":1000000,
+             "name":"Total or no breakdown by education level",
+             "id":"_T"
+          },
+          "tsKey":1001640,
+          "startDate":"2019-01-01T00:00:00",
+          "endDate":"2019-01-01T00:00:00",
+          "frequency":"A",
+          "unit":"Percent",
+          "scale":1,
+          "values":[
+             35.7
+          ]
+       }
+    ],
+    "dimensionFields":{
+       "goal":[
+          {
+             "key":6444800,
+             "name":"id",
+             "displayName":"Id",
+             "type":6,
+             "locale":null,
+             "baseKey":null,
+             "isSystemField":false
+          }
+       ],
+       "target":[
+          {
+             "key":6444810,
+             "name":"id",
+             "displayName":"Id",
+             "type":6,
+             "locale":null,
+             "baseKey":null,
+             "isSystemField":false
+          }
+       ],
+       "indicator":[
+          {
+             "key":6444820,
+             "name":"id",
+             "displayName":"Id",
+             "type":6,
+             "locale":null,
+             "baseKey":null,
+             "isSystemField":false
+          }
+       ],
+       "seriesdescription":[
+          {
+             "key":6444830,
+             "name":"id",
+             "displayName":"Id",
+             "type":6,
+             "locale":null,
+             "baseKey":null,
+             "isSystemField":false
+          }
+       ],
+       "geoarea":[
+          {
+             "key":6444840,
+             "name":"id",
+             "displayName":"Id",
+             "type":6,
+             "locale":null,
+             "baseKey":null,
+             "isSystemField":false
+          },
+          {
+             "key":6444850,
+             "name":"RegionId",
+             "displayName":"RegionId",
+             "type":6,
+             "locale":null,
+             "baseKey":null,
+             "isSystemField":true
+          }
+       ],
+       "sex":[
+          {
+             "key":6444860,
+             "name":"id",
+             "displayName":"Id",
+             "type":6,
+             "locale":null,
+             "baseKey":null,
+             "isSystemField":false
+          }
+       ],
+       "age":[
+          {
+             "key":6444870,
+             "name":"id",
+             "displayName":"Id",
+             "type":6,
+             "locale":null,
+             "baseKey":null,
+             "isSystemField":false
+          }
+       ],
+       "urbanisation":[
+          {
+             "key":6444880,
+             "name":"id",
+             "displayName":"Id",
+             "type":6,
+             "locale":null,
+             "baseKey":null,
+             "isSystemField":false
+          }
+       ]
+    }
+ }
