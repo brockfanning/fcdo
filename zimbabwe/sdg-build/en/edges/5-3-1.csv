@@ -1,0 +1,7 @@
+From,To
+seriesdescription,geoarea
+geoarea,sex
+sex,age
+age,urbanisation
+urbanisation,unit
+unit,scale

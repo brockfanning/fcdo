@@ -1,0 +1,56 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Jenin",
+                "Nablus",
+                "Palestine",
+                "Qalqiliya",
+                "Salfit",
+                "Tubas & Northern Valleys",
+                "Tulkarm"
+              ]
+            }
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Both sexes or no breakdown by sex",
+                "Female",
+                "Male"
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          },
+          {
+            "name": "Year",
+            "type": "string"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "17-3-1",
+  "title": "Foreign direct investments (FDI), official development assistance and South-South Cooperation as a proportion of total domestic budget by SEX, AREA and TIME PERIOD"
+}

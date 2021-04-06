@@ -1,0 +1,52 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Education Sector",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Private Sector",
+                "Public Sector"
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "integer"
+          },
+          {
+            "name": "Year",
+            "type": "string"
+          },
+          {
+            "name": "المرحلة التعليمية",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Lower secondary education",
+                "Pre-primary education",
+                "Primary education",
+                "Secondary education"
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "4-7-1",
+  "title": "Percentage of teachers in (a) pre-primary education; (b) primary education; (c) lower secondary education; (d) secondary education who received at least the minimum level of structured training for teachers (such as educational training), before act by Time, Education Sector and المرحلة التعليمية"
+}

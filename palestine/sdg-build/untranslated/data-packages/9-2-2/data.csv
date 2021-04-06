@@ -1,0 +1,163 @@
+Year,SEX,AREA,Value
+2000,Male,West Bank,
+2001,Male,West Bank,
+2002,Male,West Bank,
+2003,Male,West Bank,
+2004,Male,West Bank,
+2005,Male,West Bank,
+2006,Male,West Bank,
+2007,Male,West Bank,
+2008,Male,West Bank,
+2009,Male,West Bank,
+2010,Male,West Bank,
+2011,Male,West Bank,
+2012,Male,West Bank,
+2013,Male,West Bank,
+2014,Male,West Bank,
+2015,Male,West Bank,
+2016,Male,West Bank,
+2017,Male,West Bank,
+2000,Male,Gaza Strip,
+2001,Male,Gaza Strip,
+2002,Male,Gaza Strip,
+2003,Male,Gaza Strip,
+2004,Male,Gaza Strip,
+2005,Male,Gaza Strip,
+2006,Male,Gaza Strip,
+2007,Male,Gaza Strip,
+2008,Male,Gaza Strip,
+2009,Male,Gaza Strip,
+2010,Male,Gaza Strip,
+2011,Male,Gaza Strip,
+2012,Male,Gaza Strip,
+2013,Male,Gaza Strip,
+2014,Male,Gaza Strip,
+2015,Male,Gaza Strip,
+2016,Male,Gaza Strip,
+2017,Male,Gaza Strip,
+2000,Male,Palestine,14.4
+2001,Male,Palestine,14.3
+2002,Male,Palestine,13.2
+2003,Male,Palestine,12.7
+2004,Male,Palestine,13.0
+2005,Male,Palestine,13.3
+2006,Male,Palestine,12.5
+2007,Male,Palestine,12.3
+2008,Male,Palestine,12.7
+2009,Male,Palestine,12.4
+2010,Male,Palestine,11.8
+2011,Male,Palestine,12.0
+2012,Male,Palestine,12.3
+2013,Male,Palestine,11.9
+2014,Male,Palestine,12.3
+2015,Male,Palestine,12.4
+2016,Male,Palestine,12.8
+2017,Male,Palestine,12.7
+2000,Female,West Bank,
+2001,Female,West Bank,
+2002,Female,West Bank,
+2003,Female,West Bank,
+2004,Female,West Bank,
+2005,Female,West Bank,
+2006,Female,West Bank,
+2007,Female,West Bank,
+2008,Female,West Bank,
+2009,Female,West Bank,
+2010,Female,West Bank,
+2011,Female,West Bank,
+2012,Female,West Bank,
+2013,Female,West Bank,
+2014,Female,West Bank,
+2015,Female,West Bank,
+2016,Female,West Bank,
+2017,Female,West Bank,
+2000,Female,Gaza Strip,
+2001,Female,Gaza Strip,
+2002,Female,Gaza Strip,
+2003,Female,Gaza Strip,
+2004,Female,Gaza Strip,
+2005,Female,Gaza Strip,
+2006,Female,Gaza Strip,
+2007,Female,Gaza Strip,
+2008,Female,Gaza Strip,
+2009,Female,Gaza Strip,
+2010,Female,Gaza Strip,
+2011,Female,Gaza Strip,
+2012,Female,Gaza Strip,
+2013,Female,Gaza Strip,
+2014,Female,Gaza Strip,
+2015,Female,Gaza Strip,
+2016,Female,Gaza Strip,
+2017,Female,Gaza Strip,
+2000,Female,Palestine,11.0
+2001,Female,Palestine,9.6
+2002,Female,Palestine,8.1
+2003,Female,Palestine,6.6
+2004,Female,Palestine,7.6
+2005,Female,Palestine,7.5
+2006,Female,Palestine,7.6
+2007,Female,Palestine,7.2
+2008,Female,Palestine,8.8
+2009,Female,Palestine,8.96
+2010,Female,Palestine,7.4
+2011,Female,Palestine,8.5
+2012,Female,Palestine,8.4
+2013,Female,Palestine,9.7
+2014,Female,Palestine,9.7
+2015,Female,Palestine,10.8
+2016,Female,Palestine,10.9
+2017,Female,Palestine,10.7
+2000,Both sexes or no breakdown by sex,West Bank,14.9
+2001,Both sexes or no breakdown by sex,West Bank,14.9
+2002,Both sexes or no breakdown by sex,West Bank,13.8
+2003,Both sexes or no breakdown by sex,West Bank,13.0
+2004,Both sexes or no breakdown by sex,West Bank,13.3
+2005,Both sexes or no breakdown by sex,West Bank,14.2
+2006,Both sexes or no breakdown by sex,West Bank,13.7
+2007,Both sexes or no breakdown by sex,West Bank,13.5
+2008,Both sexes or no breakdown by sex,West Bank,14.8
+2009,Both sexes or no breakdown by sex,West Bank,14.1
+2010,Both sexes or no breakdown by sex,West Bank,13.3
+2011,Both sexes or no breakdown by sex,West Bank,13.9
+2012,Both sexes or no breakdown by sex,West Bank,14.4
+2013,Both sexes or no breakdown by sex,West Bank,14.4
+2014,Both sexes or no breakdown by sex,West Bank,14.5
+2015,Both sexes or no breakdown by sex,West Bank,14.9
+2016,Both sexes or no breakdown by sex,West Bank,15.3
+2017,Both sexes or no breakdown by sex,West Bank,15.0
+2000,Both sexes or no breakdown by sex,Gaza Strip,11.4
+2001,Both sexes or no breakdown by sex,Gaza Strip,9.6
+2002,Both sexes or no breakdown by sex,Gaza Strip,8.8
+2003,Both sexes or no breakdown by sex,Gaza Strip,8.6
+2004,Both sexes or no breakdown by sex,Gaza Strip,8.8
+2005,Both sexes or no breakdown by sex,Gaza Strip,7.9
+2006,Both sexes or no breakdown by sex,Gaza Strip,5.9
+2007,Both sexes or no breakdown by sex,Gaza Strip,5.8
+2008,Both sexes or no breakdown by sex,Gaza Strip,4.3
+2009,Both sexes or no breakdown by sex,Gaza Strip,5.3
+2010,Both sexes or no breakdown by sex,Gaza Strip,4.8
+2011,Both sexes or no breakdown by sex,Gaza Strip,5.5
+2012,Both sexes or no breakdown by sex,Gaza Strip,5.3
+2013,Both sexes or no breakdown by sex,Gaza Strip,5.3
+2014,Both sexes or no breakdown by sex,Gaza Strip,4.9
+2015,Both sexes or no breakdown by sex,Gaza Strip,5.8
+2016,Both sexes or no breakdown by sex,Gaza Strip,6.3
+2017,Both sexes or no breakdown by sex,Gaza Strip,6.0
+2000,Both sexes or no breakdown by sex,Palestine,13.9
+2001,Both sexes or no breakdown by sex,Palestine,13.5
+2002,Both sexes or no breakdown by sex,Palestine,12.4
+2003,Both sexes or no breakdown by sex,Palestine,11.6
+2004,Both sexes or no breakdown by sex,Palestine,12.0
+2005,Both sexes or no breakdown by sex,Palestine,12.4
+2006,Both sexes or no breakdown by sex,Palestine,11.6
+2007,Both sexes or no breakdown by sex,Palestine,11.3
+2008,Both sexes or no breakdown by sex,Palestine,12.0
+2009,Both sexes or no breakdown by sex,Palestine,11.7
+2010,Both sexes or no breakdown by sex,Palestine,11.0
+2011,Both sexes or no breakdown by sex,Palestine,11.4
+2012,Both sexes or no breakdown by sex,Palestine,11.6
+2013,Both sexes or no breakdown by sex,Palestine,11.5
+2014,Both sexes or no breakdown by sex,Palestine,11.8
+2015,Both sexes or no breakdown by sex,Palestine,12.2
+2016,Both sexes or no breakdown by sex,Palestine,12.5
+2017,Both sexes or no breakdown by sex,Palestine,12.4

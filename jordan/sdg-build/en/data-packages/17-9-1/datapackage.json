@@ -1,0 +1,41 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Gross Disbursement",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Value"
+              ]
+            },
+            "title": "Gross Disbursement"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "17-9-1",
+  "title": "development assistance (gross disbursement) for technical cooperation (millions of 2017 United States dollars) by Time and Gross Disbursement"
+}

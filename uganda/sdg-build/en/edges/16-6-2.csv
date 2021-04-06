@@ -1,0 +1,8 @@
+From,To
+seriesdescription,geoarea
+geoarea,sex
+sex,age
+age,location
+location,disability
+disability,unit
+unit,scale

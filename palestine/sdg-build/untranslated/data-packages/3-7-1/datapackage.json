@@ -1,0 +1,51 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Gaza Strip",
+                "Palestine",
+                "West Bank"
+              ]
+            }
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Both sexes or no breakdown by sex",
+                "Female"
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          },
+          {
+            "name": "Year",
+            "type": "string"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "3-7-1",
+  "title": "Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods by SEX, AREA and TIME PERIOD"
+}

@@ -1,0 +1,51 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Jenin",
+                "Palestine"
+              ]
+            }
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Both sexes or no breakdown by sex",
+                "Female",
+                "Male"
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          },
+          {
+            "name": "Year",
+            "type": "string"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "2-a-1",
+  "title": "Agriculture value added share of GDP by SEX, AREA and TIME PERIOD"
+}

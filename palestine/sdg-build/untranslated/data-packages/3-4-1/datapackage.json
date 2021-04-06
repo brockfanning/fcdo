@@ -1,0 +1,40 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Gaza Strip",
+                "Palestine",
+                "West Bank"
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          },
+          {
+            "name": "Year",
+            "type": "string"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "3-4-1",
+  "title": "Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease (Per 10,000) by AREA and TIME PERIOD"
+}

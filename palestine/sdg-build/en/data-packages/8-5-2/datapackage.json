@@ -1,0 +1,69 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Bethlehem",
+                "Dier Al-Balah",
+                "Gaza",
+                "Hebron",
+                "Jenin",
+                "Jericho & AL Aghwar",
+                "Jerusalem",
+                "Khan Yunis",
+                "Nablus",
+                "North Gaza",
+                "Qalqiliya",
+                "Rafah",
+                "Ramallah & Al-Bireh",
+                "Salfit",
+                "Tubas & Northern Valleys",
+                "Tulkarm"
+              ]
+            },
+            "title": "AREA"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Both sexes or no breakdown by sex",
+                "Female",
+                "Male"
+              ]
+            },
+            "title": "SEX"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "8-5-2",
+  "title": "Unemployment rate, by sex, age and persons with disabilities by SEX, AREA and TIME PERIOD"
+}

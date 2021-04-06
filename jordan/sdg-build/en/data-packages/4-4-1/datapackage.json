@@ -1,0 +1,49 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Skill type",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Connecting and installing new devices (camera, printer)",
+                "Copy or move a file or folder",
+                "Finding, download, and install software",
+                "Preparation of electronic presentations by presentations software (including Text, images, audio, video, or graphics)",
+                "Send emails with attachments (document, image, video)",
+                "Transfer files between  computer and other devices",
+                "Use basic arithmetic formulas in Data tables",
+                "Use copy and paste tools",
+                "Writing a computer program using a specialized programming language"
+              ]
+            },
+            "title": "Skill type"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "4-4-1",
+  "title": "4.4.1 : Proportion of youth and adults with information and communications technology (ICT) skills, by type of skill by Time and Skill type"
+}

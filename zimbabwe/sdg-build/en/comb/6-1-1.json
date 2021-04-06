@@ -1,0 +1,1 @@
+{"data":{"Year":[2014,2015],"seriesdescription":["SH_H2O_SAFE","SH_H2O_SAFE"],"geoarea":["716","716"],"sex":["_T","_T"],"age":["_T","_T"],"urbanisation":["_T","_T"],"unit":["Percent","Percent"],"scale":["1","1"],"Value":[76.0,78.0]},"edges":{"From":["seriesdescription","geoarea","sex","age","urbanisation","unit"],"To":["geoarea","sex","age","urbanisation","unit","scale"]}}

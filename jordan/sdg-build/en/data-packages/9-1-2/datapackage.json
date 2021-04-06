@@ -1,0 +1,44 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Sub-indicators",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Freight volume, by mode of transport (tonne kilometres)(RAI)",
+                "Freight volume, by mode of transport (tonne kilometres)(ROA)",
+                "Passenger volume (passenger kilometres), by mode of transport (RAI)",
+                "Passenger volume (passenger kilometres), by mode of transport(ROA)"
+              ]
+            },
+            "title": "Sub-indicators"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "9-1-2",
+  "title": "Passenger and freight volumes, by mode of transport by Sub-indicators and Time"
+}

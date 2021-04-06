@@ -1,0 +1,210 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number"
+          },
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "composição-composta",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "_T"
+              ]
+            }
+          },
+          {
+            "name": "deficiência",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "_T"
+              ]
+            }
+          },
+          {
+            "name": "idade",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Y0T2",
+                "Y2T4",
+                "_T"
+              ]
+            }
+          },
+          {
+            "name": "indicador",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "16.9.1"
+              ]
+            }
+          },
+          {
+            "name": "indicador-disponível",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "G"
+              ]
+            }
+          },
+          {
+            "name": "meta",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "16.9"
+              ]
+            }
+          },
+          {
+            "name": "nível-de-educação",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "_T"
+              ]
+            }
+          },
+          {
+            "name": "objectivo",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "16"
+              ]
+            }
+          },
+          {
+            "name": "ocupação",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "_T"
+              ]
+            }
+          },
+          {
+            "name": "província",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "508",
+                "MZ-A",
+                "MZ-B",
+                "MZ-G",
+                "MZ-I",
+                "MZ-L",
+                "MZ-N",
+                "MZ-P",
+                "MZ-Q",
+                "MZ-S",
+                "MZ-T",
+                "MZ6"
+              ]
+            }
+          },
+          {
+            "name": "quintil",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Q1",
+                "Q2",
+                "Q3",
+                "Q4",
+                "Q5",
+                "_T"
+              ]
+            }
+          },
+          {
+            "name": "scale",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "1"
+              ]
+            }
+          },
+          {
+            "name": "sexo",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "F",
+                "M",
+                "_T"
+              ]
+            }
+          },
+          {
+            "name": "sériedescrição",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "SG_REG_BRTH"
+              ]
+            }
+          },
+          {
+            "name": "unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "por milhão de habitantes"
+              ]
+            }
+          },
+          {
+            "name": "área-de-residência",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "R",
+                "U",
+                "_T"
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "16-9-1",
+  "title": "Investimento directo estrangeiro (IDE), em percentagem do PIB"
+}

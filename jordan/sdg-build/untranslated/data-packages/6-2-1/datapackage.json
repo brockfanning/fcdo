@@ -1,0 +1,28 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number"
+          },
+          {
+            "name": "Year",
+            "type": "string"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "6-2-1",
+  "title": " نسبة السكان الذين يستفيدون (أ) من الإدارة السليمة لخدمات الصرف الصحي و(ب) مرافق غسل اليدين بالصابون والمياه by Time"
+}

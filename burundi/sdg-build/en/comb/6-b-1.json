@@ -1,0 +1,1 @@
+{"data":{"Year":[2013],"seriesdescription":["ER_WAT_PARTIC"],"area":["BI"],"sex":["_T"],"age":["_T"],"urbanisation":["_T"],"education-level":["_T"],"unit":["Percent"],"scale":["1"],"Value":[36.2]},"edges":{"From":["seriesdescription","area","sex","age","urbanisation","education-level","unit"],"To":["area","sex","age","urbanisation","education-level","unit","scale"]}}

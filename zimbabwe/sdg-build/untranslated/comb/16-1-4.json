@@ -1,0 +1,1 @@
+{"data":{"Year":[2019,2019],"seriesdescription":["VC_SNS_WALN","VC_SNS_WALN"],"geoarea":["716","716"],"sex":["F","M"],"age":["_T","_T"],"urbanisation":["_T","_T"],"unit":["Percent","Percent"],"scale":["1","1"],"Value":[47.9,82.8]},"edges":{"From":["seriesdescription","geoarea","sex","age","urbanisation","unit"],"To":["geoarea","sex","age","urbanisation","unit","scale"]}}

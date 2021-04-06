@@ -1,0 +1,45 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Indicators",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Broadband internet subscriptions per 100 inhabitants by speed (per 100 population) / ANYS",
+                "Fixed Internet broadband subscriptions per 100 inhabitants by speed (per 100 population) / 2MT10MBPS",
+                "Fixed broadband subscriptions per 100 inhabitants by speed (per 100 population) / 256KT2MBPS",
+                "Fixed internet broadband subscriptions per 100 population of residents by speed (per 100 population) / 10MBPS",
+                "Number of high-speed broadband Internet subscriptions by speed / 10MBPS (number)",
+                "Number of high-speed broadband Internet subscriptions by speed / 256MT2MBPS (number)",
+                "Number of high-speed broadband Internet subscriptions by speed / 2MT10MBPS (number)",
+                "Number of high-speed broadband Internet subscriptions by speed / ANYS (number)"
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          },
+          {
+            "name": "Year",
+            "type": "string"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "17-6-2",
+  "title": " Fixed Internet broadband subscriptions per 100 inhabitants by Time and Indicators"
+}

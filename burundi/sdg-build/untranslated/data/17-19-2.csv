@@ -1,0 +1,14 @@
+Year,seriesdescription,area,sex,age,urbanisation,education-level,unit,scale,Value
+2010,SG_REG_CENSUS,BI,_T,_T,_T,_T,,1,2008.0
+2011,SG_REG_CENSUS,BI,_T,_T,_T,_T,,1,2008.0
+2012,SG_REG_CENSUS,BI,_T,_T,_T,_T,,1,2008.0
+2013,SG_REG_CENSUS,BI,_T,_T,_T,_T,,1,2008.0
+2014,SG_REG_CENSUS,BI,_T,_T,_T,_T,,1,2008.0
+2015,SG_REG_CENSUS,BI,_T,_T,_T,_T,,1,2008.0
+2016,SG_REG_CENSUS,BI,_T,_T,_T,_T,,1,2008.0
+2010,SG_REG_BRTH90,BI,F,_T,_T,_T,Percent,1,74.9
+2010,SG_REG_BRTH90,BI,M,_T,_T,_T,Percent,1,75.4
+2010,SG_REG_BRTH90,BI,_T,_T,_T,_T,Percent,1,75.2
+2014,SG_REG_BRTH90,BI,_T,_T,_T,_T,Percent,1,76.0
+2010,SG_REG_BRTH90,BI,_T,_T,U,_T,Percent,1,86.6
+2010,SG_REG_BRTH90,BI,_T,_T,R,_T,Percent,1,74.1

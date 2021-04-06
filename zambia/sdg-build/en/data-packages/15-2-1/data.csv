@@ -1,0 +1,6 @@
+Year,seriesdescription,geoarea,sex,age,location,education-level,occupation,comp-breakdown,disability-status,unit,scale,Value
+2016,FORT_MGT_NCR,ZM,_T,_T,_T,_T,_T,_T,_T,,1,-0.1
+2016,FORT_MGT_AGBS,ZM,_T,_T,_T,_T,_T,_T,_T,,1,44.0
+2016,FORT_MGT_LEPA,ZM,_T,_T,_T,_T,_T,_T,_T,,1,69.6
+2016,FORT_MGT_LTFMP,ZM,_T,_T,_T,_T,_T,_T,_T,,1,69.6
+2016,FORT_MGT_FMC,ZM,_T,_T,_T,_T,_T,_T,_T,,1,0.0

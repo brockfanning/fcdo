@@ -1,0 +1,39 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Indecator",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "(a)national parliaments",
+                "(b) local governments"
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          },
+          {
+            "name": "Year",
+            "type": "string"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "5-5-1",
+  "title": "Proportion of seats held by women in (a) national parliaments and (b) local governments by Indecator and Time"
+}

@@ -1,0 +1,8 @@
+From,To
+seriesdescription,area
+area,sex
+sex,age
+age,urbanisation
+urbanisation,education-level
+education-level,unit
+unit,scale

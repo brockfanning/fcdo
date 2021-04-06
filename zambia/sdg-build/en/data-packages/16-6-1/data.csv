@@ -1,0 +1,12 @@
+Year,seriesdescription,geoarea,sex,age,location,education-level,occupation,comp-breakdown,disability-status,unit,scale,Value
+2016,GOV_EXP_GPS,ZM,_T,_T,_T,_T,_T,_T,_T,Percent,1,92.3
+2016,GOV_EXP_DEF,ZM,_T,_T,_T,_T,_T,_T,_T,Percent,1,92.2
+2016,GOV_EXP_POS,ZM,_T,_T,_T,_T,_T,_T,_T,Percent,1,98.5
+2016,GOV_EXP_EAFF,ZM,_T,_T,_T,_T,_T,_T,_T,Percent,1,110.1
+2016,GOV_EXP_ENVPROT,ZM,_T,_T,_T,_T,_T,_T,_T,Percent,1,71.3
+2016,GOV_EXP_HCA,ZM,_T,_T,_T,_T,_T,_T,_T,Percent,1,85.8
+2016,GOV_EXP_HEALTH,ZM,_T,_T,_T,_T,_T,_T,_T,Percent,1,92.9
+2016,GOV_EXP_RCR,ZM,_T,_T,_T,_T,_T,_T,_T,Percent,1,73.6
+2016,GOV_EXP_EDU,ZM,_T,_T,_T,_T,_T,_T,_T,Percent,1,91.7
+2016,GOV_EXP_SOCPROT,ZM,_T,_T,_T,_T,_T,_T,_T,Percent,1,50.7
+2016,GOV_EXP_TOTAL,ZM,_T,_T,_T,_T,_T,_T,_T,Percent,1,93.7

@@ -1,0 +1,4 @@
+Year,seriesdescription,geoarea,sex,age,location,disability,unit,scale,Value
+2016,SH_DYN_NMRT,UG,F,M0,_T,_T,"deaths per 1,000 live births",1,23.0
+2016,SH_DYN_NMRT,UG,M,M0,_T,_T,"deaths per 1,000 live births",1,31.0
+2016,SH_DYN_NMRT,UG,_T,M0,_T,_T,"deaths per 1,000 live births",1,27.0

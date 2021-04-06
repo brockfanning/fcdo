@@ -1,0 +1,50 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Governorate",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Ajloun",
+                "Amman",
+                "Aqaba",
+                "Balqa",
+                "Irbid",
+                "Jarash",
+                "Karak",
+                "Ma'an",
+                "Madaba",
+                "Mafraq",
+                "Tafiela",
+                "Zarqa",
+                "kingdom"
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          },
+          {
+            "name": "Year",
+            "type": "string"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "9-2-2",
+  "title": "Manufacturing employment as a proportion of total employment by Governorate and Time"
+}

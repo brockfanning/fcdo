@@ -1,0 +1,5 @@
+Year,seriesdescription,geoarea,sex,age,location,education-level,occupation,comp-breakdown,disability-status,unit,scale,Value
+2016,SE_ACS_ELECT,ZM,_T,_T,_T,_T,_T,_T,_T,Percent,1,14.4
+2017,SE_ACS_INTNT,ZM,_T,_T,_T,_T,_T,_T,_T,Percent,1,8.1
+2016,SE_ACS_CMPTR,ZM,_T,_T,_T,_T,_T,_T,_T,Percent,1,43.1
+2016,SE_ACS_H2O,ZM,_T,_T,_T,_T,_T,_T,_T,Percent,1,44.2

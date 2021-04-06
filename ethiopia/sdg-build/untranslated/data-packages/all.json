@@ -1,0 +1,2371 @@
+{
+  "name": "all",
+  "title": "All indicators",
+  "resources": [
+    {
+      "path": "1-2-1/data.csv",
+      "name": "1-2-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number"
+          },
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "_T"
+              ]
+            }
+          },
+          {
+            "name": "education-level",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "_T"
+              ]
+            }
+          },
+          {
+            "name": "geoarea",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "ET01",
+                "ET02",
+                "ET03",
+                "ET04",
+                "ET05",
+                "ET06",
+                "ET07",
+                "ET12",
+                "ET13",
+                "ET14",
+                "ET15"
+              ]
+            }
+          },
+          {
+            "name": "scale",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "1"
+              ]
+            }
+          },
+          {
+            "name": "seriesdescription",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "SI_POV_NAHC"
+              ]
+            }
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "_T"
+              ]
+            }
+          },
+          {
+            "name": "unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Percent"
+              ]
+            }
+          },
+          {
+            "name": "urbanization",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "R",
+                "U"
+              ]
+            }
+          },
+          {
+            "name": "wealth-quintile",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "_T"
+              ]
+            }
+          }
+        ]
+      },
+      "title": "Proportion of children under 5 years of age whose births have been registered with a civil authority, by age"
+    },
+    {
+      "path": "2-2-1/data.csv",
+      "name": "2-2-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number"
+          },
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Y0T4",
+                "_T"
+              ]
+            }
+          },
+          {
+            "name": "education-level",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "AGGA_01_02",
+                "AGG_1_2",
+                "AGG_2_3",
+                "AGG_5T8",
+                "_T"
+              ]
+            }
+          },
+          {
+            "name": "geoarea",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "ET",
+                "ET01",
+                "ET02",
+                "ET03",
+                "ET04",
+                "ET05",
+                "ET06",
+                "ET07",
+                "ET12",
+                "ET13",
+                "ET14",
+                "ET15"
+              ]
+            }
+          },
+          {
+            "name": "scale",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "1"
+              ]
+            }
+          },
+          {
+            "name": "seriesdescription",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "SH_STA_STUNT"
+              ]
+            }
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "F",
+                "M",
+                "_T"
+              ]
+            }
+          },
+          {
+            "name": "unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Percent"
+              ]
+            }
+          },
+          {
+            "name": "urbanization",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "R",
+                "U",
+                "_T"
+              ]
+            }
+          },
+          {
+            "name": "wealth-quintile",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Q1",
+                "Q2",
+                "Q3",
+                "Q4",
+                "Q5",
+                "_T"
+              ]
+            }
+          }
+        ]
+      },
+      "title": "Proportion of children under 5 years of age whose births have been registered with a civil authority, by age"
+    },
+    {
+      "path": "2-2-2/data.csv",
+      "name": "2-2-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number"
+          },
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Y0T4",
+                "_T"
+              ]
+            }
+          },
+          {
+            "name": "education-level",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "AGGA_01_02",
+                "AGG_1_2",
+                "AGG_2_3",
+                "AGG_5T8",
+                "_T"
+              ]
+            }
+          },
+          {
+            "name": "geoarea",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "ET",
+                "ET01",
+                "ET02",
+                "ET03",
+                "ET04",
+                "ET05",
+                "ET06",
+                "ET07",
+                "ET12",
+                "ET13",
+                "ET14",
+                "ET15"
+              ]
+            }
+          },
+          {
+            "name": "scale",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "1"
+              ]
+            }
+          },
+          {
+            "name": "seriesdescription",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "SH_STA_OVRWGT",
+                "SH_STA_WASTE"
+              ]
+            }
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "F",
+                "M",
+                "_T"
+              ]
+            }
+          },
+          {
+            "name": "unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Percent"
+              ]
+            }
+          },
+          {
+            "name": "urbanization",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "R",
+                "U",
+                "_T"
+              ]
+            }
+          },
+          {
+            "name": "wealth-quintile",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Q1",
+                "Q2",
+                "Q3",
+                "Q4",
+                "Q5",
+                "_T"
+              ]
+            }
+          }
+        ]
+      },
+      "title": "Proportion of children under 5 years of age whose births have been registered with a civil authority, by age"
+    },
+    {
+      "path": "3-1-1/data.csv",
+      "name": "3-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number"
+          },
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "_T"
+              ]
+            }
+          },
+          {
+            "name": "education-level",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "_T"
+              ]
+            }
+          },
+          {
+            "name": "geoarea",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "ET"
+              ]
+            }
+          },
+          {
+            "name": "scale",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "1"
+              ]
+            }
+          },
+          {
+            "name": "seriesdescription",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "SH_STA_MMR"
+              ]
+            }
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "_T"
+              ]
+            }
+          },
+          {
+            "name": "unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "per 100000 live births"
+              ]
+            }
+          },
+          {
+            "name": "urbanization",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "_T"
+              ]
+            }
+          },
+          {
+            "name": "wealth-quintile",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "_T"
+              ]
+            }
+          }
+        ]
+      },
+      "title": "Proportion of children under 5 years of age whose births have been registered with a civil authority, by age"
+    },
+    {
+      "path": "3-1-2/data.csv",
+      "name": "3-1-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number"
+          },
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "_T"
+              ]
+            }
+          },
+          {
+            "name": "education-level",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "_T"
+              ]
+            }
+          },
+          {
+            "name": "geoarea",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "ET"
+              ]
+            }
+          },
+          {
+            "name": "scale",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "1"
+              ]
+            }
+          },
+          {
+            "name": "seriesdescription",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "SH_STA_BRTC"
+              ]
+            }
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "_T"
+              ]
+            }
+          },
+          {
+            "name": "unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Percent"
+              ]
+            }
+          },
+          {
+            "name": "urbanization",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "_T"
+              ]
+            }
+          },
+          {
+            "name": "wealth-quintile",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "_T"
+              ]
+            }
+          }
+        ]
+      },
+      "title": "Proportion of children under 5 years of age whose births have been registered with a civil authority, by age"
+    },
+    {
+      "path": "3-2-1/data.csv",
+      "name": "3-2-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number"
+          },
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Y0T4"
+              ]
+            }
+          },
+          {
+            "name": "education-level",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "_T"
+              ]
+            }
+          },
+          {
+            "name": "geoarea",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "ET"
+              ]
+            }
+          },
+          {
+            "name": "scale",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "1"
+              ]
+            }
+          },
+          {
+            "name": "seriesdescription",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "SH_DYN_MORT"
+              ]
+            }
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "_T"
+              ]
+            }
+          },
+          {
+            "name": "unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "per 1000 live births"
+              ]
+            }
+          },
+          {
+            "name": "urbanization",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "_T"
+              ]
+            }
+          },
+          {
+            "name": "wealth-quintile",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "_T"
+              ]
+            }
+          }
+        ]
+      },
+      "title": "Proportion of children under 5 years of age whose births have been registered with a civil authority, by age"
+    },
+    {
+      "path": "3-2-2/data.csv",
+      "name": "3-2-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number"
+          },
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "M0"
+              ]
+            }
+          },
+          {
+            "name": "education-level",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "_T"
+              ]
+            }
+          },
+          {
+            "name": "geoarea",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "ET"
+              ]
+            }
+          },
+          {
+            "name": "scale",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "1"
+              ]
+            }
+          },
+          {
+            "name": "seriesdescription",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "SH_DYN_NMRT"
+              ]
+            }
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "_T"
+              ]
+            }
+          },
+          {
+            "name": "unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "per 1000 live births"
+              ]
+            }
+          },
+          {
+            "name": "urbanization",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "_T"
+              ]
+            }
+          },
+          {
+            "name": "wealth-quintile",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "_T"
+              ]
+            }
+          }
+        ]
+      },
+      "title": "Proportion of children under 5 years of age whose births have been registered with a civil authority, by age"
+    },
+    {
+      "path": "3-7-1/data.csv",
+      "name": "3-7-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number"
+          },
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Y15T49"
+              ]
+            }
+          },
+          {
+            "name": "education-level",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "_T"
+              ]
+            }
+          },
+          {
+            "name": "geoarea",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "ET"
+              ]
+            }
+          },
+          {
+            "name": "scale",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "1"
+              ]
+            }
+          },
+          {
+            "name": "seriesdescription",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "SH_FPL_MTMM"
+              ]
+            }
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "_T"
+              ]
+            }
+          },
+          {
+            "name": "unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Percent"
+              ]
+            }
+          },
+          {
+            "name": "urbanization",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "_T"
+              ]
+            }
+          },
+          {
+            "name": "wealth-quintile",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "_T"
+              ]
+            }
+          }
+        ]
+      },
+      "title": "Proportion of children under 5 years of age whose births have been registered with a civil authority, by age"
+    },
+    {
+      "path": "3-a-1/data.csv",
+      "name": "3-a-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number"
+          },
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Y15T19",
+                "Y15T49",
+                "Y20T24",
+                "Y25T29",
+                "Y30T34",
+                "Y35T39",
+                "Y40T44",
+                "Y45T49",
+                "_T"
+              ]
+            }
+          },
+          {
+            "name": "education-level",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "_T"
+              ]
+            }
+          },
+          {
+            "name": "geoarea",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "ET",
+                "ET01",
+                "ET02",
+                "ET03",
+                "ET04",
+                "ET05",
+                "ET06",
+                "ET07",
+                "ET12",
+                "ET13",
+                "ET14",
+                "ET15"
+              ]
+            }
+          },
+          {
+            "name": "scale",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "1"
+              ]
+            }
+          },
+          {
+            "name": "seriesdescription",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "SH_PRV_SMOK"
+              ]
+            }
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "F",
+                "M"
+              ]
+            }
+          },
+          {
+            "name": "unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Number",
+                "Percent"
+              ]
+            }
+          },
+          {
+            "name": "urbanization",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "R",
+                "U",
+                "_T"
+              ]
+            }
+          },
+          {
+            "name": "wealth-quintile",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "_T"
+              ]
+            }
+          }
+        ]
+      },
+      "title": "Proportion of children under 5 years of age whose births have been registered with a civil authority, by age"
+    },
+    {
+      "path": "5-2-1/data.csv",
+      "name": "5-2-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number"
+          },
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Y15T49"
+              ]
+            }
+          },
+          {
+            "name": "education-level",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "_T"
+              ]
+            }
+          },
+          {
+            "name": "geoarea",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "ET"
+              ]
+            }
+          },
+          {
+            "name": "scale",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "1"
+              ]
+            }
+          },
+          {
+            "name": "seriesdescription",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "VC_VAW_MARR"
+              ]
+            }
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "_T"
+              ]
+            }
+          },
+          {
+            "name": "unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Percent"
+              ]
+            }
+          },
+          {
+            "name": "urbanization",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "_T"
+              ]
+            }
+          },
+          {
+            "name": "wealth-quintile",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "_T"
+              ]
+            }
+          }
+        ]
+      },
+      "title": "Proportion of children under 5 years of age whose births have been registered with a civil authority, by age"
+    },
+    {
+      "path": "5-3-1/data.csv",
+      "name": "5-3-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number"
+          },
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Y20T24"
+              ]
+            }
+          },
+          {
+            "name": "education-level",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "_T"
+              ]
+            }
+          },
+          {
+            "name": "geoarea",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "ET"
+              ]
+            }
+          },
+          {
+            "name": "scale",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "1"
+              ]
+            }
+          },
+          {
+            "name": "seriesdescription",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "SP_DYN_MRBF15",
+                "SP_DYN_MRBF18"
+              ]
+            }
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "_T"
+              ]
+            }
+          },
+          {
+            "name": "unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Percent"
+              ]
+            }
+          },
+          {
+            "name": "urbanization",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "_T"
+              ]
+            }
+          },
+          {
+            "name": "wealth-quintile",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "_T"
+              ]
+            }
+          }
+        ]
+      },
+      "title": "Proportion of children under 5 years of age whose births have been registered with a civil authority, by age"
+    },
+    {
+      "path": "5-3-2/data.csv",
+      "name": "5-3-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number"
+          },
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Y15T49",
+                "_T"
+              ]
+            }
+          },
+          {
+            "name": "education-level",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "_T"
+              ]
+            }
+          },
+          {
+            "name": "geoarea",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "ET",
+                "ET01",
+                "ET02",
+                "ET03",
+                "ET04",
+                "ET05",
+                "ET06",
+                "ET07",
+                "ET12",
+                "ET13",
+                "ET14",
+                "ET15"
+              ]
+            }
+          },
+          {
+            "name": "scale",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "1"
+              ]
+            }
+          },
+          {
+            "name": "seriesdescription",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "SH_STA_FGMS"
+              ]
+            }
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "F"
+              ]
+            }
+          },
+          {
+            "name": "unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Percent"
+              ]
+            }
+          },
+          {
+            "name": "urbanization",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "_T"
+              ]
+            }
+          },
+          {
+            "name": "wealth-quintile",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "_T"
+              ]
+            }
+          }
+        ]
+      },
+      "title": "Proportion of children under 5 years of age whose births have been registered with a civil authority, by age"
+    },
+    {
+      "path": "5-5-2/data.csv",
+      "name": "5-5-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number"
+          },
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Y15T49"
+              ]
+            }
+          },
+          {
+            "name": "education-level",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "_T"
+              ]
+            }
+          },
+          {
+            "name": "geoarea",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "ET"
+              ]
+            }
+          },
+          {
+            "name": "scale",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "1"
+              ]
+            }
+          },
+          {
+            "name": "seriesdescription",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "IC_GEN_MGTL"
+              ]
+            }
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "F"
+              ]
+            }
+          },
+          {
+            "name": "unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Percent"
+              ]
+            }
+          },
+          {
+            "name": "urbanization",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "_T"
+              ]
+            }
+          },
+          {
+            "name": "wealth-quintile",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "_T"
+              ]
+            }
+          }
+        ]
+      },
+      "title": "Proportion of children under 5 years of age whose births have been registered with a civil authority, by age"
+    },
+    {
+      "path": "5-6-1/data.csv",
+      "name": "5-6-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number"
+          },
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Y15T49"
+              ]
+            }
+          },
+          {
+            "name": "education-level",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "_T"
+              ]
+            }
+          },
+          {
+            "name": "geoarea",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "ET"
+              ]
+            }
+          },
+          {
+            "name": "scale",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "1"
+              ]
+            }
+          },
+          {
+            "name": "seriesdescription",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "SH_FPL_INFM"
+              ]
+            }
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "F"
+              ]
+            }
+          },
+          {
+            "name": "unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Percent"
+              ]
+            }
+          },
+          {
+            "name": "urbanization",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "_T"
+              ]
+            }
+          },
+          {
+            "name": "wealth-quintile",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "_T"
+              ]
+            }
+          }
+        ]
+      },
+      "title": "Proportion of children under 5 years of age whose births have been registered with a civil authority, by age"
+    },
+    {
+      "path": "5-a-1/data.csv",
+      "name": "5-a-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number"
+          },
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "_T"
+              ]
+            }
+          },
+          {
+            "name": "education-level",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "_T"
+              ]
+            }
+          },
+          {
+            "name": "geoarea",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "ET"
+              ]
+            }
+          },
+          {
+            "name": "scale",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "1"
+              ]
+            }
+          },
+          {
+            "name": "seriesdescription",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "SP_LGL_LNDAGSEC"
+              ]
+            }
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "_T"
+              ]
+            }
+          },
+          {
+            "name": "unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Percent"
+              ]
+            }
+          },
+          {
+            "name": "urbanization",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "_T"
+              ]
+            }
+          },
+          {
+            "name": "wealth-quintile",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "_T"
+              ]
+            }
+          }
+        ]
+      },
+      "title": "Proportion of children under 5 years of age whose births have been registered with a civil authority, by age"
+    },
+    {
+      "path": "5-b-1/data.csv",
+      "name": "5-b-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number"
+          },
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "_T"
+              ]
+            }
+          },
+          {
+            "name": "education-level",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "_T"
+              ]
+            }
+          },
+          {
+            "name": "geoarea",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "ET"
+              ]
+            }
+          },
+          {
+            "name": "scale",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "1"
+              ]
+            }
+          },
+          {
+            "name": "seriesdescription",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "IT_MOB_OWN"
+              ]
+            }
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "F",
+                "M"
+              ]
+            }
+          },
+          {
+            "name": "unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Percent"
+              ]
+            }
+          },
+          {
+            "name": "urbanization",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "_T"
+              ]
+            }
+          },
+          {
+            "name": "wealth-quintile",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "_T"
+              ]
+            }
+          }
+        ]
+      },
+      "title": "Proportion of children under 5 years of age whose births have been registered with a civil authority, by age"
+    },
+    {
+      "path": "7-1-1/data.csv",
+      "name": "7-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number"
+          },
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "_T"
+              ]
+            }
+          },
+          {
+            "name": "education-level",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "_T"
+              ]
+            }
+          },
+          {
+            "name": "geoarea",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "ET"
+              ]
+            }
+          },
+          {
+            "name": "scale",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "1"
+              ]
+            }
+          },
+          {
+            "name": "seriesdescription",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "EG_ELC_ACCS"
+              ]
+            }
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "_T"
+              ]
+            }
+          },
+          {
+            "name": "unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Percent"
+              ]
+            }
+          },
+          {
+            "name": "urbanization",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "_T"
+              ]
+            }
+          },
+          {
+            "name": "wealth-quintile",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "_T"
+              ]
+            }
+          }
+        ]
+      },
+      "title": "Proportion of children under 5 years of age whose births have been registered with a civil authority, by age"
+    },
+    {
+      "path": "8-3-1/data.csv",
+      "name": "8-3-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number"
+          },
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "_T"
+              ]
+            }
+          },
+          {
+            "name": "education-level",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "_T"
+              ]
+            }
+          },
+          {
+            "name": "geoarea",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "ET",
+                "ET01",
+                "ET02",
+                "ET03",
+                "ET04",
+                "ET05",
+                "ET06",
+                "ET07",
+                "ET12",
+                "ET13",
+                "ET14",
+                "ET15"
+              ]
+            }
+          },
+          {
+            "name": "scale",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "1"
+              ]
+            }
+          },
+          {
+            "name": "seriesdescription",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "SL_ISV_IFEM"
+              ]
+            }
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "F",
+                "M"
+              ]
+            }
+          },
+          {
+            "name": "unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Percent"
+              ]
+            }
+          },
+          {
+            "name": "urbanization",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "U"
+              ]
+            }
+          },
+          {
+            "name": "wealth-quintile",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "_T"
+              ]
+            }
+          }
+        ]
+      },
+      "title": "Proportion of children under 5 years of age whose births have been registered with a civil authority, by age"
+    },
+    {
+      "path": "8-5-2/data.csv",
+      "name": "8-5-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number"
+          },
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "_T"
+              ]
+            }
+          },
+          {
+            "name": "education-level",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "_T"
+              ]
+            }
+          },
+          {
+            "name": "geoarea",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "ET",
+                "ET01",
+                "ET02",
+                "ET03",
+                "ET04",
+                "ET05",
+                "ET06",
+                "ET07",
+                "ET12",
+                "ET13",
+                "ET14",
+                "ET15"
+              ]
+            }
+          },
+          {
+            "name": "scale",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "1"
+              ]
+            }
+          },
+          {
+            "name": "seriesdescription",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "SL_TLF_UEM"
+              ]
+            }
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "F",
+                "M"
+              ]
+            }
+          },
+          {
+            "name": "unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Percent"
+              ]
+            }
+          },
+          {
+            "name": "urbanization",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "U"
+              ]
+            }
+          },
+          {
+            "name": "wealth-quintile",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "_T"
+              ]
+            }
+          }
+        ]
+      },
+      "title": "Proportion of children under 5 years of age whose births have been registered with a civil authority, by age"
+    },
+    {
+      "path": "16-9-1/data.csv",
+      "name": "16-9-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number"
+          },
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Y0T2",
+                "Y0T4",
+                "Y2T4"
+              ]
+            }
+          },
+          {
+            "name": "education-level",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "_T"
+              ]
+            }
+          },
+          {
+            "name": "geoarea",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "ET"
+              ]
+            }
+          },
+          {
+            "name": "scale",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "1"
+              ]
+            }
+          },
+          {
+            "name": "seriesdescription",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "SG_REG_BRTH"
+              ]
+            }
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "_T"
+              ]
+            }
+          },
+          {
+            "name": "unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Percent"
+              ]
+            }
+          },
+          {
+            "name": "urbanization",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "_T"
+              ]
+            }
+          },
+          {
+            "name": "wealth-quintile",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "_T"
+              ]
+            }
+          }
+        ]
+      },
+      "title": "Proportion of children under 5 years of age whose births have been registered with a civil authority, by age"
+    }
+  ]
+}

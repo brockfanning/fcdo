@@ -1,0 +1,109 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number"
+          },
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Y20T24"
+              ]
+            }
+          },
+          {
+            "name": "disability",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "_T"
+              ]
+            }
+          },
+          {
+            "name": "geoarea",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "UG"
+              ]
+            }
+          },
+          {
+            "name": "location",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "_T"
+              ]
+            }
+          },
+          {
+            "name": "scale",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "1"
+              ]
+            }
+          },
+          {
+            "name": "seriesdescription",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "SP_DYN_MRBF15",
+                "SP_DYN_MRBF18"
+              ]
+            }
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "F"
+              ]
+            }
+          },
+          {
+            "name": "unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "%"
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "5-3-1",
+  "title": "Proportion of individuals using the Internet"
+}

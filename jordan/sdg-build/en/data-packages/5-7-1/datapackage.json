@@ -1,0 +1,55 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Indecaror",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by se",
+                "(b) share of women among owners or rights-bearers of agricultural land, by type of tenure"
+              ]
+            },
+            "title": "Indecaror"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Female",
+                "Male",
+                "Total"
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "5-7-1",
+  "title": "Proportion of total agricultural population by Indecaror, Time and Sex"
+}

@@ -1,0 +1,40 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Amount of fossil-fuel subsidies",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Percent",
+                "US Dollar",
+                "billions of current United States dollars"
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          },
+          {
+            "name": "Year",
+            "type": "string"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "12-5-1",
+  "title": " Amount of fossil-fuel subsidies per unit of GDP (production and consumption) and as a proportion of total national expenditure on fossil fuels by Year and Amount of fossil-fuel subsidies"
+}

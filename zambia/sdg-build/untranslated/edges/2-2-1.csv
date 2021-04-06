@@ -1,0 +1,11 @@
+From,To
+seriesdescription,geoarea
+geoarea,sex
+sex,age
+age,location
+location,education-level
+education-level,occupation
+occupation,comp-breakdown
+comp-breakdown,disability-status
+disability-status,unit
+unit,scale
