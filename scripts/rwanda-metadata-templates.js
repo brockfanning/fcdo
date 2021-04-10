@@ -2,7 +2,9 @@ const path = require('path')
 const mammoth = require('mammoth')
 const cheerio = require('cheerio')
 const { Metadata, WordTemplateOutput } = require('sdg-metadata-convert')
-const wordTemplateOutput = new WordTemplateOutput()
+const wordTemplateOutput = new WordTemplateOutput({
+    template: path.join('scripts', 'templates', 'SDG_Metadata_Template_Rwanda.docm'),
+})
 const nunjucks = require('nunjucks')
 nunjucks.configure({ autoescape: false });
 
@@ -20,10 +22,10 @@ const validMetadataFields = [
     'indicator_number',
     'target_name',
     'target_number',
-    //'global_indicator_description',
-    //'un_designated_tier',
-    //'un_custodian_agency',
-    //'link_to_un_metadata',
+    'global_indicator_description',
+    'un_designated_tier',
+    'un_custodian_agency',
+    'link_to_un_metadata',
     'source_organization',
     'data_source',
     'reporting_source',
@@ -31,7 +33,7 @@ const validMetadataFields = [
     'source_organization_1',
     'periodicity',
     'earliest_available_data',
-    'link_to_data source_the_text_to_show_instead_of_the_url',
+    'link_to_data_source_the_text_to_show_instead_of_the_url',
     'release_date',
     'next_release_date',
     'statistical_classification',
@@ -56,7 +58,9 @@ function getConceptTemplates() {
             {{ release_date }}
         `,
         'SDG_RELATED_INDICATORS': ``,
-        'SDG_CUSTODIAN_AGENCIES': ``,
+        'SDG_CUSTODIAN_AGENCIES': `
+            {{ un_custodian_agency }}
+        `,
         'CONTACT': ``,
         'CONTACT_ORGANISATION': `
             {{ source_organization }}
@@ -120,10 +124,12 @@ function getConceptTemplates() {
             <h2>Earliest available data</h2>
             {{ earliest_available_data }}
             {% endif %}
+
             {% if geographical_coverage or geographic_coverage %}
             <h2>Geographical coverage</h2>
             {{ geographical_coverage }} {{ geographic_coverage }}
             {% endif %}
+
             {% if disaggregation %}
             <h2>Disaggregation</h2>
             {{ disaggregation}}
@@ -135,18 +141,36 @@ function getConceptTemplates() {
             {{ available_indicator }}
             {{ indicator_available }}
             {% endif %}
+
+            {% if global_indicator_description %}
+            <h2>Global indicator description</h2>
+            {{ global_indicator_description }}
+            {% endif %}
+
+            {% if link_to_un_metadata %}
+            <h2>Link to UN Metadata</h2>
+            {{ link_to_un_metadata }}
+            {% endif %}
+
         `,
         'OTHER_DOC': `
             {% if other_information %}
             <h2>Other information</h2>
             {{ other_information }}
             {% endif %}
+
+            {% if un_designated_tier %}
+            <h2>UN designated tier</h2>
+            {{ un_designated_tier }}
+            {% endif %}
         `,
     }
 }
 
+const originalFields = {}
+
 mammoth.convertToHtml({path: 'web/_data/countries/rwanda/77 Metadata document.docx'})
-    .then(function(result) {
+    .then(async function(result) {
         const html = result.value
         const messages = result.messages
         const $ = cheerio.load(html)
@@ -175,6 +199,7 @@ mammoth.convertToHtml({path: 'web/_data/countries/rwanda/77 Metadata document.do
                     continue
                 }
                 oldMetadata[field] = value
+                originalFields[field] = $(cells[0]).text()
             }
 
             const templates = getConceptTemplates()
@@ -188,10 +213,11 @@ mammoth.convertToHtml({path: 'web/_data/countries/rwanda/77 Metadata document.do
             const folder = path.join('web', '_data', 'countries', 'rwanda', 'metadata-templates')
             const filename = indicatorId.replace(/\./g, '-') + '.docm'
             const filepath = path.join(folder, filename)
-            wordTemplateOutput.write(metadata, filepath)
+            await wordTemplateOutput.write(metadata, filepath)
                 .then(() => console.log(`Created ${filepath}.`))
                 .catch(err => console.log(err))
         }
+        //console.log(originalFields)
     })
     .done();
 
