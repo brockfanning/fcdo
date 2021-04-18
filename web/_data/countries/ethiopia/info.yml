@@ -19,7 +19,8 @@ metadata:
 sdglab:
   country: 18
 
-notes: []
+notes:
+  - scale attribute is mostly 1 - does this correspond to UNIT_MULT of 0?
 
 sdmx:
   data: https://ethiopia.opendataforafrica.org/api/1.0/sdmx/data/btdqdo?key=.........

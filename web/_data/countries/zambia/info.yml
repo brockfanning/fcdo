@@ -24,3 +24,6 @@ json:
   data: https://zambia.opendataforafrica.org/api/2.0/data?datasetId=SDGZAMBIA
 
 issues: []
+
+notes:
+  - scale attribute is mostly 1 - does this correspond to UNIT_MULT of 0?

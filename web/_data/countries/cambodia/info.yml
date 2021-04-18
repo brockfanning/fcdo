@@ -7,11 +7,12 @@ platform:
   examples:
     indicator: http://camstat.nis.gov.kh/vis?locale=en&start=0&constraints[0]=6nQpoAP%2C0%7CSDG%20indicators%23SDG%23&facet=6nQpoAP&dataflow[datasourceId]=CamStat-stable&dataflow[dataflowId]=DF_SDG_KH&dataflow[agencyId]=KH_NIS&dataflow[version]=1.2&period=2008%2C2020&frequency=A&dataquery=A..SI_POV_NAHC............&layout[header]=TIME_PERIOD&layout[rows]=REF_AREA%2CURBANISATION
     data: https://nsiws-stable-camstat-live.officialstatistics.org/rest/data/KH_NIS,DF_SDG_KH,1.2/A..SI_POV_NAHC............?startPeriod=2008&endPeriod=2020
+    Open SDG proof-of-concept: http://brock.tips/open-sdg-cambodia/
 
 data:
   status: SDMX published
 metadata:
-  status: Unknown
+  status: Trainings upcoming
 
 sdglab:
   country: 58
@@ -24,4 +25,7 @@ sdmx:
     data: https://nsiws-stable-camstat-live.officialstatistics.org/rest/data/KH_NIS,DF_SDG_KH,1.2/A..............?startPeriod=2008&endPeriod=2019
     structure: https://nsiws-stable-camstat-live.officialstatistics.org/rest/dataflow/KH_NIS/DF_SDG_KH/1.2?references=all&detail=referencepartial
 
-issues: []
+issues:
+  - DSD needs all used codes translated to Khmer
+  - Need confirmation that line-breaks in Khmer are correct
+  - Confirm/fix all translations in SDG Translations (Weblate)

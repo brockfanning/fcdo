@@ -52,6 +52,7 @@ for item in os.listdir(root):
             path_to = os.path.join(destination_output_folder, item + '.xml')
             copyfile(path_from, path_to)
         elif info['platform']['system'] == 'PX Web' and 'endpoint' in info['platform']:
+            continue
             endpoint = info['platform']['endpoint']
             year_column = 'Time' if item == 'jordan' else 'TIME PERIOD'
             def data_alter(df):

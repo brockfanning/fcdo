@@ -29,5 +29,6 @@ sdmx:
 notes:
   - nice layout of disaggregations
   - unexpected attributes in SDMX
+  - scale attribute is mostly 1 - does this correspond to UNIT_MULT of 0?
 
 issues: []

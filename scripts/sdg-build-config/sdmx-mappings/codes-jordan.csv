@@ -1,0 +1,5 @@
+Text,Dimension,Value
+Male,SEX,M
+Female,SEX,F
+Total,SEX,_T
+kingdom,REF_AREA,JO
