@@ -11,25 +11,37 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
             "name": "Government spending percentage on",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "Health",
-                "Social protection",
                 "education",
-                "total"
+                "Social protection",
+                "total",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2017",
+                "2016",
+                "2015",
+                ""
               ]
             }
           },
           {
             "name": "Value",
             "type": "number"
-          },
-          {
-            "name": "Year",
-            "type": "string"
           }
         ]
       }

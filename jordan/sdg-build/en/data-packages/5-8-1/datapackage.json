@@ -24,13 +24,24 @@
             "title": "Sex"
           },
           {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "2017-18"
+              ]
+            },
+            "title": "TIME_DETAIL"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           }
         ]

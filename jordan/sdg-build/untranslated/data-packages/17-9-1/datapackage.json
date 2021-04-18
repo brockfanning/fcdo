@@ -11,22 +11,25 @@
       "schema": {
         "fields": [
           {
-            "name": "Gross Disbursement",
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "TIME_DETAIL",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Value"
+                "2014",
+                "2015",
+                "2016",
+                "2017",
+                ""
               ]
             }
           },
           {
             "name": "Value",
             "type": "number"
-          },
-          {
-            "name": "Year",
-            "type": "string"
           }
         ]
       }

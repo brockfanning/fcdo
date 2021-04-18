@@ -11,16 +11,31 @@
       "schema": {
         "fields": [
           {
-            "name": "Indecator",
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
+            "name": "TIME_DETAIL",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "(a)national parliaments",
-                "(b) local governments"
+                "2012",
+                "2013",
+                "2014",
+                "2015",
+                "2016",
+                "2017",
+                "2018"
               ]
             },
-            "title": "Indecator"
+            "title": "TIME_DETAIL"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",
@@ -29,7 +44,7 @@
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           }
         ]

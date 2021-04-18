@@ -11,24 +11,38 @@
       "schema": {
         "fields": [
           {
-            "name": "Value",
-            "type": "number"
-          },
-          {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
             "name": "نوع التكنلوجيا",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "AL2G",
                 "AL3G",
-                "AL4G"
+                "AL4G",
+                ""
               ]
             }
+          },
+          {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2013",
+                "2014",
+                "2015",
+                "2016",
+                "2017",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
           }
         ]
       }

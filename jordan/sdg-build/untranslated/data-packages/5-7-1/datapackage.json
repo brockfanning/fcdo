@@ -11,35 +11,42 @@
       "schema": {
         "fields": [
           {
-            "name": "Indecaror",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by se",
-                "(b) share of women among owners or rights-bearers of agricultural land, by type of tenure"
-              ]
-            }
+            "name": "Year",
+            "type": "integer"
           },
           {
             "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Female",
                 "Male",
-                "Total"
+                "Female",
+                "Total",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SERIES",
+            "type": "string"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2017",
+                ""
               ]
             }
           },
           {
             "name": "Value",
             "type": "number"
-          },
-          {
-            "name": "Year",
-            "type": "string"
           }
         ]
       }

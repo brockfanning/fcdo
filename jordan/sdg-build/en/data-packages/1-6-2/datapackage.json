@@ -25,13 +25,26 @@
             "title": "Government spending percentage on"
           },
           {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "2015",
+                "2016",
+                "2017"
+              ]
+            },
+            "title": "TIME_DETAIL"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           }
         ]

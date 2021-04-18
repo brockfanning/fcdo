@@ -13,13 +13,28 @@
       "schema": {
         "fields": [
           {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "1997",
+                "2002",
+                "2006",
+                "2008",
+                "2010"
+              ]
+            },
+            "title": "TIME_DETAIL"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           }
         ]
@@ -60,13 +75,28 @@
             "title": "Governorate"
           },
           {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "1997",
+                "2002",
+                "2006",
+                "2008",
+                "2010"
+              ]
+            },
+            "title": "TIME_DETAIL"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           }
         ]
@@ -104,13 +134,27 @@
             "title": "Sub-indicators"
           },
           {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "2015",
+                "2016",
+                "2017",
+                "2018"
+              ]
+            },
+            "title": "TIME_DETAIL"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           }
         ]
@@ -145,13 +189,28 @@
             "title": "Sub-indicators"
           },
           {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "2009",
+                "2010",
+                "2011",
+                "2016",
+                "2017"
+              ]
+            },
+            "title": "TIME_DETAIL"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           }
         ]
@@ -180,13 +239,24 @@
             "title": "Sub-indicator"
           },
           {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "2018"
+              ]
+            },
+            "title": "TIME_DETAIL"
+          },
+          {
             "name": "Value",
             "type": "integer",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           }
         ]
@@ -215,13 +285,26 @@
             "title": "Sub-indicators"
           },
           {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "2016",
+                "2017",
+                "2018"
+              ]
+            },
+            "title": "TIME_DETAIL"
+          },
+          {
             "name": "Value",
             "type": "integer",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           }
         ]
@@ -253,13 +336,26 @@
             "title": "Government spending percentage on"
           },
           {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "2015",
+                "2016",
+                "2017"
+              ]
+            },
+            "title": "TIME_DETAIL"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           }
         ]
@@ -290,13 +386,26 @@
             "title": "Sex"
           },
           {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "2016",
+                "2017",
+                "2018"
+              ]
+            },
+            "title": "TIME_DETAIL"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           }
         ]
@@ -327,13 +436,26 @@
             "title": "Sex"
           },
           {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "2016",
+                "2017",
+                "2018"
+              ]
+            },
+            "title": "TIME_DETAIL"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           }
         ]
@@ -364,13 +486,27 @@
             "title": "Sex"
           },
           {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "2015",
+                "2016",
+                "2017",
+                "2018"
+              ]
+            },
+            "title": "TIME_DETAIL"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           }
         ]
@@ -401,13 +537,26 @@
             "title": "Sex"
           },
           {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "2016",
+                "2017",
+                "2018"
+              ]
+            },
+            "title": "TIME_DETAIL"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           }
         ]
@@ -449,13 +598,24 @@
             "title": "Subject"
           },
           {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "2016"
+              ]
+            },
+            "title": "TIME_DETAIL"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           }
         ]
@@ -486,13 +646,25 @@
             "title": "Subject"
           },
           {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "2016",
+                "2018"
+              ]
+            },
+            "title": "TIME_DETAIL"
+          },
+          {
             "name": "Value",
             "type": "integer",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           }
         ]
@@ -523,13 +695,26 @@
             "title": "Sex"
           },
           {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "2016",
+                "2017",
+                "2018"
+              ]
+            },
+            "title": "TIME_DETAIL"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           }
         ]
@@ -560,13 +745,26 @@
             "title": "Sex"
           },
           {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "2016",
+                "2017",
+                "2018"
+              ]
+            },
+            "title": "TIME_DETAIL"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           }
         ]
@@ -597,13 +795,26 @@
             "title": "Sex"
           },
           {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "2016",
+                "2017",
+                "2018"
+              ]
+            },
+            "title": "TIME_DETAIL"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           }
         ]
@@ -634,13 +845,25 @@
             "title": "Sex"
           },
           {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "2017",
+                "2018"
+              ]
+            },
+            "title": "TIME_DETAIL"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           }
         ]
@@ -677,13 +900,25 @@
             "title": "Skill type"
           },
           {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "2017",
+                "2018"
+              ]
+            },
+            "title": "TIME_DETAIL"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           }
         ]
@@ -712,13 +947,26 @@
             "title": "Enrollment ratio"
           },
           {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "2016",
+                "2017",
+                "2018"
+              ]
+            },
+            "title": "TIME_DETAIL"
+          },
+          {
             "name": "Value",
             "type": "integer",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           }
         ]
@@ -747,13 +995,26 @@
             "title": "Enrollment ratio"
           },
           {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "2016",
+                "2017",
+                "2018"
+              ]
+            },
+            "title": "TIME_DETAIL"
+          },
+          {
             "name": "Value",
             "type": "integer",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           }
         ]
@@ -784,13 +1045,27 @@
             "title": "Sex"
           },
           {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "2015",
+                "2016",
+                "2017",
+                "2018"
+              ]
+            },
+            "title": "TIME_DETAIL"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           }
         ]
@@ -820,13 +1095,25 @@
             "title": "Education Sector"
           },
           {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "2017",
+                "2018"
+              ]
+            },
+            "title": "TIME_DETAIL"
+          },
+          {
             "name": "Value",
             "type": "integer",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           },
           {
@@ -872,13 +1159,24 @@
             "title": "Area"
           },
           {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "2018"
+              ]
+            },
+            "title": "TIME_DETAIL"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           }
         ]
@@ -910,6 +1208,19 @@
             "title": "Age"
           },
           {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "2007",
+                "2012",
+                "2017-18"
+              ]
+            },
+            "title": "TIME_DETAIL"
+          },
+          {
             "name": "Types of violence",
             "type": "string",
             "constraints": {
@@ -930,7 +1241,7 @@
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           }
         ]
@@ -960,13 +1271,29 @@
             "title": "Age"
           },
           {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "1990",
+                "1997",
+                "2002",
+                "2007",
+                "2012",
+                "2017-18"
+              ]
+            },
+            "title": "TIME_DETAIL"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           }
         ]
@@ -984,16 +1311,31 @@
       "schema": {
         "fields": [
           {
-            "name": "Indecator",
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
+            "name": "TIME_DETAIL",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "(a)national parliaments",
-                "(b) local governments"
+                "2012",
+                "2013",
+                "2014",
+                "2015",
+                "2016",
+                "2017",
+                "2018"
               ]
             },
-            "title": "Indecator"
+            "title": "TIME_DETAIL"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",
@@ -1002,7 +1344,7 @@
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           }
         ]
@@ -1034,6 +1376,19 @@
             "title": "Age"
           },
           {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "2007",
+                "2012",
+                "2017-18"
+              ]
+            },
+            "title": "TIME_DETAIL"
+          },
+          {
             "name": "Types of violence",
             "type": "string",
             "constraints": {
@@ -1054,7 +1409,7 @@
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           }
         ]
@@ -1072,13 +1427,24 @@
       "schema": {
         "fields": [
           {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "2016"
+              ]
+            },
+            "title": "TIME_DETAIL"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           }
         ]
@@ -1096,16 +1462,9 @@
       "schema": {
         "fields": [
           {
-            "name": "Indecaror",
+            "name": "SERIES",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by se",
-                "(b) share of women among owners or rights-bearers of agricultural land, by type of tenure"
-              ]
-            },
-            "title": "Indecaror"
+            "title": "SERIES"
           },
           {
             "name": "Sex",
@@ -1121,13 +1480,29 @@
             "title": "Sex"
           },
           {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "2017"
+              ]
+            },
+            "title": "TIME_DETAIL"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           }
         ]
@@ -1158,13 +1533,24 @@
             "title": "Sex"
           },
           {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "2017-18"
+              ]
+            },
+            "title": "TIME_DETAIL"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           }
         ]
@@ -1182,13 +1568,28 @@
       "schema": {
         "fields": [
           {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "2014",
+                "2015",
+                "2016",
+                "2017",
+                "2018"
+              ]
+            },
+            "title": "TIME_DETAIL"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           }
         ]
@@ -1206,13 +1607,24 @@
       "schema": {
         "fields": [
           {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "2016"
+              ]
+            },
+            "title": "TIME_DETAIL"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           }
         ]
@@ -1230,13 +1642,24 @@
       "schema": {
         "fields": [
           {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "2015"
+              ]
+            },
+            "title": "TIME_DETAIL"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           }
         ]
@@ -1254,13 +1677,24 @@
       "schema": {
         "fields": [
           {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "2017"
+              ]
+            },
+            "title": "TIME_DETAIL"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           }
         ]
@@ -1278,13 +1712,24 @@
       "schema": {
         "fields": [
           {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "2016"
+              ]
+            },
+            "title": "TIME_DETAIL"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           }
         ]
@@ -1302,13 +1747,24 @@
       "schema": {
         "fields": [
           {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "2016"
+              ]
+            },
+            "title": "TIME_DETAIL"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           }
         ]
@@ -1326,13 +1782,24 @@
       "schema": {
         "fields": [
           {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "2016"
+              ]
+            },
+            "title": "TIME_DETAIL"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           }
         ]
@@ -1350,13 +1817,24 @@
       "schema": {
         "fields": [
           {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "2016"
+              ]
+            },
+            "title": "TIME_DETAIL"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           }
         ]
@@ -1374,13 +1852,24 @@
       "schema": {
         "fields": [
           {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "2016"
+              ]
+            },
+            "title": "TIME_DETAIL"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           }
         ]
@@ -1412,13 +1901,24 @@
             "title": "Sub-indicators"
           },
           {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "2017"
+              ]
+            },
+            "title": "TIME_DETAIL"
+          },
+          {
             "name": "Value",
             "type": "integer",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           }
         ]
@@ -1448,13 +1948,26 @@
             "title": "Sub-indicators"
           },
           {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "2016",
+                "2017",
+                "2018"
+              ]
+            },
+            "title": "TIME_DETAIL"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           }
         ]
@@ -1495,13 +2008,27 @@
             "title": "Governorate"
           },
           {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "2015",
+                "2016",
+                "2017",
+                "2018"
+              ]
+            },
+            "title": "TIME_DETAIL"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           }
         ]
@@ -1519,13 +2046,24 @@
       "schema": {
         "fields": [
           {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "2013"
+              ]
+            },
+            "title": "TIME_DETAIL"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           }
         ]
@@ -1556,13 +2094,28 @@
             "title": "Sub-indicators"
           },
           {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "2012",
+                "2013",
+                "2014",
+                "2015",
+                "2016"
+              ]
+            },
+            "title": "TIME_DETAIL"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           }
         ]
@@ -1580,13 +2133,26 @@
       "schema": {
         "fields": [
           {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "2002",
+                "2008",
+                "2016"
+              ]
+            },
+            "title": "TIME_DETAIL"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           }
         ]
@@ -1604,13 +2170,26 @@
       "schema": {
         "fields": [
           {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "2015",
+                "2016",
+                "2017"
+              ]
+            },
+            "title": "TIME_DETAIL"
+          },
+          {
             "name": "Value",
             "type": "integer",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           }
         ]
@@ -1628,13 +2207,28 @@
       "schema": {
         "fields": [
           {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "2013",
+                "2014",
+                "2015",
+                "2016",
+                "2017"
+              ]
+            },
+            "title": "TIME_DETAIL"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           }
         ]
@@ -1652,13 +2246,28 @@
       "schema": {
         "fields": [
           {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "2012",
+                "2013",
+                "2014",
+                "2015",
+                "2016"
+              ]
+            },
+            "title": "TIME_DETAIL"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           }
         ]
@@ -1676,13 +2285,28 @@
       "schema": {
         "fields": [
           {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "2013",
+                "2014",
+                "2015",
+                "2016",
+                "2017"
+              ]
+            },
+            "title": "TIME_DETAIL"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           },
           {
@@ -1713,13 +2337,27 @@
       "schema": {
         "fields": [
           {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "2005",
+                "2010",
+                "2014",
+                "2016"
+              ]
+            },
+            "title": "TIME_DETAIL"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           }
         ]
@@ -1749,13 +2387,24 @@
             "title": "Area"
           },
           {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "2016"
+              ]
+            },
+            "title": "TIME_DETAIL"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           }
         ]
@@ -1784,13 +2433,24 @@
             "title": "Sub-indicator"
           },
           {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "2018"
+              ]
+            },
+            "title": "TIME_DETAIL"
+          },
+          {
             "name": "Value",
             "type": "integer",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           }
         ]
@@ -1808,13 +2468,26 @@
       "schema": {
         "fields": [
           {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "2016",
+                "2017",
+                "2018"
+              ]
+            },
+            "title": "TIME_DETAIL"
+          },
+          {
             "name": "Value",
             "type": "integer",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           },
           {
@@ -1857,13 +2530,24 @@
             "title": "Plan"
           },
           {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "2017"
+              ]
+            },
+            "title": "TIME_DETAIL"
+          },
+          {
             "name": "Value",
             "type": "integer",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           }
         ]
@@ -1895,13 +2579,24 @@
             "title": "International agreements"
           },
           {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "2015"
+              ]
+            },
+            "title": "TIME_DETAIL"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           }
         ]
@@ -1932,13 +2627,24 @@
             "title": "Amount of fossil-fuel subsidies"
           },
           {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "2015"
+              ]
+            },
+            "title": "TIME_DETAIL"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           }
         ]
@@ -1967,13 +2673,25 @@
             "title": "Indicator"
           },
           {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "2012",
+                "2017-18"
+              ]
+            },
+            "title": "TIME_DETAIL"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           }
         ]
@@ -1991,13 +2709,28 @@
       "schema": {
         "fields": [
           {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "2013",
+                "2014",
+                "2015",
+                "2016",
+                "2017"
+              ]
+            },
+            "title": "TIME_DETAIL"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           }
         ]
@@ -2015,13 +2748,26 @@
       "schema": {
         "fields": [
           {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "2005",
+                "2016",
+                "2017"
+              ]
+            },
+            "title": "TIME_DETAIL"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           }
         ]
@@ -2039,13 +2785,24 @@
       "schema": {
         "fields": [
           {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "2013"
+              ]
+            },
+            "title": "TIME_DETAIL"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           }
         ]
@@ -2063,13 +2820,28 @@
       "schema": {
         "fields": [
           {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "2009",
+                "2010",
+                "2013",
+                "2014",
+                "2015"
+              ]
+            },
+            "title": "TIME_DETAIL"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           }
         ]
@@ -2087,13 +2859,27 @@
       "schema": {
         "fields": [
           {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "2014",
+                "2015",
+                "2016",
+                "2017"
+              ]
+            },
+            "title": "TIME_DETAIL"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           }
         ]
@@ -2111,13 +2897,27 @@
       "schema": {
         "fields": [
           {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "2014",
+                "2015",
+                "2016",
+                "2017"
+              ]
+            },
+            "title": "TIME_DETAIL"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           }
         ]
@@ -2134,6 +2934,19 @@
       "encoding": "utf-8",
       "schema": {
         "fields": [
+          {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "2015",
+                "2016",
+                "2017"
+              ]
+            },
+            "title": "TIME_DETAIL"
+          },
           {
             "name": "Tariff regime",
             "type": "string",
@@ -2169,7 +2982,7 @@
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           }
         ]
@@ -2198,13 +3011,27 @@
             "title": "Indicator"
           },
           {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "2015",
+                "2016",
+                "2017",
+                "2018"
+              ]
+            },
+            "title": "TIME_DETAIL"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           }
         ]
@@ -2233,13 +3060,24 @@
             "title": "Jordan has national statistical legislation in line with the basic principles of official statistics"
           },
           {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "2018"
+              ]
+            },
+            "title": "TIME_DETAIL"
+          },
+          {
             "name": "Value",
             "type": "integer",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           }
         ]
@@ -2257,13 +3095,28 @@
       "schema": {
         "fields": [
           {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "2012",
+                "2013",
+                "2014",
+                "2015",
+                "2016"
+              ]
+            },
+            "title": "TIME_DETAIL"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           }
         ]
@@ -2281,13 +3134,27 @@
       "schema": {
         "fields": [
           {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "2014",
+                "2015",
+                "2016",
+                "2017"
+              ]
+            },
+            "title": "TIME_DETAIL"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           }
         ]
@@ -2305,13 +3172,27 @@
       "schema": {
         "fields": [
           {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "2014",
+                "2015",
+                "2016",
+                "2017"
+              ]
+            },
+            "title": "TIME_DETAIL"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           }
         ]
@@ -2329,22 +3210,41 @@
       "schema": {
         "fields": [
           {
-            "name": "Indicators",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "Broadband internet subscriptions per 100 inhabitants by speed (per 100 population) / ANYS",
-                "Fixed Internet broadband subscriptions per 100 inhabitants by speed (per 100 population) / 2MT10MBPS",
-                "Fixed broadband subscriptions per 100 inhabitants by speed (per 100 population) / 256KT2MBPS",
-                "Fixed internet broadband subscriptions per 100 population of residents by speed (per 100 population) / 10MBPS",
-                "Number of high-speed broadband Internet subscriptions by speed / 10MBPS (number)",
-                "Number of high-speed broadband Internet subscriptions by speed / 256MT2MBPS (number)",
-                "Number of high-speed broadband Internet subscriptions by speed / 2MT10MBPS (number)",
-                "Number of high-speed broadband Internet subscriptions by speed / ANYS (number)"
+                "IS_256KT2M",
+                "IS_2MT10M",
+                "IS_GE10M",
+                "_T"
               ]
             },
-            "title": "Indicators"
+            "title": "COMPOSITE_BREAKDOWN"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "2015",
+                "2016",
+                "2017"
+              ]
+            },
+            "title": "TIME_DETAIL"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",
@@ -2353,7 +3253,7 @@
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           }
         ]
@@ -2371,13 +3271,27 @@
       "schema": {
         "fields": [
           {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "2014",
+                "2015",
+                "2016",
+                "2017"
+              ]
+            },
+            "title": "TIME_DETAIL"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           }
         ]
@@ -2395,15 +3309,18 @@
       "schema": {
         "fields": [
           {
-            "name": "Gross Disbursement",
+            "name": "TIME_DETAIL",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "Value"
+                "2014",
+                "2015",
+                "2016",
+                "2017"
               ]
             },
-            "title": "Gross Disbursement"
+            "title": "TIME_DETAIL"
           },
           {
             "name": "Value",
@@ -2412,7 +3329,7 @@
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           }
         ]

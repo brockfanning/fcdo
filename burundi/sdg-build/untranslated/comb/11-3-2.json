@@ -1,1 +1,0 @@
-{"data":{"Year":[2015],"seriesdescription":["D129"],"area":["BI"],"sex":["_T"],"age":["_T"],"urbanisation":["_T"],"education-level":["_T"],"unit":["USD/personne"],"scale":["1"],"Value":[0.2]},"edges":{"From":["seriesdescription","area","sex","age","urbanisation","education-level","unit"],"To":["area","sex","age","urbanisation","education-level","unit","scale"]}}

@@ -11,22 +11,32 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
             "name": "Sub-indicator",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Score of adoption and implementation of national DRR strategies in line with the Sendai Framework"
+                "Score of adoption and implementation of national DRR strategies in line with the Sendai Framework",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2018",
+                ""
               ]
             }
           },
           {
             "name": "Value",
             "type": "integer"
-          },
-          {
-            "name": "Year",
-            "type": "string"
           }
         ]
       }

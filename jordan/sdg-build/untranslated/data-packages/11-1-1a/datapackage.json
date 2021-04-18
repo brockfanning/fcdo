@@ -11,12 +11,25 @@
       "schema": {
         "fields": [
           {
-            "name": "Value",
-            "type": "number"
+            "name": "Year",
+            "type": "integer"
           },
           {
-            "name": "Year",
-            "type": "string"
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2005",
+                "2010",
+                "2014",
+                "2016",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
           }
         ]
       }

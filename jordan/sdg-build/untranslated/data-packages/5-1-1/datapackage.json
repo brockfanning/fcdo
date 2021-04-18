@@ -11,25 +11,35 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
             "name": "Area",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "Area 1: overarching legal frameworks and public life",
                 "Area 2: violence against women",
                 "Area 3: employment and economic benefits",
-                "Area 4: marriage and family"
+                "Area 4: marriage and family",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2018",
+                ""
               ]
             }
           },
           {
             "name": "Value",
             "type": "number"
-          },
-          {
-            "name": "Year",
-            "type": "string"
           }
         ]
       }

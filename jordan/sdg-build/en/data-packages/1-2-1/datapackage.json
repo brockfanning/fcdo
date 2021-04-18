@@ -34,13 +34,28 @@
             "title": "Governorate"
           },
           {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "1997",
+                "2002",
+                "2006",
+                "2008",
+                "2010"
+              ]
+            },
+            "title": "TIME_DETAIL"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           }
         ]

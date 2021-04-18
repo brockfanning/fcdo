@@ -1,7 +1,7 @@
-Year,Indecaror,Sex,Value
-2017,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by se",Male,43.2
-2017,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by se",Female,3.0
-2017,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by se",Total,24.1
-2017,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",Male,
-2017,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",Female,6.03
-2017,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",Total,
+Year,Sex,SERIES,UNIT_MEASURE,TIME_DETAIL,Value
+2017,Male,SP_LGL_LNDAGSEC,PT,2017,43.2
+2017,Female,SP_LGL_LNDAGSEC,PT,2017,3.0
+2017,Total,SP_LGL_LNDAGSEC,PT,2017,24.1
+2017,Male,SP_GNP_WNOWNS,PT,2017,
+2017,Female,SP_GNP_WNOWNS,PT,2017,6.03
+2017,Total,SP_GNP_WNOWNS,PT,2017,

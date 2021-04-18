@@ -1,9 +1,0 @@
-From,To
-seriesdescription,geoarea
-geoarea,sex
-sex,age
-age,urbanization
-urbanization,education-level
-education-level,wealth-quintile
-wealth-quintile,unit
-unit,scale

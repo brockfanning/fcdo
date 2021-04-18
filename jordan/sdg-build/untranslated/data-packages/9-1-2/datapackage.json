@@ -11,25 +11,35 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
             "name": "Sub-indicators",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "Freight volume, by mode of transport (tonne kilometres)(RAI)",
                 "Freight volume, by mode of transport (tonne kilometres)(ROA)",
+                "Passenger volume (passenger kilometres), by mode of transport(ROA)",
                 "Passenger volume (passenger kilometres), by mode of transport (RAI)",
-                "Passenger volume (passenger kilometres), by mode of transport(ROA)"
+                ""
+              ]
+            }
+          },
+          {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2017",
+                ""
               ]
             }
           },
           {
             "name": "Value",
             "type": "integer"
-          },
-          {
-            "name": "Year",
-            "type": "string"
           }
         ]
       }

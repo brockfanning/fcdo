@@ -11,6 +11,19 @@
       "schema": {
         "fields": [
           {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "2015",
+                "2016",
+                "2017"
+              ]
+            },
+            "title": "TIME_DETAIL"
+          },
+          {
             "name": "Tariff regime",
             "type": "string",
             "constraints": {
@@ -45,7 +58,7 @@
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           }
         ]

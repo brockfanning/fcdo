@@ -1,1 +1,1 @@
-{"From":["Grade"],"To":["Subject"]}
+{"From":["Grade","Subject"],"To":["Subject","TIME_DETAIL"]}

@@ -1,1 +1,0 @@
-{"data":{"Year":[2015],"seriesdescription":["SG_STT_CAPTY"],"area":["BI"],"sex":["_T"],"age":["_T"],"urbanisation":["_T"],"education-level":["_T"],"unit":["USD"],"scale":["1"],"Value":[1086051.6100000001]},"edges":{"From":["seriesdescription","area","sex","age","urbanisation","education-level","unit"],"To":["area","sex","age","urbanisation","education-level","unit","scale"]}}

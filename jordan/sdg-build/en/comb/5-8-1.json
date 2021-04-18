@@ -1,1 +1,1 @@
-{"data":{"Year":["2017-18","2017-18","2017-18"],"Sex":["Female","Male","Total"],"Value":[91.8,88.6,90.2]},"edges":[]}
+{"data":{"Year":[2017,2017,2017],"Sex":["Female","Male","Total"],"TIME_DETAIL":["2017-18","2017-18","2017-18"],"Value":[91.8,88.6,90.2]},"edges":{"From":["Sex"],"To":["TIME_DETAIL"]}}

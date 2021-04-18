@@ -11,38 +11,50 @@
       "schema": {
         "fields": [
           {
-            "name": "Age",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "15-24",
-                "15-49",
-                "25-34",
-                "35-49"
-              ]
-            }
+            "name": "Year",
+            "type": "integer"
           },
           {
             "name": "Types of violence",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "Emotional violence",
-                "Physical or sexual or emotional violence",
                 "Physical violence",
-                "Sexual violence"
+                "Sexual violence",
+                "Physical or sexual or emotional violence",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "15-49",
+                "15-24",
+                "25-34",
+                "35-49",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2007",
+                "2012",
+                "2017-18",
+                ""
               ]
             }
           },
           {
             "name": "Value",
             "type": "number"
-          },
-          {
-            "name": "Year",
-            "type": "string"
           }
         ]
       }

@@ -24,13 +24,25 @@
             "title": "Subject"
           },
           {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "2016",
+                "2018"
+              ]
+            },
+            "title": "TIME_DETAIL"
+          },
+          {
             "name": "Value",
             "type": "integer",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           }
         ]

@@ -1,1 +1,0 @@
-{"data":{"Year":[2015],"seriesdescription":["FB_BNK_ACCSS"],"geoarea":["716"],"sex":["_T"],"age":["Y_GE15"],"urbanisation":["_T"],"unit":["Percent"],"scale":["1"],"Value":[48.0]},"edges":{"From":["seriesdescription","geoarea","sex","age","urbanisation","unit"],"To":["geoarea","sex","age","urbanisation","unit","scale"]}}

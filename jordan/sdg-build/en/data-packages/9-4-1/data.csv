@@ -1,16 +1,16 @@
-Year,Sub-indicators,Value
-2012,Carbon dioxide emissions from fuel combustion,22.671
-2013,Carbon dioxide emissions from fuel combustion,22.344
-2014,Carbon dioxide emissions from fuel combustion,24.001
-2015,Carbon dioxide emissions from fuel combustion,23.785
-2016,Carbon dioxide emissions from fuel combustion,23.863
-2012,Carbon dioxide emissions per unit of GDP,0.32
-2013,Carbon dioxide emissions per unit of GDP,0.31
-2014,Carbon dioxide emissions per unit of GDP,0.32
-2015,Carbon dioxide emissions per unit of GDP,0.31
-2016,Carbon dioxide emissions per unit of GDP,0.31
-2012,Carbon dioxide emissions per unit of manufacturing value added,0.47
-2013,Carbon dioxide emissions per unit of manufacturing value added,0.41
-2014,Carbon dioxide emissions per unit of manufacturing value added,0.5
-2015,Carbon dioxide emissions per unit of manufacturing value added,0.38
-2016,Carbon dioxide emissions per unit of manufacturing value added,0.55
+Year,Sub-indicators,TIME_DETAIL,Value
+2012,Carbon dioxide emissions from fuel combustion,2012,22.671
+2013,Carbon dioxide emissions from fuel combustion,2013,22.344
+2014,Carbon dioxide emissions from fuel combustion,2014,24.001
+2015,Carbon dioxide emissions from fuel combustion,2015,23.785
+2016,Carbon dioxide emissions from fuel combustion,2016,23.863
+2012,Carbon dioxide emissions per unit of GDP,2012,0.32
+2013,Carbon dioxide emissions per unit of GDP,2013,0.31
+2014,Carbon dioxide emissions per unit of GDP,2014,0.32
+2015,Carbon dioxide emissions per unit of GDP,2015,0.31
+2016,Carbon dioxide emissions per unit of GDP,2016,0.31
+2012,Carbon dioxide emissions per unit of manufacturing value added,2012,0.47
+2013,Carbon dioxide emissions per unit of manufacturing value added,2013,0.41
+2014,Carbon dioxide emissions per unit of manufacturing value added,2014,0.5
+2015,Carbon dioxide emissions per unit of manufacturing value added,2015,0.38
+2016,Carbon dioxide emissions per unit of manufacturing value added,2016,0.55

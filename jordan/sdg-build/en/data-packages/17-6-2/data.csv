@@ -1,25 +1,25 @@
-Year,Indicators,Value
-2015,Number of high-speed broadband Internet subscriptions by speed / 10MBPS (number),134858.0
-2015,Number of high-speed broadband Internet subscriptions by speed / ANYS (number),309823.0
-2015,Number of high-speed broadband Internet subscriptions by speed / 2MT10MBPS (number),78643.0
-2015,Number of high-speed broadband Internet subscriptions by speed / 256MT2MBPS (number),96322.0
-2015,Fixed internet broadband subscriptions per 100 population of residents by speed (per 100 population) / 10MBPS,1.47
-2015,Broadband internet subscriptions per 100 inhabitants by speed (per 100 population) / ANYS,3.38
-2015,Fixed Internet broadband subscriptions per 100 inhabitants by speed (per 100 population) / 2MT10MBPS,0.86
-2015,Fixed broadband subscriptions per 100 inhabitants by speed (per 100 population) / 256KT2MBPS,1.05
-2016,Number of high-speed broadband Internet subscriptions by speed / 10MBPS (number),153081.0
-2016,Number of high-speed broadband Internet subscriptions by speed / ANYS (number),300598.0
-2016,Number of high-speed broadband Internet subscriptions by speed / 2MT10MBPS (number),120078.0
-2016,Number of high-speed broadband Internet subscriptions by speed / 256MT2MBPS (number),27439.0
-2016,Fixed internet broadband subscriptions per 100 population of residents by speed (per 100 population) / 10MBPS,1.62
-2016,Broadband internet subscriptions per 100 inhabitants by speed (per 100 population) / ANYS,3.18
-2016,Fixed Internet broadband subscriptions per 100 inhabitants by speed (per 100 population) / 2MT10MBPS,1.27
-2016,Fixed broadband subscriptions per 100 inhabitants by speed (per 100 population) / 256KT2MBPS,0.29
-2017,Number of high-speed broadband Internet subscriptions by speed / 10MBPS (number),270728.0
-2017,Number of high-speed broadband Internet subscriptions by speed / ANYS (number),333691.0
-2017,Number of high-speed broadband Internet subscriptions by speed / 2MT10MBPS (number),46259.0
-2017,Number of high-speed broadband Internet subscriptions by speed / 256MT2MBPS (number),16704.0
-2017,Fixed internet broadband subscriptions per 100 population of residents by speed (per 100 population) / 10MBPS,2.79
-2017,Broadband internet subscriptions per 100 inhabitants by speed (per 100 population) / ANYS,3.44
-2017,Fixed Internet broadband subscriptions per 100 inhabitants by speed (per 100 population) / 2MT10MBPS,0.48
-2017,Fixed broadband subscriptions per 100 inhabitants by speed (per 100 population) / 256KT2MBPS,0.17
+Year,SERIES,COMPOSITE_BREAKDOWN,UNIT_MEASURE,TIME_DETAIL,Value
+2015,IT_NET_BBNDN,IS_GE10M,NUMBER,2015,134858.0
+2015,IT_NET_BBNDN,_T,NUMBER,2015,309823.0
+2015,IT_NET_BBNDN,IS_2MT10M,NUMBER,2015,78643.0
+2015,IT_NET_BBNDN,IS_256KT2M,NUMBER,2015,96322.0
+2015,IT_NET_BBND,IS_GE10M,PER_100_POP,2015,1.47
+2015,IT_NET_BBND,_T,PER_100_POP,2015,3.38
+2015,IT_NET_BBND,IS_2MT10M,PER_100_POP,2015,0.86
+2015,IT_NET_BBND,IS_256KT2M,PER_100_POP,2015,1.05
+2016,IT_NET_BBNDN,IS_GE10M,NUMBER,2016,153081.0
+2016,IT_NET_BBNDN,_T,NUMBER,2016,300598.0
+2016,IT_NET_BBNDN,IS_2MT10M,NUMBER,2016,120078.0
+2016,IT_NET_BBNDN,IS_256KT2M,NUMBER,2016,27439.0
+2016,IT_NET_BBND,IS_GE10M,PER_100_POP,2016,1.62
+2016,IT_NET_BBND,_T,PER_100_POP,2016,3.18
+2016,IT_NET_BBND,IS_2MT10M,PER_100_POP,2016,1.27
+2016,IT_NET_BBND,IS_256KT2M,PER_100_POP,2016,0.29
+2017,IT_NET_BBNDN,IS_GE10M,NUMBER,2017,270728.0
+2017,IT_NET_BBNDN,_T,NUMBER,2017,333691.0
+2017,IT_NET_BBNDN,IS_2MT10M,NUMBER,2017,46259.0
+2017,IT_NET_BBNDN,IS_256KT2M,NUMBER,2017,16704.0
+2017,IT_NET_BBND,IS_GE10M,PER_100_POP,2017,2.79
+2017,IT_NET_BBND,_T,PER_100_POP,2017,3.44
+2017,IT_NET_BBND,IS_2MT10M,PER_100_POP,2017,0.48
+2017,IT_NET_BBND,IS_256KT2M,PER_100_POP,2017,0.17

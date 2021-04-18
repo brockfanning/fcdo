@@ -25,6 +25,19 @@
             "title": "Age"
           },
           {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "2007",
+                "2012",
+                "2017-18"
+              ]
+            },
+            "title": "TIME_DETAIL"
+          },
+          {
             "name": "Types of violence",
             "type": "string",
             "constraints": {
@@ -45,7 +58,7 @@
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           }
         ]

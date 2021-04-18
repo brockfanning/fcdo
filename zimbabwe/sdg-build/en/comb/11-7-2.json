@@ -1,1 +1,0 @@
-{"data":{"Year":[2019],"seriesdescription":["VC_VOH_SXPH"],"geoarea":["716"],"sex":["_T"],"age":["_T"],"urbanisation":["_T"],"unit":[null],"scale":["1"],"Value":[0.05]},"edges":{"From":["seriesdescription","geoarea","sex","age","urbanisation"],"To":["geoarea","sex","age","urbanisation","scale"]}}

@@ -1,5 +1,5 @@
-Year,Grade,Subject,Value
-2016,Grade 4,Mathematics,389.0
-2016,Grade 4,Sciences,
-2016,Grade 8,Mathematics,386.0
-2016,Grade 8,Sciences,426.0
+Year,Grade,Subject,TIME_DETAIL,Value
+2016,Grade 4,Mathematics,2016,389.0
+2016,Grade 4,Sciences,2016,
+2016,Grade 8,Mathematics,2016,386.0
+2016,Grade 8,Sciences,2016,426.0

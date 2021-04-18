@@ -11,30 +11,41 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
             "name": "Skill type",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Connecting and installing new devices (camera, printer)",
                 "Copy or move a file or folder",
+                "Use copy and paste tools",
+                "Send emails with attachments (document, image, video)",
+                "Use basic arithmetic formulas in Data tables",
+                "Connecting and installing new devices (camera, printer)",
                 "Finding, download, and install software",
                 "Preparation of electronic presentations by presentations software (including Text, images, audio, video, or graphics)",
-                "Send emails with attachments (document, image, video)",
                 "Transfer files between  computer and other devices",
-                "Use basic arithmetic formulas in Data tables",
-                "Use copy and paste tools",
-                "Writing a computer program using a specialized programming language"
+                "Writing a computer program using a specialized programming language",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2017",
+                "2018",
+                ""
               ]
             }
           },
           {
             "name": "Value",
             "type": "number"
-          },
-          {
-            "name": "Year",
-            "type": "string"
           }
         ]
       }

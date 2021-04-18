@@ -1,1 +1,1 @@
-{"data":{"Year":["2016","2017","2018"],"Enrollment ratio":["Female to male in primary education","Female to male in primary education","Female to male in primary education"],"Value":[97,96,96]},"edges":[]}
+{"data":{"Year":[2016,2017,2018],"Enrollment ratio":["Female to male in primary education","Female to male in primary education","Female to male in primary education"],"TIME_DETAIL":["2016","2017","2018"],"Value":[97,96,96]},"edges":{"From":["Enrollment ratio"],"To":["TIME_DETAIL"]}}

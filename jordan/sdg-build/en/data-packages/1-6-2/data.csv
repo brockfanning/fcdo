@@ -1,13 +1,13 @@
-Year,Government spending percentage on,Value
-2017,Health,9.43
-2016,Health,10.94
-2015,Health,11.01
-2017,education,10.3
-2016,education,10.79
-2015,education,10.85
-2017,Social protection,18.26
-2016,Social protection,16.11
-2015,Social protection,15.71
-2017,total,37.99
-2016,total,37.85
-2015,total,37.57
+Year,Government spending percentage on,TIME_DETAIL,Value
+2017,Health,2017,9.43
+2016,Health,2016,10.94
+2015,Health,2015,11.01
+2017,education,2017,10.3
+2016,education,2016,10.79
+2015,education,2015,10.85
+2017,Social protection,2017,18.26
+2016,Social protection,2016,16.11
+2015,Social protection,2015,15.71
+2017,total,2017,37.99
+2016,total,2016,37.85
+2015,total,2015,37.57

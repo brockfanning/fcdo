@@ -1,1 +1,0 @@
-{"data":{"Year":[2016],"seriesdescription":["D210"],"area":["BI"],"sex":["_T"],"age":["_T"],"urbanisation":["_T"],"education-level":["_T"],"unit":[null],"scale":["1"],"Value":[43.5]},"edges":{"From":["seriesdescription","area","sex","age","urbanisation","education-level"],"To":["area","sex","age","urbanisation","education-level","scale"]}}

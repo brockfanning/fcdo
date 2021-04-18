@@ -1,4 +1,0 @@
-Year,seriesdescription,geoarea,sex,age,location,education-level,occupation,comp-breakdown,disability-status,unit,scale,Value
-2015,POP_SECR_LAND,ZM,F,Y_GE15,_T,_T,_T,_T,_T,Percent,1,0.02
-2015,POP_SECR_LAND,ZM,M,Y_GE15,_T,_T,_T,_T,_T,Percent,1,0.06
-2015,POP_SECR_LAND,ZM,_T,Y_GE15,_T,_T,_T,_T,_T,Percent,1,0.04
