@@ -161,13 +161,13 @@ def alter_indicator_id(indicator_id):
 
 countries = [
     'jordan',
-    #'palestine',
-    #'burundi',
-    #'ethiopia',
-    #'mozambique',
-    #'uganda',
-    #'zambia',
-    #'zimbabwe',
+    'palestine',
+    'burundi',
+    'ethiopia',
+    'mozambique',
+    'uganda',
+    'zambia',
+    'zimbabwe',
 ]
 for country in countries:
     config_path = os.path.join('scripts', 'sdg-build-config', country + '.yml')
