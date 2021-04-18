@@ -1,0 +1,171 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "indicador-disponível",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "G",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "sériedescrição",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SE_GPI_PART",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "província",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "508",
+                "MZ-A",
+                "MZ-P",
+                "MZ-N",
+                "MZ-Q",
+                "MZ-T",
+                "MZ-B",
+                "MZ-S",
+                "MZ-I",
+                "MZ-G",
+                "MZ-L",
+                "MZ6",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "sexo",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_T",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "idade",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_T",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "área-de-residência",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_T",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "nível-de-educação",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "AGG_1_2",
+                "AGG_2_3",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "ocupação",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_T",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "deficiência",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_T",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "composição-composta",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_T",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "quintil",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_T",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percent",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2015",
+                "2016",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "4-5-1",
+  "title": "Investimento directo estrangeiro (IDE), em percentagem do PIB"
+}

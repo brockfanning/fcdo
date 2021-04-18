@@ -1,0 +1,229 @@
+Year,URBANISATION,AREA,TIME_DETAIL,Value
+2010,Total,West Bank,2010,90.1
+2014,Total,West Bank,2014,96.8
+2017,Total,West Bank,2017,94.7
+2010,Total,Gaza Strip,2010,13.7
+2014,Total,Gaza Strip,2014,10.4
+2017,Total,Gaza Strip,2017,11.3
+2010,Total,Palestine,2010,61.9
+2014,Total,Palestine,2014,61.5
+2017,Total,Palestine,2017,59.1
+2010,Total,Jenin,2010,70.4
+2014,Total,Jenin,2014,87.3
+2017,Total,Jenin,2017,90.7
+2010,Total,Tubas & Northern Valleys,2010,59.1
+2014,Total,Tubas & Northern Valleys,2014,100.0
+2017,Total,Tubas & Northern Valleys,2017,97.6
+2010,Total,Tulkarm,2010,99.7
+2014,Total,Tulkarm,2014,99.5
+2017,Total,Tulkarm,2017,99.9
+2010,Total,Nablus,2010,94.1
+2014,Total,Nablus,2014,97.3
+2017,Total,Nablus,2017,97.9
+2010,Total,Qalqiliya,2010,99.5
+2014,Total,Qalqiliya,2014,100.0
+2017,Total,Qalqiliya,2017,99.8
+2010,Total,Salfit,2010,100.0
+2014,Total,Salfit,2014,100.0
+2017,Total,Salfit,2017,99.9
+2010,Total,Ramallah & Al-Bireh,2010,96.9
+2014,Total,Ramallah & Al-Bireh,2014,98.7
+2017,Total,Ramallah & Al-Bireh,2017,99.1
+2010,Total,Jericho & AL Aghwar,2010,90.0
+2014,Total,Jericho & AL Aghwar,2014,97.4
+2017,Total,Jericho & AL Aghwar,2017,94.3
+2010,Total,Jerusalem,2010,99.0
+2014,Total,Jerusalem,2014,99.8
+2017,Total,Jerusalem,2017,99.3
+2010,Total,Bethlehem,2010,97.8
+2014,Total,Bethlehem,2014,99.5
+2017,Total,Bethlehem,2017,99.0
+2010,Total,Hebron,2010,82.7
+2014,Total,Hebron,2014,95.7
+2017,Total,Hebron,2017,87.8
+2010,Total,North Gaza,2010,19.7
+2014,Total,North Gaza,2014,16.8
+2017,Total,North Gaza,2017,14.4
+2010,Total,Gaza,2010,8.3
+2014,Total,Gaza,2014,3.9
+2017,Total,Gaza,2017,10.8
+2010,Total,Dier Al-Balah,2010,4.4
+2014,Total,Dier Al-Balah,2014,3.2
+2017,Total,Dier Al-Balah,2017,6.3
+2010,Total,Khan Yunis,2010,20.5
+2014,Total,Khan Yunis,2014,20.8
+2017,Total,Khan Yunis,2017,14.2
+2010,Total,Rafah,2010,18.8
+2014,Total,Rafah,2014,12.6
+2017,Total,Rafah,2017,8.9
+2010,Urban,West Bank,2010,
+2014,Urban,West Bank,2014,
+2017,Urban,West Bank,2017,
+2010,Urban,Gaza Strip,2010,
+2014,Urban,Gaza Strip,2014,
+2017,Urban,Gaza Strip,2017,
+2010,Urban,Palestine,2010,59.6
+2014,Urban,Palestine,2014,58.1
+2017,Urban,Palestine,2017,54.1
+2010,Urban,Jenin,2010,
+2014,Urban,Jenin,2014,
+2017,Urban,Jenin,2017,
+2010,Urban,Tubas & Northern Valleys,2010,
+2014,Urban,Tubas & Northern Valleys,2014,
+2017,Urban,Tubas & Northern Valleys,2017,
+2010,Urban,Tulkarm,2010,
+2014,Urban,Tulkarm,2014,
+2017,Urban,Tulkarm,2017,
+2010,Urban,Nablus,2010,
+2014,Urban,Nablus,2014,
+2017,Urban,Nablus,2017,
+2010,Urban,Qalqiliya,2010,
+2014,Urban,Qalqiliya,2014,
+2017,Urban,Qalqiliya,2017,
+2010,Urban,Salfit,2010,
+2014,Urban,Salfit,2014,
+2017,Urban,Salfit,2017,
+2010,Urban,Ramallah & Al-Bireh,2010,
+2014,Urban,Ramallah & Al-Bireh,2014,
+2017,Urban,Ramallah & Al-Bireh,2017,
+2010,Urban,Jericho & AL Aghwar,2010,
+2014,Urban,Jericho & AL Aghwar,2014,
+2017,Urban,Jericho & AL Aghwar,2017,
+2010,Urban,Jerusalem,2010,
+2014,Urban,Jerusalem,2014,
+2017,Urban,Jerusalem,2017,
+2010,Urban,Bethlehem,2010,
+2014,Urban,Bethlehem,2014,
+2017,Urban,Bethlehem,2017,
+2010,Urban,Hebron,2010,
+2014,Urban,Hebron,2014,
+2017,Urban,Hebron,2017,
+2010,Urban,North Gaza,2010,
+2014,Urban,North Gaza,2014,
+2017,Urban,North Gaza,2017,
+2010,Urban,Gaza,2010,
+2014,Urban,Gaza,2014,
+2017,Urban,Gaza,2017,
+2010,Urban,Dier Al-Balah,2010,
+2014,Urban,Dier Al-Balah,2014,
+2017,Urban,Dier Al-Balah,2017,
+2010,Urban,Khan Yunis,2010,
+2014,Urban,Khan Yunis,2014,
+2017,Urban,Khan Yunis,2017,
+2010,Urban,Rafah,2010,
+2014,Urban,Rafah,2014,
+2017,Urban,Rafah,2017,
+2010,Rural,West Bank,2010,
+2014,Rural,West Bank,2014,
+2017,Rural,West Bank,2017,
+2010,Rural,Gaza Strip,2010,
+2014,Rural,Gaza Strip,2014,
+2017,Rural,Gaza Strip,2017,
+2010,Rural,Palestine,2010,79.6
+2014,Rural,Palestine,2014,86.9
+2017,Rural,Palestine,2017,93.6
+2010,Rural,Jenin,2010,
+2014,Rural,Jenin,2014,
+2017,Rural,Jenin,2017,
+2010,Rural,Tubas & Northern Valleys,2010,
+2014,Rural,Tubas & Northern Valleys,2014,
+2017,Rural,Tubas & Northern Valleys,2017,
+2010,Rural,Tulkarm,2010,
+2014,Rural,Tulkarm,2014,
+2017,Rural,Tulkarm,2017,
+2010,Rural,Nablus,2010,
+2014,Rural,Nablus,2014,
+2017,Rural,Nablus,2017,
+2010,Rural,Qalqiliya,2010,
+2014,Rural,Qalqiliya,2014,
+2017,Rural,Qalqiliya,2017,
+2010,Rural,Salfit,2010,
+2014,Rural,Salfit,2014,
+2017,Rural,Salfit,2017,
+2010,Rural,Ramallah & Al-Bireh,2010,
+2014,Rural,Ramallah & Al-Bireh,2014,
+2017,Rural,Ramallah & Al-Bireh,2017,
+2010,Rural,Jericho & AL Aghwar,2010,
+2014,Rural,Jericho & AL Aghwar,2014,
+2017,Rural,Jericho & AL Aghwar,2017,
+2010,Rural,Jerusalem,2010,
+2014,Rural,Jerusalem,2014,
+2017,Rural,Jerusalem,2017,
+2010,Rural,Bethlehem,2010,
+2014,Rural,Bethlehem,2014,
+2017,Rural,Bethlehem,2017,
+2010,Rural,Hebron,2010,
+2014,Rural,Hebron,2014,
+2017,Rural,Hebron,2017,
+2010,Rural,North Gaza,2010,
+2014,Rural,North Gaza,2014,
+2017,Rural,North Gaza,2017,
+2010,Rural,Gaza,2010,
+2014,Rural,Gaza,2014,
+2017,Rural,Gaza,2017,
+2010,Rural,Dier Al-Balah,2010,
+2014,Rural,Dier Al-Balah,2014,
+2017,Rural,Dier Al-Balah,2017,
+2010,Rural,Khan Yunis,2010,
+2014,Rural,Khan Yunis,2014,
+2017,Rural,Khan Yunis,2017,
+2010,Rural,Rafah,2010,
+2014,Rural,Rafah,2014,
+2017,Rural,Rafah,2017,
+2010,Camp,West Bank,2010,
+2014,Camp,West Bank,2014,
+2017,Camp,West Bank,2017,
+2010,Camp,Gaza Strip,2010,
+2014,Camp,Gaza Strip,2014,
+2017,Camp,Gaza Strip,2017,
+2010,Camp,Palestine,2010,47.1
+2014,Camp,Palestine,2014,42.3
+2017,Camp,Palestine,2017,40.9
+2010,Camp,Jenin,2010,
+2014,Camp,Jenin,2014,
+2017,Camp,Jenin,2017,
+2010,Camp,Tubas & Northern Valleys,2010,
+2014,Camp,Tubas & Northern Valleys,2014,
+2017,Camp,Tubas & Northern Valleys,2017,
+2010,Camp,Tulkarm,2010,
+2014,Camp,Tulkarm,2014,
+2017,Camp,Tulkarm,2017,
+2010,Camp,Nablus,2010,
+2014,Camp,Nablus,2014,
+2017,Camp,Nablus,2017,
+2010,Camp,Qalqiliya,2010,
+2014,Camp,Qalqiliya,2014,
+2017,Camp,Qalqiliya,2017,
+2010,Camp,Salfit,2010,
+2014,Camp,Salfit,2014,
+2017,Camp,Salfit,2017,
+2010,Camp,Ramallah & Al-Bireh,2010,
+2014,Camp,Ramallah & Al-Bireh,2014,
+2017,Camp,Ramallah & Al-Bireh,2017,
+2010,Camp,Jericho & AL Aghwar,2010,
+2014,Camp,Jericho & AL Aghwar,2014,
+2017,Camp,Jericho & AL Aghwar,2017,
+2010,Camp,Jerusalem,2010,
+2014,Camp,Jerusalem,2014,
+2017,Camp,Jerusalem,2017,
+2010,Camp,Bethlehem,2010,
+2014,Camp,Bethlehem,2014,
+2017,Camp,Bethlehem,2017,
+2010,Camp,Hebron,2010,
+2014,Camp,Hebron,2014,
+2017,Camp,Hebron,2017,
+2010,Camp,North Gaza,2010,
+2014,Camp,North Gaza,2014,
+2017,Camp,North Gaza,2017,
+2010,Camp,Gaza,2010,
+2014,Camp,Gaza,2014,
+2017,Camp,Gaza,2017,
+2010,Camp,Dier Al-Balah,2010,
+2014,Camp,Dier Al-Balah,2014,
+2017,Camp,Dier Al-Balah,2017,
+2010,Camp,Khan Yunis,2010,
+2014,Camp,Khan Yunis,2014,
+2017,Camp,Khan Yunis,2017,
+2010,Camp,Rafah,2010,
+2014,Camp,Rafah,2014,
+2017,Camp,Rafah,2017,

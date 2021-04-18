@@ -1,0 +1,1 @@
+{"data":{"Year":[2011,2011,2011],"AREA":["West Bank","Gaza Strip","Palestine"],"TIME_DETAIL":["2011","2011","2011"],"Value":[0.3,0.3,0.3]},"edges":{"From":["AREA"],"To":["TIME_DETAIL"]}}

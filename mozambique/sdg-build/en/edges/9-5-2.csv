@@ -1,0 +1,13 @@
+From,To
+indicador-disponível,sériedescrição
+sériedescrição,província
+província,sexo
+sexo,idade
+idade,área-de-residência
+área-de-residência,nível-de-educação
+nível-de-educação,ocupação
+ocupação,deficiência
+deficiência,composição-composta
+composição-composta,quintil
+quintil,unit
+unit,TIME_DETAIL

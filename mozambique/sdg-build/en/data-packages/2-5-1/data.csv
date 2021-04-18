@@ -1,0 +1,13 @@
+Year,indicador-disponível,sériedescrição,província,sexo,idade,área-de-residência,nível-de-educação,ocupação,deficiência,composição-composta,quintil,unit,TIME_DETAIL,Value
+2015,G,D41,508,_T,_T,_T,_T,_T,_T,_T,_T,Percent,2015,10839.0
+2016,G,D41,508,_T,_T,_T,_T,_T,_T,_T,_T,Percent,2016,15239.0
+2017,G,D41,508,_T,_T,_T,_T,_T,_T,_T,_T,Percent,2017,14125.0
+2018,G,D41,508,_T,_T,_T,_T,_T,_T,_T,_T,Percent,2018,13699.0
+2015,G,ER_GRF_PLNTSTOR,508,_T,_T,_T,_T,_T,_T,_T,_T,Percent,2015,2939.0
+2016,G,ER_GRF_PLNTSTOR,508,_T,_T,_T,_T,_T,_T,_T,_T,Percent,2016,2989.0
+2017,G,ER_GRF_PLNTSTOR,508,_T,_T,_T,_T,_T,_T,_T,_T,Percent,2017,3075.0
+2018,G,ER_GRF_PLNTSTOR,508,_T,_T,_T,_T,_T,_T,_T,_T,Percent,2018,3399.0
+2015,G,ER_GRF_ANIMRCNTN,508,_T,_T,_T,_T,_T,_T,_T,_T,Percent,2015,7900.0
+2016,G,ER_GRF_ANIMRCNTN,508,_T,_T,_T,_T,_T,_T,_T,_T,Percent,2016,12250.0
+2017,G,ER_GRF_ANIMRCNTN,508,_T,_T,_T,_T,_T,_T,_T,_T,Percent,2017,11050.0
+2018,G,ER_GRF_ANIMRCNTN,508,_T,_T,_T,_T,_T,_T,_T,_T,Percent,2018,10300.0

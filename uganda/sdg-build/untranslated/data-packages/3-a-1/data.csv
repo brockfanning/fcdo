@@ -1,0 +1,4 @@
+Year,seriesdescription,geoarea,sex,age,location,disability,unit,TIME_DETAIL,Value
+2016,SH_PRV_SMOK,UG,F,Y_GE15,_T,_T,%,2016,0.8
+2016,SH_PRV_SMOK,UG,M,Y_GE15,_T,_T,%,2016,9.4
+2016,SH_PRV_SMOK,UG,_T,Y_GE15,_T,_T,%,2016,5.1

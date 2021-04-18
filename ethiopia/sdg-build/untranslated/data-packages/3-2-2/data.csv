@@ -1,0 +1,4 @@
+Year,seriesdescription,geoarea,sex,age,urbanization,education-level,wealth-quintile,unit,TIME_DETAIL,Value
+2000,SH_DYN_NMRT,ET,_T,M0,_T,_T,_T,per 1000 live births,2000,49.0
+2005,SH_DYN_NMRT,ET,_T,M0,_T,_T,_T,per 1000 live births,2005,39.0
+2011,SH_DYN_NMRT,ET,_T,M0,_T,_T,_T,per 1000 live births,2011,37.0

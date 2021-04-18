@@ -1,0 +1,7 @@
+Year,seriesdescription,area,sex,age,urbanisation,education-level,unit,TIME_DETAIL,Value
+2012,SH_SAN_DEFECT,BI,_T,_T,_T,_T,Percent,2012,16.0
+2014,SH_SAN_DEFECT,BI,_T,_T,_T,_T,Percent,2014,16.0
+2010,SH_SAN_DEFECT,BI,_T,_T,U,_T,Percent,2010,34.0
+2012,SH_SAN_DEFECT,BI,_T,_T,U,_T,Percent,2012,33.0
+2010,SH_SAN_DEFECT,BI,_T,_T,R,_T,Percent,2010,35.0
+2012,SH_SAN_DEFECT,BI,_T,_T,R,_T,Percent,2012,14.0

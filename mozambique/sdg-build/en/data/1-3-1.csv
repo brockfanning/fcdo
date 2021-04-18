@@ -1,0 +1,5 @@
+Year,indicador-disponível,sériedescrição,província,sexo,idade,área-de-residência,nível-de-educação,ocupação,deficiência,composição-composta,quintil,unit,TIME_DETAIL,Value
+2015,G,SI_COV_BENFTS,508,_T,_T,_T,_T,_T,_T,_T,_T,Percent,2015,15.96
+2016,G,SI_COV_BENFTS,508,_T,_T,_T,_T,_T,_T,_T,_T,Percent,2016,17.39
+2017,G,SI_COV_BENFTS,508,_T,_T,_T,_T,_T,_T,_T,_T,Percent,2017,17.0
+2018,G,SI_COV_BENFTS,508,_T,_T,_T,_T,_T,_T,_T,_T,Percent,2018,19.0

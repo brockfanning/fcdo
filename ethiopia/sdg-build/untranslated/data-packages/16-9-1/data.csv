@@ -1,0 +1,4 @@
+Year,seriesdescription,geoarea,sex,age,urbanization,education-level,wealth-quintile,unit,TIME_DETAIL,Value
+2016,SG_REG_BRTH,ET,_T,Y0T2,_T,_T,_T,Percent,2016,2.6
+2005,SG_REG_BRTH,ET,_T,Y0T4,_T,_T,_T,Percent,2005,6.6
+2016,SG_REG_BRTH,ET,_T,Y2T4,_T,_T,_T,Percent,2016,2.7

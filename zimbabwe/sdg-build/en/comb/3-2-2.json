@@ -1,0 +1,1 @@
+{"data":{"Year":[2015],"seriesdescription":["SH_DYN_NMRT"],"geoarea":["716"],"sex":["_T"],"age":["_T"],"urbanisation":["_T"],"unit":["per 1,000 live births"],"TIME_DETAIL":["2015"],"Value":[29.0]},"edges":{"From":["seriesdescription","geoarea","sex","age","urbanisation","unit"],"To":["geoarea","sex","age","urbanisation","unit","TIME_DETAIL"]}}

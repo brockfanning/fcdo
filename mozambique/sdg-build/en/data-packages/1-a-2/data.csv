@@ -1,0 +1,10 @@
+Year,indicador-disponível,sériedescrição,província,sexo,idade,área-de-residência,nível-de-educação,ocupação,deficiência,composição-composta,quintil,unit,TIME_DETAIL,Value
+2015,G,SD_XPD_ESED,508,_T,_T,_T,_T,_T,_T,S,_T,Percent,2015,9.5
+2016,G,SD_XPD_ESED,508,_T,_T,_T,_T,_T,_T,S,_T,Percent,2016,13.7
+2017,G,SD_XPD_ESED,508,_T,_T,_T,_T,_T,_T,S,_T,Percent,2017,11.4
+2015,G,SD_XPD_ESED,508,_T,_T,_T,_T,_T,_T,E,_T,Percent,2015,21.7
+2016,G,SD_XPD_ESED,508,_T,_T,_T,_T,_T,_T,E,_T,Percent,2016,26.8
+2017,G,SD_XPD_ESED,508,_T,_T,_T,_T,_T,_T,E,_T,Percent,2017,28.1
+2015,G,SD_XPD_ESED,508,_T,_T,_T,_T,_T,_T,AS,_T,Percent,2015,2.2
+2016,G,SD_XPD_ESED,508,_T,_T,_T,_T,_T,_T,AS,_T,Percent,2016,2.2
+2017,G,SD_XPD_ESED,508,_T,_T,_T,_T,_T,_T,AS,_T,Percent,2017,2.6

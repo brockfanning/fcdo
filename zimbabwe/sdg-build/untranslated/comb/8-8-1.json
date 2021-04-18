@@ -1,0 +1,1 @@
+{"data":{"Year":[2014],"seriesdescription":["SL_EMP_FTLINJUR"],"geoarea":["716"],"sex":["_T"],"age":["_T"],"urbanisation":["_T"],"unit":["per 100,000 employees"],"TIME_DETAIL":["2014"],"Value":[0.05]},"edges":{"From":["seriesdescription","geoarea","sex","age","urbanisation","unit"],"To":["geoarea","sex","age","urbanisation","unit","TIME_DETAIL"]}}

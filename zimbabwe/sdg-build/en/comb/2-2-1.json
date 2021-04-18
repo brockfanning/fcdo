@@ -1,0 +1,1 @@
+{"data":{"Year":[2015],"seriesdescription":["SH_STA_STUNT"],"geoarea":["716"],"sex":["_T"],"age":["_T"],"urbanisation":["_T"],"unit":["Percent"],"TIME_DETAIL":["2015"],"Value":[26.8]},"edges":{"From":["seriesdescription","geoarea","sex","age","urbanisation","unit"],"To":["geoarea","sex","age","urbanisation","unit","TIME_DETAIL"]}}

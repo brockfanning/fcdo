@@ -1,0 +1,153 @@
+Year,SEX,AREA,TIME_DETAIL,Value
+2007,Female,West Bank,2007,16.8
+2014,Female,West Bank,2014,
+2017,Female,West Bank,2017,8.5
+2019,Female,West Bank,2019,11.4
+2007,Female,Gaza Strip,2007,19.6
+2014,Female,Gaza Strip,2014,
+2017,Female,Gaza Strip,2017,13.8
+2019,Female,Gaza Strip,2019,16.5
+2007,Female,Palestine,2007,18.0
+2014,Female,Palestine,2014,
+2017,Female,Palestine,2017,10.8
+2019,Female,Palestine,2019,13.4
+2007,Female,Jenin,2007,16.4
+2014,Female,Jenin,2014,
+2017,Female,Jenin,2017,7.6
+2019,Female,Jenin,2019,
+2007,Female,Tubas & Northern Valleys,2007,12.9
+2014,Female,Tubas & Northern Valleys,2014,
+2017,Female,Tubas & Northern Valleys,2017,5.5
+2019,Female,Tubas & Northern Valleys,2019,
+2007,Female,Tulkarm,2007,12.7
+2014,Female,Tulkarm,2014,
+2017,Female,Tulkarm,2017,5.3
+2019,Female,Tulkarm,2019,
+2007,Female,Nablus,2007,16.7
+2014,Female,Nablus,2014,
+2017,Female,Nablus,2017,7.8
+2019,Female,Nablus,2019,
+2007,Female,Qalqiliya,2007,19.3
+2014,Female,Qalqiliya,2014,
+2017,Female,Qalqiliya,2017,7.7
+2019,Female,Qalqiliya,2019,
+2007,Female,Salfit,2007,16.8
+2014,Female,Salfit,2014,
+2017,Female,Salfit,2017,6.4
+2019,Female,Salfit,2019,
+2007,Female,Ramallah & Al-Bireh,2007,13.2
+2014,Female,Ramallah & Al-Bireh,2014,
+2017,Female,Ramallah & Al-Bireh,2017,5.5
+2019,Female,Ramallah & Al-Bireh,2019,
+2007,Female,Jericho & AL Aghwar,2007,15.2
+2014,Female,Jericho & AL Aghwar,2014,
+2017,Female,Jericho & AL Aghwar,2017,9.4
+2019,Female,Jericho & AL Aghwar,2019,
+2007,Female,Jerusalem,2007,17.8
+2014,Female,Jerusalem,2014,
+2017,Female,Jerusalem,2017,2.6
+2019,Female,Jerusalem,2019,
+2007,Female,Bethlehem,2007,17.6
+2014,Female,Bethlehem,2014,
+2017,Female,Bethlehem,2017,7.6
+2019,Female,Bethlehem,2019,
+2007,Female,Hebron,2007,19.4
+2014,Female,Hebron,2014,
+2017,Female,Hebron,2017,12.3
+2019,Female,Hebron,2019,
+2007,Female,North Gaza,2007,23.9
+2014,Female,North Gaza,2014,
+2017,Female,North Gaza,2017,16.9
+2019,Female,North Gaza,2019,
+2007,Female,Gaza,2007,23.8
+2014,Female,Gaza,2014,
+2017,Female,Gaza,2017,16.6
+2019,Female,Gaza,2019,
+2007,Female,Dier Al-Balah,2007,12.0
+2014,Female,Dier Al-Balah,2014,
+2017,Female,Dier Al-Balah,2017,6.6
+2019,Female,Dier Al-Balah,2019,
+2007,Female,Khan Yunis,2007,16.1
+2014,Female,Khan Yunis,2014,
+2017,Female,Khan Yunis,2017,12.4
+2019,Female,Khan Yunis,2019,
+2007,Female,Rafah,2007,15.7
+2014,Female,Rafah,2014,
+2017,Female,Rafah,2017,11.7
+2019,Female,Rafah,2019,
+2007,Both sexes or no breakdown by sex,West Bank,2007,
+2014,Both sexes or no breakdown by sex,West Bank,2014,19.2
+2017,Both sexes or no breakdown by sex,West Bank,2017,
+2019,Both sexes or no breakdown by sex,West Bank,2019,
+2007,Both sexes or no breakdown by sex,Gaza Strip,2007,
+2014,Both sexes or no breakdown by sex,Gaza Strip,2014,12.3
+2017,Both sexes or no breakdown by sex,Gaza Strip,2017,
+2019,Both sexes or no breakdown by sex,Gaza Strip,2019,
+2007,Both sexes or no breakdown by sex,Palestine,2007,
+2014,Both sexes or no breakdown by sex,Palestine,2014,15.3
+2017,Both sexes or no breakdown by sex,Palestine,2017,
+2019,Both sexes or no breakdown by sex,Palestine,2019,
+2007,Both sexes or no breakdown by sex,Jenin,2007,
+2014,Both sexes or no breakdown by sex,Jenin,2014,
+2017,Both sexes or no breakdown by sex,Jenin,2017,
+2019,Both sexes or no breakdown by sex,Jenin,2019,
+2007,Both sexes or no breakdown by sex,Tubas & Northern Valleys,2007,
+2014,Both sexes or no breakdown by sex,Tubas & Northern Valleys,2014,
+2017,Both sexes or no breakdown by sex,Tubas & Northern Valleys,2017,
+2019,Both sexes or no breakdown by sex,Tubas & Northern Valleys,2019,
+2007,Both sexes or no breakdown by sex,Tulkarm,2007,
+2014,Both sexes or no breakdown by sex,Tulkarm,2014,
+2017,Both sexes or no breakdown by sex,Tulkarm,2017,
+2019,Both sexes or no breakdown by sex,Tulkarm,2019,
+2007,Both sexes or no breakdown by sex,Nablus,2007,
+2014,Both sexes or no breakdown by sex,Nablus,2014,
+2017,Both sexes or no breakdown by sex,Nablus,2017,
+2019,Both sexes or no breakdown by sex,Nablus,2019,
+2007,Both sexes or no breakdown by sex,Qalqiliya,2007,
+2014,Both sexes or no breakdown by sex,Qalqiliya,2014,
+2017,Both sexes or no breakdown by sex,Qalqiliya,2017,
+2019,Both sexes or no breakdown by sex,Qalqiliya,2019,
+2007,Both sexes or no breakdown by sex,Salfit,2007,
+2014,Both sexes or no breakdown by sex,Salfit,2014,
+2017,Both sexes or no breakdown by sex,Salfit,2017,
+2019,Both sexes or no breakdown by sex,Salfit,2019,
+2007,Both sexes or no breakdown by sex,Ramallah & Al-Bireh,2007,
+2014,Both sexes or no breakdown by sex,Ramallah & Al-Bireh,2014,
+2017,Both sexes or no breakdown by sex,Ramallah & Al-Bireh,2017,
+2019,Both sexes or no breakdown by sex,Ramallah & Al-Bireh,2019,
+2007,Both sexes or no breakdown by sex,Jericho & AL Aghwar,2007,
+2014,Both sexes or no breakdown by sex,Jericho & AL Aghwar,2014,
+2017,Both sexes or no breakdown by sex,Jericho & AL Aghwar,2017,
+2019,Both sexes or no breakdown by sex,Jericho & AL Aghwar,2019,
+2007,Both sexes or no breakdown by sex,Jerusalem,2007,
+2014,Both sexes or no breakdown by sex,Jerusalem,2014,
+2017,Both sexes or no breakdown by sex,Jerusalem,2017,
+2019,Both sexes or no breakdown by sex,Jerusalem,2019,
+2007,Both sexes or no breakdown by sex,Bethlehem,2007,
+2014,Both sexes or no breakdown by sex,Bethlehem,2014,
+2017,Both sexes or no breakdown by sex,Bethlehem,2017,
+2019,Both sexes or no breakdown by sex,Bethlehem,2019,
+2007,Both sexes or no breakdown by sex,Hebron,2007,
+2014,Both sexes or no breakdown by sex,Hebron,2014,
+2017,Both sexes or no breakdown by sex,Hebron,2017,
+2019,Both sexes or no breakdown by sex,Hebron,2019,
+2007,Both sexes or no breakdown by sex,North Gaza,2007,
+2014,Both sexes or no breakdown by sex,North Gaza,2014,
+2017,Both sexes or no breakdown by sex,North Gaza,2017,
+2019,Both sexes or no breakdown by sex,North Gaza,2019,
+2007,Both sexes or no breakdown by sex,Gaza,2007,
+2014,Both sexes or no breakdown by sex,Gaza,2014,
+2017,Both sexes or no breakdown by sex,Gaza,2017,
+2019,Both sexes or no breakdown by sex,Gaza,2019,
+2007,Both sexes or no breakdown by sex,Dier Al-Balah,2007,
+2014,Both sexes or no breakdown by sex,Dier Al-Balah,2014,
+2017,Both sexes or no breakdown by sex,Dier Al-Balah,2017,
+2019,Both sexes or no breakdown by sex,Dier Al-Balah,2019,
+2007,Both sexes or no breakdown by sex,Khan Yunis,2007,
+2014,Both sexes or no breakdown by sex,Khan Yunis,2014,
+2017,Both sexes or no breakdown by sex,Khan Yunis,2017,
+2019,Both sexes or no breakdown by sex,Khan Yunis,2019,
+2007,Both sexes or no breakdown by sex,Rafah,2007,
+2014,Both sexes or no breakdown by sex,Rafah,2014,
+2017,Both sexes or no breakdown by sex,Rafah,2017,
+2019,Both sexes or no breakdown by sex,Rafah,2019,
