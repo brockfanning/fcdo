@@ -95,11 +95,8 @@ sdglab:
 
 sdmx:
   - no sdmx, but lack of disaggregation means it would not be too hard
+  - UNIT_MEASURE not specified
+  - plenty of mappings needed
 
 issues:
-  - not obvious how to get to the data from the published URL (http://dosweb.dos.gov.jo/sdgs/)
-  - lack of disaggregation (sub-indicator and governorate are examples)
   - X axis labels incorrect when sorted
-  - json download did not have years
-  - difficult to see disaggregation on charts (shades of blue)
-  - too many clicks to get to data
