@@ -85,7 +85,7 @@ platform:
     metadata: Click on "About table"
 
 data:
-  status: Needs SDMX conversion
+  status: Needs SDMX mapping
   sdg_build: true
 metadata:
   status: Needs machine readable version

@@ -10,7 +10,7 @@ platform:
     metadata: Links to global metadata
 
 data:
-  status: SDMX published
+  status: SDMX conversion in progress
   details: Some unexpected attributes
   example: https://zimbabwe.opendataforafrica.org/api/1.0/sdmx/data/aopprng?key=1.1000030.1000040.SG_DSR_LEGREG.716._T._T._T
   sdg_build: true

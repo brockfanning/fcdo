@@ -10,10 +10,10 @@ Both sexes or no breakdown by sex,SEX,_T
 65 years old and over,AGE,Y_GE65
 All age ranges or no breakdown by age,AGE,_T
 Palestine,REF_AREA,PS
-Lower secondary education,EDUCATION,ISCED11_2
-Primary education,EDUCATION,ISCED11_1
-Total or no breakdown by education level,EDUCATION,_T
-Upper secondary education,EDUCATION,ISCED11_3
+Lower secondary EDUCATION_LEV,EDUCATION_LEV,ISCED11_2
+Primary EDUCATION_LEV,EDUCATION_LEV,ISCED11_1
+Total or no breakdown by education level,EDUCATION_LEV,_T
+Upper secondary EDUCATION_LEV,EDUCATION_LEV,ISCED11_3
 Craft and related trades workers,OCCUPATION,ISCO08_7
 Elementary occupations,OCCUPATION,ISCO08_9
 "Legislators, senior officials and managers",OCCUPATION,ISCO88_1

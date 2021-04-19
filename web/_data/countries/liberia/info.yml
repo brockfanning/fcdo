@@ -10,7 +10,7 @@ platform:
     metadata: Links to global metadata
 
 data:
-  status: SDMX published
+  status: Unknown
   details: The SDMX format is not compatible with the SDG Lab. Also disaggregation is not identified in dimensions - only name.
 metadata:
   status: Using global
@@ -28,3 +28,4 @@ issues:
   - metadata is link to global
   - disaggregation is there but cannot be compared with totals easily
   - no sdmx
+  - data structure is inconsistent

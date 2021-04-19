@@ -171,7 +171,7 @@ platform:
     metadata: Click on "About table"
 
 data:
-  status: Needs SDMX conversion
+  status: SDMX published
   example: http://pcbs.gov.ps/SDGsIndicators/api/v1/en/myDb/START/01/01T1_2/01T1_2IC010202/SD1_2_C010202_01
   sdg_build: true
 metadata:

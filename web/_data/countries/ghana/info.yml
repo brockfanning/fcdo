@@ -13,7 +13,7 @@ platform:
     metadata: https://github.com/sustainabledevelopment-ghana/sdg-indicators/blob/develop/_indicators/1-1-1.md
 
 data:
-  status: Needs SDMX mapping
+  status: SDMX training completed and conversion in progress
 metadata:
   status: Unknown
 
