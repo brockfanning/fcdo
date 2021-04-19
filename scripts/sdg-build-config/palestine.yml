@@ -187,6 +187,8 @@ reporting_status_extra_fields: []
 sdmx_output:
   constrain_data: true
   dsd: https://registry.sdmx.org/ws/public/sdmxapi/rest/datastructure/IAEG-SDGs/SDG/latest/?format=sdmx-2.1&detail=full&references=children
+  code_map: scripts/sdg-build-config/sdmx-mappings/codes-palestine.csv
+
 
 logging:
   - warn

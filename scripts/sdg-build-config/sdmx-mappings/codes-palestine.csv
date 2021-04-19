@@ -1,0 +1,27 @@
+Text,Dimension,Value
+Male,SEX,M
+Female,SEX,F
+Both sexes or no breakdown by sex,SEX,_T
+10 to 14 years old,AGE,Y10T14
+10 to 17 years old,AGE,Y10T17
+15 to 17 years old,AGE,Y15T17
+15 to 24 years old,AGE,Y15T24
+25 to 64 years old,AGE,Y25T64
+65 years old and over,AGE,Y_GE65
+All age ranges or no breakdown by age,AGE,_T
+Palestine,REF_AREA,PS
+Lower secondary education,EDUCATION,ISCED11_2
+Primary education,EDUCATION,ISCED11_1
+Total or no breakdown by education level,EDUCATION,_T
+Upper secondary education,EDUCATION,ISCED11_3
+Craft and related trades workers,OCCUPATION,ISCO08_7
+Elementary occupations,OCCUPATION,ISCO08_9
+"Legislators, senior officials and managers",OCCUPATION,ISCO88_1
+"Plant and machine operators, and assemblers",OCCUPATION,ISCO88_8
+Service and sales workers,OCCUPATION,ISCO08_5
+"Skilled agricultural, forestry and fishery workers",OCCUPATION,ISCO08_6
+Technicians and associate professionals,OCCUPATION,ISCO08_3
+Total or no breakdown by Occupation,OCCUPATION,_T
+Rural,URBANISATION,R
+Urban,URBANISATION,U
+Total,URBANISATION,_T
