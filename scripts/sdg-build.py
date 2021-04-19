@@ -26,7 +26,7 @@ def is_country_pxweb(country):
 def fix_time_period(x):
     x = str(x)
     years = x.split('-')
-    return int(years[0])
+    return str(int(years[0]))
 
 
 def set_time_detail(df):
