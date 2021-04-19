@@ -12,6 +12,8 @@ docs_intro: This summary uses code from the Open SDG project to
 inputs:
   - class: InputOpenDataPlatform
     source: scripts/sdg-build-config/input-data/zambia.json
+    column_map: scripts/sdg-build-config/sdmx-mappings/columns-afdb.csv
+    code_map: scripts/sdg-build-config/sdmx-mappings/codes-afdb.csv
 
 translations:
   - class: TranslationInputSdgTranslations
@@ -25,8 +27,6 @@ reporting_status_extra_fields: []
 sdmx_output:
   constrain_data: true
   dsd: https://registry.sdmx.org/ws/public/sdmxapi/rest/datastructure/IAEG-SDGs/SDG/latest/?format=sdmx-2.1&detail=full&references=children
-  column_map: scripts/sdg-build-config/sdmx-mappings/columns-afdb.csv
-  code_map: scripts/sdg-build-config/sdmx-mappings/codes-afdb.csv
 
 logging:
   - warn

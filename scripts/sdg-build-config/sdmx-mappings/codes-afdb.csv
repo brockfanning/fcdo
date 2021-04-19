@@ -2,3 +2,4 @@ Text,Dimension,Value
 Percent,UNIT_MEASURE,PT
 Percentage,UNIT_MEASURE,PT
 "%",UNIT_MEASURE,PT
+1,UNIT_MULT,0
