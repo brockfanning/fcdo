@@ -8,6 +8,10 @@ src_dir: 'scripts/sdg-build-config'
 docs_branding: Jordan SDG data summary
 docs_intro: This summary uses code from the Open SDG project to
   display reports and examples from the Jordan SDG data.
+docs_extra_disaggregations:
+  - UNIT_MEASURE
+  - UNIT_MULT
+  - SERIES
 
 inputs:
   - class: InputPxWebApi
@@ -15,6 +19,8 @@ inputs:
     year_column: Time
     value_column: value
     sleep: 5
+    column_map: scripts/sdg-build-config/sdmx-mappings/columns-jordan.csv
+    code_map: scripts/sdg-build-config/sdmx-mappings/codes-jordan.csv
     indicator_id_map:
       GOL01/Target01/111.px: 1-1-1
       GOL01/Target02/121.px: 1-2-1
@@ -102,8 +108,6 @@ reporting_status_extra_fields: []
 sdmx_output:
   constrain_data: true
   dsd: https://registry.sdmx.org/ws/public/sdmxapi/rest/datastructure/IAEG-SDGs/SDG/latest/?format=sdmx-2.1&detail=full&references=children
-  column_map: scripts/sdg-build-config/sdmx-mappings/columns-jordan.csv
-  code_map: scripts/sdg-build-config/sdmx-mappings/codes-jordan.csv
 
 logging:
   - warn

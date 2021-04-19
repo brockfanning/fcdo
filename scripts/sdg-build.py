@@ -2,6 +2,7 @@ from sdg.open_sdg import open_sdg_build
 import os
 import shutil
 import yaml
+from sdg import helpers
 
 
 def is_country_afdb(country):
@@ -63,6 +64,14 @@ def drop_columns(df, country):
     return df
 
 
+def set_series(df, context):
+    if 'SERIES' not in df.columns.to_list():
+        indicator_id = context['indicator_id']
+        series = helpers.sdmx.get_series_code_from_indicator_id(indicator_id)
+        df['SERIES'] = series
+    return df
+
+
 def apply_complex_mappings(df, country):
     try:
         filename = 'complex-' + country + '.yml'
@@ -92,7 +101,7 @@ def apply_complex_mappings(df, country):
         return df
 
 
-def alter_data_jordan(df):
+def alter_data_jordan(df, context):
     column_fixes = {
         'Yeat': 'Year',
         'السنة': 'Year',
@@ -100,39 +109,48 @@ def alter_data_jordan(df):
     df = df.rename(columns=column_fixes)
     df = apply_complex_mappings(df, 'jordan')
     df = drop_columns(df, 'jordan')
+    df = set_series(df, context)
     return df
 
 
-def alter_data_palestine(df):
+def alter_data_palestine(df, context):
     column_fixes = {
         'Yeat': 'Year',
         'السنة': 'Year',
     }
     df = df.rename(columns=column_fixes)
     df = drop_columns(df, 'palestine')
+    df = set_series(df, context)
+    return df
 
 
-def alter_data_burundi(df):
+def alter_data_burundi(df, context):
+    df = set_series(df, context)
     return drop_columns(df, 'burundi')
 
 
-def alter_data_ethiopia(df):
+def alter_data_ethiopia(df, context):
+    df = set_series(df, context)
     return drop_columns(df, 'ethiopia')
 
 
-def alter_data_mozambique(df):
+def alter_data_mozambique(df, context):
+    df = set_series(df, context)
     return drop_columns(df, 'mozambique')
 
 
-def alter_data_uganda(df):
+def alter_data_uganda(df, context):
+    df = set_series(df, context)
     return drop_columns(df, 'uganda')
 
 
-def alter_data_zambia(df):
+def alter_data_zambia(df, context):
+    df = set_series(df, context)
     return drop_columns(df, 'zambia')
 
 
-def alter_data_zimbabwe(df):
+def alter_data_zimbabwe(df, context):
+    df = set_series(df, context)
     return drop_columns(df, 'zimbabwe')
 
 
@@ -140,7 +158,7 @@ def alter_data_by_country(country):
     if country == 'jordan':
         return alter_data_jordan
     elif country == 'palestine':
-        return alter_data_jordan
+        return alter_data_palestine
     elif country == 'mozambique':
         return alter_data_mozambique
     elif country == 'ethiopia':

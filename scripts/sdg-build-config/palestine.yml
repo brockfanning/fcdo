@@ -8,6 +8,10 @@ src_dir: 'scripts/sdg-build-config'
 docs_branding: Palestine SDG data summary
 docs_intro: This summary uses code from the Open SDG project to
   display reports and examples from the Palestine SDG data.
+docs_extra_disaggregations:
+  - UNIT_MEASURE
+  - UNIT_MULT
+  - SERIES
 
 inputs:
   - class: InputPxWebApi
@@ -15,6 +19,8 @@ inputs:
     year_column: TIME PERIOD
     value_column: value
     sleep: 5
+    code_map: scripts/sdg-build-config/sdmx-mappings/codes-palestine.csv
+    column_map: scripts/sdg-build-config/sdmx-mappings/columns-palestine.csv
     indicator_id_map:
       01/01T1_2/01T1_2IC010201/SD1_2_C010201_01: 1.1.2
       01/01T1_2/01T1_2IC010202/SD1_2_C010202_01: 1.2.2
@@ -187,8 +193,6 @@ reporting_status_extra_fields: []
 sdmx_output:
   constrain_data: true
   dsd: https://registry.sdmx.org/ws/public/sdmxapi/rest/datastructure/IAEG-SDGs/SDG/latest/?format=sdmx-2.1&detail=full&references=children
-  code_map: scripts/sdg-build-config/sdmx-mappings/codes-palestine.csv
-  column_map: scripts/sdg-build-config/sdmx-mappings/columns-palestine.csv
 
 logging:
   - warn
