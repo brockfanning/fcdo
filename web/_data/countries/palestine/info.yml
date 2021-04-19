@@ -172,7 +172,6 @@ platform:
 
 data:
   status: Needs SDMX conversion
-  details: Are values in output?
   example: http://pcbs.gov.ps/SDGsIndicators/api/v1/en/myDb/START/01/01T1_2/01T1_2IC010202/SD1_2_C010202_01
   sdg_build: true
 metadata:
@@ -181,9 +180,5 @@ metadata:
 sdglab:
   country: 48
 
-notes:
-  - better intro then Jordan
-
 issues:
   - error trying to change chart settings
-  - same issues as Jordan
