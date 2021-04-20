@@ -11,7 +11,7 @@
       "schema": {
         "fields": [
           {
-            "name": "AREA",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
@@ -26,7 +26,7 @@
                 "Khan Yunis",
                 "Nablus",
                 "North Gaza",
-                "Palestine",
+                "PS",
                 "Qalqiliya",
                 "Rafah",
                 "Ramallah & Al-Bireh",
@@ -36,7 +36,12 @@
                 "West Bank"
               ]
             },
-            "title": "AREA"
+            "title": "REF_AREA"
+          },
+          {
+            "name": "SERIES",
+            "type": "number",
+            "title": "SERIES"
           },
           {
             "name": "SEX",
@@ -44,9 +49,9 @@
             "constraints": {
               "enum": [
                 "",
-                "Both sexes or no breakdown by sex",
-                "Female",
-                "Male"
+                "F",
+                "M",
+                "_T"
               ]
             },
             "title": "SEX"
@@ -72,7 +77,7 @@
           },
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           }
         ]

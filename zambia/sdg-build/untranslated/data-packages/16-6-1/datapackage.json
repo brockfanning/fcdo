@@ -12,30 +12,14 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
-            "name": "seriesdescription",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "GOV_EXP_GPS",
-                "GOV_EXP_DEF",
-                "GOV_EXP_POS",
-                "GOV_EXP_EAFF",
-                "GOV_EXP_ENVPROT",
-                "GOV_EXP_HCA",
-                "GOV_EXP_HEALTH",
-                "GOV_EXP_RCR",
-                "GOV_EXP_EDU",
-                "GOV_EXP_SOCPROT",
-                "GOV_EXP_TOTAL",
-                ""
-              ]
-            }
+            "name": "SERIES",
+            "type": "string"
           },
           {
-            "name": "geoarea",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
@@ -45,7 +29,7 @@
             }
           },
           {
-            "name": "sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
@@ -55,7 +39,7 @@
             }
           },
           {
-            "name": "age",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
@@ -75,7 +59,7 @@
             }
           },
           {
-            "name": "education-level",
+            "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
               "enum": [
@@ -85,7 +69,7 @@
             }
           },
           {
-            "name": "occupation",
+            "name": "OCCUPATION",
             "type": "string",
             "constraints": {
               "enum": [
@@ -95,7 +79,7 @@
             }
           },
           {
-            "name": "comp-breakdown",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
@@ -105,7 +89,7 @@
             }
           },
           {
-            "name": "disability-status",
+            "name": "DISABILITY_STATUS",
             "type": "string",
             "constraints": {
               "enum": [
@@ -115,11 +99,15 @@
             }
           },
           {
-            "name": "unit",
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percent",
+                "0",
                 ""
               ]
             }

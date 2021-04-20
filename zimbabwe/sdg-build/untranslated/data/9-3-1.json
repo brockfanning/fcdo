@@ -1,1 +1,1 @@
-{"Year":[2014],"seriesdescription":["NV_IND_SSIS"],"geoarea":["716"],"sex":["_T"],"age":["_T"],"urbanisation":["_T"],"unit":["Percent"],"TIME_DETAIL":["2014"],"Value":[24.0]}
+{"Year":["2014"],"SERIES":["NV_IND_SSIS"],"REF_AREA":["716"],"SEX":["_T"],"AGE":["_T"],"URBANISATION":["_T"],"UNIT_MEASURE":["PT"],"UNIT_MULT":["0"],"TIME_DETAIL":["2014"],"Value":[24.0]}

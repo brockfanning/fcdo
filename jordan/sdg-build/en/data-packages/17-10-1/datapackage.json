@@ -11,6 +11,27 @@
       "schema": {
         "fields": [
           {
+            "name": "PRODUCT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "AGR",
+                "ALP",
+                "CLO",
+                "IND",
+                "OIL",
+                "TEX"
+              ]
+            },
+            "title": "PRODUCT"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
             "name": "TIME_DETAIL",
             "type": "string",
             "constraints": {
@@ -36,29 +57,13 @@
             "title": "Tariff regime"
           },
           {
-            "name": "Type of product",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "AGR",
-                "ALP",
-                "CLO",
-                "IND",
-                "OIL",
-                "TEX"
-              ]
-            },
-            "title": "Type of product"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           }
         ]

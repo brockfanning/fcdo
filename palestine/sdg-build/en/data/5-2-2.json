@@ -1,1 +1,1 @@
-{"Year":[2011,2011,2011],"AREA":["West Bank","Gaza Strip","Palestine"],"TIME_DETAIL":["2011","2011","2011"],"Value":[0.3,0.3,0.3]}
+{"Year":["2011","2011","2011"],"REF_AREA":["West Bank","Gaza Strip","PS"],"TIME_DETAIL":["2011","2011","2011"],"SERIES":["VC_VAW_NONMARR","VC_VAW_NONMARR","VC_VAW_NONMARR"],"Value":[0.3,0.3,0.3]}

@@ -14,20 +14,14 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
-            "name": "seriesdescription",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "SI_POV_DAY1",
-                ""
-              ]
-            }
+            "name": "SERIES",
+            "type": "string"
           },
           {
-            "name": "geoarea",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
@@ -37,7 +31,7 @@
             }
           },
           {
-            "name": "sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
@@ -47,7 +41,7 @@
             }
           },
           {
-            "name": "age",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
@@ -67,7 +61,7 @@
             }
           },
           {
-            "name": "education-level",
+            "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
               "enum": [
@@ -77,7 +71,7 @@
             }
           },
           {
-            "name": "occupation",
+            "name": "OCCUPATION",
             "type": "string",
             "constraints": {
               "enum": [
@@ -87,7 +81,7 @@
             }
           },
           {
-            "name": "comp-breakdown",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
@@ -97,7 +91,7 @@
             }
           },
           {
-            "name": "disability-status",
+            "name": "DISABILITY_STATUS",
             "type": "string",
             "constraints": {
               "enum": [
@@ -107,11 +101,15 @@
             }
           },
           {
-            "name": "unit",
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percent",
+                "0",
                 ""
               ]
             }
@@ -146,20 +144,14 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
-            "name": "seriesdescription",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "SI_POV_EMP1",
-                ""
-              ]
-            }
+            "name": "SERIES",
+            "type": "string"
           },
           {
-            "name": "geoarea",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
@@ -169,7 +161,7 @@
             }
           },
           {
-            "name": "sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
@@ -179,7 +171,7 @@
             }
           },
           {
-            "name": "age",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
@@ -199,7 +191,7 @@
             }
           },
           {
-            "name": "education-level",
+            "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
               "enum": [
@@ -209,7 +201,7 @@
             }
           },
           {
-            "name": "occupation",
+            "name": "OCCUPATION",
             "type": "string",
             "constraints": {
               "enum": [
@@ -219,7 +211,7 @@
             }
           },
           {
-            "name": "comp-breakdown",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
@@ -229,7 +221,7 @@
             }
           },
           {
-            "name": "disability-status",
+            "name": "DISABILITY_STATUS",
             "type": "string",
             "constraints": {
               "enum": [
@@ -239,11 +231,15 @@
             }
           },
           {
-            "name": "unit",
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percent",
+                "0",
                 ""
               ]
             }
@@ -278,20 +274,14 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
-            "name": "seriesdescription",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "SI_POV_NMPI",
-                ""
-              ]
-            }
+            "name": "SERIES",
+            "type": "string"
           },
           {
-            "name": "geoarea",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
@@ -301,7 +291,7 @@
             }
           },
           {
-            "name": "sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
@@ -311,7 +301,7 @@
             }
           },
           {
-            "name": "age",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
@@ -331,7 +321,7 @@
             }
           },
           {
-            "name": "education-level",
+            "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
               "enum": [
@@ -341,7 +331,7 @@
             }
           },
           {
-            "name": "occupation",
+            "name": "OCCUPATION",
             "type": "string",
             "constraints": {
               "enum": [
@@ -351,7 +341,7 @@
             }
           },
           {
-            "name": "comp-breakdown",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
@@ -361,7 +351,7 @@
             }
           },
           {
-            "name": "disability-status",
+            "name": "DISABILITY_STATUS",
             "type": "string",
             "constraints": {
               "enum": [
@@ -371,11 +361,15 @@
             }
           },
           {
-            "name": "unit",
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "ratio",
+                "0",
                 ""
               ]
             }
@@ -411,25 +405,14 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
-            "name": "seriesdescription",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "POP_GRZ_CASHTRANS",
-                "POP_GRZ_PWAS",
-                "POP_GRZ_FSPAC",
-                "POP_GRZ_HGSF",
-                "POP_GRZ_WOMEMP",
-                "POP_GRZ_YOTHEMP",
-                ""
-              ]
-            }
+            "name": "SERIES",
+            "type": "string"
           },
           {
-            "name": "geoarea",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
@@ -439,7 +422,7 @@
             }
           },
           {
-            "name": "sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
@@ -449,7 +432,7 @@
             }
           },
           {
-            "name": "age",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
@@ -469,7 +452,7 @@
             }
           },
           {
-            "name": "education-level",
+            "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
               "enum": [
@@ -479,7 +462,7 @@
             }
           },
           {
-            "name": "occupation",
+            "name": "OCCUPATION",
             "type": "string",
             "constraints": {
               "enum": [
@@ -489,7 +472,7 @@
             }
           },
           {
-            "name": "comp-breakdown",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
@@ -499,7 +482,7 @@
             }
           },
           {
-            "name": "disability-status",
+            "name": "DISABILITY_STATUS",
             "type": "string",
             "constraints": {
               "enum": [
@@ -509,11 +492,15 @@
             }
           },
           {
-            "name": "unit",
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percent",
+                "0",
                 ""
               ]
             }
@@ -549,20 +536,14 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
-            "name": "seriesdescription",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "POP_SECR_LAND",
-                ""
-              ]
-            }
+            "name": "SERIES",
+            "type": "string"
           },
           {
-            "name": "geoarea",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
@@ -572,7 +553,7 @@
             }
           },
           {
-            "name": "sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
@@ -584,7 +565,7 @@
             }
           },
           {
-            "name": "age",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
@@ -604,7 +585,7 @@
             }
           },
           {
-            "name": "education-level",
+            "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
               "enum": [
@@ -614,7 +595,7 @@
             }
           },
           {
-            "name": "occupation",
+            "name": "OCCUPATION",
             "type": "string",
             "constraints": {
               "enum": [
@@ -624,7 +605,7 @@
             }
           },
           {
-            "name": "comp-breakdown",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
@@ -634,7 +615,7 @@
             }
           },
           {
-            "name": "disability-status",
+            "name": "DISABILITY_STATUS",
             "type": "string",
             "constraints": {
               "enum": [
@@ -644,11 +625,15 @@
             }
           },
           {
-            "name": "unit",
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percent",
+                "0",
                 ""
               ]
             }
@@ -683,22 +668,14 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
-            "name": "seriesdescription",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "GRZ_EXP_HEALTH",
-                "GRZ_EXP_EDU",
-                "GRZ_EXP_SOCPROT",
-                ""
-              ]
-            }
+            "name": "SERIES",
+            "type": "string"
           },
           {
-            "name": "geoarea",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
@@ -708,7 +685,7 @@
             }
           },
           {
-            "name": "sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
@@ -718,7 +695,7 @@
             }
           },
           {
-            "name": "age",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
@@ -738,7 +715,7 @@
             }
           },
           {
-            "name": "education-level",
+            "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
               "enum": [
@@ -748,7 +725,7 @@
             }
           },
           {
-            "name": "occupation",
+            "name": "OCCUPATION",
             "type": "string",
             "constraints": {
               "enum": [
@@ -758,7 +735,7 @@
             }
           },
           {
-            "name": "comp-breakdown",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
@@ -768,7 +745,7 @@
             }
           },
           {
-            "name": "disability-status",
+            "name": "DISABILITY_STATUS",
             "type": "string",
             "constraints": {
               "enum": [
@@ -778,11 +755,15 @@
             }
           },
           {
-            "name": "unit",
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percent",
+                "0",
                 ""
               ]
             }
@@ -819,20 +800,14 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
-            "name": "seriesdescription",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "SH_STA_STNTN",
-                ""
-              ]
-            }
+            "name": "SERIES",
+            "type": "string"
           },
           {
-            "name": "geoarea",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
@@ -842,7 +817,7 @@
             }
           },
           {
-            "name": "sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
@@ -852,7 +827,7 @@
             }
           },
           {
-            "name": "age",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
@@ -872,7 +847,7 @@
             }
           },
           {
-            "name": "education-level",
+            "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
               "enum": [
@@ -882,7 +857,7 @@
             }
           },
           {
-            "name": "occupation",
+            "name": "OCCUPATION",
             "type": "string",
             "constraints": {
               "enum": [
@@ -892,7 +867,7 @@
             }
           },
           {
-            "name": "comp-breakdown",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
@@ -902,7 +877,7 @@
             }
           },
           {
-            "name": "disability-status",
+            "name": "DISABILITY_STATUS",
             "type": "string",
             "constraints": {
               "enum": [
@@ -912,11 +887,15 @@
             }
           },
           {
-            "name": "unit",
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percent",
+                "0",
                 ""
               ]
             }
@@ -951,20 +930,14 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
-            "name": "seriesdescription",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "SH_STA_WAST",
-                ""
-              ]
-            }
+            "name": "SERIES",
+            "type": "string"
           },
           {
-            "name": "geoarea",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
@@ -974,7 +947,7 @@
             }
           },
           {
-            "name": "sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
@@ -984,7 +957,7 @@
             }
           },
           {
-            "name": "age",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1004,7 +977,7 @@
             }
           },
           {
-            "name": "education-level",
+            "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1014,7 +987,7 @@
             }
           },
           {
-            "name": "occupation",
+            "name": "OCCUPATION",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1024,7 +997,7 @@
             }
           },
           {
-            "name": "comp-breakdown",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1034,7 +1007,7 @@
             }
           },
           {
-            "name": "disability-status",
+            "name": "DISABILITY_STATUS",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1044,11 +1017,15 @@
             }
           },
           {
-            "name": "unit",
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percent",
+                "0",
                 ""
               ]
             }
@@ -1083,20 +1060,14 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
-            "name": "seriesdescription",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "AG_PRD_ORTIND",
-                ""
-              ]
-            }
+            "name": "SERIES",
+            "type": "string"
           },
           {
-            "name": "geoarea",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1106,7 +1077,7 @@
             }
           },
           {
-            "name": "sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1116,7 +1087,7 @@
             }
           },
           {
-            "name": "age",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1136,7 +1107,7 @@
             }
           },
           {
-            "name": "education-level",
+            "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1146,7 +1117,7 @@
             }
           },
           {
-            "name": "occupation",
+            "name": "OCCUPATION",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1156,7 +1127,7 @@
             }
           },
           {
-            "name": "comp-breakdown",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1166,7 +1137,7 @@
             }
           },
           {
-            "name": "disability-status",
+            "name": "DISABILITY_STATUS",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1176,11 +1147,15 @@
             }
           },
           {
-            "name": "unit",
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "Index",
+                "0",
                 ""
               ]
             }
@@ -1215,20 +1190,14 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
-            "name": "seriesdescription",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "SH_STA_MORT",
-                ""
-              ]
-            }
+            "name": "SERIES",
+            "type": "string"
           },
           {
-            "name": "geoarea",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1238,7 +1207,7 @@
             }
           },
           {
-            "name": "sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1248,7 +1217,7 @@
             }
           },
           {
-            "name": "age",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1268,7 +1237,7 @@
             }
           },
           {
-            "name": "education-level",
+            "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1278,7 +1247,7 @@
             }
           },
           {
-            "name": "occupation",
+            "name": "OCCUPATION",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1288,7 +1257,7 @@
             }
           },
           {
-            "name": "comp-breakdown",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1298,7 +1267,7 @@
             }
           },
           {
-            "name": "disability-status",
+            "name": "DISABILITY_STATUS",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1308,11 +1277,15 @@
             }
           },
           {
-            "name": "unit",
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "PER_100000_LIVE_BIRTHS",
+                "0",
                 ""
               ]
             }
@@ -1347,20 +1320,14 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
-            "name": "seriesdescription",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "SH_STA_BRTC",
-                ""
-              ]
-            }
+            "name": "SERIES",
+            "type": "string"
           },
           {
-            "name": "geoarea",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1370,7 +1337,7 @@
             }
           },
           {
-            "name": "sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1380,7 +1347,7 @@
             }
           },
           {
-            "name": "age",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1400,7 +1367,7 @@
             }
           },
           {
-            "name": "education-level",
+            "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1410,7 +1377,7 @@
             }
           },
           {
-            "name": "occupation",
+            "name": "OCCUPATION",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1420,7 +1387,7 @@
             }
           },
           {
-            "name": "comp-breakdown",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1430,7 +1397,7 @@
             }
           },
           {
-            "name": "disability-status",
+            "name": "DISABILITY_STATUS",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1440,11 +1407,15 @@
             }
           },
           {
-            "name": "unit",
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percent",
+                "0",
                 ""
               ]
             }
@@ -1479,20 +1450,14 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
-            "name": "seriesdescription",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "SH_DYN_MORT",
-                ""
-              ]
-            }
+            "name": "SERIES",
+            "type": "string"
           },
           {
-            "name": "geoarea",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1502,7 +1467,7 @@
             }
           },
           {
-            "name": "sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1512,7 +1477,7 @@
             }
           },
           {
-            "name": "age",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1532,7 +1497,7 @@
             }
           },
           {
-            "name": "education-level",
+            "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1542,7 +1507,7 @@
             }
           },
           {
-            "name": "occupation",
+            "name": "OCCUPATION",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1552,7 +1517,7 @@
             }
           },
           {
-            "name": "comp-breakdown",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1562,7 +1527,7 @@
             }
           },
           {
-            "name": "disability-status",
+            "name": "DISABILITY_STATUS",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1572,11 +1537,15 @@
             }
           },
           {
-            "name": "unit",
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "PER_1000_LIVE_BIRTHS",
+                "0",
                 ""
               ]
             }
@@ -1611,20 +1580,14 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
-            "name": "seriesdescription",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "SH_DYN_NMRT",
-                ""
-              ]
-            }
+            "name": "SERIES",
+            "type": "string"
           },
           {
-            "name": "geoarea",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1634,7 +1597,7 @@
             }
           },
           {
-            "name": "sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1644,7 +1607,7 @@
             }
           },
           {
-            "name": "age",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1664,7 +1627,7 @@
             }
           },
           {
-            "name": "education-level",
+            "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1674,7 +1637,7 @@
             }
           },
           {
-            "name": "occupation",
+            "name": "OCCUPATION",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1684,7 +1647,7 @@
             }
           },
           {
-            "name": "comp-breakdown",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1694,7 +1657,7 @@
             }
           },
           {
-            "name": "disability-status",
+            "name": "DISABILITY_STATUS",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1704,11 +1667,15 @@
             }
           },
           {
-            "name": "unit",
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "PER_1000_LIVE_BIRTHS",
+                "0",
                 ""
               ]
             }
@@ -1743,20 +1710,14 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
-            "name": "seriesdescription",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "SH_HIV_INCD",
-                ""
-              ]
-            }
+            "name": "SERIES",
+            "type": "string"
           },
           {
-            "name": "geoarea",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1766,7 +1727,7 @@
             }
           },
           {
-            "name": "sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1778,7 +1739,7 @@
             }
           },
           {
-            "name": "age",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1798,7 +1759,7 @@
             }
           },
           {
-            "name": "education-level",
+            "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1808,7 +1769,7 @@
             }
           },
           {
-            "name": "occupation",
+            "name": "OCCUPATION",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1818,7 +1779,7 @@
             }
           },
           {
-            "name": "comp-breakdown",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1828,7 +1789,7 @@
             }
           },
           {
-            "name": "disability-status",
+            "name": "DISABILITY_STATUS",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1838,11 +1799,15 @@
             }
           },
           {
-            "name": "unit",
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "PER_1000_UNINFECTED_POP",
+                "0",
                 ""
               ]
             }
@@ -1877,20 +1842,14 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
-            "name": "seriesdescription",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "SH_TBS_INCD",
-                ""
-              ]
-            }
+            "name": "SERIES",
+            "type": "string"
           },
           {
-            "name": "geoarea",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1900,7 +1859,7 @@
             }
           },
           {
-            "name": "sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1910,7 +1869,7 @@
             }
           },
           {
-            "name": "age",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1930,7 +1889,7 @@
             }
           },
           {
-            "name": "education-level",
+            "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1940,7 +1899,7 @@
             }
           },
           {
-            "name": "occupation",
+            "name": "OCCUPATION",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1950,7 +1909,7 @@
             }
           },
           {
-            "name": "comp-breakdown",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1960,7 +1919,7 @@
             }
           },
           {
-            "name": "disability-status",
+            "name": "DISABILITY_STATUS",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1970,11 +1929,15 @@
             }
           },
           {
-            "name": "unit",
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "PER_100000_POP",
+                "0",
                 ""
               ]
             }
@@ -2009,20 +1972,14 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
-            "name": "seriesdescription",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "SH_STA_MALR",
-                ""
-              ]
-            }
+            "name": "SERIES",
+            "type": "string"
           },
           {
-            "name": "geoarea",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
@@ -2032,7 +1989,7 @@
             }
           },
           {
-            "name": "sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
@@ -2042,7 +1999,7 @@
             }
           },
           {
-            "name": "age",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
@@ -2062,7 +2019,7 @@
             }
           },
           {
-            "name": "education-level",
+            "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
               "enum": [
@@ -2072,7 +2029,7 @@
             }
           },
           {
-            "name": "occupation",
+            "name": "OCCUPATION",
             "type": "string",
             "constraints": {
               "enum": [
@@ -2082,7 +2039,7 @@
             }
           },
           {
-            "name": "comp-breakdown",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
@@ -2092,7 +2049,7 @@
             }
           },
           {
-            "name": "disability-status",
+            "name": "DISABILITY_STATUS",
             "type": "string",
             "constraints": {
               "enum": [
@@ -2102,11 +2059,15 @@
             }
           },
           {
-            "name": "unit",
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "PER_1000_POP",
+                "0",
                 ""
               ]
             }
@@ -2141,20 +2102,14 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
-            "name": "seriesdescription",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "SH_STA_SCIDE",
-                ""
-              ]
-            }
+            "name": "SERIES",
+            "type": "string"
           },
           {
-            "name": "geoarea",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
@@ -2164,7 +2119,7 @@
             }
           },
           {
-            "name": "sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
@@ -2174,7 +2129,7 @@
             }
           },
           {
-            "name": "age",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
@@ -2194,7 +2149,7 @@
             }
           },
           {
-            "name": "education-level",
+            "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
               "enum": [
@@ -2204,7 +2159,7 @@
             }
           },
           {
-            "name": "occupation",
+            "name": "OCCUPATION",
             "type": "string",
             "constraints": {
               "enum": [
@@ -2214,7 +2169,7 @@
             }
           },
           {
-            "name": "comp-breakdown",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
@@ -2224,7 +2179,7 @@
             }
           },
           {
-            "name": "disability-status",
+            "name": "DISABILITY_STATUS",
             "type": "string",
             "constraints": {
               "enum": [
@@ -2234,11 +2189,15 @@
             }
           },
           {
-            "name": "unit",
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "PER_100000_POP",
+                "0",
                 ""
               ]
             }
@@ -2273,20 +2232,14 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
-            "name": "seriesdescription",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "MORT_CARD",
-                ""
-              ]
-            }
+            "name": "SERIES",
+            "type": "string"
           },
           {
-            "name": "geoarea",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
@@ -2296,7 +2249,7 @@
             }
           },
           {
-            "name": "sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
@@ -2306,7 +2259,7 @@
             }
           },
           {
-            "name": "age",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
@@ -2326,7 +2279,7 @@
             }
           },
           {
-            "name": "education-level",
+            "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
               "enum": [
@@ -2336,7 +2289,7 @@
             }
           },
           {
-            "name": "occupation",
+            "name": "OCCUPATION",
             "type": "string",
             "constraints": {
               "enum": [
@@ -2346,7 +2299,7 @@
             }
           },
           {
-            "name": "comp-breakdown",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
@@ -2356,7 +2309,7 @@
             }
           },
           {
-            "name": "disability-status",
+            "name": "DISABILITY_STATUS",
             "type": "string",
             "constraints": {
               "enum": [
@@ -2366,11 +2319,15 @@
             }
           },
           {
-            "name": "unit",
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percent",
+                "0",
                 ""
               ]
             }
@@ -2405,20 +2362,14 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
-            "name": "seriesdescription",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "SH_STA_TRAF",
-                ""
-              ]
-            }
+            "name": "SERIES",
+            "type": "string"
           },
           {
-            "name": "geoarea",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
@@ -2428,7 +2379,7 @@
             }
           },
           {
-            "name": "sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
@@ -2438,7 +2389,7 @@
             }
           },
           {
-            "name": "age",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
@@ -2458,7 +2409,7 @@
             }
           },
           {
-            "name": "education-level",
+            "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
               "enum": [
@@ -2468,7 +2419,7 @@
             }
           },
           {
-            "name": "occupation",
+            "name": "OCCUPATION",
             "type": "string",
             "constraints": {
               "enum": [
@@ -2478,7 +2429,7 @@
             }
           },
           {
-            "name": "comp-breakdown",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
@@ -2488,7 +2439,7 @@
             }
           },
           {
-            "name": "disability-status",
+            "name": "DISABILITY_STATUS",
             "type": "string",
             "constraints": {
               "enum": [
@@ -2498,11 +2449,15 @@
             }
           },
           {
-            "name": "unit",
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "PER_100000_POP",
+                "0",
                 ""
               ]
             }
@@ -2537,20 +2492,14 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
-            "name": "seriesdescription",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "SH_FPL_MTMM",
-                ""
-              ]
-            }
+            "name": "SERIES",
+            "type": "string"
           },
           {
-            "name": "geoarea",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
@@ -2560,7 +2509,7 @@
             }
           },
           {
-            "name": "sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
@@ -2570,7 +2519,7 @@
             }
           },
           {
-            "name": "age",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
@@ -2590,7 +2539,7 @@
             }
           },
           {
-            "name": "education-level",
+            "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
               "enum": [
@@ -2600,7 +2549,7 @@
             }
           },
           {
-            "name": "occupation",
+            "name": "OCCUPATION",
             "type": "string",
             "constraints": {
               "enum": [
@@ -2610,7 +2559,7 @@
             }
           },
           {
-            "name": "comp-breakdown",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
@@ -2620,7 +2569,7 @@
             }
           },
           {
-            "name": "disability-status",
+            "name": "DISABILITY_STATUS",
             "type": "string",
             "constraints": {
               "enum": [
@@ -2630,11 +2579,15 @@
             }
           },
           {
-            "name": "unit",
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percent",
+                "0",
                 ""
               ]
             }
@@ -2669,20 +2622,14 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
-            "name": "seriesdescription",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "SH_ACS_VACN",
-                ""
-              ]
-            }
+            "name": "SERIES",
+            "type": "string"
           },
           {
-            "name": "geoarea",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
@@ -2692,7 +2639,7 @@
             }
           },
           {
-            "name": "sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
@@ -2702,7 +2649,7 @@
             }
           },
           {
-            "name": "age",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
@@ -2722,7 +2669,7 @@
             }
           },
           {
-            "name": "education-level",
+            "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
               "enum": [
@@ -2732,7 +2679,7 @@
             }
           },
           {
-            "name": "occupation",
+            "name": "OCCUPATION",
             "type": "string",
             "constraints": {
               "enum": [
@@ -2742,7 +2689,7 @@
             }
           },
           {
-            "name": "comp-breakdown",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
@@ -2752,7 +2699,7 @@
             }
           },
           {
-            "name": "disability-status",
+            "name": "DISABILITY_STATUS",
             "type": "string",
             "constraints": {
               "enum": [
@@ -2762,11 +2709,15 @@
             }
           },
           {
-            "name": "unit",
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percent",
+                "0",
                 ""
               ]
             }
@@ -2801,20 +2752,14 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
-            "name": "seriesdescription",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "SH_MED_DEN",
-                ""
-              ]
-            }
+            "name": "SERIES",
+            "type": "string"
           },
           {
-            "name": "geoarea",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
@@ -2824,7 +2769,7 @@
             }
           },
           {
-            "name": "sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
@@ -2834,7 +2779,7 @@
             }
           },
           {
-            "name": "age",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
@@ -2854,7 +2799,7 @@
             }
           },
           {
-            "name": "education-level",
+            "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
               "enum": [
@@ -2864,7 +2809,7 @@
             }
           },
           {
-            "name": "occupation",
+            "name": "OCCUPATION",
             "type": "string",
             "constraints": {
               "enum": [
@@ -2875,7 +2820,7 @@
             }
           },
           {
-            "name": "comp-breakdown",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
@@ -2885,7 +2830,7 @@
             }
           },
           {
-            "name": "disability-status",
+            "name": "DISABILITY_STATUS",
             "type": "string",
             "constraints": {
               "enum": [
@@ -2895,11 +2840,15 @@
             }
           },
           {
-            "name": "unit",
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "PER_100000_POP",
+                "0",
                 ""
               ]
             }
@@ -2935,20 +2884,14 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
-            "name": "seriesdescription",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "SE_PRE_PARTN",
-                ""
-              ]
-            }
+            "name": "SERIES",
+            "type": "string"
           },
           {
-            "name": "geoarea",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
@@ -2958,7 +2901,7 @@
             }
           },
           {
-            "name": "sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
@@ -2970,7 +2913,7 @@
             }
           },
           {
-            "name": "age",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
@@ -2990,7 +2933,7 @@
             }
           },
           {
-            "name": "education-level",
+            "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
               "enum": [
@@ -3000,7 +2943,7 @@
             }
           },
           {
-            "name": "occupation",
+            "name": "OCCUPATION",
             "type": "string",
             "constraints": {
               "enum": [
@@ -3010,7 +2953,7 @@
             }
           },
           {
-            "name": "comp-breakdown",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
@@ -3020,7 +2963,7 @@
             }
           },
           {
-            "name": "disability-status",
+            "name": "DISABILITY_STATUS",
             "type": "string",
             "constraints": {
               "enum": [
@@ -3030,11 +2973,15 @@
             }
           },
           {
-            "name": "unit",
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percent",
+                "0",
                 ""
               ]
             }
@@ -3069,23 +3016,14 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
-            "name": "seriesdescription",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "SE_ACS_ELECT",
-                "SE_ACS_INTNT",
-                "SE_ACS_CMPTR",
-                "SE_ACS_H2O",
-                ""
-              ]
-            }
+            "name": "SERIES",
+            "type": "string"
           },
           {
-            "name": "geoarea",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
@@ -3095,7 +3033,7 @@
             }
           },
           {
-            "name": "sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
@@ -3105,7 +3043,7 @@
             }
           },
           {
-            "name": "age",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
@@ -3125,7 +3063,7 @@
             }
           },
           {
-            "name": "education-level",
+            "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
               "enum": [
@@ -3135,7 +3073,7 @@
             }
           },
           {
-            "name": "occupation",
+            "name": "OCCUPATION",
             "type": "string",
             "constraints": {
               "enum": [
@@ -3145,7 +3083,7 @@
             }
           },
           {
-            "name": "comp-breakdown",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
@@ -3155,7 +3093,7 @@
             }
           },
           {
-            "name": "disability-status",
+            "name": "DISABILITY_STATUS",
             "type": "string",
             "constraints": {
               "enum": [
@@ -3165,11 +3103,15 @@
             }
           },
           {
-            "name": "unit",
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percent",
+                "0",
                 ""
               ]
             }
@@ -3205,20 +3147,14 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
-            "name": "seriesdescription",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "SE_TRA_GRDL",
-                ""
-              ]
-            }
+            "name": "SERIES",
+            "type": "string"
           },
           {
-            "name": "geoarea",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
@@ -3228,7 +3164,7 @@
             }
           },
           {
-            "name": "sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
@@ -3238,7 +3174,7 @@
             }
           },
           {
-            "name": "age",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
@@ -3258,7 +3194,7 @@
             }
           },
           {
-            "name": "education-level",
+            "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
               "enum": [
@@ -3270,7 +3206,7 @@
             }
           },
           {
-            "name": "occupation",
+            "name": "OCCUPATION",
             "type": "string",
             "constraints": {
               "enum": [
@@ -3280,7 +3216,7 @@
             }
           },
           {
-            "name": "comp-breakdown",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
@@ -3290,7 +3226,7 @@
             }
           },
           {
-            "name": "disability-status",
+            "name": "DISABILITY_STATUS",
             "type": "string",
             "constraints": {
               "enum": [
@@ -3300,11 +3236,15 @@
             }
           },
           {
-            "name": "unit",
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percent",
+                "0",
                 ""
               ]
             }
@@ -3339,20 +3279,14 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
-            "name": "seriesdescription",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "GEN_PAR_INDX",
-                ""
-              ]
-            }
+            "name": "SERIES",
+            "type": "string"
           },
           {
-            "name": "geoarea",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
@@ -3362,7 +3296,7 @@
             }
           },
           {
-            "name": "sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
@@ -3372,7 +3306,7 @@
             }
           },
           {
-            "name": "age",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
@@ -3392,7 +3326,7 @@
             }
           },
           {
-            "name": "education-level",
+            "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
               "enum": [
@@ -3402,7 +3336,7 @@
             }
           },
           {
-            "name": "occupation",
+            "name": "OCCUPATION",
             "type": "string",
             "constraints": {
               "enum": [
@@ -3412,7 +3346,7 @@
             }
           },
           {
-            "name": "comp-breakdown",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
@@ -3422,7 +3356,7 @@
             }
           },
           {
-            "name": "disability-status",
+            "name": "DISABILITY_STATUS",
             "type": "string",
             "constraints": {
               "enum": [
@@ -3432,11 +3366,15 @@
             }
           },
           {
-            "name": "unit",
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "Index",
+                "0",
                 ""
               ]
             }
@@ -3471,20 +3409,14 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
-            "name": "seriesdescription",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "SG_LGL_GENEQLFP",
-                ""
-              ]
-            }
+            "name": "SERIES",
+            "type": "string"
           },
           {
-            "name": "geoarea",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
@@ -3494,7 +3426,7 @@
             }
           },
           {
-            "name": "sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
@@ -3504,7 +3436,7 @@
             }
           },
           {
-            "name": "age",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
@@ -3524,7 +3456,7 @@
             }
           },
           {
-            "name": "education-level",
+            "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
               "enum": [
@@ -3534,7 +3466,7 @@
             }
           },
           {
-            "name": "occupation",
+            "name": "OCCUPATION",
             "type": "string",
             "constraints": {
               "enum": [
@@ -3544,7 +3476,7 @@
             }
           },
           {
-            "name": "comp-breakdown",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
@@ -3554,7 +3486,7 @@
             }
           },
           {
-            "name": "disability-status",
+            "name": "DISABILITY_STATUS",
             "type": "string",
             "constraints": {
               "enum": [
@@ -3564,11 +3496,15 @@
             }
           },
           {
-            "name": "unit",
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "Number",
+                "0",
                 ""
               ]
             }
@@ -3606,21 +3542,14 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
-            "name": "seriesdescription",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "SG_GEN_PARLN",
-                "SG_GEN_LOCG",
-                ""
-              ]
-            }
+            "name": "SERIES",
+            "type": "string"
           },
           {
-            "name": "geoarea",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
@@ -3630,7 +3559,7 @@
             }
           },
           {
-            "name": "sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
@@ -3640,7 +3569,7 @@
             }
           },
           {
-            "name": "age",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
@@ -3660,7 +3589,7 @@
             }
           },
           {
-            "name": "education-level",
+            "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
               "enum": [
@@ -3670,7 +3599,7 @@
             }
           },
           {
-            "name": "occupation",
+            "name": "OCCUPATION",
             "type": "string",
             "constraints": {
               "enum": [
@@ -3680,7 +3609,7 @@
             }
           },
           {
-            "name": "comp-breakdown",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
@@ -3690,7 +3619,7 @@
             }
           },
           {
-            "name": "disability-status",
+            "name": "DISABILITY_STATUS",
             "type": "string",
             "constraints": {
               "enum": [
@@ -3700,11 +3629,15 @@
             }
           },
           {
-            "name": "unit",
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "ratio",
+                "0",
                 ""
               ]
             }
@@ -3739,20 +3672,14 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
-            "name": "seriesdescription",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "SG_LGL_LNDWMN",
-                ""
-              ]
-            }
+            "name": "SERIES",
+            "type": "string"
           },
           {
-            "name": "geoarea",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
@@ -3762,7 +3689,7 @@
             }
           },
           {
-            "name": "sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
@@ -3772,7 +3699,7 @@
             }
           },
           {
-            "name": "age",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
@@ -3792,7 +3719,7 @@
             }
           },
           {
-            "name": "education-level",
+            "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
               "enum": [
@@ -3802,7 +3729,7 @@
             }
           },
           {
-            "name": "occupation",
+            "name": "OCCUPATION",
             "type": "string",
             "constraints": {
               "enum": [
@@ -3812,7 +3739,7 @@
             }
           },
           {
-            "name": "comp-breakdown",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
@@ -3822,7 +3749,7 @@
             }
           },
           {
-            "name": "disability-status",
+            "name": "DISABILITY_STATUS",
             "type": "string",
             "constraints": {
               "enum": [
@@ -3832,11 +3759,15 @@
             }
           },
           {
-            "name": "unit",
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "Number",
+                "0",
                 ""
               ]
             }
@@ -3874,20 +3805,14 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
-            "name": "seriesdescription",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "SH_H2O_SAFE",
-                ""
-              ]
-            }
+            "name": "SERIES",
+            "type": "string"
           },
           {
-            "name": "geoarea",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
@@ -3897,7 +3822,7 @@
             }
           },
           {
-            "name": "sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
@@ -3907,7 +3832,7 @@
             }
           },
           {
-            "name": "age",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
@@ -3927,7 +3852,7 @@
             }
           },
           {
-            "name": "education-level",
+            "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
               "enum": [
@@ -3937,7 +3862,7 @@
             }
           },
           {
-            "name": "occupation",
+            "name": "OCCUPATION",
             "type": "string",
             "constraints": {
               "enum": [
@@ -3947,7 +3872,7 @@
             }
           },
           {
-            "name": "comp-breakdown",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
@@ -3957,7 +3882,7 @@
             }
           },
           {
-            "name": "disability-status",
+            "name": "DISABILITY_STATUS",
             "type": "string",
             "constraints": {
               "enum": [
@@ -3967,11 +3892,15 @@
             }
           },
           {
-            "name": "unit",
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percent",
+                "0",
                 ""
               ]
             }
@@ -4006,20 +3935,14 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
-            "name": "seriesdescription",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "ER_H2O_IWRMD",
-                ""
-              ]
-            }
+            "name": "SERIES",
+            "type": "string"
           },
           {
-            "name": "geoarea",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
@@ -4029,7 +3952,7 @@
             }
           },
           {
-            "name": "sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
@@ -4039,7 +3962,7 @@
             }
           },
           {
-            "name": "age",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
@@ -4059,7 +3982,7 @@
             }
           },
           {
-            "name": "education-level",
+            "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
               "enum": [
@@ -4069,7 +3992,7 @@
             }
           },
           {
-            "name": "occupation",
+            "name": "OCCUPATION",
             "type": "string",
             "constraints": {
               "enum": [
@@ -4079,7 +4002,7 @@
             }
           },
           {
-            "name": "comp-breakdown",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
@@ -4089,7 +4012,7 @@
             }
           },
           {
-            "name": "disability-status",
+            "name": "DISABILITY_STATUS",
             "type": "string",
             "constraints": {
               "enum": [
@@ -4099,11 +4022,15 @@
             }
           },
           {
-            "name": "unit",
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percent",
+                "0",
                 ""
               ]
             }
@@ -4138,20 +4065,14 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
-            "name": "seriesdescription",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "EG_TBA_H2CO",
-                ""
-              ]
-            }
+            "name": "SERIES",
+            "type": "string"
           },
           {
-            "name": "geoarea",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
@@ -4161,7 +4082,7 @@
             }
           },
           {
-            "name": "sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
@@ -4171,7 +4092,7 @@
             }
           },
           {
-            "name": "age",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
@@ -4191,7 +4112,7 @@
             }
           },
           {
-            "name": "education-level",
+            "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
               "enum": [
@@ -4201,7 +4122,7 @@
             }
           },
           {
-            "name": "occupation",
+            "name": "OCCUPATION",
             "type": "string",
             "constraints": {
               "enum": [
@@ -4211,7 +4132,7 @@
             }
           },
           {
-            "name": "comp-breakdown",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
@@ -4221,7 +4142,7 @@
             }
           },
           {
-            "name": "disability-status",
+            "name": "DISABILITY_STATUS",
             "type": "string",
             "constraints": {
               "enum": [
@@ -4231,11 +4152,15 @@
             }
           },
           {
-            "name": "unit",
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "ratio",
+                "0",
                 ""
               ]
             }
@@ -4270,20 +4195,14 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
-            "name": "seriesdescription",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "ER_H20_LCMGM",
-                ""
-              ]
-            }
+            "name": "SERIES",
+            "type": "string"
           },
           {
-            "name": "geoarea",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
@@ -4293,7 +4212,7 @@
             }
           },
           {
-            "name": "sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
@@ -4303,7 +4222,7 @@
             }
           },
           {
-            "name": "age",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
@@ -4323,7 +4242,7 @@
             }
           },
           {
-            "name": "education-level",
+            "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
               "enum": [
@@ -4333,7 +4252,7 @@
             }
           },
           {
-            "name": "occupation",
+            "name": "OCCUPATION",
             "type": "string",
             "constraints": {
               "enum": [
@@ -4343,7 +4262,7 @@
             }
           },
           {
-            "name": "comp-breakdown",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
@@ -4353,7 +4272,7 @@
             }
           },
           {
-            "name": "disability-status",
+            "name": "DISABILITY_STATUS",
             "type": "string",
             "constraints": {
               "enum": [
@@ -4363,11 +4282,15 @@
             }
           },
           {
-            "name": "unit",
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percent",
+                "0",
                 ""
               ]
             }
@@ -4402,20 +4325,14 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
-            "name": "seriesdescription",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "CHG_WTR_ECOSYS",
-                ""
-              ]
-            }
+            "name": "SERIES",
+            "type": "string"
           },
           {
-            "name": "geoarea",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
@@ -4425,7 +4342,7 @@
             }
           },
           {
-            "name": "sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
@@ -4435,7 +4352,7 @@
             }
           },
           {
-            "name": "age",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
@@ -4455,7 +4372,7 @@
             }
           },
           {
-            "name": "education-level",
+            "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
               "enum": [
@@ -4465,7 +4382,7 @@
             }
           },
           {
-            "name": "occupation",
+            "name": "OCCUPATION",
             "type": "string",
             "constraints": {
               "enum": [
@@ -4475,7 +4392,7 @@
             }
           },
           {
-            "name": "comp-breakdown",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
@@ -4485,7 +4402,7 @@
             }
           },
           {
-            "name": "disability-status",
+            "name": "DISABILITY_STATUS",
             "type": "string",
             "constraints": {
               "enum": [
@@ -4495,10 +4412,15 @@
             }
           },
           {
-            "name": "unit",
-            "type": "number",
+            "name": "UNIT_MEASURE",
+            "type": "number"
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
             "constraints": {
               "enum": [
+                "0",
                 ""
               ]
             }
@@ -4533,20 +4455,14 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
-            "name": "seriesdescription",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "EG_ACS_ELEC",
-                ""
-              ]
-            }
+            "name": "SERIES",
+            "type": "string"
           },
           {
-            "name": "geoarea",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
@@ -4556,7 +4472,7 @@
             }
           },
           {
-            "name": "sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
@@ -4566,7 +4482,7 @@
             }
           },
           {
-            "name": "age",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
@@ -4588,7 +4504,7 @@
             }
           },
           {
-            "name": "education-level",
+            "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
               "enum": [
@@ -4598,7 +4514,7 @@
             }
           },
           {
-            "name": "occupation",
+            "name": "OCCUPATION",
             "type": "string",
             "constraints": {
               "enum": [
@@ -4608,7 +4524,7 @@
             }
           },
           {
-            "name": "comp-breakdown",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
@@ -4618,7 +4534,7 @@
             }
           },
           {
-            "name": "disability-status",
+            "name": "DISABILITY_STATUS",
             "type": "string",
             "constraints": {
               "enum": [
@@ -4628,10 +4544,15 @@
             }
           },
           {
-            "name": "unit",
-            "type": "number",
+            "name": "UNIT_MEASURE",
+            "type": "number"
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
             "constraints": {
               "enum": [
+                "0",
                 ""
               ]
             }
@@ -4666,21 +4587,14 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
-            "name": "seriesdescription",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "EG_CFT_COOK",
-                "EG_CFT_LIGHT",
-                ""
-              ]
-            }
+            "name": "SERIES",
+            "type": "string"
           },
           {
-            "name": "geoarea",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
@@ -4690,7 +4604,7 @@
             }
           },
           {
-            "name": "sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
@@ -4700,7 +4614,7 @@
             }
           },
           {
-            "name": "age",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
@@ -4722,7 +4636,7 @@
             }
           },
           {
-            "name": "education-level",
+            "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
               "enum": [
@@ -4732,7 +4646,7 @@
             }
           },
           {
-            "name": "occupation",
+            "name": "OCCUPATION",
             "type": "string",
             "constraints": {
               "enum": [
@@ -4742,7 +4656,7 @@
             }
           },
           {
-            "name": "comp-breakdown",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
@@ -4752,7 +4666,7 @@
             }
           },
           {
-            "name": "disability-status",
+            "name": "DISABILITY_STATUS",
             "type": "string",
             "constraints": {
               "enum": [
@@ -4762,11 +4676,15 @@
             }
           },
           {
-            "name": "unit",
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percent",
+                "0",
                 ""
               ]
             }
@@ -4801,20 +4719,14 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
-            "name": "seriesdescription",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "NY_GDP_PCAP",
-                ""
-              ]
-            }
+            "name": "SERIES",
+            "type": "string"
           },
           {
-            "name": "geoarea",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
@@ -4824,7 +4736,7 @@
             }
           },
           {
-            "name": "sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
@@ -4834,7 +4746,7 @@
             }
           },
           {
-            "name": "age",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
@@ -4854,7 +4766,7 @@
             }
           },
           {
-            "name": "education-level",
+            "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
               "enum": [
@@ -4864,7 +4776,7 @@
             }
           },
           {
-            "name": "occupation",
+            "name": "OCCUPATION",
             "type": "string",
             "constraints": {
               "enum": [
@@ -4874,7 +4786,7 @@
             }
           },
           {
-            "name": "comp-breakdown",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
@@ -4884,7 +4796,7 @@
             }
           },
           {
-            "name": "disability-status",
+            "name": "DISABILITY_STATUS",
             "type": "string",
             "constraints": {
               "enum": [
@@ -4894,11 +4806,15 @@
             }
           },
           {
-            "name": "unit",
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percent",
+                "0",
                 ""
               ]
             }
@@ -4933,20 +4849,14 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
-            "name": "seriesdescription",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "SL_EMP_PCAP",
-                ""
-              ]
-            }
+            "name": "SERIES",
+            "type": "string"
           },
           {
-            "name": "geoarea",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
@@ -4956,7 +4866,7 @@
             }
           },
           {
-            "name": "sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
@@ -4966,7 +4876,7 @@
             }
           },
           {
-            "name": "age",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
@@ -4986,7 +4896,7 @@
             }
           },
           {
-            "name": "education-level",
+            "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
               "enum": [
@@ -4996,7 +4906,7 @@
             }
           },
           {
-            "name": "occupation",
+            "name": "OCCUPATION",
             "type": "string",
             "constraints": {
               "enum": [
@@ -5006,7 +4916,7 @@
             }
           },
           {
-            "name": "comp-breakdown",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
@@ -5016,7 +4926,7 @@
             }
           },
           {
-            "name": "disability-status",
+            "name": "DISABILITY_STATUS",
             "type": "string",
             "constraints": {
               "enum": [
@@ -5026,11 +4936,15 @@
             }
           },
           {
-            "name": "unit",
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "CUR_LCU",
+                "0",
                 ""
               ]
             }
@@ -5065,20 +4979,14 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
-            "name": "seriesdescription",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "SL_ISV_IFRM",
-                ""
-              ]
-            }
+            "name": "SERIES",
+            "type": "string"
           },
           {
-            "name": "geoarea",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
@@ -5088,7 +4996,7 @@
             }
           },
           {
-            "name": "sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
@@ -5100,7 +5008,7 @@
             }
           },
           {
-            "name": "age",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
@@ -5120,7 +5028,7 @@
             }
           },
           {
-            "name": "education-level",
+            "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
               "enum": [
@@ -5130,7 +5038,7 @@
             }
           },
           {
-            "name": "occupation",
+            "name": "OCCUPATION",
             "type": "string",
             "constraints": {
               "enum": [
@@ -5140,7 +5048,7 @@
             }
           },
           {
-            "name": "comp-breakdown",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
@@ -5150,7 +5058,7 @@
             }
           },
           {
-            "name": "disability-status",
+            "name": "DISABILITY_STATUS",
             "type": "string",
             "constraints": {
               "enum": [
@@ -5160,11 +5068,15 @@
             }
           },
           {
-            "name": "unit",
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percent",
+                "0",
                 ""
               ]
             }
@@ -5199,20 +5111,14 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
-            "name": "seriesdescription",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "SL_EMP_EARN",
-                ""
-              ]
-            }
+            "name": "SERIES",
+            "type": "string"
           },
           {
-            "name": "geoarea",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
@@ -5222,7 +5128,7 @@
             }
           },
           {
-            "name": "sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
@@ -5234,7 +5140,7 @@
             }
           },
           {
-            "name": "age",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
@@ -5266,7 +5172,7 @@
             }
           },
           {
-            "name": "education-level",
+            "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
               "enum": [
@@ -5276,7 +5182,7 @@
             }
           },
           {
-            "name": "occupation",
+            "name": "OCCUPATION",
             "type": "string",
             "constraints": {
               "enum": [
@@ -5296,7 +5202,7 @@
             }
           },
           {
-            "name": "comp-breakdown",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
@@ -5306,7 +5212,7 @@
             }
           },
           {
-            "name": "disability-status",
+            "name": "DISABILITY_STATUS",
             "type": "string",
             "constraints": {
               "enum": [
@@ -5316,11 +5222,15 @@
             }
           },
           {
-            "name": "unit",
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "CUR_LCU",
+                "0",
                 ""
               ]
             }
@@ -5355,21 +5265,14 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
-            "name": "seriesdescription",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "SL_TLF_UEMDIS",
-                "SL_TLF_UEM",
-                ""
-              ]
-            }
+            "name": "SERIES",
+            "type": "string"
           },
           {
-            "name": "geoarea",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
@@ -5379,7 +5282,7 @@
             }
           },
           {
-            "name": "sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
@@ -5391,7 +5294,7 @@
             }
           },
           {
-            "name": "age",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
@@ -5423,7 +5326,7 @@
             }
           },
           {
-            "name": "education-level",
+            "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
               "enum": [
@@ -5433,7 +5336,7 @@
             }
           },
           {
-            "name": "occupation",
+            "name": "OCCUPATION",
             "type": "string",
             "constraints": {
               "enum": [
@@ -5443,7 +5346,7 @@
             }
           },
           {
-            "name": "comp-breakdown",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
@@ -5453,7 +5356,7 @@
             }
           },
           {
-            "name": "disability-status",
+            "name": "DISABILITY_STATUS",
             "type": "string",
             "constraints": {
               "enum": [
@@ -5464,11 +5367,15 @@
             }
           },
           {
-            "name": "unit",
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percent",
+                "0",
                 ""
               ]
             }
@@ -5503,21 +5410,14 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
-            "name": "seriesdescription",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "FB_CBK_BRCH",
-                "FB_ATM_TOTL",
-                ""
-              ]
-            }
+            "name": "SERIES",
+            "type": "string"
           },
           {
-            "name": "geoarea",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
@@ -5527,7 +5427,7 @@
             }
           },
           {
-            "name": "sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
@@ -5537,7 +5437,7 @@
             }
           },
           {
-            "name": "age",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
@@ -5557,7 +5457,7 @@
             }
           },
           {
-            "name": "education-level",
+            "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
               "enum": [
@@ -5567,7 +5467,7 @@
             }
           },
           {
-            "name": "occupation",
+            "name": "OCCUPATION",
             "type": "string",
             "constraints": {
               "enum": [
@@ -5577,7 +5477,7 @@
             }
           },
           {
-            "name": "comp-breakdown",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
@@ -5587,7 +5487,7 @@
             }
           },
           {
-            "name": "disability-status",
+            "name": "DISABILITY_STATUS",
             "type": "string",
             "constraints": {
               "enum": [
@@ -5597,11 +5497,15 @@
             }
           },
           {
-            "name": "unit",
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "PER_100000_POP",
+                "0",
                 ""
               ]
             }
@@ -5636,20 +5540,14 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
-            "name": "seriesdescription",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "PROP_YOUTH_NEET",
-                ""
-              ]
-            }
+            "name": "SERIES",
+            "type": "string"
           },
           {
-            "name": "geoarea",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
@@ -5659,7 +5557,7 @@
             }
           },
           {
-            "name": "sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
@@ -5671,7 +5569,7 @@
             }
           },
           {
-            "name": "age",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
@@ -5691,7 +5589,7 @@
             }
           },
           {
-            "name": "education-level",
+            "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
               "enum": [
@@ -5701,7 +5599,7 @@
             }
           },
           {
-            "name": "occupation",
+            "name": "OCCUPATION",
             "type": "string",
             "constraints": {
               "enum": [
@@ -5711,7 +5609,7 @@
             }
           },
           {
-            "name": "comp-breakdown",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
@@ -5721,7 +5619,7 @@
             }
           },
           {
-            "name": "disability-status",
+            "name": "DISABILITY_STATUS",
             "type": "string",
             "constraints": {
               "enum": [
@@ -5731,11 +5629,15 @@
             }
           },
           {
-            "name": "unit",
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percent",
+                "0",
                 ""
               ]
             }
@@ -5770,21 +5672,14 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
-            "name": "seriesdescription",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "IS_RDP_PFVOL",
-                "IS_RDP_FRGVOL",
-                ""
-              ]
-            }
+            "name": "SERIES",
+            "type": "string"
           },
           {
-            "name": "geoarea",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
@@ -5794,7 +5689,7 @@
             }
           },
           {
-            "name": "sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
@@ -5804,7 +5699,7 @@
             }
           },
           {
-            "name": "age",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
@@ -5824,7 +5719,7 @@
             }
           },
           {
-            "name": "education-level",
+            "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
               "enum": [
@@ -5834,7 +5729,7 @@
             }
           },
           {
-            "name": "occupation",
+            "name": "OCCUPATION",
             "type": "string",
             "constraints": {
               "enum": [
@@ -5844,7 +5739,7 @@
             }
           },
           {
-            "name": "comp-breakdown",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
@@ -5856,7 +5751,7 @@
             }
           },
           {
-            "name": "disability-status",
+            "name": "DISABILITY_STATUS",
             "type": "string",
             "constraints": {
               "enum": [
@@ -5866,10 +5761,15 @@
             }
           },
           {
-            "name": "unit",
-            "type": "number",
+            "name": "UNIT_MEASURE",
+            "type": "number"
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
             "constraints": {
               "enum": [
+                "0",
                 ""
               ]
             }
@@ -5904,20 +5804,14 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
-            "name": "seriesdescription",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "DC_TOF_INFRAL",
-                ""
-              ]
-            }
+            "name": "SERIES",
+            "type": "string"
           },
           {
-            "name": "geoarea",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
@@ -5927,7 +5821,7 @@
             }
           },
           {
-            "name": "sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
@@ -5937,7 +5831,7 @@
             }
           },
           {
-            "name": "age",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
@@ -5957,7 +5851,7 @@
             }
           },
           {
-            "name": "education-level",
+            "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
               "enum": [
@@ -5967,7 +5861,7 @@
             }
           },
           {
-            "name": "occupation",
+            "name": "OCCUPATION",
             "type": "string",
             "constraints": {
               "enum": [
@@ -5977,7 +5871,7 @@
             }
           },
           {
-            "name": "comp-breakdown",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
@@ -5987,7 +5881,7 @@
             }
           },
           {
-            "name": "disability-status",
+            "name": "DISABILITY_STATUS",
             "type": "string",
             "constraints": {
               "enum": [
@@ -5997,11 +5891,15 @@
             }
           },
           {
-            "name": "unit",
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "USD",
+                "0",
                 ""
               ]
             }
@@ -6036,20 +5934,14 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
-            "name": "seriesdescription",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "IT_MOB_2GNTWK",
-                ""
-              ]
-            }
+            "name": "SERIES",
+            "type": "string"
           },
           {
-            "name": "geoarea",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
@@ -6059,7 +5951,7 @@
             }
           },
           {
-            "name": "sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
@@ -6069,7 +5961,7 @@
             }
           },
           {
-            "name": "age",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
@@ -6089,7 +5981,7 @@
             }
           },
           {
-            "name": "education-level",
+            "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
               "enum": [
@@ -6099,7 +5991,7 @@
             }
           },
           {
-            "name": "occupation",
+            "name": "OCCUPATION",
             "type": "string",
             "constraints": {
               "enum": [
@@ -6109,7 +6001,7 @@
             }
           },
           {
-            "name": "comp-breakdown",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
@@ -6119,7 +6011,7 @@
             }
           },
           {
-            "name": "disability-status",
+            "name": "DISABILITY_STATUS",
             "type": "string",
             "constraints": {
               "enum": [
@@ -6129,10 +6021,15 @@
             }
           },
           {
-            "name": "unit",
-            "type": "number",
+            "name": "UNIT_MEASURE",
+            "type": "number"
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
             "constraints": {
               "enum": [
+                "0",
                 ""
               ]
             }
@@ -6167,20 +6064,14 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
-            "name": "seriesdescription",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "NV_IND_MANFPC",
-                ""
-              ]
-            }
+            "name": "SERIES",
+            "type": "string"
           },
           {
-            "name": "geoarea",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
@@ -6190,7 +6081,7 @@
             }
           },
           {
-            "name": "sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
@@ -6200,7 +6091,7 @@
             }
           },
           {
-            "name": "age",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
@@ -6220,7 +6111,7 @@
             }
           },
           {
-            "name": "education-level",
+            "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
               "enum": [
@@ -6230,7 +6121,7 @@
             }
           },
           {
-            "name": "occupation",
+            "name": "OCCUPATION",
             "type": "string",
             "constraints": {
               "enum": [
@@ -6240,7 +6131,7 @@
             }
           },
           {
-            "name": "comp-breakdown",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
@@ -6250,7 +6141,7 @@
             }
           },
           {
-            "name": "disability-status",
+            "name": "DISABILITY_STATUS",
             "type": "string",
             "constraints": {
               "enum": [
@@ -6260,11 +6151,15 @@
             }
           },
           {
-            "name": "unit",
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "CUR_LCU",
+                "0",
                 ""
               ]
             }
@@ -6299,20 +6194,14 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
-            "name": "seriesdescription",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "SL_TLF_MANF",
-                ""
-              ]
-            }
+            "name": "SERIES",
+            "type": "string"
           },
           {
-            "name": "geoarea",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
@@ -6322,7 +6211,7 @@
             }
           },
           {
-            "name": "sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
@@ -6332,7 +6221,7 @@
             }
           },
           {
-            "name": "age",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
@@ -6352,7 +6241,7 @@
             }
           },
           {
-            "name": "education-level",
+            "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
               "enum": [
@@ -6362,7 +6251,7 @@
             }
           },
           {
-            "name": "occupation",
+            "name": "OCCUPATION",
             "type": "string",
             "constraints": {
               "enum": [
@@ -6372,7 +6261,7 @@
             }
           },
           {
-            "name": "comp-breakdown",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
@@ -6382,7 +6271,7 @@
             }
           },
           {
-            "name": "disability-status",
+            "name": "DISABILITY_STATUS",
             "type": "string",
             "constraints": {
               "enum": [
@@ -6392,11 +6281,15 @@
             }
           },
           {
-            "name": "unit",
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percent",
+                "0",
                 ""
               ]
             }
@@ -6431,20 +6324,14 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
-            "name": "seriesdescription",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "FC_ACC_SSID",
-                ""
-              ]
-            }
+            "name": "SERIES",
+            "type": "string"
           },
           {
-            "name": "geoarea",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
@@ -6454,7 +6341,7 @@
             }
           },
           {
-            "name": "sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
@@ -6464,7 +6351,7 @@
             }
           },
           {
-            "name": "age",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
@@ -6484,7 +6371,7 @@
             }
           },
           {
-            "name": "education-level",
+            "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
               "enum": [
@@ -6494,7 +6381,7 @@
             }
           },
           {
-            "name": "occupation",
+            "name": "OCCUPATION",
             "type": "string",
             "constraints": {
               "enum": [
@@ -6504,7 +6391,7 @@
             }
           },
           {
-            "name": "comp-breakdown",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
@@ -6514,7 +6401,7 @@
             }
           },
           {
-            "name": "disability-status",
+            "name": "DISABILITY_STATUS",
             "type": "string",
             "constraints": {
               "enum": [
@@ -6524,11 +6411,15 @@
             }
           },
           {
-            "name": "unit",
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percent",
+                "0",
                 ""
               ]
             }
@@ -6563,20 +6454,14 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
-            "name": "seriesdescription",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "SL_EMP_GTOTL",
-                ""
-              ]
-            }
+            "name": "SERIES",
+            "type": "string"
           },
           {
-            "name": "geoarea",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
@@ -6586,7 +6471,7 @@
             }
           },
           {
-            "name": "sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
@@ -6596,7 +6481,7 @@
             }
           },
           {
-            "name": "age",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
@@ -6616,7 +6501,7 @@
             }
           },
           {
-            "name": "education-level",
+            "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
               "enum": [
@@ -6626,7 +6511,7 @@
             }
           },
           {
-            "name": "occupation",
+            "name": "OCCUPATION",
             "type": "string",
             "constraints": {
               "enum": [
@@ -6636,7 +6521,7 @@
             }
           },
           {
-            "name": "comp-breakdown",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
@@ -6646,7 +6531,7 @@
             }
           },
           {
-            "name": "disability-status",
+            "name": "DISABILITY_STATUS",
             "type": "string",
             "constraints": {
               "enum": [
@@ -6656,11 +6541,15 @@
             }
           },
           {
-            "name": "unit",
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percent",
+                "0",
                 ""
               ]
             }
@@ -6695,20 +6584,14 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
-            "name": "seriesdescription",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "DETH_MISN_DIST",
-                ""
-              ]
-            }
+            "name": "SERIES",
+            "type": "string"
           },
           {
-            "name": "geoarea",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
@@ -6718,7 +6601,7 @@
             }
           },
           {
-            "name": "sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
@@ -6728,7 +6611,7 @@
             }
           },
           {
-            "name": "age",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
@@ -6748,7 +6631,7 @@
             }
           },
           {
-            "name": "education-level",
+            "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
               "enum": [
@@ -6758,7 +6641,7 @@
             }
           },
           {
-            "name": "occupation",
+            "name": "OCCUPATION",
             "type": "string",
             "constraints": {
               "enum": [
@@ -6768,7 +6651,7 @@
             }
           },
           {
-            "name": "comp-breakdown",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
@@ -6778,7 +6661,7 @@
             }
           },
           {
-            "name": "disability-status",
+            "name": "DISABILITY_STATUS",
             "type": "string",
             "constraints": {
               "enum": [
@@ -6788,10 +6671,15 @@
             }
           },
           {
-            "name": "unit",
-            "type": "number",
+            "name": "UNIT_MEASURE",
+            "type": "number"
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
             "constraints": {
               "enum": [
+                "0",
                 ""
               ]
             }
@@ -6826,20 +6714,14 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
-            "name": "seriesdescription",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "AG_LND_FRST",
-                ""
-              ]
-            }
+            "name": "SERIES",
+            "type": "string"
           },
           {
-            "name": "geoarea",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
@@ -6849,7 +6731,7 @@
             }
           },
           {
-            "name": "sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
@@ -6859,7 +6741,7 @@
             }
           },
           {
-            "name": "age",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
@@ -6879,7 +6761,7 @@
             }
           },
           {
-            "name": "education-level",
+            "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
               "enum": [
@@ -6889,7 +6771,7 @@
             }
           },
           {
-            "name": "occupation",
+            "name": "OCCUPATION",
             "type": "string",
             "constraints": {
               "enum": [
@@ -6899,7 +6781,7 @@
             }
           },
           {
-            "name": "comp-breakdown",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
@@ -6909,7 +6791,7 @@
             }
           },
           {
-            "name": "disability-status",
+            "name": "DISABILITY_STATUS",
             "type": "string",
             "constraints": {
               "enum": [
@@ -6919,11 +6801,15 @@
             }
           },
           {
-            "name": "unit",
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percent",
+                "0",
                 ""
               ]
             }
@@ -6958,24 +6844,14 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
-            "name": "seriesdescription",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "FORT_MGT_NCR",
-                "FORT_MGT_AGBS",
-                "FORT_MGT_LEPA",
-                "FORT_MGT_LTFMP",
-                "FORT_MGT_FMC",
-                ""
-              ]
-            }
+            "name": "SERIES",
+            "type": "string"
           },
           {
-            "name": "geoarea",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
@@ -6985,7 +6861,7 @@
             }
           },
           {
-            "name": "sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
@@ -6995,7 +6871,7 @@
             }
           },
           {
-            "name": "age",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
@@ -7015,7 +6891,7 @@
             }
           },
           {
-            "name": "education-level",
+            "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
               "enum": [
@@ -7025,7 +6901,7 @@
             }
           },
           {
-            "name": "occupation",
+            "name": "OCCUPATION",
             "type": "string",
             "constraints": {
               "enum": [
@@ -7035,7 +6911,7 @@
             }
           },
           {
-            "name": "comp-breakdown",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
@@ -7045,7 +6921,7 @@
             }
           },
           {
-            "name": "disability-status",
+            "name": "DISABILITY_STATUS",
             "type": "string",
             "constraints": {
               "enum": [
@@ -7055,10 +6931,15 @@
             }
           },
           {
-            "name": "unit",
-            "type": "number",
+            "name": "UNIT_MEASURE",
+            "type": "number"
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
             "constraints": {
               "enum": [
+                "0",
                 ""
               ]
             }
@@ -7093,20 +6974,14 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
-            "name": "seriesdescription",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "VC_IHR_PSRC",
-                ""
-              ]
-            }
+            "name": "SERIES",
+            "type": "string"
           },
           {
-            "name": "geoarea",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
@@ -7116,7 +6991,7 @@
             }
           },
           {
-            "name": "sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
@@ -7126,7 +7001,7 @@
             }
           },
           {
-            "name": "age",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
@@ -7146,7 +7021,7 @@
             }
           },
           {
-            "name": "education-level",
+            "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
               "enum": [
@@ -7156,7 +7031,7 @@
             }
           },
           {
-            "name": "occupation",
+            "name": "OCCUPATION",
             "type": "string",
             "constraints": {
               "enum": [
@@ -7166,7 +7041,7 @@
             }
           },
           {
-            "name": "comp-breakdown",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
@@ -7176,7 +7051,7 @@
             }
           },
           {
-            "name": "disability-status",
+            "name": "DISABILITY_STATUS",
             "type": "string",
             "constraints": {
               "enum": [
@@ -7186,11 +7061,15 @@
             }
           },
           {
-            "name": "unit",
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "PER_100000_POP",
+                "0",
                 ""
               ]
             }
@@ -7225,20 +7104,14 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
-            "name": "seriesdescription",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "VC_VAW_PHYPYV",
-                ""
-              ]
-            }
+            "name": "SERIES",
+            "type": "string"
           },
           {
-            "name": "geoarea",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
@@ -7248,7 +7121,7 @@
             }
           },
           {
-            "name": "sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
@@ -7258,7 +7131,7 @@
             }
           },
           {
-            "name": "age",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
@@ -7278,7 +7151,7 @@
             }
           },
           {
-            "name": "education-level",
+            "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
               "enum": [
@@ -7288,7 +7161,7 @@
             }
           },
           {
-            "name": "occupation",
+            "name": "OCCUPATION",
             "type": "string",
             "constraints": {
               "enum": [
@@ -7298,7 +7171,7 @@
             }
           },
           {
-            "name": "comp-breakdown",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
@@ -7308,7 +7181,7 @@
             }
           },
           {
-            "name": "disability-status",
+            "name": "DISABILITY_STATUS",
             "type": "string",
             "constraints": {
               "enum": [
@@ -7318,11 +7191,15 @@
             }
           },
           {
-            "name": "unit",
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "ratio",
+                "0",
                 ""
               ]
             }
@@ -7357,20 +7234,14 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
-            "name": "seriesdescription",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "VC_HTF_DETV",
-                ""
-              ]
-            }
+            "name": "SERIES",
+            "type": "string"
           },
           {
-            "name": "geoarea",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
@@ -7380,7 +7251,7 @@
             }
           },
           {
-            "name": "sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
@@ -7390,7 +7261,7 @@
             }
           },
           {
-            "name": "age",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
@@ -7410,7 +7281,7 @@
             }
           },
           {
-            "name": "education-level",
+            "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
               "enum": [
@@ -7420,7 +7291,7 @@
             }
           },
           {
-            "name": "occupation",
+            "name": "OCCUPATION",
             "type": "string",
             "constraints": {
               "enum": [
@@ -7430,7 +7301,7 @@
             }
           },
           {
-            "name": "comp-breakdown",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
@@ -7440,7 +7311,7 @@
             }
           },
           {
-            "name": "disability-status",
+            "name": "DISABILITY_STATUS",
             "type": "string",
             "constraints": {
               "enum": [
@@ -7450,11 +7321,15 @@
             }
           },
           {
-            "name": "unit",
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "PER_100000_POP",
+                "0",
                 ""
               ]
             }
@@ -7489,20 +7364,14 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
-            "name": "seriesdescription",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "VC_PRS_UNSNT",
-                ""
-              ]
-            }
+            "name": "SERIES",
+            "type": "string"
           },
           {
-            "name": "geoarea",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
@@ -7512,7 +7381,7 @@
             }
           },
           {
-            "name": "sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
@@ -7522,7 +7391,7 @@
             }
           },
           {
-            "name": "age",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
@@ -7542,7 +7411,7 @@
             }
           },
           {
-            "name": "education-level",
+            "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
               "enum": [
@@ -7552,7 +7421,7 @@
             }
           },
           {
-            "name": "occupation",
+            "name": "OCCUPATION",
             "type": "string",
             "constraints": {
               "enum": [
@@ -7562,7 +7431,7 @@
             }
           },
           {
-            "name": "comp-breakdown",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
@@ -7572,7 +7441,7 @@
             }
           },
           {
-            "name": "disability-status",
+            "name": "DISABILITY_STATUS",
             "type": "string",
             "constraints": {
               "enum": [
@@ -7582,11 +7451,15 @@
             }
           },
           {
-            "name": "unit",
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percent",
+                "0",
                 ""
               ]
             }
@@ -7621,20 +7494,14 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
-            "name": "seriesdescription",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "SG_REG_BRTH",
-                ""
-              ]
-            }
+            "name": "SERIES",
+            "type": "string"
           },
           {
-            "name": "geoarea",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
@@ -7644,7 +7511,7 @@
             }
           },
           {
-            "name": "sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
@@ -7654,7 +7521,7 @@
             }
           },
           {
-            "name": "age",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
@@ -7674,7 +7541,7 @@
             }
           },
           {
-            "name": "education-level",
+            "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
               "enum": [
@@ -7684,7 +7551,7 @@
             }
           },
           {
-            "name": "occupation",
+            "name": "OCCUPATION",
             "type": "string",
             "constraints": {
               "enum": [
@@ -7694,7 +7561,7 @@
             }
           },
           {
-            "name": "comp-breakdown",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
@@ -7704,7 +7571,7 @@
             }
           },
           {
-            "name": "disability-status",
+            "name": "DISABILITY_STATUS",
             "type": "string",
             "constraints": {
               "enum": [
@@ -7714,11 +7581,15 @@
             }
           },
           {
-            "name": "unit",
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percent",
+                "0",
                 ""
               ]
             }
@@ -7753,30 +7624,14 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
-            "name": "seriesdescription",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "GOV_EXP_GPS",
-                "GOV_EXP_DEF",
-                "GOV_EXP_POS",
-                "GOV_EXP_EAFF",
-                "GOV_EXP_ENVPROT",
-                "GOV_EXP_HCA",
-                "GOV_EXP_HEALTH",
-                "GOV_EXP_RCR",
-                "GOV_EXP_EDU",
-                "GOV_EXP_SOCPROT",
-                "GOV_EXP_TOTAL",
-                ""
-              ]
-            }
+            "name": "SERIES",
+            "type": "string"
           },
           {
-            "name": "geoarea",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
@@ -7786,7 +7641,7 @@
             }
           },
           {
-            "name": "sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
@@ -7796,7 +7651,7 @@
             }
           },
           {
-            "name": "age",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
@@ -7816,7 +7671,7 @@
             }
           },
           {
-            "name": "education-level",
+            "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
               "enum": [
@@ -7826,7 +7681,7 @@
             }
           },
           {
-            "name": "occupation",
+            "name": "OCCUPATION",
             "type": "string",
             "constraints": {
               "enum": [
@@ -7836,7 +7691,7 @@
             }
           },
           {
-            "name": "comp-breakdown",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
@@ -7846,7 +7701,7 @@
             }
           },
           {
-            "name": "disability-status",
+            "name": "DISABILITY_STATUS",
             "type": "string",
             "constraints": {
               "enum": [
@@ -7856,11 +7711,15 @@
             }
           },
           {
-            "name": "unit",
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percent",
+                "0",
                 ""
               ]
             }
@@ -7895,20 +7754,14 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
-            "name": "seriesdescription",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "GR_G14_XDC",
-                ""
-              ]
-            }
+            "name": "SERIES",
+            "type": "string"
           },
           {
-            "name": "geoarea",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
@@ -7918,7 +7771,7 @@
             }
           },
           {
-            "name": "sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
@@ -7928,7 +7781,7 @@
             }
           },
           {
-            "name": "age",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
@@ -7948,7 +7801,7 @@
             }
           },
           {
-            "name": "education-level",
+            "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
               "enum": [
@@ -7958,7 +7811,7 @@
             }
           },
           {
-            "name": "occupation",
+            "name": "OCCUPATION",
             "type": "string",
             "constraints": {
               "enum": [
@@ -7968,7 +7821,7 @@
             }
           },
           {
-            "name": "comp-breakdown",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
@@ -7978,7 +7831,7 @@
             }
           },
           {
-            "name": "disability-status",
+            "name": "DISABILITY_STATUS",
             "type": "string",
             "constraints": {
               "enum": [
@@ -7988,11 +7841,15 @@
             }
           },
           {
-            "name": "unit",
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percent",
+                "0",
                 ""
               ]
             }
@@ -8027,20 +7884,14 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
-            "name": "seriesdescription",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "GOV_REV_SORC",
-                ""
-              ]
-            }
+            "name": "SERIES",
+            "type": "string"
           },
           {
-            "name": "geoarea",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
@@ -8050,7 +7901,7 @@
             }
           },
           {
-            "name": "sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
@@ -8060,7 +7911,7 @@
             }
           },
           {
-            "name": "age",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
@@ -8080,7 +7931,7 @@
             }
           },
           {
-            "name": "education-level",
+            "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
               "enum": [
@@ -8090,7 +7941,7 @@
             }
           },
           {
-            "name": "occupation",
+            "name": "OCCUPATION",
             "type": "string",
             "constraints": {
               "enum": [
@@ -8100,7 +7951,7 @@
             }
           },
           {
-            "name": "comp-breakdown",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
@@ -8110,7 +7961,7 @@
             }
           },
           {
-            "name": "disability-status",
+            "name": "DISABILITY_STATUS",
             "type": "string",
             "constraints": {
               "enum": [
@@ -8120,11 +7971,15 @@
             }
           },
           {
-            "name": "unit",
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percent",
+                "0",
                 ""
               ]
             }
@@ -8159,20 +8014,14 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
-            "name": "seriesdescription",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "GF_FRN_FDIODASS",
-                ""
-              ]
-            }
+            "name": "SERIES",
+            "type": "string"
           },
           {
-            "name": "geoarea",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
@@ -8182,7 +8031,7 @@
             }
           },
           {
-            "name": "sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
@@ -8192,7 +8041,7 @@
             }
           },
           {
-            "name": "age",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
@@ -8212,7 +8061,7 @@
             }
           },
           {
-            "name": "education-level",
+            "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
               "enum": [
@@ -8222,7 +8071,7 @@
             }
           },
           {
-            "name": "occupation",
+            "name": "OCCUPATION",
             "type": "string",
             "constraints": {
               "enum": [
@@ -8232,7 +8081,7 @@
             }
           },
           {
-            "name": "comp-breakdown",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
@@ -8242,7 +8091,7 @@
             }
           },
           {
-            "name": "disability-status",
+            "name": "DISABILITY_STATUS",
             "type": "string",
             "constraints": {
               "enum": [
@@ -8252,11 +8101,15 @@
             }
           },
           {
-            "name": "unit",
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percent",
+                "0",
                 ""
               ]
             }
@@ -8291,20 +8144,14 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
-            "name": "seriesdescription",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "BX_TRF_PWKR",
-                ""
-              ]
-            }
+            "name": "SERIES",
+            "type": "string"
           },
           {
-            "name": "geoarea",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
@@ -8314,7 +8161,7 @@
             }
           },
           {
-            "name": "sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
@@ -8324,7 +8171,7 @@
             }
           },
           {
-            "name": "age",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
@@ -8344,7 +8191,7 @@
             }
           },
           {
-            "name": "education-level",
+            "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
               "enum": [
@@ -8354,7 +8201,7 @@
             }
           },
           {
-            "name": "occupation",
+            "name": "OCCUPATION",
             "type": "string",
             "constraints": {
               "enum": [
@@ -8364,7 +8211,7 @@
             }
           },
           {
-            "name": "comp-breakdown",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
@@ -8374,7 +8221,7 @@
             }
           },
           {
-            "name": "disability-status",
+            "name": "DISABILITY_STATUS",
             "type": "string",
             "constraints": {
               "enum": [
@@ -8384,11 +8231,15 @@
             }
           },
           {
-            "name": "unit",
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percent",
+                "0",
                 ""
               ]
             }
@@ -8423,20 +8274,14 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
-            "name": "seriesdescription",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "DT_TDS_DECT",
-                ""
-              ]
-            }
+            "name": "SERIES",
+            "type": "string"
           },
           {
-            "name": "geoarea",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
@@ -8446,7 +8291,7 @@
             }
           },
           {
-            "name": "sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
@@ -8456,7 +8301,7 @@
             }
           },
           {
-            "name": "age",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
@@ -8476,7 +8321,7 @@
             }
           },
           {
-            "name": "education-level",
+            "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
               "enum": [
@@ -8486,7 +8331,7 @@
             }
           },
           {
-            "name": "occupation",
+            "name": "OCCUPATION",
             "type": "string",
             "constraints": {
               "enum": [
@@ -8496,7 +8341,7 @@
             }
           },
           {
-            "name": "comp-breakdown",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
@@ -8506,7 +8351,7 @@
             }
           },
           {
-            "name": "disability-status",
+            "name": "DISABILITY_STATUS",
             "type": "string",
             "constraints": {
               "enum": [
@@ -8516,11 +8361,15 @@
             }
           },
           {
-            "name": "unit",
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percent",
+                "0",
                 ""
               ]
             }
@@ -8555,20 +8404,14 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
-            "name": "seriesdescription",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "IT_USE_ii99",
-                ""
-              ]
-            }
+            "name": "SERIES",
+            "type": "string"
           },
           {
-            "name": "geoarea",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
@@ -8578,7 +8421,7 @@
             }
           },
           {
-            "name": "sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
@@ -8588,7 +8431,7 @@
             }
           },
           {
-            "name": "age",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
@@ -8608,7 +8451,7 @@
             }
           },
           {
-            "name": "education-level",
+            "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
               "enum": [
@@ -8618,7 +8461,7 @@
             }
           },
           {
-            "name": "occupation",
+            "name": "OCCUPATION",
             "type": "string",
             "constraints": {
               "enum": [
@@ -8628,7 +8471,7 @@
             }
           },
           {
-            "name": "comp-breakdown",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
@@ -8638,7 +8481,7 @@
             }
           },
           {
-            "name": "disability-status",
+            "name": "DISABILITY_STATUS",
             "type": "string",
             "constraints": {
               "enum": [
@@ -8648,11 +8491,15 @@
             }
           },
           {
-            "name": "unit",
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percent",
+                "0",
                 ""
               ]
             }

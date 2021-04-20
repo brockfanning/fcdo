@@ -1,8 +1,7 @@
 From,To
-seriesdescription,geoarea
-geoarea,sex
-sex,age
-age,location
+REF_AREA,SEX
+SEX,AGE
+AGE,location
 location,disability
-disability,unit
-unit,TIME_DETAIL
+disability,UNIT_MULT
+UNIT_MULT,TIME_DETAIL

@@ -1,2 +1,2 @@
-Year,seriesdescription,area,sex,age,urbanisation,education-level,unit,TIME_DETAIL,Value
-2010,SH_STA_MMR,BI,_T,_T,_T,_T,décès pour 100 000 naissances vivantes,2010,500.0
+Year,SERIES,REF_AREA,SEX,AGE,URBANISATION,EDUCATION_LEV,UNIT_MEASURE,UNIT_MULT,TIME_DETAIL,Value
+2010,SH_STA_MMR,BI,_T,_T,_T,_T,décès pour 100 000 naissances vivantes,0,2010,500.0

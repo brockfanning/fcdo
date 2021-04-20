@@ -1,1 +1,1 @@
-{"Year":[2017],"seriesdescription":["VC_IHR_PSRC"],"geoarea":["ZM"],"sex":["_T"],"age":["_T"],"location":["_T"],"education-level":["_T"],"occupation":["_T"],"comp-breakdown":["_T"],"disability-status":["_T"],"unit":["PER_100000_POP"],"TIME_DETAIL":["2017"],"Value":[5.3]}
+{"Year":["2017"],"SERIES":["VC_IHR_PSRC"],"REF_AREA":["ZM"],"SEX":["_T"],"AGE":["_T"],"location":["_T"],"EDUCATION_LEV":["_T"],"OCCUPATION":["_T"],"COMPOSITE_BREAKDOWN":["_T"],"DISABILITY_STATUS":["_T"],"UNIT_MEASURE":["PER_100000_POP"],"UNIT_MULT":["0"],"TIME_DETAIL":["2017"],"Value":[5.3]}

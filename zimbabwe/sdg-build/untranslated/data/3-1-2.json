@@ -1,1 +1,1 @@
-{"Year":[2015],"seriesdescription":["SH_STA_BRTC"],"geoarea":["716"],"sex":["_T"],"age":["_T"],"urbanisation":["_T"],"unit":["Percent"],"TIME_DETAIL":["2015"],"Value":[78.0]}
+{"Year":["2015"],"SERIES":["SH_STA_BRTC"],"REF_AREA":["716"],"SEX":["_T"],"AGE":["_T"],"URBANISATION":["_T"],"UNIT_MEASURE":["PT"],"UNIT_MULT":["0"],"TIME_DETAIL":["2015"],"Value":[78.0]}

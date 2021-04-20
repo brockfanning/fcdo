@@ -11,28 +11,7 @@
       "schema": {
         "fields": [
           {
-            "name": "TIME_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "2017"
-              ]
-            },
-            "title": "TIME_DETAIL"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "age",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
@@ -52,10 +31,10 @@
                 "_T"
               ]
             },
-            "title": "age"
+            "title": "AGE"
           },
           {
-            "name": "comp-breakdown",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
@@ -63,10 +42,10 @@
                 "_T"
               ]
             },
-            "title": "comp-breakdown"
+            "title": "COMPOSITE_BREAKDOWN"
           },
           {
-            "name": "disability-status",
+            "name": "DISABILITY_STATUS",
             "type": "string",
             "constraints": {
               "enum": [
@@ -75,10 +54,10 @@
                 "_T"
               ]
             },
-            "title": "disability-status"
+            "title": "DISABILITY_STATUS"
           },
           {
-            "name": "education-level",
+            "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
               "enum": [
@@ -86,10 +65,21 @@
                 "_T"
               ]
             },
-            "title": "education-level"
+            "title": "EDUCATION_LEV"
           },
           {
-            "name": "geoarea",
+            "name": "OCCUPATION",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "_T"
+              ]
+            },
+            "title": "OCCUPATION"
+          },
+          {
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
@@ -97,7 +87,62 @@
                 "ZM"
               ]
             },
-            "title": "geoarea"
+            "title": "REF_AREA"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "F",
+                "M",
+                "_T"
+              ]
+            },
+            "title": "SEX"
+          },
+          {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "2017"
+              ]
+            },
+            "title": "TIME_DETAIL"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "0"
+              ]
+            },
+            "title": "UNIT_MULT"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           },
           {
             "name": "location",
@@ -109,53 +154,6 @@
               ]
             },
             "title": "location"
-          },
-          {
-            "name": "occupation",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "_T"
-              ]
-            },
-            "title": "occupation"
-          },
-          {
-            "name": "seriesdescription",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "SL_TLF_UEM",
-                "SL_TLF_UEMDIS"
-              ]
-            },
-            "title": "seriesdescription"
-          },
-          {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "F",
-                "M",
-                "_T"
-              ]
-            },
-            "title": "sex"
-          },
-          {
-            "name": "unit",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Percent"
-              ]
-            },
-            "title": "unit"
           }
         ]
       }

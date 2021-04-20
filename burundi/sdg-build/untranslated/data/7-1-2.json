@@ -1,1 +1,1 @@
-{"Year":[2016],"seriesdescription":["D95"],"area":["BI"],"sex":["_T"],"age":["_T"],"urbanisation":["U"],"education-level":["_T"],"unit":[null],"TIME_DETAIL":["2016"],"Value":[43714.0]}
+{"Year":["2016"],"SERIES":["D95"],"REF_AREA":["BI"],"SEX":["_T"],"AGE":["_T"],"URBANISATION":["U"],"EDUCATION_LEV":["_T"],"UNIT_MEASURE":[null],"UNIT_MULT":["0"],"TIME_DETAIL":["2016"],"Value":[43714.0]}

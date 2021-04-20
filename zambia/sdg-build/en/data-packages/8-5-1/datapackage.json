@@ -11,28 +11,7 @@
       "schema": {
         "fields": [
           {
-            "name": "TIME_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "2017"
-              ]
-            },
-            "title": "TIME_DETAIL"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "age",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
@@ -52,10 +31,10 @@
                 "_T"
               ]
             },
-            "title": "age"
+            "title": "AGE"
           },
           {
-            "name": "comp-breakdown",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
@@ -63,10 +42,10 @@
                 "_T"
               ]
             },
-            "title": "comp-breakdown"
+            "title": "COMPOSITE_BREAKDOWN"
           },
           {
-            "name": "disability-status",
+            "name": "DISABILITY_STATUS",
             "type": "string",
             "constraints": {
               "enum": [
@@ -74,10 +53,10 @@
                 "_T"
               ]
             },
-            "title": "disability-status"
+            "title": "DISABILITY_STATUS"
           },
           {
-            "name": "education-level",
+            "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
               "enum": [
@@ -85,32 +64,10 @@
                 "_T"
               ]
             },
-            "title": "education-level"
+            "title": "EDUCATION_LEV"
           },
           {
-            "name": "geoarea",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "ZM"
-              ]
-            },
-            "title": "geoarea"
-          },
-          {
-            "name": "location",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "_T"
-              ]
-            },
-            "title": "location"
-          },
-          {
-            "name": "occupation",
+            "name": "OCCUPATION",
             "type": "string",
             "constraints": {
               "enum": [
@@ -128,21 +85,26 @@
                 "_T"
               ]
             },
-            "title": "occupation"
+            "title": "OCCUPATION"
           },
           {
-            "name": "seriesdescription",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "SL_EMP_EARN"
+                "ZM"
               ]
             },
-            "title": "seriesdescription"
+            "title": "REF_AREA"
           },
           {
-            "name": "sex",
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
@@ -152,18 +114,55 @@
                 "_T"
               ]
             },
-            "title": "sex"
+            "title": "SEX"
           },
           {
-            "name": "unit",
+            "name": "TIME_DETAIL",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "CUR_LCU"
+                "2017"
               ]
             },
-            "title": "unit"
+            "title": "TIME_DETAIL"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "0"
+              ]
+            },
+            "title": "UNIT_MULT"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          },
+          {
+            "name": "location",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "_T"
+              ]
+            },
+            "title": "location"
           }
         ]
       }

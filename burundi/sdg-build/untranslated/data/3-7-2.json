@@ -1,1 +1,1 @@
-{"Year":[2017,2010],"seriesdescription":["SP_DYN_ADKL","SP_DYN_ADKL"],"area":["BI","BI"],"sex":["F","F"],"age":["Y10T14","Y15T19"],"urbanisation":["_T","_T"],"education-level":["_T","_T"],"unit":[null,null],"TIME_DETAIL":["2017","2010"],"Value":[1.0,65.0]}
+{"Year":["2017","2010"],"SERIES":["SP_DYN_ADKL","SP_DYN_ADKL"],"REF_AREA":["BI","BI"],"SEX":["F","F"],"AGE":["Y10T14","Y15T19"],"URBANISATION":["_T","_T"],"EDUCATION_LEV":["_T","_T"],"UNIT_MEASURE":[null,null],"UNIT_MULT":["0","0"],"TIME_DETAIL":["2017","2010"],"Value":[1.0,65.0]}

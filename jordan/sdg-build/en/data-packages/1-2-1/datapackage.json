@@ -11,7 +11,7 @@
       "schema": {
         "fields": [
           {
-            "name": "Governorate",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
@@ -21,17 +21,22 @@
                 "Aqaba",
                 "Balqa",
                 "Irbid",
+                "JO",
                 "Jarash",
                 "Karak",
                 "Ma'an",
                 "Madaba",
                 "Mafraq",
                 "Tafiela",
-                "Zarqa",
-                "kingdom"
+                "Zarqa"
               ]
             },
-            "title": "Governorate"
+            "title": "REF_AREA"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
           },
           {
             "name": "TIME_DETAIL",
@@ -55,7 +60,7 @@
           },
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           }
         ]

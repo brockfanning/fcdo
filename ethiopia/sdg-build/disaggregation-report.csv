@@ -1,10 +1,9 @@
 Disaggregation,Number of indicators,Number of values
-age,20,13
-education-level,20,5
-geoarea,20,12
-seriesdescription,20,22
-sex,20,3
+AGE,20,13
+EDUCATION_LEV,20,5
+INCOME_WEALTH_QUANTILE,20,6
+REF_AREA,20,12
+SEX,20,3
 TIME_DETAIL,20,4
-unit,20,4
-urbanization,20,3
-wealth-quintile,20,6
+UNIT_MULT,20,1
+URBANISATION,20,3

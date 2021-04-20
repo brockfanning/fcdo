@@ -11,6 +11,57 @@
       "schema": {
         "fields": [
           {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Y15T49",
+                "_T"
+              ]
+            },
+            "title": "AGE"
+          },
+          {
+            "name": "EDUCATION_LEV",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "_T"
+              ]
+            },
+            "title": "EDUCATION_LEV"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "BI"
+              ]
+            },
+            "title": "REF_AREA"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "F",
+                "M"
+              ]
+            },
+            "title": "SEX"
+          },
+          {
             "name": "TIME_DETAIL",
             "type": "string",
             "constraints": {
@@ -22,86 +73,23 @@
             "title": "TIME_DETAIL"
           },
           {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
           },
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "age",
+            "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "Y15T49",
-                "_T"
+                "0"
               ]
             },
-            "title": "age"
+            "title": "UNIT_MULT"
           },
           {
-            "name": "area",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "BI"
-              ]
-            },
-            "title": "area"
-          },
-          {
-            "name": "education-level",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "_T"
-              ]
-            },
-            "title": "education-level"
-          },
-          {
-            "name": "seriesdescription",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "D6",
-                "D7"
-              ]
-            },
-            "title": "seriesdescription"
-          },
-          {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "F",
-                "M"
-              ]
-            },
-            "title": "sex"
-          },
-          {
-            "name": "unit",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Percent"
-              ]
-            },
-            "title": "unit"
-          },
-          {
-            "name": "urbanisation",
+            "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
@@ -111,7 +99,17 @@
                 "_T"
               ]
             },
-            "title": "urbanisation"
+            "title": "URBANISATION"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       }

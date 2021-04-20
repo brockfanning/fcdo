@@ -11,17 +11,22 @@
       "schema": {
         "fields": [
           {
-            "name": "AREA",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
                 "Gaza Strip",
-                "Palestine",
+                "PS",
                 "West Bank"
               ]
             },
-            "title": "AREA"
+            "title": "REF_AREA"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
           },
           {
             "name": "SEX",
@@ -29,9 +34,9 @@
             "constraints": {
               "enum": [
                 "",
-                "Both sexes or no breakdown by sex",
-                "Female",
-                "Male"
+                "F",
+                "M",
+                "_T"
               ]
             },
             "title": "SEX"
@@ -56,9 +61,9 @@
               "enum": [
                 "",
                 "Camp",
-                "Rural",
-                "Total",
-                "Urban"
+                "R",
+                "U",
+                "_T"
               ]
             },
             "title": "URBANISATION"
@@ -70,7 +75,7 @@
           },
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           }
         ]

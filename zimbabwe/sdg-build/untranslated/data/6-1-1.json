@@ -1,1 +1,1 @@
-{"Year":[2014,2015],"seriesdescription":["SH_H2O_SAFE","SH_H2O_SAFE"],"geoarea":["716","716"],"sex":["_T","_T"],"age":["_T","_T"],"urbanisation":["_T","_T"],"unit":["Percent","Percent"],"TIME_DETAIL":["2014","2015"],"Value":[76.0,78.0]}
+{"Year":["2014","2015"],"SERIES":["SH_H2O_SAFE","SH_H2O_SAFE"],"REF_AREA":["716","716"],"SEX":["_T","_T"],"AGE":["_T","_T"],"URBANISATION":["_T","_T"],"UNIT_MEASURE":["PT","PT"],"UNIT_MULT":["0","0"],"TIME_DETAIL":["2014","2015"],"Value":[76.0,78.0]}

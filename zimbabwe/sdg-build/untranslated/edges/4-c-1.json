@@ -1,1 +1,1 @@
-{"From":["seriesdescription","geoarea","sex","age","urbanisation","unit"],"To":["geoarea","sex","age","urbanisation","unit","TIME_DETAIL"]}
+{"From":["REF_AREA","SEX","AGE","URBANISATION","UNIT_MULT"],"To":["SEX","AGE","URBANISATION","UNIT_MULT","TIME_DETAIL"]}

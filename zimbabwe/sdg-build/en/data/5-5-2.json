@@ -1,1 +1,1 @@
-{"Year":[2014],"seriesdescription":["IC_GEN_MGTL"],"geoarea":["716"],"sex":["F"],"age":["_T"],"urbanisation":["_T"],"unit":["Percent"],"TIME_DETAIL":["2014"],"Value":[27.6]}
+{"Year":["2014"],"SERIES":["IC_GEN_MGTL"],"REF_AREA":["716"],"SEX":["F"],"AGE":["_T"],"URBANISATION":["_T"],"UNIT_MEASURE":["PT"],"UNIT_MULT":["0"],"TIME_DETAIL":["2014"],"Value":[27.6]}

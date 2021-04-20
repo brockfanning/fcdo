@@ -12,7 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
             "name": "Types of violence",
@@ -28,14 +28,14 @@
             }
           },
           {
-            "name": "Age",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "15-49",
-                "15-24",
-                "25-34",
-                "35-49",
+                "Y15T49",
+                "Y15T24",
+                "Y25T34",
+                "Y35T49",
                 ""
               ]
             }
@@ -51,6 +51,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "SERIES",
+            "type": "number"
           },
           {
             "name": "Value",

@@ -11,17 +11,22 @@
       "schema": {
         "fields": [
           {
-            "name": "Sex",
+            "name": "SERIES",
+            "type": "number",
+            "title": "SERIES"
+          },
+          {
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "Female",
-                "Male",
-                "Total"
+                "F",
+                "M",
+                "_T"
               ]
             },
-            "title": "Sex"
+            "title": "SEX"
           },
           {
             "name": "TIME_DETAIL",
@@ -43,7 +48,7 @@
           },
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           }
         ]

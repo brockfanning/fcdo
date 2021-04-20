@@ -1,913 +1,913 @@
-Year,SEX,AREA,TIME_DETAIL,Value
-2000,Male,Jenin,2000,18.4
-2001,Male,Jenin,2001,40.9
-2002,Male,Jenin,2002,48.2
-2003,Male,Jenin,2003,39.0
-2004,Male,Jenin,2004,30.7
-2005,Male,Jenin,2005,25.7
-2006,Male,Jenin,2006,23.5
-2007,Male,Jenin,2007,20.3
-2008,Male,Jenin,2008,24.6
-2009,Male,Jenin,2009,18.6
-2010,Male,Jenin,2010,15.4
-2011,Male,Jenin,2011,12.3
-2012,Male,Jenin,2012,12.9
-2013,Male,Jenin,2013,15.1
-2014,Male,Jenin,2014,12.1
-2015,Male,Jenin,2015,13.7
-2016,Male,Jenin,2016,15.5
-2017,Male,Jenin,2017,13.7
-2018,Male,Jenin,2018,16.8
-2000,Male,Tubas & Northern Valleys,2000,16.3
-2001,Male,Tubas & Northern Valleys,2001,33.6
-2002,Male,Tubas & Northern Valleys,2002,41.8
-2003,Male,Tubas & Northern Valleys,2003,27.0
-2004,Male,Tubas & Northern Valleys,2004,22.9
-2005,Male,Tubas & Northern Valleys,2005,18.3
-2006,Male,Tubas & Northern Valleys,2006,17.5
-2007,Male,Tubas & Northern Valleys,2007,20.3
-2008,Male,Tubas & Northern Valleys,2008,16.7
-2009,Male,Tubas & Northern Valleys,2009,11.3
-2010,Male,Tubas & Northern Valleys,2010,11.4
-2011,Male,Tubas & Northern Valleys,2011,14.0
-2012,Male,Tubas & Northern Valleys,2012,13.7
-2013,Male,Tubas & Northern Valleys,2013,14.2
-2014,Male,Tubas & Northern Valleys,2014,11.4
-2015,Male,Tubas & Northern Valleys,2015,15.5
-2016,Male,Tubas & Northern Valleys,2016,15.4
-2017,Male,Tubas & Northern Valleys,2017,17.6
-2018,Male,Tubas & Northern Valleys,2018,13.9
-2000,Male,Tulkarm,2000,17.3
-2001,Male,Tulkarm,2001,22.3
-2002,Male,Tulkarm,2002,25.9
-2003,Male,Tulkarm,2003,26.9
-2004,Male,Tulkarm,2004,22.8
-2005,Male,Tulkarm,2005,21.4
-2006,Male,Tulkarm,2006,21.6
-2007,Male,Tulkarm,2007,19.4
-2008,Male,Tulkarm,2008,19.6
-2009,Male,Tulkarm,2009,18.4
-2010,Male,Tulkarm,2010,19.9
-2011,Male,Tulkarm,2011,20.5
-2012,Male,Tulkarm,2012,25.9
-2013,Male,Tulkarm,2013,17.8
-2014,Male,Tulkarm,2014,10.8
-2015,Male,Tulkarm,2015,13.3
-2016,Male,Tulkarm,2016,12.7
-2017,Male,Tulkarm,2017,13.2
-2018,Male,Tulkarm,2018,14.7
-2000,Male,Nablus,2000,10.2
-2001,Male,Nablus,2001,23.0
-2002,Male,Nablus,2002,30.7
-2003,Male,Nablus,2003,25.9
-2004,Male,Nablus,2004,20.0
-2005,Male,Nablus,2005,16.8
-2006,Male,Nablus,2006,16.9
-2007,Male,Nablus,2007,15.4
-2008,Male,Nablus,2008,15.0
-2009,Male,Nablus,2009,12.9
-2010,Male,Nablus,2010,13.8
-2011,Male,Nablus,2011,11.8
-2012,Male,Nablus,2012,10.6
-2013,Male,Nablus,2013,12.1
-2014,Male,Nablus,2014,14.0
-2015,Male,Nablus,2015,12.8
-2016,Male,Nablus,2016,11.9
-2017,Male,Nablus,2017,16.1
-2018,Male,Nablus,2018,13.4
-2000,Male,Qalqiliya,2000,18.2
-2001,Male,Qalqiliya,2001,36.7
-2002,Male,Qalqiliya,2002,30.8
-2003,Male,Qalqiliya,2003,27.1
-2004,Male,Qalqiliya,2004,24.2
-2005,Male,Qalqiliya,2005,21.2
-2006,Male,Qalqiliya,2006,16.1
-2007,Male,Qalqiliya,2007,16.9
-2008,Male,Qalqiliya,2008,22.6
-2009,Male,Qalqiliya,2009,20.2
-2010,Male,Qalqiliya,2010,18.5
-2011,Male,Qalqiliya,2011,20.0
-2012,Male,Qalqiliya,2012,20.1
-2013,Male,Qalqiliya,2013,14.6
-2014,Male,Qalqiliya,2014,10.9
-2015,Male,Qalqiliya,2015,10.9
-2016,Male,Qalqiliya,2016,10.1
-2017,Male,Qalqiliya,2017,7.2
-2018,Male,Qalqiliya,2018,2.8
-2000,Male,Salfit,2000,18.8
-2001,Male,Salfit,2001,47.0
-2002,Male,Salfit,2002,34.4
-2003,Male,Salfit,2003,27.3
-2004,Male,Salfit,2004,21.7
-2005,Male,Salfit,2005,22.1
-2006,Male,Salfit,2006,18.2
-2007,Male,Salfit,2007,18.2
-2008,Male,Salfit,2008,19.5
-2009,Male,Salfit,2009,14.0
-2010,Male,Salfit,2010,12.7
-2011,Male,Salfit,2011,13.7
-2012,Male,Salfit,2012,13.5
-2013,Male,Salfit,2013,17.4
-2014,Male,Salfit,2014,13.8
-2015,Male,Salfit,2015,11.9
-2016,Male,Salfit,2016,13.9
-2017,Male,Salfit,2017,14.6
-2018,Male,Salfit,2018,17.6
-2000,Male,Ramallah & Al-Bireh,2000,9.9
-2001,Male,Ramallah & Al-Bireh,2001,28.4
-2002,Male,Ramallah & Al-Bireh,2002,28.1
-2003,Male,Ramallah & Al-Bireh,2003,21.8
-2004,Male,Ramallah & Al-Bireh,2004,20.8
-2005,Male,Ramallah & Al-Bireh,2005,16.2
-2006,Male,Ramallah & Al-Bireh,2006,15.4
-2007,Male,Ramallah & Al-Bireh,2007,15.7
-2008,Male,Ramallah & Al-Bireh,2008,17.8
-2009,Male,Ramallah & Al-Bireh,2009,17.3
-2010,Male,Ramallah & Al-Bireh,2010,15.3
-2011,Male,Ramallah & Al-Bireh,2011,15.5
-2012,Male,Ramallah & Al-Bireh,2012,16.5
-2013,Male,Ramallah & Al-Bireh,2013,16.6
-2014,Male,Ramallah & Al-Bireh,2014,12.8
-2015,Male,Ramallah & Al-Bireh,2015,17.5
-2016,Male,Ramallah & Al-Bireh,2016,14.7
-2017,Male,Ramallah & Al-Bireh,2017,15.5
-2018,Male,Ramallah & Al-Bireh,2018,14.4
-2000,Male,Jericho & AL Aghwar,2000,7.9
-2001,Male,Jericho & AL Aghwar,2001,12.8
-2002,Male,Jericho & AL Aghwar,2002,11.6
-2003,Male,Jericho & AL Aghwar,2003,9.2
-2004,Male,Jericho & AL Aghwar,2004,12.3
-2005,Male,Jericho & AL Aghwar,2005,13.0
-2006,Male,Jericho & AL Aghwar,2006,14.9
-2007,Male,Jericho & AL Aghwar,2007,7.8
-2008,Male,Jericho & AL Aghwar,2008,10.0
-2009,Male,Jericho & AL Aghwar,2009,8.6
-2010,Male,Jericho & AL Aghwar,2010,13.2
-2011,Male,Jericho & AL Aghwar,2011,11.9
-2012,Male,Jericho & AL Aghwar,2012,15.5
-2013,Male,Jericho & AL Aghwar,2013,14.9
-2014,Male,Jericho & AL Aghwar,2014,16.4
-2015,Male,Jericho & AL Aghwar,2015,12.4
-2016,Male,Jericho & AL Aghwar,2016,9.5
-2017,Male,Jericho & AL Aghwar,2017,12.3
-2018,Male,Jericho & AL Aghwar,2018,15.8
-2000,Male,Jerusalem,2000,12.4
-2001,Male,Jerusalem,2001,17.2
-2002,Male,Jerusalem,2002,31.0
-2003,Male,Jerusalem,2003,24.3
-2004,Male,Jerusalem,2004,25.1
-2005,Male,Jerusalem,2005,18.3
-2006,Male,Jerusalem,2006,14.8
-2007,Male,Jerusalem,2007,15.4
-2008,Male,Jerusalem,2008,12.2
-2009,Male,Jerusalem,2009,11.3
-2010,Male,Jerusalem,2010,11.3
-2011,Male,Jerusalem,2011,11.9
-2012,Male,Jerusalem,2012,17.3
-2013,Male,Jerusalem,2013,18.1
-2014,Male,Jerusalem,2014,16.8
-2015,Male,Jerusalem,2015,12.2
-2016,Male,Jerusalem,2016,15.6
-2017,Male,Jerusalem,2017,10.8
-2018,Male,Jerusalem,2018,9.1
-2000,Male,Bethlehem,2000,10.4
-2001,Male,Bethlehem,2001,12.1
-2002,Male,Bethlehem,2002,22.7
-2003,Male,Bethlehem,2003,19.8
-2004,Male,Bethlehem,2004,23.2
-2005,Male,Bethlehem,2005,14.2
-2006,Male,Bethlehem,2006,13.8
-2007,Male,Bethlehem,2007,18.8
-2008,Male,Bethlehem,2008,23.0
-2009,Male,Bethlehem,2009,20.4
-2010,Male,Bethlehem,2010,20.2
-2011,Male,Bethlehem,2011,18.3
-2012,Male,Bethlehem,2012,20.2
-2013,Male,Bethlehem,2013,20.3
-2014,Male,Bethlehem,2014,17.7
-2015,Male,Bethlehem,2015,11.3
-2016,Male,Bethlehem,2016,17.9
-2017,Male,Bethlehem,2017,17.1
-2018,Male,Bethlehem,2018,17.8
-2000,Male,Hebron,2000,10.5
-2001,Male,Hebron,2001,17.0
-2002,Male,Hebron,2002,28.7
-2003,Male,Hebron,2003,23.3
-2004,Male,Hebron,2004,27.6
-2005,Male,Hebron,2005,27.9
-2006,Male,Hebron,2006,24.9
-2007,Male,Hebron,2007,23.9
-2008,Male,Hebron,2008,28.1
-2009,Male,Hebron,2009,23.2
-2010,Male,Hebron,2010,21.3
-2011,Male,Hebron,2011,19.7
-2012,Male,Hebron,2012,20.4
-2013,Male,Hebron,2013,21.6
-2014,Male,Hebron,2014,18.6
-2015,Male,Hebron,2015,18.1
-2016,Male,Hebron,2016,18.3
-2017,Male,Hebron,2017,19.0
-2018,Male,Hebron,2018,17.1
-2000,Male,North Gaza,2000,17.0
-2001,Male,North Gaza,2001,36.4
-2002,Male,North Gaza,2002,38.6
-2003,Male,North Gaza,2003,27.7
-2004,Male,North Gaza,2004,37.5
-2005,Male,North Gaza,2005,33.9
-2006,Male,North Gaza,2006,39.7
-2007,Male,North Gaza,2007,31.8
-2008,Male,North Gaza,2008,40.4
-2009,Male,North Gaza,2009,35.6
-2010,Male,North Gaza,2010,34.7
-2011,Male,North Gaza,2011,25.6
-2012,Male,North Gaza,2012,29.6
-2013,Male,North Gaza,2013,29.0
-2014,Male,North Gaza,2014,39.6
-2015,Male,North Gaza,2015,37.5
-2016,Male,North Gaza,2016,37.8
-2017,Male,North Gaza,2017,34.9
-2018,Male,North Gaza,2018,39.4
-2000,Male,Gaza,2000,17.1
-2001,Male,Gaza,2001,33.7
-2002,Male,Gaza,2002,36.6
-2003,Male,Gaza,2003,27.3
-2004,Male,Gaza,2004,32.9
-2005,Male,Gaza,2005,25.5
-2006,Male,Gaza,2006,33.2
-2007,Male,Gaza,2007,23.7
-2008,Male,Gaza,2008,37.2
-2009,Male,Gaza,2009,33.6
-2010,Male,Gaza,2010,33.5
-2011,Male,Gaza,2011,24.3
-2012,Male,Gaza,2012,23.7
-2013,Male,Gaza,2013,24.7
-2014,Male,Gaza,2014,35.4
-2015,Male,Gaza,2015,30.9
-2016,Male,Gaza,2016,28.0
-2017,Male,Gaza,2017,32.2
-2018,Male,Gaza,2018,40.5
-2000,Male,Dier Al-Balah,2000,21.8
-2001,Male,Dier Al-Balah,2001,34.4
-2002,Male,Dier Al-Balah,2002,40.0
-2003,Male,Dier Al-Balah,2003,31.1
-2004,Male,Dier Al-Balah,2004,36.6
-2005,Male,Dier Al-Balah,2005,33.6
-2006,Male,Dier Al-Balah,2006,35.9
-2007,Male,Dier Al-Balah,2007,33.6
-2008,Male,Dier Al-Balah,2008,39.7
-2009,Male,Dier Al-Balah,2009,32.0
-2010,Male,Dier Al-Balah,2010,38.3
-2011,Male,Dier Al-Balah,2011,22.3
-2012,Male,Dier Al-Balah,2012,24.1
-2013,Male,Dier Al-Balah,2013,23.8
-2014,Male,Dier Al-Balah,2014,44.0
-2015,Male,Dier Al-Balah,2015,44.2
-2016,Male,Dier Al-Balah,2016,38.1
-2017,Male,Dier Al-Balah,2017,43.0
-2018,Male,Dier Al-Balah,2018,50.2
-2000,Male,Khan Yunis,2000,21.5
-2001,Male,Khan Yunis,2001,37.6
-2002,Male,Khan Yunis,2002,39.6
-2003,Male,Khan Yunis,2003,34.3
-2004,Male,Khan Yunis,2004,39.6
-2005,Male,Khan Yunis,2005,31.2
-2006,Male,Khan Yunis,2006,36.2
-2007,Male,Khan Yunis,2007,36.6
-2008,Male,Khan Yunis,2008,48.6
-2009,Male,Khan Yunis,2009,47.7
-2010,Male,Khan Yunis,2010,41.3
-2011,Male,Khan Yunis,2011,28.1
-2012,Male,Khan Yunis,2012,29.4
-2013,Male,Khan Yunis,2013,34.3
-2014,Male,Khan Yunis,2014,43.8
-2015,Male,Khan Yunis,2015,37.8
-2016,Male,Khan Yunis,2016,39.5
-2017,Male,Khan Yunis,2017,40.4
-2018,Male,Khan Yunis,2018,47.1
-2000,Male,Rafah,2000,19.4
-2001,Male,Rafah,2001,35.2
-2002,Male,Rafah,2002,42.7
-2003,Male,Rafah,2003,29.1
-2004,Male,Rafah,2004,36.2
-2005,Male,Rafah,2005,28.8
-2006,Male,Rafah,2006,30.3
-2007,Male,Rafah,2007,27.7
-2008,Male,Rafah,2008,33.9
-2009,Male,Rafah,2009,36.8
-2010,Male,Rafah,2010,32.4
-2011,Male,Rafah,2011,29.3
-2012,Male,Rafah,2012,28.3
-2013,Male,Rafah,2013,33.2
-2014,Male,Rafah,2014,42.1
-2015,Male,Rafah,2015,34.5
-2016,Male,Rafah,2016,34.4
-2017,Male,Rafah,2017,38.3
-2018,Male,Rafah,2018,45.7
-2000,Female,Jenin,2000,7.2
-2001,Female,Jenin,2001,10.1
-2002,Female,Jenin,2002,20.1
-2003,Female,Jenin,2003,19.1
-2004,Female,Jenin,2004,20.4
-2005,Female,Jenin,2005,23.2
-2006,Female,Jenin,2006,21.3
-2007,Female,Jenin,2007,14.1
-2008,Female,Jenin,2008,14.6
-2009,Female,Jenin,2009,18.9
-2010,Female,Jenin,2010,15.0
-2011,Female,Jenin,2011,17.2
-2012,Female,Jenin,2012,21.2
-2013,Female,Jenin,2013,29.7
-2014,Female,Jenin,2014,31.2
-2015,Female,Jenin,2015,24.2
-2016,Female,Jenin,2016,33.5
-2017,Female,Jenin,2017,38.0
-2018,Female,Jenin,2018,37.4
-2000,Female,Tubas & Northern Valleys,2000,13.4
-2001,Female,Tubas & Northern Valleys,2001,14.6
-2002,Female,Tubas & Northern Valleys,2002,25.3
-2003,Female,Tubas & Northern Valleys,2003,17.8
-2004,Female,Tubas & Northern Valleys,2004,17.2
-2005,Female,Tubas & Northern Valleys,2005,25.4
-2006,Female,Tubas & Northern Valleys,2006,25.9
-2007,Female,Tubas & Northern Valleys,2007,18.8
-2008,Female,Tubas & Northern Valleys,2008,17.5
-2009,Female,Tubas & Northern Valleys,2009,20.0
-2010,Female,Tubas & Northern Valleys,2010,12.6
-2011,Female,Tubas & Northern Valleys,2011,17.0
-2012,Female,Tubas & Northern Valleys,2012,19.9
-2013,Female,Tubas & Northern Valleys,2013,21.2
-2014,Female,Tubas & Northern Valleys,2014,26.6
-2015,Female,Tubas & Northern Valleys,2015,26.1
-2016,Female,Tubas & Northern Valleys,2016,30.8
-2017,Female,Tubas & Northern Valleys,2017,36.0
-2018,Female,Tubas & Northern Valleys,2018,38.7
-2000,Female,Tulkarm,2000,13.1
-2001,Female,Tulkarm,2001,12.9
-2002,Female,Tulkarm,2002,14.7
-2003,Female,Tulkarm,2003,14.4
-2004,Female,Tulkarm,2004,19.5
-2005,Female,Tulkarm,2005,22.6
-2006,Female,Tulkarm,2006,22.4
-2007,Female,Tulkarm,2007,25.5
-2008,Female,Tulkarm,2008,33.0
-2009,Female,Tulkarm,2009,35.7
-2010,Female,Tulkarm,2010,31.8
-2011,Female,Tulkarm,2011,28.5
-2012,Female,Tulkarm,2012,34.5
-2013,Female,Tulkarm,2013,27.7
-2014,Female,Tulkarm,2014,21.9
-2015,Female,Tulkarm,2015,31.4
-2016,Female,Tulkarm,2016,31.5
-2017,Female,Tulkarm,2017,28.8
-2018,Female,Tulkarm,2018,31.4
-2000,Female,Nablus,2000,14.5
-2001,Female,Nablus,2001,21.1
-2002,Female,Nablus,2002,22.0
-2003,Female,Nablus,2003,23.2
-2004,Female,Nablus,2004,22.4
-2005,Female,Nablus,2005,22.6
-2006,Female,Nablus,2006,19.8
-2007,Female,Nablus,2007,16.2
-2008,Female,Nablus,2008,19.0
-2009,Female,Nablus,2009,12.8
-2010,Female,Nablus,2010,13.9
-2011,Female,Nablus,2011,24.6
-2012,Female,Nablus,2012,27.3
-2013,Female,Nablus,2013,26.0
-2014,Female,Nablus,2014,28.6
-2015,Female,Nablus,2015,30.5
-2016,Female,Nablus,2016,31.0
-2017,Female,Nablus,2017,32.0
-2018,Female,Nablus,2018,26.3
-2000,Female,Qalqiliya,2000,13.4
-2001,Female,Qalqiliya,2001,9.1
-2002,Female,Qalqiliya,2002,10.7
-2003,Female,Qalqiliya,2003,8.6
-2004,Female,Qalqiliya,2004,14.7
-2005,Female,Qalqiliya,2005,18.8
-2006,Female,Qalqiliya,2006,17.1
-2007,Female,Qalqiliya,2007,13.9
-2008,Female,Qalqiliya,2008,27.0
-2009,Female,Qalqiliya,2009,37.0
-2010,Female,Qalqiliya,2010,25.9
-2011,Female,Qalqiliya,2011,27.8
-2012,Female,Qalqiliya,2012,26.5
-2013,Female,Qalqiliya,2013,23.9
-2014,Female,Qalqiliya,2014,18.5
-2015,Female,Qalqiliya,2015,22.3
-2016,Female,Qalqiliya,2016,23.8
-2017,Female,Qalqiliya,2017,26.0
-2018,Female,Qalqiliya,2018,27.6
-2000,Female,Salfit,2000,13.6
-2001,Female,Salfit,2001,11.3
-2002,Female,Salfit,2002,11.2
-2003,Female,Salfit,2003,10.3
-2004,Female,Salfit,2004,10.8
-2005,Female,Salfit,2005,18.4
-2006,Female,Salfit,2006,14.7
-2007,Female,Salfit,2007,21.0
-2008,Female,Salfit,2008,21.3
-2009,Female,Salfit,2009,22.6
-2010,Female,Salfit,2010,22.6
-2011,Female,Salfit,2011,21.8
-2012,Female,Salfit,2012,31.9
-2013,Female,Salfit,2013,27.1
-2014,Female,Salfit,2014,32.5
-2015,Female,Salfit,2015,28.2
-2016,Female,Salfit,2016,22.6
-2017,Female,Salfit,2017,22.4
-2018,Female,Salfit,2018,24.5
-2000,Female,Ramallah & Al-Bireh,2000,7.1
-2001,Female,Ramallah & Al-Bireh,2001,7.9
-2002,Female,Ramallah & Al-Bireh,2002,16.3
-2003,Female,Ramallah & Al-Bireh,2003,13.6
-2004,Female,Ramallah & Al-Bireh,2004,15.9
-2005,Female,Ramallah & Al-Bireh,2005,13.7
-2006,Female,Ramallah & Al-Bireh,2006,18.8
-2007,Female,Ramallah & Al-Bireh,2007,17.0
-2008,Female,Ramallah & Al-Bireh,2008,15.0
-2009,Female,Ramallah & Al-Bireh,2009,16.4
-2010,Female,Ramallah & Al-Bireh,2010,17.6
-2011,Female,Ramallah & Al-Bireh,2011,18.7
-2012,Female,Ramallah & Al-Bireh,2012,19.8
-2013,Female,Ramallah & Al-Bireh,2013,19.5
-2014,Female,Ramallah & Al-Bireh,2014,21.0
-2015,Female,Ramallah & Al-Bireh,2015,27.2
-2016,Female,Ramallah & Al-Bireh,2016,20.8
-2017,Female,Ramallah & Al-Bireh,2017,18.1
-2018,Female,Ramallah & Al-Bireh,2018,21.0
-2000,Female,Jericho & AL Aghwar,2000,3.9
-2001,Female,Jericho & AL Aghwar,2001,5.4
-2002,Female,Jericho & AL Aghwar,2002,6.8
-2003,Female,Jericho & AL Aghwar,2003,9.9
-2004,Female,Jericho & AL Aghwar,2004,15.7
-2005,Female,Jericho & AL Aghwar,2005,13.8
-2006,Female,Jericho & AL Aghwar,2006,12.2
-2007,Female,Jericho & AL Aghwar,2007,16.9
-2008,Female,Jericho & AL Aghwar,2008,8.9
-2009,Female,Jericho & AL Aghwar,2009,5.9
-2010,Female,Jericho & AL Aghwar,2010,10.6
-2011,Female,Jericho & AL Aghwar,2011,18.1
-2012,Female,Jericho & AL Aghwar,2012,28.0
-2013,Female,Jericho & AL Aghwar,2013,22.3
-2014,Female,Jericho & AL Aghwar,2014,22.4
-2015,Female,Jericho & AL Aghwar,2015,22.3
-2016,Female,Jericho & AL Aghwar,2016,16.7
-2017,Female,Jericho & AL Aghwar,2017,27.2
-2018,Female,Jericho & AL Aghwar,2018,33.9
-2000,Female,Jerusalem,2000,6.5
-2001,Female,Jerusalem,2001,4.9
-2002,Female,Jerusalem,2002,5.3
-2003,Female,Jerusalem,2003,12.7
-2004,Female,Jerusalem,2004,14.3
-2005,Female,Jerusalem,2005,10.9
-2006,Female,Jerusalem,2006,8.3
-2007,Female,Jerusalem,2007,9.1
-2008,Female,Jerusalem,2008,9.5
-2009,Female,Jerusalem,2009,13.4
-2010,Female,Jerusalem,2010,18.1
-2011,Female,Jerusalem,2011,21.5
-2012,Female,Jerusalem,2012,19.6
-2013,Female,Jerusalem,2013,23.4
-2014,Female,Jerusalem,2014,33.5
-2015,Female,Jerusalem,2015,26.4
-2016,Female,Jerusalem,2016,12.7
-2017,Female,Jerusalem,2017,17.5
-2018,Female,Jerusalem,2018,23.0
-2000,Female,Bethlehem,2000,5.6
-2001,Female,Bethlehem,2001,5.4
-2002,Female,Bethlehem,2002,4.4
-2003,Female,Bethlehem,2003,8.8
-2004,Female,Bethlehem,2004,5.6
-2005,Female,Bethlehem,2005,8.4
-2006,Female,Bethlehem,2006,13.4
-2007,Female,Bethlehem,2007,13.3
-2008,Female,Bethlehem,2008,14.6
-2009,Female,Bethlehem,2009,19.4
-2010,Female,Bethlehem,2010,24.5
-2011,Female,Bethlehem,2011,21.4
-2012,Female,Bethlehem,2012,19.5
-2013,Female,Bethlehem,2013,24.1
-2014,Female,Bethlehem,2014,29.8
-2015,Female,Bethlehem,2015,21.7
-2016,Female,Bethlehem,2016,32.5
-2017,Female,Bethlehem,2017,32.2
-2018,Female,Bethlehem,2018,31.1
-2000,Female,Hebron,2000,10.4
-2001,Female,Hebron,2001,9.2
-2002,Female,Hebron,2002,10.9
-2003,Female,Hebron,2003,14.9
-2004,Female,Hebron,2004,12.8
-2005,Female,Hebron,2005,16.6
-2006,Female,Hebron,2006,16.3
-2007,Female,Hebron,2007,15.5
-2008,Female,Hebron,2008,19.3
-2009,Female,Hebron,2009,18.9
-2010,Female,Hebron,2010,22.5
-2011,Female,Hebron,2011,25.9
-2012,Female,Hebron,2012,30.1
-2013,Female,Hebron,2013,34.2
-2014,Female,Hebron,2014,28.2
-2015,Female,Hebron,2015,24.8
-2016,Female,Hebron,2016,33.6
-2017,Female,Hebron,2017,38.5
-2018,Female,Hebron,2018,32.9
-2000,Female,North Gaza,2000,12.4
-2001,Female,North Gaza,2001,19.9
-2002,Female,North Gaza,2002,21.2
-2003,Female,North Gaza,2003,27.1
-2004,Female,North Gaza,2004,29.8
-2005,Female,North Gaza,2005,30.5
-2006,Female,North Gaza,2006,32.8
-2007,Female,North Gaza,2007,29.6
-2008,Female,North Gaza,2008,36.1
-2009,Female,North Gaza,2009,42.2
-2010,Female,North Gaza,2010,42.1
-2011,Female,North Gaza,2011,42.9
-2012,Female,North Gaza,2012,48.5
-2013,Female,North Gaza,2013,52.9
-2014,Female,North Gaza,2014,52.2
-2015,Female,North Gaza,2015,59.4
-2016,Female,North Gaza,2016,64.5
-2017,Female,North Gaza,2017,69.4
-2018,Female,North Gaza,2018,75.7
-2000,Female,Gaza,2000,20.9
-2001,Female,Gaza,2001,18.4
-2002,Female,Gaza,2002,29.8
-2003,Female,Gaza,2003,32.0
-2004,Female,Gaza,2004,31.6
-2005,Female,Gaza,2005,37.4
-2006,Female,Gaza,2006,33.5
-2007,Female,Gaza,2007,38.0
-2008,Female,Gaza,2008,48.7
-2009,Female,Gaza,2009,39.3
-2010,Female,Gaza,2010,37.8
-2011,Female,Gaza,2011,39.1
-2012,Female,Gaza,2012,51.8
-2013,Female,Gaza,2013,54.5
-2014,Female,Gaza,2014,57.8
-2015,Female,Gaza,2015,58.8
-2016,Female,Gaza,2016,61.0
-2017,Female,Gaza,2017,68.4
-2018,Female,Gaza,2018,72.6
-2000,Female,Dier Al-Balah,2000,26.4
-2001,Female,Dier Al-Balah,2001,32.3
-2002,Female,Dier Al-Balah,2002,38.1
-2003,Female,Dier Al-Balah,2003,32.9
-2004,Female,Dier Al-Balah,2004,37.6
-2005,Female,Dier Al-Balah,2005,41.2
-2006,Female,Dier Al-Balah,2006,29.9
-2007,Female,Dier Al-Balah,2007,25.9
-2008,Female,Dier Al-Balah,2008,47.3
-2009,Female,Dier Al-Balah,2009,46.6
-2010,Female,Dier Al-Balah,2010,41.6
-2011,Female,Dier Al-Balah,2011,42.9
-2012,Female,Dier Al-Balah,2012,54.7
-2013,Female,Dier Al-Balah,2013,62.5
-2014,Female,Dier Al-Balah,2014,64.9
-2015,Female,Dier Al-Balah,2015,58.8
-2016,Female,Dier Al-Balah,2016,60.9
-2017,Female,Dier Al-Balah,2017,65.1
-2018,Female,Dier Al-Balah,2018,71.6
-2000,Female,Khan Yunis,2000,15.3
-2001,Female,Khan Yunis,2001,24.8
-2002,Female,Khan Yunis,2002,24.0
-2003,Female,Khan Yunis,2003,18.6
-2004,Female,Khan Yunis,2004,27.3
-2005,Female,Khan Yunis,2005,30.7
-2006,Female,Khan Yunis,2006,34.5
-2007,Female,Khan Yunis,2007,25.1
-2008,Female,Khan Yunis,2008,38.8
-2009,Female,Khan Yunis,2009,56.5
-2010,Female,Khan Yunis,2010,63.4
-2011,Female,Khan Yunis,2011,49.4
-2012,Female,Khan Yunis,2012,45.7
-2013,Female,Khan Yunis,2013,49.3
-2014,Female,Khan Yunis,2014,53.2
-2015,Female,Khan Yunis,2015,58.3
-2016,Female,Khan Yunis,2016,71.9
-2017,Female,Khan Yunis,2017,73.0
-2018,Female,Khan Yunis,2018,81.1
-2000,Female,Rafah,2000,18.7
-2001,Female,Rafah,2001,28.6
-2002,Female,Rafah,2002,23.7
-2003,Female,Rafah,2003,20.7
-2004,Female,Rafah,2004,27.2
-2005,Female,Rafah,2005,29.9
-2006,Female,Rafah,2006,28.7
-2007,Female,Rafah,2007,31.6
-2008,Female,Rafah,2008,41.8
-2009,Female,Rafah,2009,46.0
-2010,Female,Rafah,2010,55.1
-2011,Female,Rafah,2011,46.5
-2012,Female,Rafah,2012,47.2
-2013,Female,Rafah,2013,55.7
-2014,Female,Rafah,2014,54.0
-2015,Female,Rafah,2015,62.9
-2016,Female,Rafah,2016,68.9
-2017,Female,Rafah,2017,69.8
-2018,Female,Rafah,2018,68.3
-2000,Both sexes or no breakdown by sex,Jenin,2000,16.4
-2001,Both sexes or no breakdown by sex,Jenin,2001,36.7
-2002,Both sexes or no breakdown by sex,Jenin,2002,44.6
-2003,Both sexes or no breakdown by sex,Jenin,2003,35.0
-2004,Both sexes or no breakdown by sex,Jenin,2004,28.3
-2005,Both sexes or no breakdown by sex,Jenin,2005,25.1
-2006,Both sexes or no breakdown by sex,Jenin,2006,23.0
-2007,Both sexes or no breakdown by sex,Jenin,2007,18.9
-2008,Both sexes or no breakdown by sex,Jenin,2008,22.5
-2009,Both sexes or no breakdown by sex,Jenin,2009,18.6
-2010,Both sexes or no breakdown by sex,Jenin,2010,15.3
-2011,Both sexes or no breakdown by sex,Jenin,2011,13.4
-2012,Both sexes or no breakdown by sex,Jenin,2012,14.8
-2013,Both sexes or no breakdown by sex,Jenin,2013,18.1
-2014,Both sexes or no breakdown by sex,Jenin,2014,16.0
-2015,Both sexes or no breakdown by sex,Jenin,2015,15.9
-2016,Both sexes or no breakdown by sex,Jenin,2016,19.1
-2017,Both sexes or no breakdown by sex,Jenin,2017,18.8
-2018,Both sexes or no breakdown by sex,Jenin,2018,20.9
-2000,Both sexes or no breakdown by sex,Tubas & Northern Valleys,2000,15.7
-2001,Both sexes or no breakdown by sex,Tubas & Northern Valleys,2001,30.4
-2002,Both sexes or no breakdown by sex,Tubas & Northern Valleys,2002,39.1
-2003,Both sexes or no breakdown by sex,Tubas & Northern Valleys,2003,24.5
-2004,Both sexes or no breakdown by sex,Tubas & Northern Valleys,2004,21.7
-2005,Both sexes or no breakdown by sex,Tubas & Northern Valleys,2005,20.0
-2006,Both sexes or no breakdown by sex,Tubas & Northern Valleys,2006,19.5
-2007,Both sexes or no breakdown by sex,Tubas & Northern Valleys,2007,20.0
-2008,Both sexes or no breakdown by sex,Tubas & Northern Valleys,2008,16.9
-2009,Both sexes or no breakdown by sex,Tubas & Northern Valleys,2009,13.3
-2010,Both sexes or no breakdown by sex,Tubas & Northern Valleys,2010,11.7
-2011,Both sexes or no breakdown by sex,Tubas & Northern Valleys,2011,14.9
-2012,Both sexes or no breakdown by sex,Tubas & Northern Valleys,2012,15.5
-2013,Both sexes or no breakdown by sex,Tubas & Northern Valleys,2013,16.0
-2014,Both sexes or no breakdown by sex,Tubas & Northern Valleys,2014,15.4
-2015,Both sexes or no breakdown by sex,Tubas & Northern Valleys,2015,17.8
-2016,Both sexes or no breakdown by sex,Tubas & Northern Valleys,2016,18.5
-2017,Both sexes or no breakdown by sex,Tubas & Northern Valleys,2017,21.6
-2018,Both sexes or no breakdown by sex,Tubas & Northern Valleys,2018,19.4
-2000,Both sexes or no breakdown by sex,Tulkarm,2000,16.5
-2001,Both sexes or no breakdown by sex,Tulkarm,2001,20.5
-2002,Both sexes or no breakdown by sex,Tulkarm,2002,23.5
-2003,Both sexes or no breakdown by sex,Tulkarm,2003,24.5
-2004,Both sexes or no breakdown by sex,Tulkarm,2004,22.1
-2005,Both sexes or no breakdown by sex,Tulkarm,2005,21.7
-2006,Both sexes or no breakdown by sex,Tulkarm,2006,21.8
-2007,Both sexes or no breakdown by sex,Tulkarm,2007,20.4
-2008,Both sexes or no breakdown by sex,Tulkarm,2008,21.9
-2009,Both sexes or no breakdown by sex,Tulkarm,2009,21.6
-2010,Both sexes or no breakdown by sex,Tulkarm,2010,22.0
-2011,Both sexes or no breakdown by sex,Tulkarm,2011,21.9
-2012,Both sexes or no breakdown by sex,Tulkarm,2012,27.5
-2013,Both sexes or no breakdown by sex,Tulkarm,2013,19.9
-2014,Both sexes or no breakdown by sex,Tulkarm,2014,13.3
-2015,Both sexes or no breakdown by sex,Tulkarm,2015,17.5
-2016,Both sexes or no breakdown by sex,Tulkarm,2016,16.8
-2017,Both sexes or no breakdown by sex,Tulkarm,2017,16.2
-2018,Both sexes or no breakdown by sex,Tulkarm,2018,18.1
-2000,Both sexes or no breakdown by sex,Nablus,2000,11.1
-2001,Both sexes or no breakdown by sex,Nablus,2001,22.7
-2002,Both sexes or no breakdown by sex,Nablus,2002,29.2
-2003,Both sexes or no breakdown by sex,Nablus,2003,25.4
-2004,Both sexes or no breakdown by sex,Nablus,2004,20.5
-2005,Both sexes or no breakdown by sex,Nablus,2005,17.9
-2006,Both sexes or no breakdown by sex,Nablus,2006,17.5
-2007,Both sexes or no breakdown by sex,Nablus,2007,15.5
-2008,Both sexes or no breakdown by sex,Nablus,2008,15.8
-2009,Both sexes or no breakdown by sex,Nablus,2009,12.9
-2010,Both sexes or no breakdown by sex,Nablus,2010,13.8
-2011,Both sexes or no breakdown by sex,Nablus,2011,14.7
-2012,Both sexes or no breakdown by sex,Nablus,2012,14.4
-2013,Both sexes or no breakdown by sex,Nablus,2013,15.2
-2014,Both sexes or no breakdown by sex,Nablus,2014,17.4
-2015,Both sexes or no breakdown by sex,Nablus,2015,16.8
-2016,Both sexes or no breakdown by sex,Nablus,2016,15.8
-2017,Both sexes or no breakdown by sex,Nablus,2017,19.2
-2018,Both sexes or no breakdown by sex,Nablus,2018,16.0
-2000,Both sexes or no breakdown by sex,Qalqiliya,2000,17.5
-2001,Both sexes or no breakdown by sex,Qalqiliya,2001,32.3
-2002,Both sexes or no breakdown by sex,Qalqiliya,2002,26.9
-2003,Both sexes or no breakdown by sex,Qalqiliya,2003,22.5
-2004,Both sexes or no breakdown by sex,Qalqiliya,2004,21.9
-2005,Both sexes or no breakdown by sex,Qalqiliya,2005,20.7
-2006,Both sexes or no breakdown by sex,Qalqiliya,2006,16.3
-2007,Both sexes or no breakdown by sex,Qalqiliya,2007,16.3
-2008,Both sexes or no breakdown by sex,Qalqiliya,2008,23.4
-2009,Both sexes or no breakdown by sex,Qalqiliya,2009,23.3
-2010,Both sexes or no breakdown by sex,Qalqiliya,2010,19.7
-2011,Both sexes or no breakdown by sex,Qalqiliya,2011,21.5
-2012,Both sexes or no breakdown by sex,Qalqiliya,2012,21.3
-2013,Both sexes or no breakdown by sex,Qalqiliya,2013,16.5
-2014,Both sexes or no breakdown by sex,Qalqiliya,2014,12.4
-2015,Both sexes or no breakdown by sex,Qalqiliya,2015,13.0
-2016,Both sexes or no breakdown by sex,Qalqiliya,2016,12.9
-2017,Both sexes or no breakdown by sex,Qalqiliya,2017,10.4
-2018,Both sexes or no breakdown by sex,Qalqiliya,2018,7.4
-2000,Both sexes or no breakdown by sex,Salfit,2000,17.8
-2001,Both sexes or no breakdown by sex,Salfit,2001,40.4
-2002,Both sexes or no breakdown by sex,Salfit,2002,28.8
-2003,Both sexes or no breakdown by sex,Salfit,2003,23.0
-2004,Both sexes or no breakdown by sex,Salfit,2004,18.8
-2005,Both sexes or no breakdown by sex,Salfit,2005,21.2
-2006,Both sexes or no breakdown by sex,Salfit,2006,17.4
-2007,Both sexes or no breakdown by sex,Salfit,2007,18.8
-2008,Both sexes or no breakdown by sex,Salfit,2008,19.9
-2009,Both sexes or no breakdown by sex,Salfit,2009,15.6
-2010,Both sexes or no breakdown by sex,Salfit,2010,15.2
-2011,Both sexes or no breakdown by sex,Salfit,2011,15.9
-2012,Both sexes or no breakdown by sex,Salfit,2012,17.7
-2013,Both sexes or no breakdown by sex,Salfit,2013,19.5
-2014,Both sexes or no breakdown by sex,Salfit,2014,18.2
-2015,Both sexes or no breakdown by sex,Salfit,2015,15.3
-2016,Both sexes or no breakdown by sex,Salfit,2016,15.3
-2017,Both sexes or no breakdown by sex,Salfit,2017,16.0
-2018,Both sexes or no breakdown by sex,Salfit,2018,18.9
-2000,Both sexes or no breakdown by sex,Ramallah & Al-Bireh,2000,9.5
-2001,Both sexes or no breakdown by sex,Ramallah & Al-Bireh,2001,25.8
-2002,Both sexes or no breakdown by sex,Ramallah & Al-Bireh,2002,25.7
-2003,Both sexes or no breakdown by sex,Ramallah & Al-Bireh,2003,20.3
-2004,Both sexes or no breakdown by sex,Ramallah & Al-Bireh,2004,19.8
-2005,Both sexes or no breakdown by sex,Ramallah & Al-Bireh,2005,15.6
-2006,Both sexes or no breakdown by sex,Ramallah & Al-Bireh,2006,16.2
-2007,Both sexes or no breakdown by sex,Ramallah & Al-Bireh,2007,16.0
-2008,Both sexes or no breakdown by sex,Ramallah & Al-Bireh,2008,17.1
-2009,Both sexes or no breakdown by sex,Ramallah & Al-Bireh,2009,17.1
-2010,Both sexes or no breakdown by sex,Ramallah & Al-Bireh,2010,15.9
-2011,Both sexes or no breakdown by sex,Ramallah & Al-Bireh,2011,16.2
-2012,Both sexes or no breakdown by sex,Ramallah & Al-Bireh,2012,17.2
-2013,Both sexes or no breakdown by sex,Ramallah & Al-Bireh,2013,17.2
-2014,Both sexes or no breakdown by sex,Ramallah & Al-Bireh,2014,14.5
-2015,Both sexes or no breakdown by sex,Ramallah & Al-Bireh,2015,19.6
-2016,Both sexes or no breakdown by sex,Ramallah & Al-Bireh,2016,16.0
-2017,Both sexes or no breakdown by sex,Ramallah & Al-Bireh,2017,15.9
-2018,Both sexes or no breakdown by sex,Ramallah & Al-Bireh,2018,15.4
-2000,Both sexes or no breakdown by sex,Jericho & AL Aghwar,2000,7.2
-2001,Both sexes or no breakdown by sex,Jericho & AL Aghwar,2001,11.1
-2002,Both sexes or no breakdown by sex,Jericho & AL Aghwar,2002,10.8
-2003,Both sexes or no breakdown by sex,Jericho & AL Aghwar,2003,9.3
-2004,Both sexes or no breakdown by sex,Jericho & AL Aghwar,2004,12.8
-2005,Both sexes or no breakdown by sex,Jericho & AL Aghwar,2005,13.1
-2006,Both sexes or no breakdown by sex,Jericho & AL Aghwar,2006,14.4
-2007,Both sexes or no breakdown by sex,Jericho & AL Aghwar,2007,9.7
-2008,Both sexes or no breakdown by sex,Jericho & AL Aghwar,2008,9.8
-2009,Both sexes or no breakdown by sex,Jericho & AL Aghwar,2009,8.0
-2010,Both sexes or no breakdown by sex,Jericho & AL Aghwar,2010,12.6
-2011,Both sexes or no breakdown by sex,Jericho & AL Aghwar,2011,13.2
-2012,Both sexes or no breakdown by sex,Jericho & AL Aghwar,2012,18.2
-2013,Both sexes or no breakdown by sex,Jericho & AL Aghwar,2013,16.4
-2014,Both sexes or no breakdown by sex,Jericho & AL Aghwar,2014,17.6
-2015,Both sexes or no breakdown by sex,Jericho & AL Aghwar,2015,14.5
-2016,Both sexes or no breakdown by sex,Jericho & AL Aghwar,2016,10.8
-2017,Both sexes or no breakdown by sex,Jericho & AL Aghwar,2017,15.5
-2018,Both sexes or no breakdown by sex,Jericho & AL Aghwar,2018,19.8
-2000,Both sexes or no breakdown by sex,Jerusalem,2000,11.7
-2001,Both sexes or no breakdown by sex,Jerusalem,2001,15.9
-2002,Both sexes or no breakdown by sex,Jerusalem,2002,28.6
-2003,Both sexes or no breakdown by sex,Jerusalem,2003,23.0
-2004,Both sexes or no breakdown by sex,Jerusalem,2004,23.7
-2005,Both sexes or no breakdown by sex,Jerusalem,2005,17.5
-2006,Both sexes or no breakdown by sex,Jerusalem,2006,13.9
-2007,Both sexes or no breakdown by sex,Jerusalem,2007,14.4
-2008,Both sexes or no breakdown by sex,Jerusalem,2008,11.7
-2009,Both sexes or no breakdown by sex,Jerusalem,2009,11.6
-2010,Both sexes or no breakdown by sex,Jerusalem,2010,12.1
-2011,Both sexes or no breakdown by sex,Jerusalem,2011,13.0
-2012,Both sexes or no breakdown by sex,Jerusalem,2012,17.6
-2013,Both sexes or no breakdown by sex,Jerusalem,2013,18.8
-2014,Both sexes or no breakdown by sex,Jerusalem,2014,18.7
-2015,Both sexes or no breakdown by sex,Jerusalem,2015,13.7
-2016,Both sexes or no breakdown by sex,Jerusalem,2016,15.3
-2017,Both sexes or no breakdown by sex,Jerusalem,2017,11.6
-2018,Both sexes or no breakdown by sex,Jerusalem,2018,11.3
-2000,Both sexes or no breakdown by sex,Bethlehem,2000,9.6
-2001,Both sexes or no breakdown by sex,Bethlehem,2001,11.2
-2002,Both sexes or no breakdown by sex,Bethlehem,2002,20.3
-2003,Both sexes or no breakdown by sex,Bethlehem,2003,18.1
-2004,Both sexes or no breakdown by sex,Bethlehem,2004,20.9
-2005,Both sexes or no breakdown by sex,Bethlehem,2005,13.4
-2006,Both sexes or no breakdown by sex,Bethlehem,2006,13.7
-2007,Both sexes or no breakdown by sex,Bethlehem,2007,17.4
-2008,Both sexes or no breakdown by sex,Bethlehem,2008,20.9
-2009,Both sexes or no breakdown by sex,Bethlehem,2009,20.2
-2010,Both sexes or no breakdown by sex,Bethlehem,2010,21.2
-2011,Both sexes or no breakdown by sex,Bethlehem,2011,19.1
-2012,Both sexes or no breakdown by sex,Bethlehem,2012,20.0
-2013,Both sexes or no breakdown by sex,Bethlehem,2013,21.2
-2014,Both sexes or no breakdown by sex,Bethlehem,2014,20.4
-2015,Both sexes or no breakdown by sex,Bethlehem,2015,13.5
-2016,Both sexes or no breakdown by sex,Bethlehem,2016,21.2
-2017,Both sexes or no breakdown by sex,Bethlehem,2017,20.5
-2018,Both sexes or no breakdown by sex,Bethlehem,2018,20.8
-2000,Both sexes or no breakdown by sex,Hebron,2000,10.5
-2001,Both sexes or no breakdown by sex,Hebron,2001,15.8
-2002,Both sexes or no breakdown by sex,Hebron,2002,26.3
-2003,Both sexes or no breakdown by sex,Hebron,2003,22.0
-2004,Both sexes or no breakdown by sex,Hebron,2004,25.1
-2005,Both sexes or no breakdown by sex,Hebron,2005,25.9
-2006,Both sexes or no breakdown by sex,Hebron,2006,23.1
-2007,Both sexes or no breakdown by sex,Hebron,2007,22.1
-2008,Both sexes or no breakdown by sex,Hebron,2008,26.5
-2009,Both sexes or no breakdown by sex,Hebron,2009,22.3
-2010,Both sexes or no breakdown by sex,Hebron,2010,21.5
-2011,Both sexes or no breakdown by sex,Hebron,2011,20.9
-2012,Both sexes or no breakdown by sex,Hebron,2012,22.2
-2013,Both sexes or no breakdown by sex,Hebron,2013,23.8
-2014,Both sexes or no breakdown by sex,Hebron,2014,20.4
-2015,Both sexes or no breakdown by sex,Hebron,2015,19.3
-2016,Both sexes or no breakdown by sex,Hebron,2016,20.9
-2017,Both sexes or no breakdown by sex,Hebron,2017,22.6
-2018,Both sexes or no breakdown by sex,Hebron,2018,19.9
-2000,Both sexes or no breakdown by sex,North Gaza,2000,16.3
-2001,Both sexes or no breakdown by sex,North Gaza,2001,34.7
-2002,Both sexes or no breakdown by sex,North Gaza,2002,36.9
-2003,Both sexes or no breakdown by sex,North Gaza,2003,27.6
-2004,Both sexes or no breakdown by sex,North Gaza,2004,36.6
-2005,Both sexes or no breakdown by sex,North Gaza,2005,33.6
-2006,Both sexes or no breakdown by sex,North Gaza,2006,39.0
-2007,Both sexes or no breakdown by sex,North Gaza,2007,31.5
-2008,Both sexes or no breakdown by sex,North Gaza,2008,39.7
-2009,Both sexes or no breakdown by sex,North Gaza,2009,36.6
-2010,Both sexes or no breakdown by sex,North Gaza,2010,35.6
-2011,Both sexes or no breakdown by sex,North Gaza,2011,28.3
-2012,Both sexes or no breakdown by sex,North Gaza,2012,32.5
-2013,Both sexes or no breakdown by sex,North Gaza,2013,32.9
-2014,Both sexes or no breakdown by sex,North Gaza,2014,41.9
-2015,Both sexes or no breakdown by sex,North Gaza,2015,41.6
-2016,Both sexes or no breakdown by sex,North Gaza,2016,43.6
-2017,Both sexes or no breakdown by sex,North Gaza,2017,43.2
-2018,Both sexes or no breakdown by sex,North Gaza,2018,49.1
-2000,Both sexes or no breakdown by sex,Gaza,2000,17.5
-2001,Both sexes or no breakdown by sex,Gaza,2001,32.4
-2002,Both sexes or no breakdown by sex,Gaza,2002,36.1
-2003,Both sexes or no breakdown by sex,Gaza,2003,27.7
-2004,Both sexes or no breakdown by sex,Gaza,2004,32.7
-2005,Both sexes or no breakdown by sex,Gaza,2005,26.7
-2006,Both sexes or no breakdown by sex,Gaza,2006,33.2
-2007,Both sexes or no breakdown by sex,Gaza,2007,25.1
-2008,Both sexes or no breakdown by sex,Gaza,2008,38.6
-2009,Both sexes or no breakdown by sex,Gaza,2009,34.4
-2010,Both sexes or no breakdown by sex,Gaza,2010,34.0
-2011,Both sexes or no breakdown by sex,Gaza,2011,26.3
-2012,Both sexes or no breakdown by sex,Gaza,2012,28.2
-2013,Both sexes or no breakdown by sex,Gaza,2013,30.0
-2014,Both sexes or no breakdown by sex,Gaza,2014,39.9
-2015,Both sexes or no breakdown by sex,Gaza,2015,36.4
-2016,Both sexes or no breakdown by sex,Gaza,2016,34.7
-2017,Both sexes or no breakdown by sex,Gaza,2017,39.9
-2018,Both sexes or no breakdown by sex,Gaza,2018,47.9
-2000,Both sexes or no breakdown by sex,Dier Al-Balah,2000,22.5
-2001,Both sexes or no breakdown by sex,Dier Al-Balah,2001,34.1
-2002,Both sexes or no breakdown by sex,Dier Al-Balah,2002,39.8
-2003,Both sexes or no breakdown by sex,Dier Al-Balah,2003,31.4
-2004,Both sexes or no breakdown by sex,Dier Al-Balah,2004,36.8
-2005,Both sexes or no breakdown by sex,Dier Al-Balah,2005,35.0
-2006,Both sexes or no breakdown by sex,Dier Al-Balah,2006,34.9
-2007,Both sexes or no breakdown by sex,Dier Al-Balah,2007,32.3
-2008,Both sexes or no breakdown by sex,Dier Al-Balah,2008,41.2
-2009,Both sexes or no breakdown by sex,Dier Al-Balah,2009,35.2
-2010,Both sexes or no breakdown by sex,Dier Al-Balah,2010,38.9
-2011,Both sexes or no breakdown by sex,Dier Al-Balah,2011,25.9
-2012,Both sexes or no breakdown by sex,Dier Al-Balah,2012,30.6
-2013,Both sexes or no breakdown by sex,Dier Al-Balah,2013,32.4
-2014,Both sexes or no breakdown by sex,Dier Al-Balah,2014,49.6
-2015,Both sexes or no breakdown by sex,Dier Al-Balah,2015,47.9
-2016,Both sexes or no breakdown by sex,Dier Al-Balah,2016,44.4
-2017,Both sexes or no breakdown by sex,Dier Al-Balah,2017,49.2
-2018,Both sexes or no breakdown by sex,Dier Al-Balah,2018,57.0
-2000,Both sexes or no breakdown by sex,Khan Yunis,2000,20.4
-2001,Both sexes or no breakdown by sex,Khan Yunis,2001,36.2
-2002,Both sexes or no breakdown by sex,Khan Yunis,2002,38.3
-2003,Both sexes or no breakdown by sex,Khan Yunis,2003,31.9
-2004,Both sexes or no breakdown by sex,Khan Yunis,2004,38.2
-2005,Both sexes or no breakdown by sex,Khan Yunis,2005,31.1
-2006,Both sexes or no breakdown by sex,Khan Yunis,2006,36.0
-2007,Both sexes or no breakdown by sex,Khan Yunis,2007,34.3
-2008,Both sexes or no breakdown by sex,Khan Yunis,2008,47.0
-2009,Both sexes or no breakdown by sex,Khan Yunis,2009,49.1
-2010,Both sexes or no breakdown by sex,Khan Yunis,2010,44.5
-2011,Both sexes or no breakdown by sex,Khan Yunis,2011,31.8
-2012,Both sexes or no breakdown by sex,Khan Yunis,2012,32.7
-2013,Both sexes or no breakdown by sex,Khan Yunis,2013,37.6
-2014,Both sexes or no breakdown by sex,Khan Yunis,2014,46.3
-2015,Both sexes or no breakdown by sex,Khan Yunis,2015,42.5
-2016,Both sexes or no breakdown by sex,Khan Yunis,2016,48.3
-2017,Both sexes or no breakdown by sex,Khan Yunis,2017,48.0
-2018,Both sexes or no breakdown by sex,Khan Yunis,2018,58.0
-2000,Both sexes or no breakdown by sex,Rafah,2000,19.3
-2001,Both sexes or no breakdown by sex,Rafah,2001,34.4
-2002,Both sexes or no breakdown by sex,Rafah,2002,40.9
-2003,Both sexes or no breakdown by sex,Rafah,2003,28.1
-2004,Both sexes or no breakdown by sex,Rafah,2004,35.1
-2005,Both sexes or no breakdown by sex,Rafah,2005,29.0
-2006,Both sexes or no breakdown by sex,Rafah,2006,30.1
-2007,Both sexes or no breakdown by sex,Rafah,2007,28.5
-2008,Both sexes or no breakdown by sex,Rafah,2008,35.3
-2009,Both sexes or no breakdown by sex,Rafah,2009,38.3
-2010,Both sexes or no breakdown by sex,Rafah,2010,36.5
-2011,Both sexes or no breakdown by sex,Rafah,2011,32.8
-2012,Both sexes or no breakdown by sex,Rafah,2012,32.6
-2013,Both sexes or no breakdown by sex,Rafah,2013,38.2
-2014,Both sexes or no breakdown by sex,Rafah,2014,45.3
-2015,Both sexes or no breakdown by sex,Rafah,2015,41.6
-2016,Both sexes or no breakdown by sex,Rafah,2016,43.7
-2017,Both sexes or no breakdown by sex,Rafah,2017,46.7
-2018,Both sexes or no breakdown by sex,Rafah,2018,51.6
+Year,SEX,REF_AREA,TIME_DETAIL,SERIES,Value
+2000,M,Jenin,2000,SL_TLF_UEM,18.4
+2001,M,Jenin,2001,SL_TLF_UEM,40.9
+2002,M,Jenin,2002,SL_TLF_UEM,48.2
+2003,M,Jenin,2003,SL_TLF_UEM,39.0
+2004,M,Jenin,2004,SL_TLF_UEM,30.7
+2005,M,Jenin,2005,SL_TLF_UEM,25.7
+2006,M,Jenin,2006,SL_TLF_UEM,23.5
+2007,M,Jenin,2007,SL_TLF_UEM,20.3
+2008,M,Jenin,2008,SL_TLF_UEM,24.6
+2009,M,Jenin,2009,SL_TLF_UEM,18.6
+2010,M,Jenin,2010,SL_TLF_UEM,15.4
+2011,M,Jenin,2011,SL_TLF_UEM,12.3
+2012,M,Jenin,2012,SL_TLF_UEM,12.9
+2013,M,Jenin,2013,SL_TLF_UEM,15.1
+2014,M,Jenin,2014,SL_TLF_UEM,12.1
+2015,M,Jenin,2015,SL_TLF_UEM,13.7
+2016,M,Jenin,2016,SL_TLF_UEM,15.5
+2017,M,Jenin,2017,SL_TLF_UEM,13.7
+2018,M,Jenin,2018,SL_TLF_UEM,16.8
+2000,M,Tubas & Northern Valleys,2000,SL_TLF_UEM,16.3
+2001,M,Tubas & Northern Valleys,2001,SL_TLF_UEM,33.6
+2002,M,Tubas & Northern Valleys,2002,SL_TLF_UEM,41.8
+2003,M,Tubas & Northern Valleys,2003,SL_TLF_UEM,27.0
+2004,M,Tubas & Northern Valleys,2004,SL_TLF_UEM,22.9
+2005,M,Tubas & Northern Valleys,2005,SL_TLF_UEM,18.3
+2006,M,Tubas & Northern Valleys,2006,SL_TLF_UEM,17.5
+2007,M,Tubas & Northern Valleys,2007,SL_TLF_UEM,20.3
+2008,M,Tubas & Northern Valleys,2008,SL_TLF_UEM,16.7
+2009,M,Tubas & Northern Valleys,2009,SL_TLF_UEM,11.3
+2010,M,Tubas & Northern Valleys,2010,SL_TLF_UEM,11.4
+2011,M,Tubas & Northern Valleys,2011,SL_TLF_UEM,14.0
+2012,M,Tubas & Northern Valleys,2012,SL_TLF_UEM,13.7
+2013,M,Tubas & Northern Valleys,2013,SL_TLF_UEM,14.2
+2014,M,Tubas & Northern Valleys,2014,SL_TLF_UEM,11.4
+2015,M,Tubas & Northern Valleys,2015,SL_TLF_UEM,15.5
+2016,M,Tubas & Northern Valleys,2016,SL_TLF_UEM,15.4
+2017,M,Tubas & Northern Valleys,2017,SL_TLF_UEM,17.6
+2018,M,Tubas & Northern Valleys,2018,SL_TLF_UEM,13.9
+2000,M,Tulkarm,2000,SL_TLF_UEM,17.3
+2001,M,Tulkarm,2001,SL_TLF_UEM,22.3
+2002,M,Tulkarm,2002,SL_TLF_UEM,25.9
+2003,M,Tulkarm,2003,SL_TLF_UEM,26.9
+2004,M,Tulkarm,2004,SL_TLF_UEM,22.8
+2005,M,Tulkarm,2005,SL_TLF_UEM,21.4
+2006,M,Tulkarm,2006,SL_TLF_UEM,21.6
+2007,M,Tulkarm,2007,SL_TLF_UEM,19.4
+2008,M,Tulkarm,2008,SL_TLF_UEM,19.6
+2009,M,Tulkarm,2009,SL_TLF_UEM,18.4
+2010,M,Tulkarm,2010,SL_TLF_UEM,19.9
+2011,M,Tulkarm,2011,SL_TLF_UEM,20.5
+2012,M,Tulkarm,2012,SL_TLF_UEM,25.9
+2013,M,Tulkarm,2013,SL_TLF_UEM,17.8
+2014,M,Tulkarm,2014,SL_TLF_UEM,10.8
+2015,M,Tulkarm,2015,SL_TLF_UEM,13.3
+2016,M,Tulkarm,2016,SL_TLF_UEM,12.7
+2017,M,Tulkarm,2017,SL_TLF_UEM,13.2
+2018,M,Tulkarm,2018,SL_TLF_UEM,14.7
+2000,M,Nablus,2000,SL_TLF_UEM,10.2
+2001,M,Nablus,2001,SL_TLF_UEM,23.0
+2002,M,Nablus,2002,SL_TLF_UEM,30.7
+2003,M,Nablus,2003,SL_TLF_UEM,25.9
+2004,M,Nablus,2004,SL_TLF_UEM,20.0
+2005,M,Nablus,2005,SL_TLF_UEM,16.8
+2006,M,Nablus,2006,SL_TLF_UEM,16.9
+2007,M,Nablus,2007,SL_TLF_UEM,15.4
+2008,M,Nablus,2008,SL_TLF_UEM,15.0
+2009,M,Nablus,2009,SL_TLF_UEM,12.9
+2010,M,Nablus,2010,SL_TLF_UEM,13.8
+2011,M,Nablus,2011,SL_TLF_UEM,11.8
+2012,M,Nablus,2012,SL_TLF_UEM,10.6
+2013,M,Nablus,2013,SL_TLF_UEM,12.1
+2014,M,Nablus,2014,SL_TLF_UEM,14.0
+2015,M,Nablus,2015,SL_TLF_UEM,12.8
+2016,M,Nablus,2016,SL_TLF_UEM,11.9
+2017,M,Nablus,2017,SL_TLF_UEM,16.1
+2018,M,Nablus,2018,SL_TLF_UEM,13.4
+2000,M,Qalqiliya,2000,SL_TLF_UEM,18.2
+2001,M,Qalqiliya,2001,SL_TLF_UEM,36.7
+2002,M,Qalqiliya,2002,SL_TLF_UEM,30.8
+2003,M,Qalqiliya,2003,SL_TLF_UEM,27.1
+2004,M,Qalqiliya,2004,SL_TLF_UEM,24.2
+2005,M,Qalqiliya,2005,SL_TLF_UEM,21.2
+2006,M,Qalqiliya,2006,SL_TLF_UEM,16.1
+2007,M,Qalqiliya,2007,SL_TLF_UEM,16.9
+2008,M,Qalqiliya,2008,SL_TLF_UEM,22.6
+2009,M,Qalqiliya,2009,SL_TLF_UEM,20.2
+2010,M,Qalqiliya,2010,SL_TLF_UEM,18.5
+2011,M,Qalqiliya,2011,SL_TLF_UEM,20.0
+2012,M,Qalqiliya,2012,SL_TLF_UEM,20.1
+2013,M,Qalqiliya,2013,SL_TLF_UEM,14.6
+2014,M,Qalqiliya,2014,SL_TLF_UEM,10.9
+2015,M,Qalqiliya,2015,SL_TLF_UEM,10.9
+2016,M,Qalqiliya,2016,SL_TLF_UEM,10.1
+2017,M,Qalqiliya,2017,SL_TLF_UEM,7.2
+2018,M,Qalqiliya,2018,SL_TLF_UEM,2.8
+2000,M,Salfit,2000,SL_TLF_UEM,18.8
+2001,M,Salfit,2001,SL_TLF_UEM,47.0
+2002,M,Salfit,2002,SL_TLF_UEM,34.4
+2003,M,Salfit,2003,SL_TLF_UEM,27.3
+2004,M,Salfit,2004,SL_TLF_UEM,21.7
+2005,M,Salfit,2005,SL_TLF_UEM,22.1
+2006,M,Salfit,2006,SL_TLF_UEM,18.2
+2007,M,Salfit,2007,SL_TLF_UEM,18.2
+2008,M,Salfit,2008,SL_TLF_UEM,19.5
+2009,M,Salfit,2009,SL_TLF_UEM,14.0
+2010,M,Salfit,2010,SL_TLF_UEM,12.7
+2011,M,Salfit,2011,SL_TLF_UEM,13.7
+2012,M,Salfit,2012,SL_TLF_UEM,13.5
+2013,M,Salfit,2013,SL_TLF_UEM,17.4
+2014,M,Salfit,2014,SL_TLF_UEM,13.8
+2015,M,Salfit,2015,SL_TLF_UEM,11.9
+2016,M,Salfit,2016,SL_TLF_UEM,13.9
+2017,M,Salfit,2017,SL_TLF_UEM,14.6
+2018,M,Salfit,2018,SL_TLF_UEM,17.6
+2000,M,Ramallah & Al-Bireh,2000,SL_TLF_UEM,9.9
+2001,M,Ramallah & Al-Bireh,2001,SL_TLF_UEM,28.4
+2002,M,Ramallah & Al-Bireh,2002,SL_TLF_UEM,28.1
+2003,M,Ramallah & Al-Bireh,2003,SL_TLF_UEM,21.8
+2004,M,Ramallah & Al-Bireh,2004,SL_TLF_UEM,20.8
+2005,M,Ramallah & Al-Bireh,2005,SL_TLF_UEM,16.2
+2006,M,Ramallah & Al-Bireh,2006,SL_TLF_UEM,15.4
+2007,M,Ramallah & Al-Bireh,2007,SL_TLF_UEM,15.7
+2008,M,Ramallah & Al-Bireh,2008,SL_TLF_UEM,17.8
+2009,M,Ramallah & Al-Bireh,2009,SL_TLF_UEM,17.3
+2010,M,Ramallah & Al-Bireh,2010,SL_TLF_UEM,15.3
+2011,M,Ramallah & Al-Bireh,2011,SL_TLF_UEM,15.5
+2012,M,Ramallah & Al-Bireh,2012,SL_TLF_UEM,16.5
+2013,M,Ramallah & Al-Bireh,2013,SL_TLF_UEM,16.6
+2014,M,Ramallah & Al-Bireh,2014,SL_TLF_UEM,12.8
+2015,M,Ramallah & Al-Bireh,2015,SL_TLF_UEM,17.5
+2016,M,Ramallah & Al-Bireh,2016,SL_TLF_UEM,14.7
+2017,M,Ramallah & Al-Bireh,2017,SL_TLF_UEM,15.5
+2018,M,Ramallah & Al-Bireh,2018,SL_TLF_UEM,14.4
+2000,M,Jericho & AL Aghwar,2000,SL_TLF_UEM,7.9
+2001,M,Jericho & AL Aghwar,2001,SL_TLF_UEM,12.8
+2002,M,Jericho & AL Aghwar,2002,SL_TLF_UEM,11.6
+2003,M,Jericho & AL Aghwar,2003,SL_TLF_UEM,9.2
+2004,M,Jericho & AL Aghwar,2004,SL_TLF_UEM,12.3
+2005,M,Jericho & AL Aghwar,2005,SL_TLF_UEM,13.0
+2006,M,Jericho & AL Aghwar,2006,SL_TLF_UEM,14.9
+2007,M,Jericho & AL Aghwar,2007,SL_TLF_UEM,7.8
+2008,M,Jericho & AL Aghwar,2008,SL_TLF_UEM,10.0
+2009,M,Jericho & AL Aghwar,2009,SL_TLF_UEM,8.6
+2010,M,Jericho & AL Aghwar,2010,SL_TLF_UEM,13.2
+2011,M,Jericho & AL Aghwar,2011,SL_TLF_UEM,11.9
+2012,M,Jericho & AL Aghwar,2012,SL_TLF_UEM,15.5
+2013,M,Jericho & AL Aghwar,2013,SL_TLF_UEM,14.9
+2014,M,Jericho & AL Aghwar,2014,SL_TLF_UEM,16.4
+2015,M,Jericho & AL Aghwar,2015,SL_TLF_UEM,12.4
+2016,M,Jericho & AL Aghwar,2016,SL_TLF_UEM,9.5
+2017,M,Jericho & AL Aghwar,2017,SL_TLF_UEM,12.3
+2018,M,Jericho & AL Aghwar,2018,SL_TLF_UEM,15.8
+2000,M,Jerusalem,2000,SL_TLF_UEM,12.4
+2001,M,Jerusalem,2001,SL_TLF_UEM,17.2
+2002,M,Jerusalem,2002,SL_TLF_UEM,31.0
+2003,M,Jerusalem,2003,SL_TLF_UEM,24.3
+2004,M,Jerusalem,2004,SL_TLF_UEM,25.1
+2005,M,Jerusalem,2005,SL_TLF_UEM,18.3
+2006,M,Jerusalem,2006,SL_TLF_UEM,14.8
+2007,M,Jerusalem,2007,SL_TLF_UEM,15.4
+2008,M,Jerusalem,2008,SL_TLF_UEM,12.2
+2009,M,Jerusalem,2009,SL_TLF_UEM,11.3
+2010,M,Jerusalem,2010,SL_TLF_UEM,11.3
+2011,M,Jerusalem,2011,SL_TLF_UEM,11.9
+2012,M,Jerusalem,2012,SL_TLF_UEM,17.3
+2013,M,Jerusalem,2013,SL_TLF_UEM,18.1
+2014,M,Jerusalem,2014,SL_TLF_UEM,16.8
+2015,M,Jerusalem,2015,SL_TLF_UEM,12.2
+2016,M,Jerusalem,2016,SL_TLF_UEM,15.6
+2017,M,Jerusalem,2017,SL_TLF_UEM,10.8
+2018,M,Jerusalem,2018,SL_TLF_UEM,9.1
+2000,M,Bethlehem,2000,SL_TLF_UEM,10.4
+2001,M,Bethlehem,2001,SL_TLF_UEM,12.1
+2002,M,Bethlehem,2002,SL_TLF_UEM,22.7
+2003,M,Bethlehem,2003,SL_TLF_UEM,19.8
+2004,M,Bethlehem,2004,SL_TLF_UEM,23.2
+2005,M,Bethlehem,2005,SL_TLF_UEM,14.2
+2006,M,Bethlehem,2006,SL_TLF_UEM,13.8
+2007,M,Bethlehem,2007,SL_TLF_UEM,18.8
+2008,M,Bethlehem,2008,SL_TLF_UEM,23.0
+2009,M,Bethlehem,2009,SL_TLF_UEM,20.4
+2010,M,Bethlehem,2010,SL_TLF_UEM,20.2
+2011,M,Bethlehem,2011,SL_TLF_UEM,18.3
+2012,M,Bethlehem,2012,SL_TLF_UEM,20.2
+2013,M,Bethlehem,2013,SL_TLF_UEM,20.3
+2014,M,Bethlehem,2014,SL_TLF_UEM,17.7
+2015,M,Bethlehem,2015,SL_TLF_UEM,11.3
+2016,M,Bethlehem,2016,SL_TLF_UEM,17.9
+2017,M,Bethlehem,2017,SL_TLF_UEM,17.1
+2018,M,Bethlehem,2018,SL_TLF_UEM,17.8
+2000,M,Hebron,2000,SL_TLF_UEM,10.5
+2001,M,Hebron,2001,SL_TLF_UEM,17.0
+2002,M,Hebron,2002,SL_TLF_UEM,28.7
+2003,M,Hebron,2003,SL_TLF_UEM,23.3
+2004,M,Hebron,2004,SL_TLF_UEM,27.6
+2005,M,Hebron,2005,SL_TLF_UEM,27.9
+2006,M,Hebron,2006,SL_TLF_UEM,24.9
+2007,M,Hebron,2007,SL_TLF_UEM,23.9
+2008,M,Hebron,2008,SL_TLF_UEM,28.1
+2009,M,Hebron,2009,SL_TLF_UEM,23.2
+2010,M,Hebron,2010,SL_TLF_UEM,21.3
+2011,M,Hebron,2011,SL_TLF_UEM,19.7
+2012,M,Hebron,2012,SL_TLF_UEM,20.4
+2013,M,Hebron,2013,SL_TLF_UEM,21.6
+2014,M,Hebron,2014,SL_TLF_UEM,18.6
+2015,M,Hebron,2015,SL_TLF_UEM,18.1
+2016,M,Hebron,2016,SL_TLF_UEM,18.3
+2017,M,Hebron,2017,SL_TLF_UEM,19.0
+2018,M,Hebron,2018,SL_TLF_UEM,17.1
+2000,M,North Gaza,2000,SL_TLF_UEM,17.0
+2001,M,North Gaza,2001,SL_TLF_UEM,36.4
+2002,M,North Gaza,2002,SL_TLF_UEM,38.6
+2003,M,North Gaza,2003,SL_TLF_UEM,27.7
+2004,M,North Gaza,2004,SL_TLF_UEM,37.5
+2005,M,North Gaza,2005,SL_TLF_UEM,33.9
+2006,M,North Gaza,2006,SL_TLF_UEM,39.7
+2007,M,North Gaza,2007,SL_TLF_UEM,31.8
+2008,M,North Gaza,2008,SL_TLF_UEM,40.4
+2009,M,North Gaza,2009,SL_TLF_UEM,35.6
+2010,M,North Gaza,2010,SL_TLF_UEM,34.7
+2011,M,North Gaza,2011,SL_TLF_UEM,25.6
+2012,M,North Gaza,2012,SL_TLF_UEM,29.6
+2013,M,North Gaza,2013,SL_TLF_UEM,29.0
+2014,M,North Gaza,2014,SL_TLF_UEM,39.6
+2015,M,North Gaza,2015,SL_TLF_UEM,37.5
+2016,M,North Gaza,2016,SL_TLF_UEM,37.8
+2017,M,North Gaza,2017,SL_TLF_UEM,34.9
+2018,M,North Gaza,2018,SL_TLF_UEM,39.4
+2000,M,Gaza,2000,SL_TLF_UEM,17.1
+2001,M,Gaza,2001,SL_TLF_UEM,33.7
+2002,M,Gaza,2002,SL_TLF_UEM,36.6
+2003,M,Gaza,2003,SL_TLF_UEM,27.3
+2004,M,Gaza,2004,SL_TLF_UEM,32.9
+2005,M,Gaza,2005,SL_TLF_UEM,25.5
+2006,M,Gaza,2006,SL_TLF_UEM,33.2
+2007,M,Gaza,2007,SL_TLF_UEM,23.7
+2008,M,Gaza,2008,SL_TLF_UEM,37.2
+2009,M,Gaza,2009,SL_TLF_UEM,33.6
+2010,M,Gaza,2010,SL_TLF_UEM,33.5
+2011,M,Gaza,2011,SL_TLF_UEM,24.3
+2012,M,Gaza,2012,SL_TLF_UEM,23.7
+2013,M,Gaza,2013,SL_TLF_UEM,24.7
+2014,M,Gaza,2014,SL_TLF_UEM,35.4
+2015,M,Gaza,2015,SL_TLF_UEM,30.9
+2016,M,Gaza,2016,SL_TLF_UEM,28.0
+2017,M,Gaza,2017,SL_TLF_UEM,32.2
+2018,M,Gaza,2018,SL_TLF_UEM,40.5
+2000,M,Dier Al-Balah,2000,SL_TLF_UEM,21.8
+2001,M,Dier Al-Balah,2001,SL_TLF_UEM,34.4
+2002,M,Dier Al-Balah,2002,SL_TLF_UEM,40.0
+2003,M,Dier Al-Balah,2003,SL_TLF_UEM,31.1
+2004,M,Dier Al-Balah,2004,SL_TLF_UEM,36.6
+2005,M,Dier Al-Balah,2005,SL_TLF_UEM,33.6
+2006,M,Dier Al-Balah,2006,SL_TLF_UEM,35.9
+2007,M,Dier Al-Balah,2007,SL_TLF_UEM,33.6
+2008,M,Dier Al-Balah,2008,SL_TLF_UEM,39.7
+2009,M,Dier Al-Balah,2009,SL_TLF_UEM,32.0
+2010,M,Dier Al-Balah,2010,SL_TLF_UEM,38.3
+2011,M,Dier Al-Balah,2011,SL_TLF_UEM,22.3
+2012,M,Dier Al-Balah,2012,SL_TLF_UEM,24.1
+2013,M,Dier Al-Balah,2013,SL_TLF_UEM,23.8
+2014,M,Dier Al-Balah,2014,SL_TLF_UEM,44.0
+2015,M,Dier Al-Balah,2015,SL_TLF_UEM,44.2
+2016,M,Dier Al-Balah,2016,SL_TLF_UEM,38.1
+2017,M,Dier Al-Balah,2017,SL_TLF_UEM,43.0
+2018,M,Dier Al-Balah,2018,SL_TLF_UEM,50.2
+2000,M,Khan Yunis,2000,SL_TLF_UEM,21.5
+2001,M,Khan Yunis,2001,SL_TLF_UEM,37.6
+2002,M,Khan Yunis,2002,SL_TLF_UEM,39.6
+2003,M,Khan Yunis,2003,SL_TLF_UEM,34.3
+2004,M,Khan Yunis,2004,SL_TLF_UEM,39.6
+2005,M,Khan Yunis,2005,SL_TLF_UEM,31.2
+2006,M,Khan Yunis,2006,SL_TLF_UEM,36.2
+2007,M,Khan Yunis,2007,SL_TLF_UEM,36.6
+2008,M,Khan Yunis,2008,SL_TLF_UEM,48.6
+2009,M,Khan Yunis,2009,SL_TLF_UEM,47.7
+2010,M,Khan Yunis,2010,SL_TLF_UEM,41.3
+2011,M,Khan Yunis,2011,SL_TLF_UEM,28.1
+2012,M,Khan Yunis,2012,SL_TLF_UEM,29.4
+2013,M,Khan Yunis,2013,SL_TLF_UEM,34.3
+2014,M,Khan Yunis,2014,SL_TLF_UEM,43.8
+2015,M,Khan Yunis,2015,SL_TLF_UEM,37.8
+2016,M,Khan Yunis,2016,SL_TLF_UEM,39.5
+2017,M,Khan Yunis,2017,SL_TLF_UEM,40.4
+2018,M,Khan Yunis,2018,SL_TLF_UEM,47.1
+2000,M,Rafah,2000,SL_TLF_UEM,19.4
+2001,M,Rafah,2001,SL_TLF_UEM,35.2
+2002,M,Rafah,2002,SL_TLF_UEM,42.7
+2003,M,Rafah,2003,SL_TLF_UEM,29.1
+2004,M,Rafah,2004,SL_TLF_UEM,36.2
+2005,M,Rafah,2005,SL_TLF_UEM,28.8
+2006,M,Rafah,2006,SL_TLF_UEM,30.3
+2007,M,Rafah,2007,SL_TLF_UEM,27.7
+2008,M,Rafah,2008,SL_TLF_UEM,33.9
+2009,M,Rafah,2009,SL_TLF_UEM,36.8
+2010,M,Rafah,2010,SL_TLF_UEM,32.4
+2011,M,Rafah,2011,SL_TLF_UEM,29.3
+2012,M,Rafah,2012,SL_TLF_UEM,28.3
+2013,M,Rafah,2013,SL_TLF_UEM,33.2
+2014,M,Rafah,2014,SL_TLF_UEM,42.1
+2015,M,Rafah,2015,SL_TLF_UEM,34.5
+2016,M,Rafah,2016,SL_TLF_UEM,34.4
+2017,M,Rafah,2017,SL_TLF_UEM,38.3
+2018,M,Rafah,2018,SL_TLF_UEM,45.7
+2000,F,Jenin,2000,SL_TLF_UEM,7.2
+2001,F,Jenin,2001,SL_TLF_UEM,10.1
+2002,F,Jenin,2002,SL_TLF_UEM,20.1
+2003,F,Jenin,2003,SL_TLF_UEM,19.1
+2004,F,Jenin,2004,SL_TLF_UEM,20.4
+2005,F,Jenin,2005,SL_TLF_UEM,23.2
+2006,F,Jenin,2006,SL_TLF_UEM,21.3
+2007,F,Jenin,2007,SL_TLF_UEM,14.1
+2008,F,Jenin,2008,SL_TLF_UEM,14.6
+2009,F,Jenin,2009,SL_TLF_UEM,18.9
+2010,F,Jenin,2010,SL_TLF_UEM,15.0
+2011,F,Jenin,2011,SL_TLF_UEM,17.2
+2012,F,Jenin,2012,SL_TLF_UEM,21.2
+2013,F,Jenin,2013,SL_TLF_UEM,29.7
+2014,F,Jenin,2014,SL_TLF_UEM,31.2
+2015,F,Jenin,2015,SL_TLF_UEM,24.2
+2016,F,Jenin,2016,SL_TLF_UEM,33.5
+2017,F,Jenin,2017,SL_TLF_UEM,38.0
+2018,F,Jenin,2018,SL_TLF_UEM,37.4
+2000,F,Tubas & Northern Valleys,2000,SL_TLF_UEM,13.4
+2001,F,Tubas & Northern Valleys,2001,SL_TLF_UEM,14.6
+2002,F,Tubas & Northern Valleys,2002,SL_TLF_UEM,25.3
+2003,F,Tubas & Northern Valleys,2003,SL_TLF_UEM,17.8
+2004,F,Tubas & Northern Valleys,2004,SL_TLF_UEM,17.2
+2005,F,Tubas & Northern Valleys,2005,SL_TLF_UEM,25.4
+2006,F,Tubas & Northern Valleys,2006,SL_TLF_UEM,25.9
+2007,F,Tubas & Northern Valleys,2007,SL_TLF_UEM,18.8
+2008,F,Tubas & Northern Valleys,2008,SL_TLF_UEM,17.5
+2009,F,Tubas & Northern Valleys,2009,SL_TLF_UEM,20.0
+2010,F,Tubas & Northern Valleys,2010,SL_TLF_UEM,12.6
+2011,F,Tubas & Northern Valleys,2011,SL_TLF_UEM,17.0
+2012,F,Tubas & Northern Valleys,2012,SL_TLF_UEM,19.9
+2013,F,Tubas & Northern Valleys,2013,SL_TLF_UEM,21.2
+2014,F,Tubas & Northern Valleys,2014,SL_TLF_UEM,26.6
+2015,F,Tubas & Northern Valleys,2015,SL_TLF_UEM,26.1
+2016,F,Tubas & Northern Valleys,2016,SL_TLF_UEM,30.8
+2017,F,Tubas & Northern Valleys,2017,SL_TLF_UEM,36.0
+2018,F,Tubas & Northern Valleys,2018,SL_TLF_UEM,38.7
+2000,F,Tulkarm,2000,SL_TLF_UEM,13.1
+2001,F,Tulkarm,2001,SL_TLF_UEM,12.9
+2002,F,Tulkarm,2002,SL_TLF_UEM,14.7
+2003,F,Tulkarm,2003,SL_TLF_UEM,14.4
+2004,F,Tulkarm,2004,SL_TLF_UEM,19.5
+2005,F,Tulkarm,2005,SL_TLF_UEM,22.6
+2006,F,Tulkarm,2006,SL_TLF_UEM,22.4
+2007,F,Tulkarm,2007,SL_TLF_UEM,25.5
+2008,F,Tulkarm,2008,SL_TLF_UEM,33.0
+2009,F,Tulkarm,2009,SL_TLF_UEM,35.7
+2010,F,Tulkarm,2010,SL_TLF_UEM,31.8
+2011,F,Tulkarm,2011,SL_TLF_UEM,28.5
+2012,F,Tulkarm,2012,SL_TLF_UEM,34.5
+2013,F,Tulkarm,2013,SL_TLF_UEM,27.7
+2014,F,Tulkarm,2014,SL_TLF_UEM,21.9
+2015,F,Tulkarm,2015,SL_TLF_UEM,31.4
+2016,F,Tulkarm,2016,SL_TLF_UEM,31.5
+2017,F,Tulkarm,2017,SL_TLF_UEM,28.8
+2018,F,Tulkarm,2018,SL_TLF_UEM,31.4
+2000,F,Nablus,2000,SL_TLF_UEM,14.5
+2001,F,Nablus,2001,SL_TLF_UEM,21.1
+2002,F,Nablus,2002,SL_TLF_UEM,22.0
+2003,F,Nablus,2003,SL_TLF_UEM,23.2
+2004,F,Nablus,2004,SL_TLF_UEM,22.4
+2005,F,Nablus,2005,SL_TLF_UEM,22.6
+2006,F,Nablus,2006,SL_TLF_UEM,19.8
+2007,F,Nablus,2007,SL_TLF_UEM,16.2
+2008,F,Nablus,2008,SL_TLF_UEM,19.0
+2009,F,Nablus,2009,SL_TLF_UEM,12.8
+2010,F,Nablus,2010,SL_TLF_UEM,13.9
+2011,F,Nablus,2011,SL_TLF_UEM,24.6
+2012,F,Nablus,2012,SL_TLF_UEM,27.3
+2013,F,Nablus,2013,SL_TLF_UEM,26.0
+2014,F,Nablus,2014,SL_TLF_UEM,28.6
+2015,F,Nablus,2015,SL_TLF_UEM,30.5
+2016,F,Nablus,2016,SL_TLF_UEM,31.0
+2017,F,Nablus,2017,SL_TLF_UEM,32.0
+2018,F,Nablus,2018,SL_TLF_UEM,26.3
+2000,F,Qalqiliya,2000,SL_TLF_UEM,13.4
+2001,F,Qalqiliya,2001,SL_TLF_UEM,9.1
+2002,F,Qalqiliya,2002,SL_TLF_UEM,10.7
+2003,F,Qalqiliya,2003,SL_TLF_UEM,8.6
+2004,F,Qalqiliya,2004,SL_TLF_UEM,14.7
+2005,F,Qalqiliya,2005,SL_TLF_UEM,18.8
+2006,F,Qalqiliya,2006,SL_TLF_UEM,17.1
+2007,F,Qalqiliya,2007,SL_TLF_UEM,13.9
+2008,F,Qalqiliya,2008,SL_TLF_UEM,27.0
+2009,F,Qalqiliya,2009,SL_TLF_UEM,37.0
+2010,F,Qalqiliya,2010,SL_TLF_UEM,25.9
+2011,F,Qalqiliya,2011,SL_TLF_UEM,27.8
+2012,F,Qalqiliya,2012,SL_TLF_UEM,26.5
+2013,F,Qalqiliya,2013,SL_TLF_UEM,23.9
+2014,F,Qalqiliya,2014,SL_TLF_UEM,18.5
+2015,F,Qalqiliya,2015,SL_TLF_UEM,22.3
+2016,F,Qalqiliya,2016,SL_TLF_UEM,23.8
+2017,F,Qalqiliya,2017,SL_TLF_UEM,26.0
+2018,F,Qalqiliya,2018,SL_TLF_UEM,27.6
+2000,F,Salfit,2000,SL_TLF_UEM,13.6
+2001,F,Salfit,2001,SL_TLF_UEM,11.3
+2002,F,Salfit,2002,SL_TLF_UEM,11.2
+2003,F,Salfit,2003,SL_TLF_UEM,10.3
+2004,F,Salfit,2004,SL_TLF_UEM,10.8
+2005,F,Salfit,2005,SL_TLF_UEM,18.4
+2006,F,Salfit,2006,SL_TLF_UEM,14.7
+2007,F,Salfit,2007,SL_TLF_UEM,21.0
+2008,F,Salfit,2008,SL_TLF_UEM,21.3
+2009,F,Salfit,2009,SL_TLF_UEM,22.6
+2010,F,Salfit,2010,SL_TLF_UEM,22.6
+2011,F,Salfit,2011,SL_TLF_UEM,21.8
+2012,F,Salfit,2012,SL_TLF_UEM,31.9
+2013,F,Salfit,2013,SL_TLF_UEM,27.1
+2014,F,Salfit,2014,SL_TLF_UEM,32.5
+2015,F,Salfit,2015,SL_TLF_UEM,28.2
+2016,F,Salfit,2016,SL_TLF_UEM,22.6
+2017,F,Salfit,2017,SL_TLF_UEM,22.4
+2018,F,Salfit,2018,SL_TLF_UEM,24.5
+2000,F,Ramallah & Al-Bireh,2000,SL_TLF_UEM,7.1
+2001,F,Ramallah & Al-Bireh,2001,SL_TLF_UEM,7.9
+2002,F,Ramallah & Al-Bireh,2002,SL_TLF_UEM,16.3
+2003,F,Ramallah & Al-Bireh,2003,SL_TLF_UEM,13.6
+2004,F,Ramallah & Al-Bireh,2004,SL_TLF_UEM,15.9
+2005,F,Ramallah & Al-Bireh,2005,SL_TLF_UEM,13.7
+2006,F,Ramallah & Al-Bireh,2006,SL_TLF_UEM,18.8
+2007,F,Ramallah & Al-Bireh,2007,SL_TLF_UEM,17.0
+2008,F,Ramallah & Al-Bireh,2008,SL_TLF_UEM,15.0
+2009,F,Ramallah & Al-Bireh,2009,SL_TLF_UEM,16.4
+2010,F,Ramallah & Al-Bireh,2010,SL_TLF_UEM,17.6
+2011,F,Ramallah & Al-Bireh,2011,SL_TLF_UEM,18.7
+2012,F,Ramallah & Al-Bireh,2012,SL_TLF_UEM,19.8
+2013,F,Ramallah & Al-Bireh,2013,SL_TLF_UEM,19.5
+2014,F,Ramallah & Al-Bireh,2014,SL_TLF_UEM,21.0
+2015,F,Ramallah & Al-Bireh,2015,SL_TLF_UEM,27.2
+2016,F,Ramallah & Al-Bireh,2016,SL_TLF_UEM,20.8
+2017,F,Ramallah & Al-Bireh,2017,SL_TLF_UEM,18.1
+2018,F,Ramallah & Al-Bireh,2018,SL_TLF_UEM,21.0
+2000,F,Jericho & AL Aghwar,2000,SL_TLF_UEM,3.9
+2001,F,Jericho & AL Aghwar,2001,SL_TLF_UEM,5.4
+2002,F,Jericho & AL Aghwar,2002,SL_TLF_UEM,6.8
+2003,F,Jericho & AL Aghwar,2003,SL_TLF_UEM,9.9
+2004,F,Jericho & AL Aghwar,2004,SL_TLF_UEM,15.7
+2005,F,Jericho & AL Aghwar,2005,SL_TLF_UEM,13.8
+2006,F,Jericho & AL Aghwar,2006,SL_TLF_UEM,12.2
+2007,F,Jericho & AL Aghwar,2007,SL_TLF_UEM,16.9
+2008,F,Jericho & AL Aghwar,2008,SL_TLF_UEM,8.9
+2009,F,Jericho & AL Aghwar,2009,SL_TLF_UEM,5.9
+2010,F,Jericho & AL Aghwar,2010,SL_TLF_UEM,10.6
+2011,F,Jericho & AL Aghwar,2011,SL_TLF_UEM,18.1
+2012,F,Jericho & AL Aghwar,2012,SL_TLF_UEM,28.0
+2013,F,Jericho & AL Aghwar,2013,SL_TLF_UEM,22.3
+2014,F,Jericho & AL Aghwar,2014,SL_TLF_UEM,22.4
+2015,F,Jericho & AL Aghwar,2015,SL_TLF_UEM,22.3
+2016,F,Jericho & AL Aghwar,2016,SL_TLF_UEM,16.7
+2017,F,Jericho & AL Aghwar,2017,SL_TLF_UEM,27.2
+2018,F,Jericho & AL Aghwar,2018,SL_TLF_UEM,33.9
+2000,F,Jerusalem,2000,SL_TLF_UEM,6.5
+2001,F,Jerusalem,2001,SL_TLF_UEM,4.9
+2002,F,Jerusalem,2002,SL_TLF_UEM,5.3
+2003,F,Jerusalem,2003,SL_TLF_UEM,12.7
+2004,F,Jerusalem,2004,SL_TLF_UEM,14.3
+2005,F,Jerusalem,2005,SL_TLF_UEM,10.9
+2006,F,Jerusalem,2006,SL_TLF_UEM,8.3
+2007,F,Jerusalem,2007,SL_TLF_UEM,9.1
+2008,F,Jerusalem,2008,SL_TLF_UEM,9.5
+2009,F,Jerusalem,2009,SL_TLF_UEM,13.4
+2010,F,Jerusalem,2010,SL_TLF_UEM,18.1
+2011,F,Jerusalem,2011,SL_TLF_UEM,21.5
+2012,F,Jerusalem,2012,SL_TLF_UEM,19.6
+2013,F,Jerusalem,2013,SL_TLF_UEM,23.4
+2014,F,Jerusalem,2014,SL_TLF_UEM,33.5
+2015,F,Jerusalem,2015,SL_TLF_UEM,26.4
+2016,F,Jerusalem,2016,SL_TLF_UEM,12.7
+2017,F,Jerusalem,2017,SL_TLF_UEM,17.5
+2018,F,Jerusalem,2018,SL_TLF_UEM,23.0
+2000,F,Bethlehem,2000,SL_TLF_UEM,5.6
+2001,F,Bethlehem,2001,SL_TLF_UEM,5.4
+2002,F,Bethlehem,2002,SL_TLF_UEM,4.4
+2003,F,Bethlehem,2003,SL_TLF_UEM,8.8
+2004,F,Bethlehem,2004,SL_TLF_UEM,5.6
+2005,F,Bethlehem,2005,SL_TLF_UEM,8.4
+2006,F,Bethlehem,2006,SL_TLF_UEM,13.4
+2007,F,Bethlehem,2007,SL_TLF_UEM,13.3
+2008,F,Bethlehem,2008,SL_TLF_UEM,14.6
+2009,F,Bethlehem,2009,SL_TLF_UEM,19.4
+2010,F,Bethlehem,2010,SL_TLF_UEM,24.5
+2011,F,Bethlehem,2011,SL_TLF_UEM,21.4
+2012,F,Bethlehem,2012,SL_TLF_UEM,19.5
+2013,F,Bethlehem,2013,SL_TLF_UEM,24.1
+2014,F,Bethlehem,2014,SL_TLF_UEM,29.8
+2015,F,Bethlehem,2015,SL_TLF_UEM,21.7
+2016,F,Bethlehem,2016,SL_TLF_UEM,32.5
+2017,F,Bethlehem,2017,SL_TLF_UEM,32.2
+2018,F,Bethlehem,2018,SL_TLF_UEM,31.1
+2000,F,Hebron,2000,SL_TLF_UEM,10.4
+2001,F,Hebron,2001,SL_TLF_UEM,9.2
+2002,F,Hebron,2002,SL_TLF_UEM,10.9
+2003,F,Hebron,2003,SL_TLF_UEM,14.9
+2004,F,Hebron,2004,SL_TLF_UEM,12.8
+2005,F,Hebron,2005,SL_TLF_UEM,16.6
+2006,F,Hebron,2006,SL_TLF_UEM,16.3
+2007,F,Hebron,2007,SL_TLF_UEM,15.5
+2008,F,Hebron,2008,SL_TLF_UEM,19.3
+2009,F,Hebron,2009,SL_TLF_UEM,18.9
+2010,F,Hebron,2010,SL_TLF_UEM,22.5
+2011,F,Hebron,2011,SL_TLF_UEM,25.9
+2012,F,Hebron,2012,SL_TLF_UEM,30.1
+2013,F,Hebron,2013,SL_TLF_UEM,34.2
+2014,F,Hebron,2014,SL_TLF_UEM,28.2
+2015,F,Hebron,2015,SL_TLF_UEM,24.8
+2016,F,Hebron,2016,SL_TLF_UEM,33.6
+2017,F,Hebron,2017,SL_TLF_UEM,38.5
+2018,F,Hebron,2018,SL_TLF_UEM,32.9
+2000,F,North Gaza,2000,SL_TLF_UEM,12.4
+2001,F,North Gaza,2001,SL_TLF_UEM,19.9
+2002,F,North Gaza,2002,SL_TLF_UEM,21.2
+2003,F,North Gaza,2003,SL_TLF_UEM,27.1
+2004,F,North Gaza,2004,SL_TLF_UEM,29.8
+2005,F,North Gaza,2005,SL_TLF_UEM,30.5
+2006,F,North Gaza,2006,SL_TLF_UEM,32.8
+2007,F,North Gaza,2007,SL_TLF_UEM,29.6
+2008,F,North Gaza,2008,SL_TLF_UEM,36.1
+2009,F,North Gaza,2009,SL_TLF_UEM,42.2
+2010,F,North Gaza,2010,SL_TLF_UEM,42.1
+2011,F,North Gaza,2011,SL_TLF_UEM,42.9
+2012,F,North Gaza,2012,SL_TLF_UEM,48.5
+2013,F,North Gaza,2013,SL_TLF_UEM,52.9
+2014,F,North Gaza,2014,SL_TLF_UEM,52.2
+2015,F,North Gaza,2015,SL_TLF_UEM,59.4
+2016,F,North Gaza,2016,SL_TLF_UEM,64.5
+2017,F,North Gaza,2017,SL_TLF_UEM,69.4
+2018,F,North Gaza,2018,SL_TLF_UEM,75.7
+2000,F,Gaza,2000,SL_TLF_UEM,20.9
+2001,F,Gaza,2001,SL_TLF_UEM,18.4
+2002,F,Gaza,2002,SL_TLF_UEM,29.8
+2003,F,Gaza,2003,SL_TLF_UEM,32.0
+2004,F,Gaza,2004,SL_TLF_UEM,31.6
+2005,F,Gaza,2005,SL_TLF_UEM,37.4
+2006,F,Gaza,2006,SL_TLF_UEM,33.5
+2007,F,Gaza,2007,SL_TLF_UEM,38.0
+2008,F,Gaza,2008,SL_TLF_UEM,48.7
+2009,F,Gaza,2009,SL_TLF_UEM,39.3
+2010,F,Gaza,2010,SL_TLF_UEM,37.8
+2011,F,Gaza,2011,SL_TLF_UEM,39.1
+2012,F,Gaza,2012,SL_TLF_UEM,51.8
+2013,F,Gaza,2013,SL_TLF_UEM,54.5
+2014,F,Gaza,2014,SL_TLF_UEM,57.8
+2015,F,Gaza,2015,SL_TLF_UEM,58.8
+2016,F,Gaza,2016,SL_TLF_UEM,61.0
+2017,F,Gaza,2017,SL_TLF_UEM,68.4
+2018,F,Gaza,2018,SL_TLF_UEM,72.6
+2000,F,Dier Al-Balah,2000,SL_TLF_UEM,26.4
+2001,F,Dier Al-Balah,2001,SL_TLF_UEM,32.3
+2002,F,Dier Al-Balah,2002,SL_TLF_UEM,38.1
+2003,F,Dier Al-Balah,2003,SL_TLF_UEM,32.9
+2004,F,Dier Al-Balah,2004,SL_TLF_UEM,37.6
+2005,F,Dier Al-Balah,2005,SL_TLF_UEM,41.2
+2006,F,Dier Al-Balah,2006,SL_TLF_UEM,29.9
+2007,F,Dier Al-Balah,2007,SL_TLF_UEM,25.9
+2008,F,Dier Al-Balah,2008,SL_TLF_UEM,47.3
+2009,F,Dier Al-Balah,2009,SL_TLF_UEM,46.6
+2010,F,Dier Al-Balah,2010,SL_TLF_UEM,41.6
+2011,F,Dier Al-Balah,2011,SL_TLF_UEM,42.9
+2012,F,Dier Al-Balah,2012,SL_TLF_UEM,54.7
+2013,F,Dier Al-Balah,2013,SL_TLF_UEM,62.5
+2014,F,Dier Al-Balah,2014,SL_TLF_UEM,64.9
+2015,F,Dier Al-Balah,2015,SL_TLF_UEM,58.8
+2016,F,Dier Al-Balah,2016,SL_TLF_UEM,60.9
+2017,F,Dier Al-Balah,2017,SL_TLF_UEM,65.1
+2018,F,Dier Al-Balah,2018,SL_TLF_UEM,71.6
+2000,F,Khan Yunis,2000,SL_TLF_UEM,15.3
+2001,F,Khan Yunis,2001,SL_TLF_UEM,24.8
+2002,F,Khan Yunis,2002,SL_TLF_UEM,24.0
+2003,F,Khan Yunis,2003,SL_TLF_UEM,18.6
+2004,F,Khan Yunis,2004,SL_TLF_UEM,27.3
+2005,F,Khan Yunis,2005,SL_TLF_UEM,30.7
+2006,F,Khan Yunis,2006,SL_TLF_UEM,34.5
+2007,F,Khan Yunis,2007,SL_TLF_UEM,25.1
+2008,F,Khan Yunis,2008,SL_TLF_UEM,38.8
+2009,F,Khan Yunis,2009,SL_TLF_UEM,56.5
+2010,F,Khan Yunis,2010,SL_TLF_UEM,63.4
+2011,F,Khan Yunis,2011,SL_TLF_UEM,49.4
+2012,F,Khan Yunis,2012,SL_TLF_UEM,45.7
+2013,F,Khan Yunis,2013,SL_TLF_UEM,49.3
+2014,F,Khan Yunis,2014,SL_TLF_UEM,53.2
+2015,F,Khan Yunis,2015,SL_TLF_UEM,58.3
+2016,F,Khan Yunis,2016,SL_TLF_UEM,71.9
+2017,F,Khan Yunis,2017,SL_TLF_UEM,73.0
+2018,F,Khan Yunis,2018,SL_TLF_UEM,81.1
+2000,F,Rafah,2000,SL_TLF_UEM,18.7
+2001,F,Rafah,2001,SL_TLF_UEM,28.6
+2002,F,Rafah,2002,SL_TLF_UEM,23.7
+2003,F,Rafah,2003,SL_TLF_UEM,20.7
+2004,F,Rafah,2004,SL_TLF_UEM,27.2
+2005,F,Rafah,2005,SL_TLF_UEM,29.9
+2006,F,Rafah,2006,SL_TLF_UEM,28.7
+2007,F,Rafah,2007,SL_TLF_UEM,31.6
+2008,F,Rafah,2008,SL_TLF_UEM,41.8
+2009,F,Rafah,2009,SL_TLF_UEM,46.0
+2010,F,Rafah,2010,SL_TLF_UEM,55.1
+2011,F,Rafah,2011,SL_TLF_UEM,46.5
+2012,F,Rafah,2012,SL_TLF_UEM,47.2
+2013,F,Rafah,2013,SL_TLF_UEM,55.7
+2014,F,Rafah,2014,SL_TLF_UEM,54.0
+2015,F,Rafah,2015,SL_TLF_UEM,62.9
+2016,F,Rafah,2016,SL_TLF_UEM,68.9
+2017,F,Rafah,2017,SL_TLF_UEM,69.8
+2018,F,Rafah,2018,SL_TLF_UEM,68.3
+2000,_T,Jenin,2000,SL_TLF_UEM,16.4
+2001,_T,Jenin,2001,SL_TLF_UEM,36.7
+2002,_T,Jenin,2002,SL_TLF_UEM,44.6
+2003,_T,Jenin,2003,SL_TLF_UEM,35.0
+2004,_T,Jenin,2004,SL_TLF_UEM,28.3
+2005,_T,Jenin,2005,SL_TLF_UEM,25.1
+2006,_T,Jenin,2006,SL_TLF_UEM,23.0
+2007,_T,Jenin,2007,SL_TLF_UEM,18.9
+2008,_T,Jenin,2008,SL_TLF_UEM,22.5
+2009,_T,Jenin,2009,SL_TLF_UEM,18.6
+2010,_T,Jenin,2010,SL_TLF_UEM,15.3
+2011,_T,Jenin,2011,SL_TLF_UEM,13.4
+2012,_T,Jenin,2012,SL_TLF_UEM,14.8
+2013,_T,Jenin,2013,SL_TLF_UEM,18.1
+2014,_T,Jenin,2014,SL_TLF_UEM,16.0
+2015,_T,Jenin,2015,SL_TLF_UEM,15.9
+2016,_T,Jenin,2016,SL_TLF_UEM,19.1
+2017,_T,Jenin,2017,SL_TLF_UEM,18.8
+2018,_T,Jenin,2018,SL_TLF_UEM,20.9
+2000,_T,Tubas & Northern Valleys,2000,SL_TLF_UEM,15.7
+2001,_T,Tubas & Northern Valleys,2001,SL_TLF_UEM,30.4
+2002,_T,Tubas & Northern Valleys,2002,SL_TLF_UEM,39.1
+2003,_T,Tubas & Northern Valleys,2003,SL_TLF_UEM,24.5
+2004,_T,Tubas & Northern Valleys,2004,SL_TLF_UEM,21.7
+2005,_T,Tubas & Northern Valleys,2005,SL_TLF_UEM,20.0
+2006,_T,Tubas & Northern Valleys,2006,SL_TLF_UEM,19.5
+2007,_T,Tubas & Northern Valleys,2007,SL_TLF_UEM,20.0
+2008,_T,Tubas & Northern Valleys,2008,SL_TLF_UEM,16.9
+2009,_T,Tubas & Northern Valleys,2009,SL_TLF_UEM,13.3
+2010,_T,Tubas & Northern Valleys,2010,SL_TLF_UEM,11.7
+2011,_T,Tubas & Northern Valleys,2011,SL_TLF_UEM,14.9
+2012,_T,Tubas & Northern Valleys,2012,SL_TLF_UEM,15.5
+2013,_T,Tubas & Northern Valleys,2013,SL_TLF_UEM,16.0
+2014,_T,Tubas & Northern Valleys,2014,SL_TLF_UEM,15.4
+2015,_T,Tubas & Northern Valleys,2015,SL_TLF_UEM,17.8
+2016,_T,Tubas & Northern Valleys,2016,SL_TLF_UEM,18.5
+2017,_T,Tubas & Northern Valleys,2017,SL_TLF_UEM,21.6
+2018,_T,Tubas & Northern Valleys,2018,SL_TLF_UEM,19.4
+2000,_T,Tulkarm,2000,SL_TLF_UEM,16.5
+2001,_T,Tulkarm,2001,SL_TLF_UEM,20.5
+2002,_T,Tulkarm,2002,SL_TLF_UEM,23.5
+2003,_T,Tulkarm,2003,SL_TLF_UEM,24.5
+2004,_T,Tulkarm,2004,SL_TLF_UEM,22.1
+2005,_T,Tulkarm,2005,SL_TLF_UEM,21.7
+2006,_T,Tulkarm,2006,SL_TLF_UEM,21.8
+2007,_T,Tulkarm,2007,SL_TLF_UEM,20.4
+2008,_T,Tulkarm,2008,SL_TLF_UEM,21.9
+2009,_T,Tulkarm,2009,SL_TLF_UEM,21.6
+2010,_T,Tulkarm,2010,SL_TLF_UEM,22.0
+2011,_T,Tulkarm,2011,SL_TLF_UEM,21.9
+2012,_T,Tulkarm,2012,SL_TLF_UEM,27.5
+2013,_T,Tulkarm,2013,SL_TLF_UEM,19.9
+2014,_T,Tulkarm,2014,SL_TLF_UEM,13.3
+2015,_T,Tulkarm,2015,SL_TLF_UEM,17.5
+2016,_T,Tulkarm,2016,SL_TLF_UEM,16.8
+2017,_T,Tulkarm,2017,SL_TLF_UEM,16.2
+2018,_T,Tulkarm,2018,SL_TLF_UEM,18.1
+2000,_T,Nablus,2000,SL_TLF_UEM,11.1
+2001,_T,Nablus,2001,SL_TLF_UEM,22.7
+2002,_T,Nablus,2002,SL_TLF_UEM,29.2
+2003,_T,Nablus,2003,SL_TLF_UEM,25.4
+2004,_T,Nablus,2004,SL_TLF_UEM,20.5
+2005,_T,Nablus,2005,SL_TLF_UEM,17.9
+2006,_T,Nablus,2006,SL_TLF_UEM,17.5
+2007,_T,Nablus,2007,SL_TLF_UEM,15.5
+2008,_T,Nablus,2008,SL_TLF_UEM,15.8
+2009,_T,Nablus,2009,SL_TLF_UEM,12.9
+2010,_T,Nablus,2010,SL_TLF_UEM,13.8
+2011,_T,Nablus,2011,SL_TLF_UEM,14.7
+2012,_T,Nablus,2012,SL_TLF_UEM,14.4
+2013,_T,Nablus,2013,SL_TLF_UEM,15.2
+2014,_T,Nablus,2014,SL_TLF_UEM,17.4
+2015,_T,Nablus,2015,SL_TLF_UEM,16.8
+2016,_T,Nablus,2016,SL_TLF_UEM,15.8
+2017,_T,Nablus,2017,SL_TLF_UEM,19.2
+2018,_T,Nablus,2018,SL_TLF_UEM,16.0
+2000,_T,Qalqiliya,2000,SL_TLF_UEM,17.5
+2001,_T,Qalqiliya,2001,SL_TLF_UEM,32.3
+2002,_T,Qalqiliya,2002,SL_TLF_UEM,26.9
+2003,_T,Qalqiliya,2003,SL_TLF_UEM,22.5
+2004,_T,Qalqiliya,2004,SL_TLF_UEM,21.9
+2005,_T,Qalqiliya,2005,SL_TLF_UEM,20.7
+2006,_T,Qalqiliya,2006,SL_TLF_UEM,16.3
+2007,_T,Qalqiliya,2007,SL_TLF_UEM,16.3
+2008,_T,Qalqiliya,2008,SL_TLF_UEM,23.4
+2009,_T,Qalqiliya,2009,SL_TLF_UEM,23.3
+2010,_T,Qalqiliya,2010,SL_TLF_UEM,19.7
+2011,_T,Qalqiliya,2011,SL_TLF_UEM,21.5
+2012,_T,Qalqiliya,2012,SL_TLF_UEM,21.3
+2013,_T,Qalqiliya,2013,SL_TLF_UEM,16.5
+2014,_T,Qalqiliya,2014,SL_TLF_UEM,12.4
+2015,_T,Qalqiliya,2015,SL_TLF_UEM,13.0
+2016,_T,Qalqiliya,2016,SL_TLF_UEM,12.9
+2017,_T,Qalqiliya,2017,SL_TLF_UEM,10.4
+2018,_T,Qalqiliya,2018,SL_TLF_UEM,7.4
+2000,_T,Salfit,2000,SL_TLF_UEM,17.8
+2001,_T,Salfit,2001,SL_TLF_UEM,40.4
+2002,_T,Salfit,2002,SL_TLF_UEM,28.8
+2003,_T,Salfit,2003,SL_TLF_UEM,23.0
+2004,_T,Salfit,2004,SL_TLF_UEM,18.8
+2005,_T,Salfit,2005,SL_TLF_UEM,21.2
+2006,_T,Salfit,2006,SL_TLF_UEM,17.4
+2007,_T,Salfit,2007,SL_TLF_UEM,18.8
+2008,_T,Salfit,2008,SL_TLF_UEM,19.9
+2009,_T,Salfit,2009,SL_TLF_UEM,15.6
+2010,_T,Salfit,2010,SL_TLF_UEM,15.2
+2011,_T,Salfit,2011,SL_TLF_UEM,15.9
+2012,_T,Salfit,2012,SL_TLF_UEM,17.7
+2013,_T,Salfit,2013,SL_TLF_UEM,19.5
+2014,_T,Salfit,2014,SL_TLF_UEM,18.2
+2015,_T,Salfit,2015,SL_TLF_UEM,15.3
+2016,_T,Salfit,2016,SL_TLF_UEM,15.3
+2017,_T,Salfit,2017,SL_TLF_UEM,16.0
+2018,_T,Salfit,2018,SL_TLF_UEM,18.9
+2000,_T,Ramallah & Al-Bireh,2000,SL_TLF_UEM,9.5
+2001,_T,Ramallah & Al-Bireh,2001,SL_TLF_UEM,25.8
+2002,_T,Ramallah & Al-Bireh,2002,SL_TLF_UEM,25.7
+2003,_T,Ramallah & Al-Bireh,2003,SL_TLF_UEM,20.3
+2004,_T,Ramallah & Al-Bireh,2004,SL_TLF_UEM,19.8
+2005,_T,Ramallah & Al-Bireh,2005,SL_TLF_UEM,15.6
+2006,_T,Ramallah & Al-Bireh,2006,SL_TLF_UEM,16.2
+2007,_T,Ramallah & Al-Bireh,2007,SL_TLF_UEM,16.0
+2008,_T,Ramallah & Al-Bireh,2008,SL_TLF_UEM,17.1
+2009,_T,Ramallah & Al-Bireh,2009,SL_TLF_UEM,17.1
+2010,_T,Ramallah & Al-Bireh,2010,SL_TLF_UEM,15.9
+2011,_T,Ramallah & Al-Bireh,2011,SL_TLF_UEM,16.2
+2012,_T,Ramallah & Al-Bireh,2012,SL_TLF_UEM,17.2
+2013,_T,Ramallah & Al-Bireh,2013,SL_TLF_UEM,17.2
+2014,_T,Ramallah & Al-Bireh,2014,SL_TLF_UEM,14.5
+2015,_T,Ramallah & Al-Bireh,2015,SL_TLF_UEM,19.6
+2016,_T,Ramallah & Al-Bireh,2016,SL_TLF_UEM,16.0
+2017,_T,Ramallah & Al-Bireh,2017,SL_TLF_UEM,15.9
+2018,_T,Ramallah & Al-Bireh,2018,SL_TLF_UEM,15.4
+2000,_T,Jericho & AL Aghwar,2000,SL_TLF_UEM,7.2
+2001,_T,Jericho & AL Aghwar,2001,SL_TLF_UEM,11.1
+2002,_T,Jericho & AL Aghwar,2002,SL_TLF_UEM,10.8
+2003,_T,Jericho & AL Aghwar,2003,SL_TLF_UEM,9.3
+2004,_T,Jericho & AL Aghwar,2004,SL_TLF_UEM,12.8
+2005,_T,Jericho & AL Aghwar,2005,SL_TLF_UEM,13.1
+2006,_T,Jericho & AL Aghwar,2006,SL_TLF_UEM,14.4
+2007,_T,Jericho & AL Aghwar,2007,SL_TLF_UEM,9.7
+2008,_T,Jericho & AL Aghwar,2008,SL_TLF_UEM,9.8
+2009,_T,Jericho & AL Aghwar,2009,SL_TLF_UEM,8.0
+2010,_T,Jericho & AL Aghwar,2010,SL_TLF_UEM,12.6
+2011,_T,Jericho & AL Aghwar,2011,SL_TLF_UEM,13.2
+2012,_T,Jericho & AL Aghwar,2012,SL_TLF_UEM,18.2
+2013,_T,Jericho & AL Aghwar,2013,SL_TLF_UEM,16.4
+2014,_T,Jericho & AL Aghwar,2014,SL_TLF_UEM,17.6
+2015,_T,Jericho & AL Aghwar,2015,SL_TLF_UEM,14.5
+2016,_T,Jericho & AL Aghwar,2016,SL_TLF_UEM,10.8
+2017,_T,Jericho & AL Aghwar,2017,SL_TLF_UEM,15.5
+2018,_T,Jericho & AL Aghwar,2018,SL_TLF_UEM,19.8
+2000,_T,Jerusalem,2000,SL_TLF_UEM,11.7
+2001,_T,Jerusalem,2001,SL_TLF_UEM,15.9
+2002,_T,Jerusalem,2002,SL_TLF_UEM,28.6
+2003,_T,Jerusalem,2003,SL_TLF_UEM,23.0
+2004,_T,Jerusalem,2004,SL_TLF_UEM,23.7
+2005,_T,Jerusalem,2005,SL_TLF_UEM,17.5
+2006,_T,Jerusalem,2006,SL_TLF_UEM,13.9
+2007,_T,Jerusalem,2007,SL_TLF_UEM,14.4
+2008,_T,Jerusalem,2008,SL_TLF_UEM,11.7
+2009,_T,Jerusalem,2009,SL_TLF_UEM,11.6
+2010,_T,Jerusalem,2010,SL_TLF_UEM,12.1
+2011,_T,Jerusalem,2011,SL_TLF_UEM,13.0
+2012,_T,Jerusalem,2012,SL_TLF_UEM,17.6
+2013,_T,Jerusalem,2013,SL_TLF_UEM,18.8
+2014,_T,Jerusalem,2014,SL_TLF_UEM,18.7
+2015,_T,Jerusalem,2015,SL_TLF_UEM,13.7
+2016,_T,Jerusalem,2016,SL_TLF_UEM,15.3
+2017,_T,Jerusalem,2017,SL_TLF_UEM,11.6
+2018,_T,Jerusalem,2018,SL_TLF_UEM,11.3
+2000,_T,Bethlehem,2000,SL_TLF_UEM,9.6
+2001,_T,Bethlehem,2001,SL_TLF_UEM,11.2
+2002,_T,Bethlehem,2002,SL_TLF_UEM,20.3
+2003,_T,Bethlehem,2003,SL_TLF_UEM,18.1
+2004,_T,Bethlehem,2004,SL_TLF_UEM,20.9
+2005,_T,Bethlehem,2005,SL_TLF_UEM,13.4
+2006,_T,Bethlehem,2006,SL_TLF_UEM,13.7
+2007,_T,Bethlehem,2007,SL_TLF_UEM,17.4
+2008,_T,Bethlehem,2008,SL_TLF_UEM,20.9
+2009,_T,Bethlehem,2009,SL_TLF_UEM,20.2
+2010,_T,Bethlehem,2010,SL_TLF_UEM,21.2
+2011,_T,Bethlehem,2011,SL_TLF_UEM,19.1
+2012,_T,Bethlehem,2012,SL_TLF_UEM,20.0
+2013,_T,Bethlehem,2013,SL_TLF_UEM,21.2
+2014,_T,Bethlehem,2014,SL_TLF_UEM,20.4
+2015,_T,Bethlehem,2015,SL_TLF_UEM,13.5
+2016,_T,Bethlehem,2016,SL_TLF_UEM,21.2
+2017,_T,Bethlehem,2017,SL_TLF_UEM,20.5
+2018,_T,Bethlehem,2018,SL_TLF_UEM,20.8
+2000,_T,Hebron,2000,SL_TLF_UEM,10.5
+2001,_T,Hebron,2001,SL_TLF_UEM,15.8
+2002,_T,Hebron,2002,SL_TLF_UEM,26.3
+2003,_T,Hebron,2003,SL_TLF_UEM,22.0
+2004,_T,Hebron,2004,SL_TLF_UEM,25.1
+2005,_T,Hebron,2005,SL_TLF_UEM,25.9
+2006,_T,Hebron,2006,SL_TLF_UEM,23.1
+2007,_T,Hebron,2007,SL_TLF_UEM,22.1
+2008,_T,Hebron,2008,SL_TLF_UEM,26.5
+2009,_T,Hebron,2009,SL_TLF_UEM,22.3
+2010,_T,Hebron,2010,SL_TLF_UEM,21.5
+2011,_T,Hebron,2011,SL_TLF_UEM,20.9
+2012,_T,Hebron,2012,SL_TLF_UEM,22.2
+2013,_T,Hebron,2013,SL_TLF_UEM,23.8
+2014,_T,Hebron,2014,SL_TLF_UEM,20.4
+2015,_T,Hebron,2015,SL_TLF_UEM,19.3
+2016,_T,Hebron,2016,SL_TLF_UEM,20.9
+2017,_T,Hebron,2017,SL_TLF_UEM,22.6
+2018,_T,Hebron,2018,SL_TLF_UEM,19.9
+2000,_T,North Gaza,2000,SL_TLF_UEM,16.3
+2001,_T,North Gaza,2001,SL_TLF_UEM,34.7
+2002,_T,North Gaza,2002,SL_TLF_UEM,36.9
+2003,_T,North Gaza,2003,SL_TLF_UEM,27.6
+2004,_T,North Gaza,2004,SL_TLF_UEM,36.6
+2005,_T,North Gaza,2005,SL_TLF_UEM,33.6
+2006,_T,North Gaza,2006,SL_TLF_UEM,39.0
+2007,_T,North Gaza,2007,SL_TLF_UEM,31.5
+2008,_T,North Gaza,2008,SL_TLF_UEM,39.7
+2009,_T,North Gaza,2009,SL_TLF_UEM,36.6
+2010,_T,North Gaza,2010,SL_TLF_UEM,35.6
+2011,_T,North Gaza,2011,SL_TLF_UEM,28.3
+2012,_T,North Gaza,2012,SL_TLF_UEM,32.5
+2013,_T,North Gaza,2013,SL_TLF_UEM,32.9
+2014,_T,North Gaza,2014,SL_TLF_UEM,41.9
+2015,_T,North Gaza,2015,SL_TLF_UEM,41.6
+2016,_T,North Gaza,2016,SL_TLF_UEM,43.6
+2017,_T,North Gaza,2017,SL_TLF_UEM,43.2
+2018,_T,North Gaza,2018,SL_TLF_UEM,49.1
+2000,_T,Gaza,2000,SL_TLF_UEM,17.5
+2001,_T,Gaza,2001,SL_TLF_UEM,32.4
+2002,_T,Gaza,2002,SL_TLF_UEM,36.1
+2003,_T,Gaza,2003,SL_TLF_UEM,27.7
+2004,_T,Gaza,2004,SL_TLF_UEM,32.7
+2005,_T,Gaza,2005,SL_TLF_UEM,26.7
+2006,_T,Gaza,2006,SL_TLF_UEM,33.2
+2007,_T,Gaza,2007,SL_TLF_UEM,25.1
+2008,_T,Gaza,2008,SL_TLF_UEM,38.6
+2009,_T,Gaza,2009,SL_TLF_UEM,34.4
+2010,_T,Gaza,2010,SL_TLF_UEM,34.0
+2011,_T,Gaza,2011,SL_TLF_UEM,26.3
+2012,_T,Gaza,2012,SL_TLF_UEM,28.2
+2013,_T,Gaza,2013,SL_TLF_UEM,30.0
+2014,_T,Gaza,2014,SL_TLF_UEM,39.9
+2015,_T,Gaza,2015,SL_TLF_UEM,36.4
+2016,_T,Gaza,2016,SL_TLF_UEM,34.7
+2017,_T,Gaza,2017,SL_TLF_UEM,39.9
+2018,_T,Gaza,2018,SL_TLF_UEM,47.9
+2000,_T,Dier Al-Balah,2000,SL_TLF_UEM,22.5
+2001,_T,Dier Al-Balah,2001,SL_TLF_UEM,34.1
+2002,_T,Dier Al-Balah,2002,SL_TLF_UEM,39.8
+2003,_T,Dier Al-Balah,2003,SL_TLF_UEM,31.4
+2004,_T,Dier Al-Balah,2004,SL_TLF_UEM,36.8
+2005,_T,Dier Al-Balah,2005,SL_TLF_UEM,35.0
+2006,_T,Dier Al-Balah,2006,SL_TLF_UEM,34.9
+2007,_T,Dier Al-Balah,2007,SL_TLF_UEM,32.3
+2008,_T,Dier Al-Balah,2008,SL_TLF_UEM,41.2
+2009,_T,Dier Al-Balah,2009,SL_TLF_UEM,35.2
+2010,_T,Dier Al-Balah,2010,SL_TLF_UEM,38.9
+2011,_T,Dier Al-Balah,2011,SL_TLF_UEM,25.9
+2012,_T,Dier Al-Balah,2012,SL_TLF_UEM,30.6
+2013,_T,Dier Al-Balah,2013,SL_TLF_UEM,32.4
+2014,_T,Dier Al-Balah,2014,SL_TLF_UEM,49.6
+2015,_T,Dier Al-Balah,2015,SL_TLF_UEM,47.9
+2016,_T,Dier Al-Balah,2016,SL_TLF_UEM,44.4
+2017,_T,Dier Al-Balah,2017,SL_TLF_UEM,49.2
+2018,_T,Dier Al-Balah,2018,SL_TLF_UEM,57.0
+2000,_T,Khan Yunis,2000,SL_TLF_UEM,20.4
+2001,_T,Khan Yunis,2001,SL_TLF_UEM,36.2
+2002,_T,Khan Yunis,2002,SL_TLF_UEM,38.3
+2003,_T,Khan Yunis,2003,SL_TLF_UEM,31.9
+2004,_T,Khan Yunis,2004,SL_TLF_UEM,38.2
+2005,_T,Khan Yunis,2005,SL_TLF_UEM,31.1
+2006,_T,Khan Yunis,2006,SL_TLF_UEM,36.0
+2007,_T,Khan Yunis,2007,SL_TLF_UEM,34.3
+2008,_T,Khan Yunis,2008,SL_TLF_UEM,47.0
+2009,_T,Khan Yunis,2009,SL_TLF_UEM,49.1
+2010,_T,Khan Yunis,2010,SL_TLF_UEM,44.5
+2011,_T,Khan Yunis,2011,SL_TLF_UEM,31.8
+2012,_T,Khan Yunis,2012,SL_TLF_UEM,32.7
+2013,_T,Khan Yunis,2013,SL_TLF_UEM,37.6
+2014,_T,Khan Yunis,2014,SL_TLF_UEM,46.3
+2015,_T,Khan Yunis,2015,SL_TLF_UEM,42.5
+2016,_T,Khan Yunis,2016,SL_TLF_UEM,48.3
+2017,_T,Khan Yunis,2017,SL_TLF_UEM,48.0
+2018,_T,Khan Yunis,2018,SL_TLF_UEM,58.0
+2000,_T,Rafah,2000,SL_TLF_UEM,19.3
+2001,_T,Rafah,2001,SL_TLF_UEM,34.4
+2002,_T,Rafah,2002,SL_TLF_UEM,40.9
+2003,_T,Rafah,2003,SL_TLF_UEM,28.1
+2004,_T,Rafah,2004,SL_TLF_UEM,35.1
+2005,_T,Rafah,2005,SL_TLF_UEM,29.0
+2006,_T,Rafah,2006,SL_TLF_UEM,30.1
+2007,_T,Rafah,2007,SL_TLF_UEM,28.5
+2008,_T,Rafah,2008,SL_TLF_UEM,35.3
+2009,_T,Rafah,2009,SL_TLF_UEM,38.3
+2010,_T,Rafah,2010,SL_TLF_UEM,36.5
+2011,_T,Rafah,2011,SL_TLF_UEM,32.8
+2012,_T,Rafah,2012,SL_TLF_UEM,32.6
+2013,_T,Rafah,2013,SL_TLF_UEM,38.2
+2014,_T,Rafah,2014,SL_TLF_UEM,45.3
+2015,_T,Rafah,2015,SL_TLF_UEM,41.6
+2016,_T,Rafah,2016,SL_TLF_UEM,43.7
+2017,_T,Rafah,2017,SL_TLF_UEM,46.7
+2018,_T,Rafah,2018,SL_TLF_UEM,51.6

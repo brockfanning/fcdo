@@ -11,31 +11,36 @@
       "schema": {
         "fields": [
           {
-            "name": "AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Jenin",
-                "Palestine",
-                "Tubas & Northern Valleys"
-              ]
-            },
-            "title": "AREA"
-          },
-          {
-            "name": "EDUCATION",
+            "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
                 "Lower secondary education",
                 "Primary education",
-                "Total or no breakdown by education level",
-                "Upper secondary education"
+                "Upper secondary education",
+                "_T"
               ]
             },
-            "title": "EDUCATION"
+            "title": "EDUCATION_LEV"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Jenin",
+                "PS",
+                "Tubas & Northern Valleys"
+              ]
+            },
+            "title": "REF_AREA"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
           },
           {
             "name": "SEX",
@@ -43,8 +48,8 @@
             "constraints": {
               "enum": [
                 "",
-                "Both sexes or no breakdown by sex",
-                "Male"
+                "M",
+                "_T"
               ]
             },
             "title": "SEX"
@@ -85,7 +90,7 @@
           },
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           }
         ]

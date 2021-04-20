@@ -12,20 +12,14 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
-            "name": "seriesdescription",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "SI_POV_NAHC",
-                ""
-              ]
-            }
+            "name": "SERIES",
+            "type": "string"
           },
           {
-            "name": "geoarea",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
@@ -45,7 +39,7 @@
             }
           },
           {
-            "name": "sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
@@ -55,7 +49,7 @@
             }
           },
           {
-            "name": "age",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
@@ -65,7 +59,7 @@
             }
           },
           {
-            "name": "urbanization",
+            "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
@@ -76,7 +70,7 @@
             }
           },
           {
-            "name": "education-level",
+            "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
               "enum": [
@@ -86,7 +80,7 @@
             }
           },
           {
-            "name": "wealth-quintile",
+            "name": "INCOME_WEALTH_QUANTILE",
             "type": "string",
             "constraints": {
               "enum": [
@@ -96,11 +90,15 @@
             }
           },
           {
-            "name": "unit",
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percent",
+                "0",
                 ""
               ]
             }

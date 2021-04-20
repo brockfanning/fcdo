@@ -11,6 +11,68 @@
       "schema": {
         "fields": [
           {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Y0T2",
+                "Y0T4",
+                "Y2T4"
+              ]
+            },
+            "title": "AGE"
+          },
+          {
+            "name": "EDUCATION_LEV",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "_T"
+              ]
+            },
+            "title": "EDUCATION_LEV"
+          },
+          {
+            "name": "INCOME_WEALTH_QUANTILE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "_T"
+              ]
+            },
+            "title": "INCOME_WEALTH_QUANTILE"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "ET"
+              ]
+            },
+            "title": "REF_AREA"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "_T"
+              ]
+            },
+            "title": "SEX"
+          },
+          {
             "name": "TIME_DETAIL",
             "type": "string",
             "constraints": {
@@ -23,104 +85,41 @@
             "title": "TIME_DETAIL"
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "0"
+              ]
+            },
+            "title": "UNIT_MULT"
+          },
+          {
+            "name": "URBANISATION",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "_T"
+              ]
+            },
+            "title": "URBANISATION"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
-          },
-          {
-            "name": "age",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Y0T2",
-                "Y0T4",
-                "Y2T4"
-              ]
-            },
-            "title": "age"
-          },
-          {
-            "name": "education-level",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "_T"
-              ]
-            },
-            "title": "education-level"
-          },
-          {
-            "name": "geoarea",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "ET"
-              ]
-            },
-            "title": "geoarea"
-          },
-          {
-            "name": "seriesdescription",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "SG_REG_BRTH"
-              ]
-            },
-            "title": "seriesdescription"
-          },
-          {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "_T"
-              ]
-            },
-            "title": "sex"
-          },
-          {
-            "name": "unit",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Percent"
-              ]
-            },
-            "title": "unit"
-          },
-          {
-            "name": "urbanization",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "_T"
-              ]
-            },
-            "title": "urbanization"
-          },
-          {
-            "name": "wealth-quintile",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "_T"
-              ]
-            },
-            "title": "wealth-quintile"
           }
         ]
       }

@@ -1,2 +1,2 @@
-Year,seriesdescription,area,sex,age,urbanisation,education-level,unit,TIME_DETAIL,Value
-2014,D161,BI,_T,_T,_T,_T,,2014,0.6
+Year,SERIES,REF_AREA,SEX,AGE,URBANISATION,EDUCATION_LEV,UNIT_MEASURE,UNIT_MULT,TIME_DETAIL,Value
+2014,D161,BI,_T,_T,_T,_T,,0,2014,0.6

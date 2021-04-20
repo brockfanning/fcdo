@@ -1,4 +1,4 @@
-Year,seriesdescription,geoarea,sex,age,location,disability,unit,TIME_DETAIL,Value
-2017,VC_VOV_DCMN,UG,F,_T,_T,_T,%,2017,32.0
-2017,VC_VOV_DCMN,UG,M,_T,_T,_T,%,2017,39.0
-2017,VC_VOV_DCMN,UG,_T,_T,_T,_T,%,2017,35.0
+Year,SERIES,REF_AREA,SEX,AGE,location,disability,UNIT_MEASURE,UNIT_MULT,TIME_DETAIL,Value
+2017,VC_VOV_DCMN,UG,F,_T,_T,_T,PT,0,2017,32.0
+2017,VC_VOV_DCMN,UG,M,_T,_T,_T,PT,0,2017,39.0
+2017,VC_VOV_DCMN,UG,_T,_T,_T,_T,PT,0,2017,35.0

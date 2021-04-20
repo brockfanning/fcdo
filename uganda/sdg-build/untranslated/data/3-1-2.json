@@ -1,1 +1,1 @@
-{"Year":[2015],"seriesdescription":["SH_STA_BRTC"],"geoarea":["UG"],"sex":["_T"],"age":["_T"],"location":["_T"],"disability":["_T"],"unit":["%"],"TIME_DETAIL":["2015"],"Value":[58.0]}
+{"Year":["2015"],"SERIES":["SH_STA_BRTC"],"REF_AREA":["UG"],"SEX":["_T"],"AGE":["_T"],"location":["_T"],"disability":["_T"],"UNIT_MEASURE":["PT"],"UNIT_MULT":["0"],"TIME_DETAIL":["2015"],"Value":[58.0]}

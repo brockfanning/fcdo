@@ -1,5 +1,5 @@
-Year,seriesdescription,geoarea,sex,age,location,education-level,occupation,comp-breakdown,disability-status,unit,TIME_DETAIL,Value
-2015,SG_LGL_LNDWMN,ZM,_T,_T,_T,_T,_T,_T,_T,Number,2015,1.0
-2016,SG_LGL_LNDWMN,ZM,_T,_T,_T,_T,_T,_T,_T,Number,2016,1.0
-2017,SG_LGL_LNDWMN,ZM,_T,_T,_T,_T,_T,_T,_T,Number,2017,1.0
-2018,SG_LGL_LNDWMN,ZM,_T,_T,_T,_T,_T,_T,_T,Number,2018,1.0
+Year,SERIES,REF_AREA,SEX,AGE,location,EDUCATION_LEV,OCCUPATION,COMPOSITE_BREAKDOWN,DISABILITY_STATUS,UNIT_MEASURE,UNIT_MULT,TIME_DETAIL,Value
+2015,SG_LGL_LNDWMN,ZM,_T,_T,_T,_T,_T,_T,_T,Number,0,2015,1.0
+2016,SG_LGL_LNDWMN,ZM,_T,_T,_T,_T,_T,_T,_T,Number,0,2016,1.0
+2017,SG_LGL_LNDWMN,ZM,_T,_T,_T,_T,_T,_T,_T,Number,0,2017,1.0
+2018,SG_LGL_LNDWMN,ZM,_T,_T,_T,_T,_T,_T,_T,Number,0,2018,1.0

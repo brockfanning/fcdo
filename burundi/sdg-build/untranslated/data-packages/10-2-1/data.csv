@@ -1,2 +1,2 @@
-Year,seriesdescription,area,sex,age,urbanisation,education-level,unit,TIME_DETAIL,Value
-2017,D118,BI,_T,_T,_T,_T,Percent,2017,13231.0
+Year,SERIES,REF_AREA,SEX,AGE,URBANISATION,EDUCATION_LEV,UNIT_MEASURE,UNIT_MULT,TIME_DETAIL,Value
+2017,D118,BI,_T,_T,_T,_T,PT,0,2017,13231.0

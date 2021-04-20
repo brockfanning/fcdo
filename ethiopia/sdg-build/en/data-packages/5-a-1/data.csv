@@ -1,2 +1,2 @@
-Year,seriesdescription,geoarea,sex,age,urbanization,education-level,wealth-quintile,unit,TIME_DETAIL,Value
-2011,SP_LGL_LNDAGSEC,ET,_T,_T,_T,_T,_T,Percent,2011,73.1
+Year,SERIES,REF_AREA,SEX,AGE,URBANISATION,EDUCATION_LEV,INCOME_WEALTH_QUANTILE,UNIT_MEASURE,UNIT_MULT,TIME_DETAIL,Value
+2011,SP_LGL_LNDAGSEC,ET,_T,_T,_T,_T,_T,PT,0,2011,73.1

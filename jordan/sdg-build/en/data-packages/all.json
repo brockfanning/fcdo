@@ -13,6 +13,11 @@
       "schema": {
         "fields": [
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
             "name": "TIME_DETAIL",
             "type": "string",
             "constraints": {
@@ -34,7 +39,7 @@
           },
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           }
         ]
@@ -52,7 +57,7 @@
       "schema": {
         "fields": [
           {
-            "name": "Governorate",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
@@ -62,17 +67,22 @@
                 "Aqaba",
                 "Balqa",
                 "Irbid",
+                "JO",
                 "Jarash",
                 "Karak",
                 "Ma'an",
                 "Madaba",
                 "Mafraq",
                 "Tafiela",
-                "Zarqa",
-                "kingdom"
+                "Zarqa"
               ]
             },
-            "title": "Governorate"
+            "title": "REF_AREA"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
           },
           {
             "name": "TIME_DETAIL",
@@ -96,7 +106,7 @@
           },
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           }
         ]
@@ -113,6 +123,11 @@
       "encoding": "utf-8",
       "schema": {
         "fields": [
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
           {
             "name": "Sub-indicators",
             "type": "string",
@@ -154,7 +169,7 @@
           },
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           }
         ]
@@ -171,6 +186,11 @@
       "encoding": "utf-8",
       "schema": {
         "fields": [
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
           {
             "name": "Sub-indicators",
             "type": "string",
@@ -210,7 +230,7 @@
           },
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           }
         ]
@@ -227,6 +247,11 @@
       "encoding": "utf-8",
       "schema": {
         "fields": [
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
           {
             "name": "Sub-indicator",
             "type": "string",
@@ -256,7 +281,7 @@
           },
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           }
         ]
@@ -273,6 +298,11 @@
       "encoding": "utf-8",
       "schema": {
         "fields": [
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
           {
             "name": "Sub-indicators",
             "type": "string",
@@ -304,7 +334,7 @@
           },
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           }
         ]
@@ -336,6 +366,11 @@
             "title": "Government spending percentage on"
           },
           {
+            "name": "SERIES",
+            "type": "number",
+            "title": "SERIES"
+          },
+          {
             "name": "TIME_DETAIL",
             "type": "string",
             "constraints": {
@@ -355,7 +390,7 @@
           },
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           }
         ]
@@ -373,17 +408,22 @@
       "schema": {
         "fields": [
           {
-            "name": "Sex",
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "Female",
-                "Male",
-                "Total"
+                "F",
+                "M",
+                "_T"
               ]
             },
-            "title": "Sex"
+            "title": "SEX"
           },
           {
             "name": "TIME_DETAIL",
@@ -405,7 +445,7 @@
           },
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           }
         ]
@@ -423,17 +463,22 @@
       "schema": {
         "fields": [
           {
-            "name": "Sex",
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "Female",
-                "Male",
-                "Total"
+                "F",
+                "M",
+                "_T"
               ]
             },
-            "title": "Sex"
+            "title": "SEX"
           },
           {
             "name": "TIME_DETAIL",
@@ -455,7 +500,7 @@
           },
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           }
         ]
@@ -473,17 +518,22 @@
       "schema": {
         "fields": [
           {
-            "name": "Sex",
+            "name": "SERIES",
+            "type": "number",
+            "title": "SERIES"
+          },
+          {
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "Female",
-                "Male",
-                "Total"
+                "F",
+                "M",
+                "_T"
               ]
             },
-            "title": "Sex"
+            "title": "SEX"
           },
           {
             "name": "TIME_DETAIL",
@@ -506,7 +556,7 @@
           },
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           }
         ]
@@ -524,17 +574,22 @@
       "schema": {
         "fields": [
           {
-            "name": "Sex",
+            "name": "SERIES",
+            "type": "number",
+            "title": "SERIES"
+          },
+          {
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "Female",
-                "Male",
-                "Total"
+                "F",
+                "M",
+                "_T"
               ]
             },
-            "title": "Sex"
+            "title": "SEX"
           },
           {
             "name": "TIME_DETAIL",
@@ -556,7 +611,7 @@
           },
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           }
         ]
@@ -584,6 +639,11 @@
               ]
             },
             "title": "Grade"
+          },
+          {
+            "name": "SERIES",
+            "type": "number",
+            "title": "SERIES"
           },
           {
             "name": "Subject",
@@ -615,7 +675,7 @@
           },
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           }
         ]
@@ -632,6 +692,11 @@
       "encoding": "utf-8",
       "schema": {
         "fields": [
+          {
+            "name": "SERIES",
+            "type": "number",
+            "title": "SERIES"
+          },
           {
             "name": "Subject",
             "type": "string",
@@ -664,7 +729,7 @@
           },
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           }
         ]
@@ -682,17 +747,22 @@
       "schema": {
         "fields": [
           {
-            "name": "Sex",
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "Female",
-                "Male",
-                "Total"
+                "F",
+                "M",
+                "_T"
               ]
             },
-            "title": "Sex"
+            "title": "SEX"
           },
           {
             "name": "TIME_DETAIL",
@@ -714,7 +784,7 @@
           },
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           }
         ]
@@ -732,17 +802,22 @@
       "schema": {
         "fields": [
           {
-            "name": "Sex",
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "Female",
-                "Male",
-                "Total"
+                "F",
+                "M",
+                "_T"
               ]
             },
-            "title": "Sex"
+            "title": "SEX"
           },
           {
             "name": "TIME_DETAIL",
@@ -764,7 +839,7 @@
           },
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           }
         ]
@@ -782,17 +857,22 @@
       "schema": {
         "fields": [
           {
-            "name": "Sex",
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "Female",
-                "Male",
-                "Total"
+                "F",
+                "M",
+                "_T"
               ]
             },
-            "title": "Sex"
+            "title": "SEX"
           },
           {
             "name": "TIME_DETAIL",
@@ -814,7 +894,7 @@
           },
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           }
         ]
@@ -832,17 +912,22 @@
       "schema": {
         "fields": [
           {
-            "name": "Sex",
+            "name": "SERIES",
+            "type": "number",
+            "title": "SERIES"
+          },
+          {
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "Female",
-                "Male",
-                "Total"
+                "F",
+                "M",
+                "_T"
               ]
             },
-            "title": "Sex"
+            "title": "SEX"
           },
           {
             "name": "TIME_DETAIL",
@@ -863,7 +948,7 @@
           },
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           }
         ]
@@ -881,23 +966,28 @@
       "schema": {
         "fields": [
           {
-            "name": "Skill type",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "Connecting and installing new devices (camera, printer)",
-                "Copy or move a file or folder",
-                "Finding, download, and install software",
-                "Preparation of electronic presentations by presentations software (including Text, images, audio, video, or graphics)",
-                "Send emails with attachments (document, image, video)",
-                "Transfer files between  computer and other devices",
-                "Use basic arithmetic formulas in Data tables",
-                "Use copy and paste tools",
-                "Writing a computer program using a specialized programming language"
+                "SKILL_ICTATCH",
+                "SKILL_ICTCDV",
+                "SKILL_ICTCMFL",
+                "SKILL_ICTCPT",
+                "SKILL_ICTPRGM",
+                "SKILL_ICTPST",
+                "SKILL_ICTSFWR",
+                "SKILL_ICTSSHT",
+                "Transfer files between  computer and other devices"
               ]
             },
-            "title": "Skill type"
+            "title": "COMPOSITE_BREAKDOWN"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
           },
           {
             "name": "TIME_DETAIL",
@@ -918,7 +1008,7 @@
           },
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           }
         ]
@@ -947,6 +1037,11 @@
             "title": "Enrollment ratio"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
             "name": "TIME_DETAIL",
             "type": "string",
             "constraints": {
@@ -966,7 +1061,7 @@
           },
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           }
         ]
@@ -995,6 +1090,11 @@
             "title": "Enrollment ratio"
           },
           {
+            "name": "SERIES",
+            "type": "number",
+            "title": "SERIES"
+          },
+          {
             "name": "TIME_DETAIL",
             "type": "string",
             "constraints": {
@@ -1014,7 +1114,7 @@
           },
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           }
         ]
@@ -1032,17 +1132,22 @@
       "schema": {
         "fields": [
           {
-            "name": "Sex",
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "Female",
-                "Male",
-                "Total"
+                "F",
+                "M",
+                "_T"
               ]
             },
-            "title": "Sex"
+            "title": "SEX"
           },
           {
             "name": "TIME_DETAIL",
@@ -1065,7 +1170,7 @@
           },
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           }
         ]
@@ -1095,6 +1200,11 @@
             "title": "Education Sector"
           },
           {
+            "name": "SERIES",
+            "type": "number",
+            "title": "SERIES"
+          },
+          {
             "name": "TIME_DETAIL",
             "type": "string",
             "constraints": {
@@ -1113,7 +1223,7 @@
           },
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           },
           {
@@ -1159,6 +1269,11 @@
             "title": "Area"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
             "name": "TIME_DETAIL",
             "type": "string",
             "constraints": {
@@ -1176,7 +1291,7 @@
           },
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           }
         ]
@@ -1194,18 +1309,23 @@
       "schema": {
         "fields": [
           {
-            "name": "Age",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "15-24",
-                "15-49",
-                "25-34",
-                "35-49"
+                "Y15T24",
+                "Y15T49",
+                "Y25T34",
+                "Y35T49"
               ]
             },
-            "title": "Age"
+            "title": "AGE"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
           },
           {
             "name": "TIME_DETAIL",
@@ -1241,7 +1361,7 @@
           },
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           }
         ]
@@ -1259,16 +1379,21 @@
       "schema": {
         "fields": [
           {
-            "name": "Age",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
                 " before age 18",
-                "before age 15"
+                "Y0T14"
               ]
             },
-            "title": "Age"
+            "title": "AGE"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
           },
           {
             "name": "TIME_DETAIL",
@@ -1293,7 +1418,7 @@
           },
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           }
         ]
@@ -1344,7 +1469,7 @@
           },
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           }
         ]
@@ -1362,18 +1487,23 @@
       "schema": {
         "fields": [
           {
-            "name": "Age",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "15-24",
-                "15-49",
-                "25-34",
-                "35-49"
+                "Y15T24",
+                "Y15T49",
+                "Y25T34",
+                "Y35T49"
               ]
             },
-            "title": "Age"
+            "title": "AGE"
+          },
+          {
+            "name": "SERIES",
+            "type": "number",
+            "title": "SERIES"
           },
           {
             "name": "TIME_DETAIL",
@@ -1409,7 +1539,7 @@
           },
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           }
         ]
@@ -1426,6 +1556,11 @@
       "encoding": "utf-8",
       "schema": {
         "fields": [
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
           {
             "name": "TIME_DETAIL",
             "type": "string",
@@ -1444,7 +1579,7 @@
           },
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           }
         ]
@@ -1467,17 +1602,17 @@
             "title": "SERIES"
           },
           {
-            "name": "Sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "Female",
-                "Male",
-                "Total"
+                "F",
+                "M",
+                "_T"
               ]
             },
-            "title": "Sex"
+            "title": "SEX"
           },
           {
             "name": "TIME_DETAIL",
@@ -1502,7 +1637,7 @@
           },
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           }
         ]
@@ -1520,17 +1655,22 @@
       "schema": {
         "fields": [
           {
-            "name": "Sex",
+            "name": "SERIES",
+            "type": "number",
+            "title": "SERIES"
+          },
+          {
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "Female",
-                "Male",
-                "Total"
+                "F",
+                "M",
+                "_T"
               ]
             },
-            "title": "Sex"
+            "title": "SEX"
           },
           {
             "name": "TIME_DETAIL",
@@ -1550,7 +1690,7 @@
           },
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           }
         ]
@@ -1567,6 +1707,11 @@
       "encoding": "utf-8",
       "schema": {
         "fields": [
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
           {
             "name": "TIME_DETAIL",
             "type": "string",
@@ -1589,7 +1734,7 @@
           },
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           }
         ]
@@ -1606,6 +1751,11 @@
       "encoding": "utf-8",
       "schema": {
         "fields": [
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
           {
             "name": "TIME_DETAIL",
             "type": "string",
@@ -1624,7 +1774,7 @@
           },
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           }
         ]
@@ -1641,6 +1791,11 @@
       "encoding": "utf-8",
       "schema": {
         "fields": [
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
           {
             "name": "TIME_DETAIL",
             "type": "string",
@@ -1659,7 +1814,7 @@
           },
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           }
         ]
@@ -1676,6 +1831,11 @@
       "encoding": "utf-8",
       "schema": {
         "fields": [
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
           {
             "name": "TIME_DETAIL",
             "type": "string",
@@ -1694,7 +1854,7 @@
           },
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           }
         ]
@@ -1712,6 +1872,11 @@
       "schema": {
         "fields": [
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
             "name": "TIME_DETAIL",
             "type": "string",
             "constraints": {
@@ -1729,7 +1894,7 @@
           },
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           }
         ]
@@ -1747,6 +1912,11 @@
       "schema": {
         "fields": [
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
             "name": "TIME_DETAIL",
             "type": "string",
             "constraints": {
@@ -1764,7 +1934,7 @@
           },
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           }
         ]
@@ -1782,6 +1952,11 @@
       "schema": {
         "fields": [
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
             "name": "TIME_DETAIL",
             "type": "string",
             "constraints": {
@@ -1799,7 +1974,7 @@
           },
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           }
         ]
@@ -1817,6 +1992,11 @@
       "schema": {
         "fields": [
           {
+            "name": "SERIES",
+            "type": "number",
+            "title": "SERIES"
+          },
+          {
             "name": "TIME_DETAIL",
             "type": "string",
             "constraints": {
@@ -1834,7 +2014,7 @@
           },
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           }
         ]
@@ -1852,6 +2032,11 @@
       "schema": {
         "fields": [
           {
+            "name": "SERIES",
+            "type": "number",
+            "title": "SERIES"
+          },
+          {
             "name": "TIME_DETAIL",
             "type": "string",
             "constraints": {
@@ -1869,7 +2054,7 @@
           },
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           }
         ]
@@ -1886,6 +2071,11 @@
       "encoding": "utf-8",
       "schema": {
         "fields": [
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
           {
             "name": "Sub-indicators",
             "type": "string",
@@ -1918,7 +2108,7 @@
           },
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           }
         ]
@@ -1935,6 +2125,11 @@
       "encoding": "utf-8",
       "schema": {
         "fields": [
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
           {
             "name": "Sub-indicators",
             "type": "string",
@@ -1967,7 +2162,7 @@
           },
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           }
         ]
@@ -1985,7 +2180,7 @@
       "schema": {
         "fields": [
           {
-            "name": "Governorate",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1995,17 +2190,22 @@
                 "Aqaba",
                 "Balqa",
                 "Irbid",
+                "JO",
                 "Jarash",
                 "Karak",
                 "Ma'an",
                 "Madaba",
                 "Mafraq",
                 "Tafiela",
-                "Zarqa",
-                "kingdom"
+                "Zarqa"
               ]
             },
-            "title": "Governorate"
+            "title": "REF_AREA"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
           },
           {
             "name": "TIME_DETAIL",
@@ -2028,7 +2228,7 @@
           },
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           }
         ]
@@ -2045,6 +2245,11 @@
       "encoding": "utf-8",
       "schema": {
         "fields": [
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
           {
             "name": "TIME_DETAIL",
             "type": "string",
@@ -2063,7 +2268,7 @@
           },
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           }
         ]
@@ -2080,6 +2285,11 @@
       "encoding": "utf-8",
       "schema": {
         "fields": [
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
           {
             "name": "Sub-indicators",
             "type": "string",
@@ -2115,7 +2325,7 @@
           },
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           }
         ]
@@ -2132,6 +2342,11 @@
       "encoding": "utf-8",
       "schema": {
         "fields": [
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
           {
             "name": "TIME_DETAIL",
             "type": "string",
@@ -2152,7 +2367,7 @@
           },
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           }
         ]
@@ -2169,6 +2384,11 @@
       "encoding": "utf-8",
       "schema": {
         "fields": [
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
           {
             "name": "TIME_DETAIL",
             "type": "string",
@@ -2189,7 +2409,7 @@
           },
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           }
         ]
@@ -2206,6 +2426,11 @@
       "encoding": "utf-8",
       "schema": {
         "fields": [
+          {
+            "name": "SERIES",
+            "type": "number",
+            "title": "SERIES"
+          },
           {
             "name": "TIME_DETAIL",
             "type": "string",
@@ -2228,7 +2453,7 @@
           },
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           }
         ]
@@ -2245,6 +2470,11 @@
       "encoding": "utf-8",
       "schema": {
         "fields": [
+          {
+            "name": "SERIES",
+            "type": "number",
+            "title": "SERIES"
+          },
           {
             "name": "TIME_DETAIL",
             "type": "string",
@@ -2267,7 +2497,7 @@
           },
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           }
         ]
@@ -2284,6 +2514,11 @@
       "encoding": "utf-8",
       "schema": {
         "fields": [
+          {
+            "name": "SERIES",
+            "type": "number",
+            "title": "SERIES"
+          },
           {
             "name": "TIME_DETAIL",
             "type": "string",
@@ -2306,7 +2541,7 @@
           },
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           },
           {
@@ -2337,6 +2572,11 @@
       "schema": {
         "fields": [
           {
+            "name": "SERIES",
+            "type": "number",
+            "title": "SERIES"
+          },
+          {
             "name": "TIME_DETAIL",
             "type": "string",
             "constraints": {
@@ -2357,7 +2597,7 @@
           },
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           }
         ]
@@ -2387,6 +2627,11 @@
             "title": "Area"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
             "name": "TIME_DETAIL",
             "type": "string",
             "constraints": {
@@ -2404,7 +2649,7 @@
           },
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           }
         ]
@@ -2421,6 +2666,11 @@
       "encoding": "utf-8",
       "schema": {
         "fields": [
+          {
+            "name": "SERIES",
+            "type": "number",
+            "title": "SERIES"
+          },
           {
             "name": "Sub-indicator",
             "type": "string",
@@ -2450,7 +2700,7 @@
           },
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           }
         ]
@@ -2467,6 +2717,11 @@
       "encoding": "utf-8",
       "schema": {
         "fields": [
+          {
+            "name": "SERIES",
+            "type": "number",
+            "title": "SERIES"
+          },
           {
             "name": "TIME_DETAIL",
             "type": "string",
@@ -2487,7 +2742,7 @@
           },
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           },
           {
@@ -2530,6 +2785,11 @@
             "title": "Plan"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
             "name": "TIME_DETAIL",
             "type": "string",
             "constraints": {
@@ -2547,7 +2807,7 @@
           },
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           }
         ]
@@ -2579,6 +2839,11 @@
             "title": "International agreements"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
             "name": "TIME_DETAIL",
             "type": "string",
             "constraints": {
@@ -2596,7 +2861,7 @@
           },
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           }
         ]
@@ -2627,6 +2892,11 @@
             "title": "Amount of fossil-fuel subsidies"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
             "name": "TIME_DETAIL",
             "type": "string",
             "constraints": {
@@ -2644,7 +2914,7 @@
           },
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           }
         ]
@@ -2673,6 +2943,11 @@
             "title": "Indicator"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
             "name": "TIME_DETAIL",
             "type": "string",
             "constraints": {
@@ -2691,7 +2966,7 @@
           },
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           }
         ]
@@ -2708,6 +2983,11 @@
       "encoding": "utf-8",
       "schema": {
         "fields": [
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
           {
             "name": "TIME_DETAIL",
             "type": "string",
@@ -2730,7 +3010,7 @@
           },
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           }
         ]
@@ -2747,6 +3027,11 @@
       "encoding": "utf-8",
       "schema": {
         "fields": [
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
           {
             "name": "TIME_DETAIL",
             "type": "string",
@@ -2767,7 +3052,7 @@
           },
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           }
         ]
@@ -2784,6 +3069,11 @@
       "encoding": "utf-8",
       "schema": {
         "fields": [
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
           {
             "name": "TIME_DETAIL",
             "type": "string",
@@ -2802,7 +3092,7 @@
           },
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           }
         ]
@@ -2819,6 +3109,11 @@
       "encoding": "utf-8",
       "schema": {
         "fields": [
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
           {
             "name": "TIME_DETAIL",
             "type": "string",
@@ -2841,7 +3136,7 @@
           },
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           }
         ]
@@ -2859,6 +3154,11 @@
       "schema": {
         "fields": [
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
             "name": "TIME_DETAIL",
             "type": "string",
             "constraints": {
@@ -2879,7 +3179,7 @@
           },
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           }
         ]
@@ -2897,6 +3197,11 @@
       "schema": {
         "fields": [
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
             "name": "TIME_DETAIL",
             "type": "string",
             "constraints": {
@@ -2917,7 +3222,7 @@
           },
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           }
         ]
@@ -2934,6 +3239,27 @@
       "encoding": "utf-8",
       "schema": {
         "fields": [
+          {
+            "name": "PRODUCT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "AGR",
+                "ALP",
+                "CLO",
+                "IND",
+                "OIL",
+                "TEX"
+              ]
+            },
+            "title": "PRODUCT"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
           {
             "name": "TIME_DETAIL",
             "type": "string",
@@ -2960,29 +3286,13 @@
             "title": "Tariff regime"
           },
           {
-            "name": "Type of product",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "AGR",
-                "ALP",
-                "CLO",
-                "IND",
-                "OIL",
-                "TEX"
-              ]
-            },
-            "title": "Type of product"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           }
         ]
@@ -3011,6 +3321,11 @@
             "title": "Indicator"
           },
           {
+            "name": "SERIES",
+            "type": "number",
+            "title": "SERIES"
+          },
+          {
             "name": "TIME_DETAIL",
             "type": "string",
             "constraints": {
@@ -3031,7 +3346,7 @@
           },
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           }
         ]
@@ -3060,6 +3375,11 @@
             "title": "Jordan has national statistical legislation in line with the basic principles of official statistics"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
             "name": "TIME_DETAIL",
             "type": "string",
             "constraints": {
@@ -3077,7 +3397,7 @@
           },
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           }
         ]
@@ -3094,6 +3414,11 @@
       "encoding": "utf-8",
       "schema": {
         "fields": [
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
           {
             "name": "TIME_DETAIL",
             "type": "string",
@@ -3116,7 +3441,7 @@
           },
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           }
         ]
@@ -3134,6 +3459,11 @@
       "schema": {
         "fields": [
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
             "name": "TIME_DETAIL",
             "type": "string",
             "constraints": {
@@ -3154,7 +3484,7 @@
           },
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           }
         ]
@@ -3172,6 +3502,11 @@
       "schema": {
         "fields": [
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
             "name": "TIME_DETAIL",
             "type": "string",
             "constraints": {
@@ -3192,7 +3527,7 @@
           },
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           }
         ]
@@ -3253,7 +3588,7 @@
           },
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           }
         ]
@@ -3271,6 +3606,11 @@
       "schema": {
         "fields": [
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
             "name": "TIME_DETAIL",
             "type": "string",
             "constraints": {
@@ -3291,7 +3631,7 @@
           },
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           }
         ]
@@ -3309,6 +3649,11 @@
       "schema": {
         "fields": [
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
             "name": "TIME_DETAIL",
             "type": "string",
             "constraints": {
@@ -3329,7 +3674,7 @@
           },
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           }
         ]

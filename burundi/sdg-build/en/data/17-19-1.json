@@ -1,1 +1,1 @@
-{"Year":[2015],"seriesdescription":["SG_STT_CAPTY"],"area":["BI"],"sex":["_T"],"age":["_T"],"urbanisation":["_T"],"education-level":["_T"],"unit":["USD"],"TIME_DETAIL":["2015"],"Value":[1086051.6100000001]}
+{"Year":["2015"],"SERIES":["SG_STT_CAPTY"],"REF_AREA":["BI"],"SEX":["_T"],"AGE":["_T"],"URBANISATION":["_T"],"EDUCATION_LEV":["_T"],"UNIT_MEASURE":["USD"],"UNIT_MULT":["0"],"TIME_DETAIL":["2015"],"Value":[1086051.6100000001]}

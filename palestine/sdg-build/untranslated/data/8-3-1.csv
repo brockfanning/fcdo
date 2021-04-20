@@ -1,82 +1,82 @@
-Year,SEX,AREA,TIME_DETAIL,Value
-2009,Male,West Bank,2009,
-2010,Male,West Bank,2010,
-2011,Male,West Bank,2011,
-2012,Male,West Bank,2012,
-2013,Male,West Bank,2013,
-2014,Male,West Bank,2014,
-2015,Male,West Bank,2015,
-2016,Male,West Bank,2016,
-2017,Male,West Bank,2017,
-2009,Male,Gaza Strip,2009,
-2010,Male,Gaza Strip,2010,
-2011,Male,Gaza Strip,2011,
-2012,Male,Gaza Strip,2012,
-2013,Male,Gaza Strip,2013,
-2014,Male,Gaza Strip,2014,
-2015,Male,Gaza Strip,2015,
-2016,Male,Gaza Strip,2016,
-2017,Male,Gaza Strip,2017,
-2009,Male,Palestine,2009,55.0
-2010,Male,Palestine,2010,53.9
-2011,Male,Palestine,2011,51.9
-2012,Male,Palestine,2012,52.8
-2013,Male,Palestine,2013,53.4
-2014,Male,Palestine,2014,52.0
-2015,Male,Palestine,2015,66.8
-2016,Male,Palestine,2016,67.7
-2017,Male,Palestine,2017,69.0
-2009,Female,West Bank,2009,
-2010,Female,West Bank,2010,
-2011,Female,West Bank,2011,
-2012,Female,West Bank,2012,
-2013,Female,West Bank,2013,
-2014,Female,West Bank,2014,
-2015,Female,West Bank,2015,
-2016,Female,West Bank,2016,
-2017,Female,West Bank,2017,
-2009,Female,Gaza Strip,2009,
-2010,Female,Gaza Strip,2010,
-2011,Female,Gaza Strip,2011,
-2012,Female,Gaza Strip,2012,
-2013,Female,Gaza Strip,2013,
-2014,Female,Gaza Strip,2014,
-2015,Female,Gaza Strip,2015,
-2016,Female,Gaza Strip,2016,
-2017,Female,Gaza Strip,2017,
-2009,Female,Palestine,2009,52.4
-2010,Female,Palestine,2010,39.6
-2011,Female,Palestine,2011,40.1
-2012,Female,Palestine,2012,39.5
-2013,Female,Palestine,2013,42.1
-2014,Female,Palestine,2014,45.9
-2015,Female,Palestine,2015,43.8
-2016,Female,Palestine,2016,44.1
-2017,Female,Palestine,2017,42.9
-2009,Both sexes or no breakdown by sex,West Bank,2009,61.4
-2010,Both sexes or no breakdown by sex,West Bank,2010,56.1
-2011,Both sexes or no breakdown by sex,West Bank,2011,52.0
-2012,Both sexes or no breakdown by sex,West Bank,2012,52.7
-2013,Both sexes or no breakdown by sex,West Bank,2013,54.0
-2014,Both sexes or no breakdown by sex,West Bank,2014,54.5
-2015,Both sexes or no breakdown by sex,West Bank,2015,70.1
-2016,Both sexes or no breakdown by sex,West Bank,2016,70.2
-2017,Both sexes or no breakdown by sex,West Bank,2017,71.0
-2009,Both sexes or no breakdown by sex,Gaza Strip,2009,37.2
-2010,Both sexes or no breakdown by sex,Gaza Strip,2010,40.4
-2011,Both sexes or no breakdown by sex,Gaza Strip,2011,45.8
-2012,Both sexes or no breakdown by sex,Gaza Strip,2012,46.9
-2013,Both sexes or no breakdown by sex,Gaza Strip,2013,46.9
-2014,Both sexes or no breakdown by sex,Gaza Strip,2014,42.4
-2015,Both sexes or no breakdown by sex,Gaza Strip,2015,47.1
-2016,Both sexes or no breakdown by sex,Gaza Strip,2016,50.6
-2017,Both sexes or no breakdown by sex,Gaza Strip,2017,51.3
-2009,Both sexes or no breakdown by sex,Palestine,2009,54.6
-2010,Both sexes or no breakdown by sex,Palestine,2010,51.8
-2011,Both sexes or no breakdown by sex,Palestine,2011,50.1
-2012,Both sexes or no breakdown by sex,Palestine,2012,50.8
-2013,Both sexes or no breakdown by sex,Palestine,2013,51.7
-2014,Both sexes or no breakdown by sex,Palestine,2014,51.0
-2015,Both sexes or no breakdown by sex,Palestine,2015,63.1
-2016,Both sexes or no breakdown by sex,Palestine,2016,64.1
-2017,Both sexes or no breakdown by sex,Palestine,2017,65.1
+Year,SEX,REF_AREA,TIME_DETAIL,SERIES,Value
+2009,M,West Bank,2009,SL_ISV_IFEM,
+2010,M,West Bank,2010,SL_ISV_IFEM,
+2011,M,West Bank,2011,SL_ISV_IFEM,
+2012,M,West Bank,2012,SL_ISV_IFEM,
+2013,M,West Bank,2013,SL_ISV_IFEM,
+2014,M,West Bank,2014,SL_ISV_IFEM,
+2015,M,West Bank,2015,SL_ISV_IFEM,
+2016,M,West Bank,2016,SL_ISV_IFEM,
+2017,M,West Bank,2017,SL_ISV_IFEM,
+2009,M,Gaza Strip,2009,SL_ISV_IFEM,
+2010,M,Gaza Strip,2010,SL_ISV_IFEM,
+2011,M,Gaza Strip,2011,SL_ISV_IFEM,
+2012,M,Gaza Strip,2012,SL_ISV_IFEM,
+2013,M,Gaza Strip,2013,SL_ISV_IFEM,
+2014,M,Gaza Strip,2014,SL_ISV_IFEM,
+2015,M,Gaza Strip,2015,SL_ISV_IFEM,
+2016,M,Gaza Strip,2016,SL_ISV_IFEM,
+2017,M,Gaza Strip,2017,SL_ISV_IFEM,
+2009,M,PS,2009,SL_ISV_IFEM,55.0
+2010,M,PS,2010,SL_ISV_IFEM,53.9
+2011,M,PS,2011,SL_ISV_IFEM,51.9
+2012,M,PS,2012,SL_ISV_IFEM,52.8
+2013,M,PS,2013,SL_ISV_IFEM,53.4
+2014,M,PS,2014,SL_ISV_IFEM,52.0
+2015,M,PS,2015,SL_ISV_IFEM,66.8
+2016,M,PS,2016,SL_ISV_IFEM,67.7
+2017,M,PS,2017,SL_ISV_IFEM,69.0
+2009,F,West Bank,2009,SL_ISV_IFEM,
+2010,F,West Bank,2010,SL_ISV_IFEM,
+2011,F,West Bank,2011,SL_ISV_IFEM,
+2012,F,West Bank,2012,SL_ISV_IFEM,
+2013,F,West Bank,2013,SL_ISV_IFEM,
+2014,F,West Bank,2014,SL_ISV_IFEM,
+2015,F,West Bank,2015,SL_ISV_IFEM,
+2016,F,West Bank,2016,SL_ISV_IFEM,
+2017,F,West Bank,2017,SL_ISV_IFEM,
+2009,F,Gaza Strip,2009,SL_ISV_IFEM,
+2010,F,Gaza Strip,2010,SL_ISV_IFEM,
+2011,F,Gaza Strip,2011,SL_ISV_IFEM,
+2012,F,Gaza Strip,2012,SL_ISV_IFEM,
+2013,F,Gaza Strip,2013,SL_ISV_IFEM,
+2014,F,Gaza Strip,2014,SL_ISV_IFEM,
+2015,F,Gaza Strip,2015,SL_ISV_IFEM,
+2016,F,Gaza Strip,2016,SL_ISV_IFEM,
+2017,F,Gaza Strip,2017,SL_ISV_IFEM,
+2009,F,PS,2009,SL_ISV_IFEM,52.4
+2010,F,PS,2010,SL_ISV_IFEM,39.6
+2011,F,PS,2011,SL_ISV_IFEM,40.1
+2012,F,PS,2012,SL_ISV_IFEM,39.5
+2013,F,PS,2013,SL_ISV_IFEM,42.1
+2014,F,PS,2014,SL_ISV_IFEM,45.9
+2015,F,PS,2015,SL_ISV_IFEM,43.8
+2016,F,PS,2016,SL_ISV_IFEM,44.1
+2017,F,PS,2017,SL_ISV_IFEM,42.9
+2009,_T,West Bank,2009,SL_ISV_IFEM,61.4
+2010,_T,West Bank,2010,SL_ISV_IFEM,56.1
+2011,_T,West Bank,2011,SL_ISV_IFEM,52.0
+2012,_T,West Bank,2012,SL_ISV_IFEM,52.7
+2013,_T,West Bank,2013,SL_ISV_IFEM,54.0
+2014,_T,West Bank,2014,SL_ISV_IFEM,54.5
+2015,_T,West Bank,2015,SL_ISV_IFEM,70.1
+2016,_T,West Bank,2016,SL_ISV_IFEM,70.2
+2017,_T,West Bank,2017,SL_ISV_IFEM,71.0
+2009,_T,Gaza Strip,2009,SL_ISV_IFEM,37.2
+2010,_T,Gaza Strip,2010,SL_ISV_IFEM,40.4
+2011,_T,Gaza Strip,2011,SL_ISV_IFEM,45.8
+2012,_T,Gaza Strip,2012,SL_ISV_IFEM,46.9
+2013,_T,Gaza Strip,2013,SL_ISV_IFEM,46.9
+2014,_T,Gaza Strip,2014,SL_ISV_IFEM,42.4
+2015,_T,Gaza Strip,2015,SL_ISV_IFEM,47.1
+2016,_T,Gaza Strip,2016,SL_ISV_IFEM,50.6
+2017,_T,Gaza Strip,2017,SL_ISV_IFEM,51.3
+2009,_T,PS,2009,SL_ISV_IFEM,54.6
+2010,_T,PS,2010,SL_ISV_IFEM,51.8
+2011,_T,PS,2011,SL_ISV_IFEM,50.1
+2012,_T,PS,2012,SL_ISV_IFEM,50.8
+2013,_T,PS,2013,SL_ISV_IFEM,51.7
+2014,_T,PS,2014,SL_ISV_IFEM,51.0
+2015,_T,PS,2015,SL_ISV_IFEM,63.1
+2016,_T,PS,2016,SL_ISV_IFEM,64.1
+2017,_T,PS,2017,SL_ISV_IFEM,65.1

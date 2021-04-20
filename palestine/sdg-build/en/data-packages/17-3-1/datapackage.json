@@ -11,21 +11,26 @@
       "schema": {
         "fields": [
           {
-            "name": "AREA",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
                 "Jenin",
                 "Nablus",
-                "Palestine",
+                "PS",
                 "Qalqiliya",
                 "Salfit",
                 "Tubas & Northern Valleys",
                 "Tulkarm"
               ]
             },
-            "title": "AREA"
+            "title": "REF_AREA"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
           },
           {
             "name": "SEX",
@@ -33,9 +38,9 @@
             "constraints": {
               "enum": [
                 "",
-                "Both sexes or no breakdown by sex",
-                "Female",
-                "Male"
+                "F",
+                "M",
+                "_T"
               ]
             },
             "title": "SEX"
@@ -76,7 +81,7 @@
           },
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           }
         ]

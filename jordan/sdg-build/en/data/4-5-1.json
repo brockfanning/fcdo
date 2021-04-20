@@ -1,1 +1,1 @@
-{"Year":[2016,2017,2018],"Enrollment ratio":["Female to male in primary education","Female to male in primary education","Female to male in primary education"],"TIME_DETAIL":["2016","2017","2018"],"Value":[97,96,96]}
+{"Year":["2016","2017","2018"],"Enrollment ratio":["Female to male in primary education","Female to male in primary education","Female to male in primary education"],"TIME_DETAIL":["2016","2017","2018"],"SERIES":["SE_GPI_PART","SE_GPI_PART","SE_GPI_PART"],"Value":[97,96,96]}

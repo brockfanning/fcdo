@@ -11,30 +11,7 @@
       "schema": {
         "fields": [
           {
-            "name": "TIME_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "2000",
-                "2005",
-                "2011"
-              ]
-            },
-            "title": "TIME_DETAIL"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "age",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
@@ -43,10 +20,10 @@
                 "_T"
               ]
             },
-            "title": "age"
+            "title": "AGE"
           },
           {
-            "name": "education-level",
+            "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
               "enum": [
@@ -58,10 +35,26 @@
                 "_T"
               ]
             },
-            "title": "education-level"
+            "title": "EDUCATION_LEV"
           },
           {
-            "name": "geoarea",
+            "name": "INCOME_WEALTH_QUANTILE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Q1",
+                "Q2",
+                "Q3",
+                "Q4",
+                "Q5",
+                "_T"
+              ]
+            },
+            "title": "INCOME_WEALTH_QUANTILE"
+          },
+          {
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
@@ -80,22 +73,15 @@
                 "ET15"
               ]
             },
-            "title": "geoarea"
+            "title": "REF_AREA"
           },
           {
-            "name": "seriesdescription",
+            "name": "SERIES",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "SH_STA_OVRWGT",
-                "SH_STA_WASTE"
-              ]
-            },
-            "title": "seriesdescription"
+            "title": "SERIES"
           },
           {
-            "name": "sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
@@ -105,21 +91,39 @@
                 "_T"
               ]
             },
-            "title": "sex"
+            "title": "SEX"
           },
           {
-            "name": "unit",
+            "name": "TIME_DETAIL",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "Percent"
+                "2000",
+                "2005",
+                "2011"
               ]
             },
-            "title": "unit"
+            "title": "TIME_DETAIL"
           },
           {
-            "name": "urbanization",
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "0"
+              ]
+            },
+            "title": "UNIT_MULT"
+          },
+          {
+            "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
@@ -129,23 +133,17 @@
                 "_T"
               ]
             },
-            "title": "urbanization"
+            "title": "URBANISATION"
           },
           {
-            "name": "wealth-quintile",
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Q1",
-                "Q2",
-                "Q3",
-                "Q4",
-                "Q5",
-                "_T"
-              ]
-            },
-            "title": "wealth-quintile"
+            "title": "Year"
           }
         ]
       }

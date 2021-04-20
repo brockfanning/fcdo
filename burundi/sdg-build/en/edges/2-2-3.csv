@@ -1,8 +1,7 @@
 From,To
-seriesdescription,area
-area,sex
-sex,age
-age,urbanisation
-urbanisation,education-level
-education-level,unit
-unit,TIME_DETAIL
+REF_AREA,SEX
+SEX,AGE
+AGE,URBANISATION
+URBANISATION,EDUCATION_LEV
+EDUCATION_LEV,UNIT_MULT
+UNIT_MULT,TIME_DETAIL

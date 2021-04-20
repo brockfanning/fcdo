@@ -12,7 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
             "name": "Government spending percentage on",
@@ -38,6 +38,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "SERIES",
+            "type": "number"
           },
           {
             "name": "Value",

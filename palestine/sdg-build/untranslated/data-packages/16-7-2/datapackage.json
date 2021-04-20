@@ -12,16 +12,16 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
             "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "Total",
-                "Urban",
-                "Rural",
+                "_T",
+                "U",
+                "R",
                 "Camp",
                 ""
               ]
@@ -32,21 +32,21 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
-                "Female",
-                "Both sexes or no breakdown by sex",
+                "M",
+                "F",
+                "_T",
                 ""
               ]
             }
           },
           {
-            "name": "AREA",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
                 "West Bank",
                 "Gaza Strip",
-                "Palestine",
+                "PS",
                 ""
               ]
             }
@@ -60,6 +60,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "SERIES",
+            "type": "string"
           },
           {
             "name": "Value",

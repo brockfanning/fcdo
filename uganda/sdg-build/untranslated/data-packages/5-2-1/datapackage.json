@@ -12,23 +12,14 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
-            "name": "seriesdescription",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "VC_VAW_MARR",
-                "VC_VAW_PHYV",
-                "VC_VAW_SEXV",
-                "VC_VAW_PSYV",
-                ""
-              ]
-            }
+            "name": "SERIES",
+            "type": "string"
           },
           {
-            "name": "geoarea",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
@@ -38,7 +29,7 @@
             }
           },
           {
-            "name": "sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
@@ -48,7 +39,7 @@
             }
           },
           {
-            "name": "age",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
@@ -78,11 +69,15 @@
             }
           },
           {
-            "name": "unit",
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "%",
+                "0",
                 ""
               ]
             }

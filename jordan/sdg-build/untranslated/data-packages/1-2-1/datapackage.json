@@ -12,10 +12,10 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
-            "name": "Governorate",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
@@ -31,7 +31,7 @@
                 "Tafiela",
                 "Ma'an",
                 "Aqaba",
-                "kingdom",
+                "JO",
                 ""
               ]
             }
@@ -49,6 +49,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "SERIES",
+            "type": "string"
           },
           {
             "name": "Value",

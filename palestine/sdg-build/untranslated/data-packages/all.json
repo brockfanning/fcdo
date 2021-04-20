@@ -14,28 +14,28 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
-                "Female",
-                "Both sexes or no breakdown by sex",
+                "M",
+                "F",
+                "_T",
                 ""
               ]
             }
           },
           {
-            "name": "AREA",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
                 "West Bank",
                 "Gaza Strip",
-                "Palestine",
+                "PS",
                 "Jenin",
                 "Tubas & Northern Valleys",
                 "Tulkarm",
@@ -69,6 +69,10 @@
             }
           },
           {
+            "name": "SERIES",
+            "type": "number"
+          },
+          {
             "name": "Value",
             "type": "number"
           }
@@ -88,16 +92,16 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
-            "name": "AREA",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
                 "West Bank",
                 "Gaza Strip",
-                "Palestine",
+                "PS",
                 ""
               ]
             }
@@ -111,6 +115,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "SERIES",
+            "type": "string"
           },
           {
             "name": "Value",
@@ -132,7 +140,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
             "name": "TIME_DETAIL",
@@ -156,6 +164,10 @@
             }
           },
           {
+            "name": "SERIES",
+            "type": "string"
+          },
+          {
             "name": "Value",
             "type": "number"
           }
@@ -175,7 +187,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
             "name": "TIME_DETAIL",
@@ -194,6 +206,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "SERIES",
+            "type": "string"
           },
           {
             "name": "Value",
@@ -215,7 +231,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
             "name": "TIME_DETAIL",
@@ -227,6 +243,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "SERIES",
+            "type": "string"
           },
           {
             "name": "Value",
@@ -248,7 +268,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
             "name": "TIME_DETAIL",
@@ -260,6 +280,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "SERIES",
+            "type": "string"
           },
           {
             "name": "Value",
@@ -281,7 +305,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
             "name": "TIME_DETAIL",
@@ -303,6 +327,10 @@
             }
           },
           {
+            "name": "SERIES",
+            "type": "string"
+          },
+          {
             "name": "Value",
             "type": "number"
           }
@@ -322,7 +350,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
             "name": "TIME_DETAIL",
@@ -337,6 +365,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "SERIES",
+            "type": "string"
           },
           {
             "name": "Value",
@@ -358,28 +390,28 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
-                "Female",
-                "Both sexes or no breakdown by sex",
+                "M",
+                "F",
+                "_T",
                 ""
               ]
             }
           },
           {
-            "name": "AREA",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
                 "West Bank",
                 "Gaza Strip",
-                "Palestine",
+                "PS",
                 ""
               ]
             }
@@ -404,6 +436,10 @@
             }
           },
           {
+            "name": "SERIES",
+            "type": "string"
+          },
+          {
             "name": "Value",
             "type": "number"
           }
@@ -423,28 +459,28 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
-                "Female",
-                "Both sexes or no breakdown by sex",
+                "M",
+                "F",
+                "_T",
                 ""
               ]
             }
           },
           {
-            "name": "AREA",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
                 "West Bank",
                 "Gaza Strip",
-                "Palestine",
+                "PS",
                 ""
               ]
             }
@@ -459,6 +495,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "SERIES",
+            "type": "string"
           },
           {
             "name": "Value",
@@ -480,26 +520,26 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
-                "Female",
-                "Both sexes or no breakdown by sex",
+                "M",
+                "F",
+                "_T",
                 ""
               ]
             }
           },
           {
-            "name": "AREA",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
-                "Palestine",
+                "PS",
                 "Jenin",
                 ""
               ]
@@ -536,6 +576,10 @@
             }
           },
           {
+            "name": "SERIES",
+            "type": "string"
+          },
+          {
             "name": "Value",
             "type": "number"
           }
@@ -555,7 +599,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
             "name": "TIME_DETAIL",
@@ -570,6 +614,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "SERIES",
+            "type": "string"
           },
           {
             "name": "Value",
@@ -591,27 +639,27 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Female",
-                "Both sexes or no breakdown by sex",
+                "F",
+                "_T",
                 ""
               ]
             }
           },
           {
-            "name": "AREA",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
                 "West Bank",
                 "Gaza Strip",
-                "Palestine",
+                "PS",
                 ""
               ]
             }
@@ -629,6 +677,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "SERIES",
+            "type": "string"
           },
           {
             "name": "Value",
@@ -650,16 +702,16 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
-            "name": "AREA",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
                 "West Bank",
                 "Gaza Strip",
-                "Palestine",
+                "PS",
                 ""
               ]
             }
@@ -676,6 +728,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "SERIES",
+            "type": "string"
           },
           {
             "name": "Value",
@@ -697,28 +753,28 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
-                "Female",
-                "Both sexes or no breakdown by sex",
+                "M",
+                "F",
+                "_T",
                 ""
               ]
             }
           },
           {
-            "name": "AREA",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
                 "West Bank",
                 "Gaza Strip",
-                "Palestine",
+                "PS",
                 ""
               ]
             }
@@ -737,6 +793,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "SERIES",
+            "type": "string"
           },
           {
             "name": "Value",
@@ -758,28 +818,28 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
-                "Female",
-                "Both sexes or no breakdown by sex",
+                "M",
+                "F",
+                "_T",
                 ""
               ]
             }
           },
           {
-            "name": "AREA",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
                 "West Bank",
                 "Gaza Strip",
-                "Palestine",
+                "PS",
                 ""
               ]
             }
@@ -801,6 +861,10 @@
             }
           },
           {
+            "name": "SERIES",
+            "type": "string"
+          },
+          {
             "name": "Value",
             "type": "number"
           }
@@ -820,16 +884,16 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
-            "name": "AREA",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
                 "West Bank",
                 "Gaza Strip",
-                "Palestine",
+                "PS",
                 ""
               ]
             }
@@ -847,6 +911,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "SERIES",
+            "type": "string"
           },
           {
             "name": "Value",
@@ -868,16 +936,16 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
-            "name": "AREA",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
                 "West Bank",
                 "Gaza Strip",
-                "Palestine",
+                "PS",
                 ""
               ]
             }
@@ -895,6 +963,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "SERIES",
+            "type": "string"
           },
           {
             "name": "Value",
@@ -916,16 +988,16 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
-            "name": "AREA",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
                 "West Bank",
                 "Gaza Strip",
-                "Palestine",
+                "PS",
                 ""
               ]
             }
@@ -943,6 +1015,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "SERIES",
+            "type": "string"
           },
           {
             "name": "Value",
@@ -964,16 +1040,16 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
-            "name": "AREA",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
                 "West Bank",
                 "Gaza Strip",
-                "Palestine",
+                "PS",
                 ""
               ]
             }
@@ -991,6 +1067,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "SERIES",
+            "type": "string"
           },
           {
             "name": "Value",
@@ -1012,16 +1092,16 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
-            "name": "AREA",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
                 "West Bank",
                 "Gaza Strip",
-                "Palestine",
+                "PS",
                 ""
               ]
             }
@@ -1038,6 +1118,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "SERIES",
+            "type": "string"
           },
           {
             "name": "Value",
@@ -1059,16 +1143,16 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
-                "Female",
-                "Both sexes or no breakdown by sex",
+                "M",
+                "F",
+                "_T",
                 ""
               ]
             }
@@ -1090,6 +1174,10 @@
             }
           },
           {
+            "name": "SERIES",
+            "type": "string"
+          },
+          {
             "name": "Value",
             "type": "number"
           }
@@ -1109,28 +1197,28 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
-                "Female",
-                "Both sexes or no breakdown by sex",
+                "M",
+                "F",
+                "_T",
                 ""
               ]
             }
           },
           {
-            "name": "AREA",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
                 "West Bank",
                 "Gaza Strip",
-                "Palestine",
+                "PS",
                 ""
               ]
             }
@@ -1148,6 +1236,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "SERIES",
+            "type": "string"
           },
           {
             "name": "Value",
@@ -1169,27 +1261,27 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Female",
-                "Both sexes or no breakdown by sex",
+                "F",
+                "_T",
                 ""
               ]
             }
           },
           {
-            "name": "AREA",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
                 "West Bank",
                 "Gaza Strip",
-                "Palestine",
+                "PS",
                 ""
               ]
             }
@@ -1204,6 +1296,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "SERIES",
+            "type": "string"
           },
           {
             "name": "Value",
@@ -1225,27 +1321,27 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Female",
-                "Both sexes or no breakdown by sex",
+                "F",
+                "_T",
                 ""
               ]
             }
           },
           {
-            "name": "AREA",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
                 "West Bank",
                 "Gaza Strip",
-                "Palestine",
+                "PS",
                 ""
               ]
             }
@@ -1263,6 +1359,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "SERIES",
+            "type": "string"
           },
           {
             "name": "Value",
@@ -1284,7 +1384,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
             "name": "TIME_DETAIL",
@@ -1295,6 +1395,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "SERIES",
+            "type": "string"
           },
           {
             "name": "Value",
@@ -1316,28 +1420,28 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
-                "Female",
-                "Both sexes or no breakdown by sex",
+                "M",
+                "F",
+                "_T",
                 ""
               ]
             }
           },
           {
-            "name": "AREA",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
                 "West Bank",
                 "Gaza Strip",
-                "Palestine",
+                "PS",
                 ""
               ]
             }
@@ -1355,6 +1459,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "SERIES",
+            "type": "string"
           },
           {
             "name": "Value",
@@ -1376,16 +1484,16 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
             "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "Total",
-                "Urban",
-                "Rural",
+                "_T",
+                "U",
+                "R",
                 "Camp",
                 ""
               ]
@@ -1396,21 +1504,21 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
-                "Female",
-                "Both sexes or no breakdown by sex",
+                "M",
+                "F",
+                "_T",
                 ""
               ]
             }
           },
           {
-            "name": "AREA",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
                 "West Bank",
                 "Gaza Strip",
-                "Palestine",
+                "PS",
                 ""
               ]
             }
@@ -1424,6 +1532,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "SERIES",
+            "type": "string"
           },
           {
             "name": "Value",
@@ -1445,7 +1557,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
             "name": "TIME_DETAIL",
@@ -1476,6 +1588,10 @@
             }
           },
           {
+            "name": "SERIES",
+            "type": "string"
+          },
+          {
             "name": "Value",
             "type": "number"
           }
@@ -1495,7 +1611,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
             "name": "TIME_DETAIL",
@@ -1510,6 +1626,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "SERIES",
+            "type": "string"
           },
           {
             "name": "Value",
@@ -1531,28 +1651,28 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
-                "Female",
-                "Both sexes or no breakdown by sex",
+                "M",
+                "F",
+                "_T",
                 ""
               ]
             }
           },
           {
-            "name": "AREA",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
                 "West Bank",
                 "Gaza Strip",
-                "Palestine",
+                "PS",
                 ""
               ]
             }
@@ -1566,6 +1686,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "SERIES",
+            "type": "string"
           },
           {
             "name": "Value",
@@ -1587,28 +1711,28 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
-                "Female",
-                "Both sexes or no breakdown by sex",
+                "M",
+                "F",
+                "_T",
                 ""
               ]
             }
           },
           {
-            "name": "AREA",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
                 "West Bank",
                 "Gaza Strip",
-                "Palestine",
+                "PS",
                 ""
               ]
             }
@@ -1622,6 +1746,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "SERIES",
+            "type": "string"
           },
           {
             "name": "Value",
@@ -1643,7 +1771,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
             "name": "TIME_DETAIL",
@@ -1658,6 +1786,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "SERIES",
+            "type": "string"
           },
           {
             "name": "Value",
@@ -1679,16 +1811,16 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
-                "Female",
-                "Both sexes or no breakdown by sex",
+                "M",
+                "F",
+                "_T",
                 ""
               ]
             }
@@ -1698,10 +1830,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "All age ranges or no breakdown by age",
-                "15 to 24 years old",
-                "25 to 64 years old",
-                "65 years old and over",
+                "_T",
+                "Y15T24",
+                "Y25T64",
+                "Y_GE65",
                 ""
               ]
             }
@@ -1715,6 +1847,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "SERIES",
+            "type": "string"
           },
           {
             "name": "Value",
@@ -1736,25 +1872,25 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
-                "Both sexes or no breakdown by sex",
+                "M",
+                "_T",
                 ""
               ]
             }
           },
           {
-            "name": "AREA",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
-                "Palestine",
+                "PS",
                 "Jenin",
                 "Tubas & Northern Valleys",
                 ""
@@ -1762,11 +1898,11 @@
             }
           },
           {
-            "name": "EDUCATION",
+            "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
               "enum": [
-                "Total or no breakdown by education level",
+                "_T",
                 "Primary education",
                 "Lower secondary education",
                 "Upper secondary education",
@@ -1803,6 +1939,10 @@
             }
           },
           {
+            "name": "SERIES",
+            "type": "string"
+          },
+          {
             "name": "Value",
             "type": "number"
           }
@@ -1822,27 +1962,27 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Female",
-                "Both sexes or no breakdown by sex",
+                "F",
+                "_T",
                 ""
               ]
             }
           },
           {
-            "name": "AREA",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
                 "West Bank",
                 "Gaza Strip",
-                "Palestine",
+                "PS",
                 ""
               ]
             }
@@ -1858,6 +1998,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "SERIES",
+            "type": "string"
           },
           {
             "name": "Value",
@@ -1879,16 +2023,16 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
-            "name": "AREA",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
                 "West Bank",
                 "Gaza Strip",
-                "Palestine",
+                "PS",
                 ""
               ]
             }
@@ -1902,6 +2046,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "SERIES",
+            "type": "string"
           },
           {
             "name": "Value",
@@ -1923,27 +2071,27 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Female",
-                "Both sexes or no breakdown by sex",
+                "F",
+                "_T",
                 ""
               ]
             }
           },
           {
-            "name": "AREA",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
                 "West Bank",
                 "Gaza Strip",
-                "Palestine",
+                "PS",
                 "Jenin",
                 "Tubas & Northern Valleys",
                 "Tulkarm",
@@ -1978,6 +2126,10 @@
             }
           },
           {
+            "name": "SERIES",
+            "type": "string"
+          },
+          {
             "name": "Value",
             "type": "number"
           }
@@ -1997,15 +2149,15 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
-                "Female",
+                "M",
+                "F",
                 ""
               ]
             }
@@ -2020,6 +2172,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "SERIES",
+            "type": "string"
           },
           {
             "name": "Value",
@@ -2041,28 +2197,28 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
-                "Female",
-                "Both sexes or no breakdown by sex",
+                "M",
+                "F",
+                "_T",
                 ""
               ]
             }
           },
           {
-            "name": "AREA",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
                 "West Bank",
                 "Gaza Strip",
-                "Palestine",
+                "PS",
                 ""
               ]
             }
@@ -2085,6 +2241,10 @@
             }
           },
           {
+            "name": "SERIES",
+            "type": "string"
+          },
+          {
             "name": "Value",
             "type": "number"
           }
@@ -2104,28 +2264,28 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
-                "Female",
-                "Both sexes or no breakdown by sex",
+                "M",
+                "F",
+                "_T",
                 ""
               ]
             }
           },
           {
-            "name": "AREA",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
                 "West Bank",
                 "Gaza Strip",
-                "Palestine",
+                "PS",
                 ""
               ]
             }
@@ -2160,6 +2320,10 @@
             }
           },
           {
+            "name": "SERIES",
+            "type": "string"
+          },
+          {
             "name": "Value",
             "type": "number"
           }
@@ -2179,28 +2343,28 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
-                "Female",
-                "Both sexes or no breakdown by sex",
+                "M",
+                "F",
+                "_T",
                 ""
               ]
             }
           },
           {
-            "name": "AREA",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
                 "West Bank",
                 "Gaza Strip",
-                "Palestine",
+                "PS",
                 ""
               ]
             }
@@ -2223,6 +2387,10 @@
             }
           },
           {
+            "name": "SERIES",
+            "type": "string"
+          },
+          {
             "name": "Value",
             "type": "number"
           }
@@ -2242,29 +2410,29 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
             "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "Total",
-                "Urban",
-                "Rural",
+                "_T",
+                "U",
+                "R",
                 "Camp",
                 ""
               ]
             }
           },
           {
-            "name": "AREA",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
                 "West Bank",
                 "Gaza Strip",
-                "Palestine",
+                "PS",
                 "Jenin",
                 "Tubas & Northern Valleys",
                 "Tulkarm",
@@ -2298,6 +2466,10 @@
             }
           },
           {
+            "name": "SERIES",
+            "type": "string"
+          },
+          {
             "name": "Value",
             "type": "number"
           }
@@ -2317,29 +2489,29 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
             "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "Total",
-                "Urban",
-                "Rural",
+                "_T",
+                "U",
+                "R",
                 "Camp",
                 ""
               ]
             }
           },
           {
-            "name": "AREA",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
                 "West Bank",
                 "Gaza Strip",
-                "Palestine",
+                "PS",
                 "Jenin",
                 "Tubas & Northern Valleys",
                 "Tulkarm",
@@ -2387,6 +2559,10 @@
             }
           },
           {
+            "name": "SERIES",
+            "type": "string"
+          },
+          {
             "name": "Value",
             "type": "number"
           }
@@ -2406,7 +2582,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
             "name": "TIME_DETAIL",
@@ -2434,6 +2610,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "SERIES",
+            "type": "string"
           },
           {
             "name": "Value",
@@ -2455,29 +2635,29 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
             "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "Total",
-                "Urban",
-                "Rural",
+                "_T",
+                "U",
+                "R",
                 "Camp",
                 ""
               ]
             }
           },
           {
-            "name": "AREA",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
                 "West Bank",
                 "Gaza Strip",
-                "Palestine",
+                "PS",
                 ""
               ]
             }
@@ -2504,6 +2684,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "SERIES",
+            "type": "string"
           },
           {
             "name": "Value",
@@ -2525,16 +2709,16 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
-            "name": "AREA",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
                 "West Bank",
                 "Gaza Strip",
-                "Palestine",
+                "PS",
                 "Jenin",
                 "Tubas & Northern Valleys",
                 "Tulkarm",
@@ -2577,6 +2761,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "SERIES",
+            "type": "string"
           },
           {
             "name": "Value",
@@ -2598,7 +2786,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
             "name": "TIME_DETAIL",
@@ -2625,6 +2813,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "SERIES",
+            "type": "string"
           },
           {
             "name": "Value",
@@ -2646,7 +2838,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
             "name": "TIME_DETAIL",
@@ -2674,6 +2866,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "SERIES",
+            "type": "string"
           },
           {
             "name": "Value",
@@ -2695,16 +2891,16 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
-            "name": "AREA",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
                 "West Bank",
                 "Gaza Strip",
-                "Palestine",
+                "PS",
                 ""
               ]
             }
@@ -2737,6 +2933,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "SERIES",
+            "type": "string"
           },
           {
             "name": "Value",
@@ -2758,7 +2958,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
             "name": "TIME_DETAIL",
@@ -2782,6 +2982,10 @@
             }
           },
           {
+            "name": "SERIES",
+            "type": "string"
+          },
+          {
             "name": "Value",
             "type": "number"
           }
@@ -2801,28 +3005,28 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
-                "Female",
-                "Both sexes or no breakdown by sex",
+                "M",
+                "F",
+                "_T",
                 ""
               ]
             }
           },
           {
-            "name": "AREA",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
                 "West Bank",
                 "Gaza Strip",
-                "Palestine",
+                "PS",
                 ""
               ]
             }
@@ -2840,6 +3044,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "SERIES",
+            "type": "string"
           },
           {
             "name": "Value",
@@ -2861,16 +3069,16 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
-            "name": "AREA",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
                 "West Bank",
                 "Gaza Strip",
-                "Palestine",
+                "PS",
                 ""
               ]
             }
@@ -2903,6 +3111,10 @@
             }
           },
           {
+            "name": "SERIES",
+            "type": "string"
+          },
+          {
             "name": "Value",
             "type": "number"
           }
@@ -2922,28 +3134,28 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
-                "Female",
-                "Both sexes or no breakdown by sex",
+                "M",
+                "F",
+                "_T",
                 ""
               ]
             }
           },
           {
-            "name": "AREA",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
                 "West Bank",
                 "Gaza Strip",
-                "Palestine",
+                "PS",
                 ""
               ]
             }
@@ -2967,6 +3179,10 @@
             }
           },
           {
+            "name": "SERIES",
+            "type": "string"
+          },
+          {
             "name": "Value",
             "type": "number"
           }
@@ -2986,28 +3202,28 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
-                "Female",
-                "Both sexes or no breakdown by sex",
+                "M",
+                "F",
+                "_T",
                 ""
               ]
             }
           },
           {
-            "name": "AREA",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
                 "West Bank",
                 "Gaza Strip",
-                "Palestine",
+                "PS",
                 ""
               ]
             }
@@ -3017,14 +3233,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total or no breakdown by Occupation",
-                "Technicians and associate professionals",
-                "Service and sales workers",
-                "Skilled agricultural, forestry and fishery workers",
-                "Craft and related trades workers",
-                "Plant and machine operators, and assemblers",
-                "Elementary occupations",
-                "Legislators, senior officials and managers",
+                "_T",
+                "ISCO08_3",
+                "ISCO08_5",
+                "ISCO08_6",
+                "ISCO08_7",
+                "ISCO88_8",
+                "ISCO08_9",
+                "ISCO88_1",
                 ""
               ]
             }
@@ -3058,6 +3274,10 @@
             }
           },
           {
+            "name": "SERIES",
+            "type": "string"
+          },
+          {
             "name": "Value",
             "type": "number"
           }
@@ -3077,22 +3297,22 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
-                "Female",
-                "Both sexes or no breakdown by sex",
+                "M",
+                "F",
+                "_T",
                 ""
               ]
             }
           },
           {
-            "name": "AREA",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
@@ -3145,6 +3365,10 @@
             }
           },
           {
+            "name": "SERIES",
+            "type": "string"
+          },
+          {
             "name": "Value",
             "type": "number"
           }
@@ -3164,28 +3388,28 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
-                "Female",
-                "Both sexes or no breakdown by sex",
+                "M",
+                "F",
+                "_T",
                 ""
               ]
             }
           },
           {
-            "name": "AREA",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
                 "West Bank",
                 "Gaza Strip",
-                "Palestine",
+                "PS",
                 ""
               ]
             }
@@ -3216,6 +3440,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "SERIES",
+            "type": "string"
           },
           {
             "name": "Value",
@@ -3237,28 +3465,28 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
-                "Female",
-                "Both sexes or no breakdown by sex",
+                "M",
+                "F",
+                "_T",
                 ""
               ]
             }
           },
           {
-            "name": "AREA",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
                 "West Bank",
                 "Gaza Strip",
-                "Palestine",
+                "PS",
                 ""
               ]
             }
@@ -3268,10 +3496,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "All age ranges or no breakdown by age",
-                "10 to 14 years old",
-                "10 to 17 years old",
-                "15 to 17 years old",
+                "_T",
+                "Y10T14",
+                "Y10T17",
+                "Y15T17",
                 ""
               ]
             }
@@ -3303,6 +3531,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "SERIES",
+            "type": "string"
           },
           {
             "name": "Value",
@@ -3324,16 +3556,16 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
-            "name": "AREA",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
                 "West Bank",
                 "Gaza Strip",
-                "Palestine",
+                "PS",
                 ""
               ]
             }
@@ -3359,6 +3591,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "SERIES",
+            "type": "string"
           },
           {
             "name": "Value",
@@ -3380,7 +3616,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
             "name": "TIME_DETAIL",
@@ -3403,6 +3639,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "SERIES",
+            "type": "string"
           },
           {
             "name": "Value",
@@ -3424,16 +3664,16 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
-            "name": "AREA",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
                 "West Bank",
                 "Gaza Strip",
-                "Palestine",
+                "PS",
                 ""
               ]
             }
@@ -3466,6 +3706,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "SERIES",
+            "type": "string"
           },
           {
             "name": "Value",
@@ -3487,28 +3731,28 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
-                "Female",
-                "Both sexes or no breakdown by sex",
+                "M",
+                "F",
+                "_T",
                 ""
               ]
             }
           },
           {
-            "name": "AREA",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
                 "West Bank",
                 "Gaza Strip",
-                "Palestine",
+                "PS",
                 ""
               ]
             }
@@ -3539,6 +3783,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "SERIES",
+            "type": "string"
           },
           {
             "name": "Value",
@@ -3560,16 +3808,16 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
-            "name": "AREA",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
                 "West Bank",
                 "Gaza Strip",
-                "Palestine",
+                "PS",
                 ""
               ]
             }
@@ -3601,6 +3849,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "SERIES",
+            "type": "string"
           },
           {
             "name": "Value",
@@ -3622,7 +3874,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
             "name": "TIME_DETAIL",
@@ -3634,6 +3886,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "SERIES",
+            "type": "string"
           },
           {
             "name": "Value",
@@ -3655,7 +3911,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
             "name": "TIME_DETAIL",
@@ -3677,6 +3933,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "SERIES",
+            "type": "string"
           },
           {
             "name": "Value",
@@ -3698,7 +3958,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
             "name": "TIME_DETAIL",
@@ -3709,6 +3969,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "SERIES",
+            "type": "string"
           },
           {
             "name": "Value",
@@ -3730,7 +3994,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
             "name": "TIME_DETAIL",
@@ -3741,6 +4005,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "SERIES",
+            "type": "string"
           },
           {
             "name": "Value",
@@ -3762,16 +4030,16 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
-            "name": "AREA",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
                 "West Bank",
                 "Gaza Strip",
-                "Palestine",
+                "PS",
                 ""
               ]
             }
@@ -3804,6 +4072,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "SERIES",
+            "type": "string"
           },
           {
             "name": "Value",
@@ -3825,7 +4097,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
             "name": "TIME_DETAIL",
@@ -3836,6 +4108,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "SERIES",
+            "type": "string"
           },
           {
             "name": "Value",
@@ -3857,7 +4133,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
             "name": "TIME_DETAIL",
@@ -3871,6 +4147,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "SERIES",
+            "type": "string"
           },
           {
             "name": "Value",
@@ -3892,16 +4172,16 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
             "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "Total",
-                "Urban",
-                "Rural",
+                "_T",
+                "U",
+                "R",
                 "Camp",
                 ""
               ]
@@ -3912,21 +4192,21 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
-                "Female",
-                "Both sexes or no breakdown by sex",
+                "M",
+                "F",
+                "_T",
                 ""
               ]
             }
           },
           {
-            "name": "AREA",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
                 "West Bank",
                 "Gaza Strip",
-                "Palestine",
+                "PS",
                 ""
               ]
             }
@@ -3940,6 +4220,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "SERIES",
+            "type": "string"
           },
           {
             "name": "Value",
@@ -3961,7 +4245,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
             "name": "TIME_DETAIL",
@@ -3993,6 +4277,10 @@
             }
           },
           {
+            "name": "SERIES",
+            "type": "string"
+          },
+          {
             "name": "Value",
             "type": "integer"
           }
@@ -4012,7 +4300,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
             "name": "TIME_DETAIL",
@@ -4023,6 +4311,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "SERIES",
+            "type": "string"
           },
           {
             "name": "Value",
@@ -4044,7 +4336,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
             "name": "TIME_DETAIL",
@@ -4063,6 +4355,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "SERIES",
+            "type": "string"
           },
           {
             "name": "Value",
@@ -4084,7 +4380,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
             "name": "TIME_DETAIL",
@@ -4096,6 +4392,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "SERIES",
+            "type": "string"
           },
           {
             "name": "Value",
@@ -4117,7 +4417,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
             "name": "TIME_DETAIL",
@@ -4129,6 +4429,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "SERIES",
+            "type": "string"
           },
           {
             "name": "Value",
@@ -4150,7 +4454,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
             "name": "TIME_DETAIL",
@@ -4162,6 +4466,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "SERIES",
+            "type": "string"
           },
           {
             "name": "Value",
@@ -4183,7 +4491,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
             "name": "TIME_DETAIL",
@@ -4197,6 +4505,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "SERIES",
+            "type": "string"
           },
           {
             "name": "Value",
@@ -4218,16 +4530,16 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
-            "name": "AREA",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
                 "West Bank",
                 "Gaza Strip",
-                "Palestine",
+                "PS",
                 "Jenin",
                 "Tubas & Northern Valleys",
                 "Tulkarm",
@@ -4265,6 +4577,10 @@
             }
           },
           {
+            "name": "SERIES",
+            "type": "string"
+          },
+          {
             "name": "Value",
             "type": "number"
           }
@@ -4284,7 +4600,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
             "name": "TIME_DETAIL",
@@ -4295,6 +4611,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "SERIES",
+            "type": "string"
           },
           {
             "name": "Value",
@@ -4316,7 +4636,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
             "name": "TIME_DETAIL",
@@ -4327,6 +4647,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "SERIES",
+            "type": "string"
           },
           {
             "name": "Value",
@@ -4348,7 +4672,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
             "name": "TIME_DETAIL",
@@ -4359,6 +4683,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "SERIES",
+            "type": "string"
           },
           {
             "name": "Value",
@@ -4380,7 +4708,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
             "name": "TIME_DETAIL",
@@ -4391,6 +4719,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "SERIES",
+            "type": "string"
           },
           {
             "name": "Value",
@@ -4412,7 +4744,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
             "name": "TIME_DETAIL",
@@ -4439,6 +4771,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "SERIES",
+            "type": "string"
           },
           {
             "name": "Value",
@@ -4460,16 +4796,16 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
-            "name": "AREA",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
                 "West Bank",
                 "Gaza Strip",
-                "Palestine",
+                "PS",
                 ""
               ]
             }
@@ -4499,6 +4835,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "SERIES",
+            "type": "string"
           },
           {
             "name": "Value",
@@ -4520,16 +4860,16 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
-            "name": "AREA",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
                 "West Bank",
                 "Gaza Strip",
-                "Palestine",
+                "PS",
                 ""
               ]
             }
@@ -4546,6 +4886,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "SERIES",
+            "type": "string"
           },
           {
             "name": "Value",
@@ -4567,28 +4911,28 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
-                "Female",
-                "Both sexes or no breakdown by sex",
+                "M",
+                "F",
+                "_T",
                 ""
               ]
             }
           },
           {
-            "name": "AREA",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
                 "West Bank",
                 "Gaza Strip",
-                "Palestine",
+                "PS",
                 ""
               ]
             }
@@ -4603,6 +4947,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "SERIES",
+            "type": "string"
           },
           {
             "name": "Value",
@@ -4624,16 +4972,16 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
-            "name": "AREA",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
                 "West Bank",
                 "Gaza Strip",
-                "Palestine",
+                "PS",
                 ""
               ]
             }
@@ -4652,6 +5000,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "SERIES",
+            "type": "string"
           },
           {
             "name": "Value",
@@ -4673,7 +5025,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
             "name": "TIME_DETAIL",
@@ -4689,6 +5041,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "SERIES",
+            "type": "string"
           },
           {
             "name": "Value",
@@ -4710,28 +5066,28 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
-                "Female",
-                "Both sexes or no breakdown by sex",
+                "M",
+                "F",
+                "_T",
                 ""
               ]
             }
           },
           {
-            "name": "AREA",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
                 "West Bank",
                 "Gaza Strip",
-                "Palestine",
+                "PS",
                 ""
               ]
             }
@@ -4746,6 +5102,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "SERIES",
+            "type": "string"
           },
           {
             "name": "Value",
@@ -4767,16 +5127,16 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
             "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "Total",
-                "Urban",
-                "Rural",
+                "_T",
+                "U",
+                "R",
                 "Camp",
                 ""
               ]
@@ -4787,21 +5147,21 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
-                "Female",
-                "Both sexes or no breakdown by sex",
+                "M",
+                "F",
+                "_T",
                 ""
               ]
             }
           },
           {
-            "name": "AREA",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
                 "West Bank",
                 "Gaza Strip",
-                "Palestine",
+                "PS",
                 ""
               ]
             }
@@ -4815,6 +5175,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "SERIES",
+            "type": "string"
           },
           {
             "name": "Value",
@@ -4836,16 +5200,16 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
-            "name": "AREA",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
                 "West Bank",
                 "Gaza Strip",
-                "Palestine",
+                "PS",
                 ""
               ]
             }
@@ -4862,6 +5226,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "SERIES",
+            "type": "string"
           },
           {
             "name": "Value",
@@ -4883,28 +5251,28 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
-                "Female",
-                "Both sexes or no breakdown by sex",
+                "M",
+                "F",
+                "_T",
                 ""
               ]
             }
           },
           {
-            "name": "AREA",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
                 "West Bank",
                 "Gaza Strip",
-                "Palestine",
+                "PS",
                 ""
               ]
             }
@@ -4937,6 +5305,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "SERIES",
+            "type": "string"
           },
           {
             "name": "Value",
@@ -4958,16 +5330,16 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
             "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "Total",
-                "Urban",
-                "Rural",
+                "_T",
+                "U",
+                "R",
                 "Camp",
                 ""
               ]
@@ -4978,21 +5350,21 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
-                "Female",
-                "Both sexes or no breakdown by sex",
+                "M",
+                "F",
+                "_T",
                 ""
               ]
             }
           },
           {
-            "name": "AREA",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
                 "West Bank",
                 "Gaza Strip",
-                "Palestine",
+                "PS",
                 ""
               ]
             }
@@ -5008,6 +5380,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "SERIES",
+            "type": "string"
           },
           {
             "name": "Value",
@@ -5029,7 +5405,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
             "name": "TIME_DETAIL",
@@ -5041,6 +5417,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "SERIES",
+            "type": "string"
           },
           {
             "name": "Value",
@@ -5062,16 +5442,16 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
-            "name": "AREA",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
                 "West Bank",
                 "Gaza Strip",
-                "Palestine",
+                "PS",
                 ""
               ]
             }
@@ -5094,6 +5474,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "SERIES",
+            "type": "string"
           },
           {
             "name": "Value",
@@ -5115,28 +5499,28 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
-                "Female",
-                "Both sexes or no breakdown by sex",
+                "M",
+                "F",
+                "_T",
                 ""
               ]
             }
           },
           {
-            "name": "AREA",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
                 "West Bank",
                 "Gaza Strip",
-                "Palestine",
+                "PS",
                 ""
               ]
             }
@@ -5150,6 +5534,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "SERIES",
+            "type": "string"
           },
           {
             "name": "Value",
@@ -5171,16 +5559,16 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
             "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "Total",
-                "Urban",
-                "Rural",
+                "_T",
+                "U",
+                "R",
                 "Camp",
                 ""
               ]
@@ -5191,21 +5579,21 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
-                "Female",
-                "Both sexes or no breakdown by sex",
+                "M",
+                "F",
+                "_T",
                 ""
               ]
             }
           },
           {
-            "name": "AREA",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
                 "West Bank",
                 "Gaza Strip",
-                "Palestine",
+                "PS",
                 ""
               ]
             }
@@ -5219,6 +5607,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "SERIES",
+            "type": "string"
           },
           {
             "name": "Value",
@@ -5240,7 +5632,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
             "name": "TIME_DETAIL",
@@ -5270,6 +5662,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "SERIES",
+            "type": "string"
           },
           {
             "name": "Value",
@@ -5291,28 +5687,28 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
-                "Female",
-                "Both sexes or no breakdown by sex",
+                "M",
+                "F",
+                "_T",
                 ""
               ]
             }
           },
           {
-            "name": "AREA",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
                 "West Bank",
                 "Gaza Strip",
-                "Palestine",
+                "PS",
                 ""
               ]
             }
@@ -5331,6 +5727,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "SERIES",
+            "type": "string"
           },
           {
             "name": "Value",
@@ -5352,7 +5752,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
             "name": "TIME_DETAIL",
@@ -5367,6 +5767,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "SERIES",
+            "type": "string"
           },
           {
             "name": "Value",
@@ -5388,16 +5792,16 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
             "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "Total",
-                "Urban",
-                "Rural",
+                "_T",
+                "U",
+                "R",
                 "Camp",
                 ""
               ]
@@ -5408,21 +5812,21 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
-                "Female",
-                "Both sexes or no breakdown by sex",
+                "M",
+                "F",
+                "_T",
                 ""
               ]
             }
           },
           {
-            "name": "AREA",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
                 "West Bank",
                 "Gaza Strip",
-                "Palestine",
+                "PS",
                 ""
               ]
             }
@@ -5436,6 +5840,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "SERIES",
+            "type": "string"
           },
           {
             "name": "Value",
@@ -5457,7 +5865,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
             "name": "TIME_DETAIL",
@@ -5477,6 +5885,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "SERIES",
+            "type": "string"
           },
           {
             "name": "Value",
@@ -5498,7 +5910,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
             "name": "TIME_DETAIL",
@@ -5528,6 +5940,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "SERIES",
+            "type": "string"
           },
           {
             "name": "Value",
@@ -5549,7 +5965,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
             "name": "TIME_DETAIL",
@@ -5581,6 +5997,10 @@
             }
           },
           {
+            "name": "SERIES",
+            "type": "string"
+          },
+          {
             "name": "Value",
             "type": "integer"
           }
@@ -5600,7 +6020,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
             "name": "TIME_DETAIL",
@@ -5615,6 +6035,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "SERIES",
+            "type": "string"
           },
           {
             "name": "Value",
@@ -5636,16 +6060,16 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
-            "name": "AREA",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
                 "West Bank",
                 "Gaza Strip",
-                "Palestine",
+                "PS",
                 ""
               ]
             }
@@ -5670,6 +6094,10 @@
             }
           },
           {
+            "name": "SERIES",
+            "type": "string"
+          },
+          {
             "name": "Value",
             "type": "number"
           }
@@ -5689,26 +6117,26 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
-                "Female",
-                "Both sexes or no breakdown by sex",
+                "M",
+                "F",
+                "_T",
                 ""
               ]
             }
           },
           {
-            "name": "AREA",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
-                "Palestine",
+                "PS",
                 "Jenin",
                 "Tubas & Northern Valleys",
                 "Tulkarm",
@@ -5748,6 +6176,10 @@
             }
           },
           {
+            "name": "SERIES",
+            "type": "string"
+          },
+          {
             "name": "Value",
             "type": "number"
           }
@@ -5767,7 +6199,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
             "name": "TIME_DETAIL",
@@ -5799,6 +6231,10 @@
             }
           },
           {
+            "name": "SERIES",
+            "type": "string"
+          },
+          {
             "name": "Value",
             "type": "number"
           }
@@ -5818,7 +6254,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
             "name": "TIME_DETAIL",
@@ -5830,6 +6266,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "SERIES",
+            "type": "number"
           },
           {
             "name": "Value",
@@ -5851,28 +6291,28 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
-                "Female",
-                "Both sexes or no breakdown by sex",
+                "M",
+                "F",
+                "_T",
                 ""
               ]
             }
           },
           {
-            "name": "AREA",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
                 "West Bank",
                 "Gaza Strip",
-                "Palestine",
+                "PS",
                 ""
               ]
             }
@@ -5892,6 +6332,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "SERIES",
+            "type": "string"
           },
           {
             "name": "Value",

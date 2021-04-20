@@ -12,22 +12,22 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
-            "name": "Skill type",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
-                "Copy or move a file or folder",
-                "Use copy and paste tools",
-                "Send emails with attachments (document, image, video)",
-                "Use basic arithmetic formulas in Data tables",
-                "Connecting and installing new devices (camera, printer)",
-                "Finding, download, and install software",
-                "Preparation of electronic presentations by presentations software (including Text, images, audio, video, or graphics)",
+                "SKILL_ICTCMFL",
+                "SKILL_ICTCPT",
+                "SKILL_ICTATCH",
+                "SKILL_ICTSSHT",
+                "SKILL_ICTCDV",
+                "SKILL_ICTSFWR",
+                "SKILL_ICTPST",
                 "Transfer files between  computer and other devices",
-                "Writing a computer program using a specialized programming language",
+                "SKILL_ICTPRGM",
                 ""
               ]
             }
@@ -42,6 +42,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "SERIES",
+            "type": "string"
           },
           {
             "name": "Value",

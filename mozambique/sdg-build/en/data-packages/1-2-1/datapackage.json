@@ -11,51 +11,7 @@
       "schema": {
         "fields": [
           {
-            "name": "TIME_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "2009",
-                "2015"
-              ]
-            },
-            "title": "TIME_DETAIL"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "composição-composta",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "_T"
-              ]
-            },
-            "title": "composição-composta"
-          },
-          {
-            "name": "deficiência",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "_T"
-              ]
-            },
-            "title": "deficiência"
-          },
-          {
-            "name": "idade",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
@@ -76,21 +32,10 @@
                 "_T"
               ]
             },
-            "title": "idade"
+            "title": "AGE"
           },
           {
-            "name": "indicador-disponível",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "G"
-              ]
-            },
-            "title": "indicador-disponível"
-          },
-          {
-            "name": "nível-de-educação",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
@@ -98,10 +43,43 @@
                 "_T"
               ]
             },
-            "title": "nível-de-educação"
+            "title": "COMPOSITE_BREAKDOWN"
           },
           {
-            "name": "ocupação",
+            "name": "DISABILITY_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "_T"
+              ]
+            },
+            "title": "DISABILITY_STATUS"
+          },
+          {
+            "name": "EDUCATION_LEV",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "_T"
+              ]
+            },
+            "title": "EDUCATION_LEV"
+          },
+          {
+            "name": "INCOME_WEALTH_QUANTILE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "_T"
+              ]
+            },
+            "title": "INCOME_WEALTH_QUANTILE"
+          },
+          {
+            "name": "OCCUPATION",
             "type": "string",
             "constraints": {
               "enum": [
@@ -121,10 +99,10 @@
                 "_T"
               ]
             },
-            "title": "ocupação"
+            "title": "OCCUPATION"
           },
           {
-            "name": "província",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
@@ -146,21 +124,26 @@
                 "MZ6"
               ]
             },
-            "title": "província"
+            "title": "REF_AREA"
           },
           {
-            "name": "quintil",
+            "name": "REPORTING_TYPE",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "_T"
+                "G"
               ]
             },
-            "title": "quintil"
+            "title": "REPORTING_TYPE"
           },
           {
-            "name": "sexo",
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
@@ -170,32 +153,38 @@
                 "_T"
               ]
             },
-            "title": "sexo"
+            "title": "SEX"
           },
           {
-            "name": "sériedescrição",
+            "name": "TIME_DETAIL",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "SI_POV_NAHC"
+                "2009",
+                "2015"
               ]
             },
-            "title": "sériedescrição"
+            "title": "TIME_DETAIL"
           },
           {
-            "name": "unit",
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "Percent"
+                "0"
               ]
             },
-            "title": "unit"
+            "title": "UNIT_MULT"
           },
           {
-            "name": "área-de-residência",
+            "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
@@ -205,7 +194,17 @@
                 "_T"
               ]
             },
-            "title": "área-de-residência"
+            "title": "URBANISATION"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       }

@@ -11,29 +11,18 @@
       "schema": {
         "fields": [
           {
-            "name": "TIME_DETAIL",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "2015",
-                "2016"
+                "_T"
               ]
             },
-            "title": "TIME_DETAIL"
+            "title": "AGE"
           },
           {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "composição-composta",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
@@ -47,10 +36,10 @@
                 "_T"
               ]
             },
-            "title": "composição-composta"
+            "title": "COMPOSITE_BREAKDOWN"
           },
           {
-            "name": "deficiência",
+            "name": "DISABILITY_STATUS",
             "type": "string",
             "constraints": {
               "enum": [
@@ -58,10 +47,10 @@
                 "_T"
               ]
             },
-            "title": "deficiência"
+            "title": "DISABILITY_STATUS"
           },
           {
-            "name": "idade",
+            "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
               "enum": [
@@ -69,21 +58,10 @@
                 "_T"
               ]
             },
-            "title": "idade"
+            "title": "EDUCATION_LEV"
           },
           {
-            "name": "indicador-disponível",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "G"
-              ]
-            },
-            "title": "indicador-disponível"
-          },
-          {
-            "name": "nível-de-educação",
+            "name": "INCOME_WEALTH_QUANTILE",
             "type": "string",
             "constraints": {
               "enum": [
@@ -91,10 +69,10 @@
                 "_T"
               ]
             },
-            "title": "nível-de-educação"
+            "title": "INCOME_WEALTH_QUANTILE"
           },
           {
-            "name": "ocupação",
+            "name": "OCCUPATION",
             "type": "string",
             "constraints": {
               "enum": [
@@ -102,10 +80,10 @@
                 "_T"
               ]
             },
-            "title": "ocupação"
+            "title": "OCCUPATION"
           },
           {
-            "name": "província",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
@@ -113,10 +91,26 @@
                 "508"
               ]
             },
-            "title": "província"
+            "title": "REF_AREA"
           },
           {
-            "name": "quintil",
+            "name": "REPORTING_TYPE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "G"
+              ]
+            },
+            "title": "REPORTING_TYPE"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
@@ -124,10 +118,38 @@
                 "_T"
               ]
             },
-            "title": "quintil"
+            "title": "SEX"
           },
           {
-            "name": "sexo",
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "2015",
+                "2016"
+              ]
+            },
+            "title": "TIME_DETAIL"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "0"
+              ]
+            },
+            "title": "UNIT_MULT"
+          },
+          {
+            "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
@@ -135,40 +157,17 @@
                 "_T"
               ]
             },
-            "title": "sexo"
+            "title": "URBANISATION"
           },
           {
-            "name": "sériedescrição",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "GR_G14_GDP"
-              ]
-            },
-            "title": "sériedescrição"
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
           },
           {
-            "name": "unit",
+            "name": "Year",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Percent"
-              ]
-            },
-            "title": "unit"
-          },
-          {
-            "name": "área-de-residência",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "_T"
-              ]
-            },
-            "title": "área-de-residência"
+            "title": "Year"
           }
         ]
       }

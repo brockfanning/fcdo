@@ -1,1 +1,1 @@
-{"From":["seriesdescription","area","sex","age","urbanisation","education-level"],"To":["area","sex","age","urbanisation","education-level","TIME_DETAIL"]}
+{"From":["REF_AREA","SEX","AGE","URBANISATION","EDUCATION_LEV","UNIT_MULT"],"To":["SEX","AGE","URBANISATION","EDUCATION_LEV","UNIT_MULT","TIME_DETAIL"]}

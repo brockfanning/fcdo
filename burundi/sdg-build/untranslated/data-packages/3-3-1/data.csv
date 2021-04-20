@@ -1,4 +1,4 @@
-Year,seriesdescription,area,sex,age,urbanisation,education-level,unit,TIME_DETAIL,Value
-2010,SH_HIV_INCD,BI,F,Y15T49,_T,_T,pour 1000 personnes non infectées,2010,1.7
-2010,SH_HIV_INCD,BI,M,Y15T49,_T,_T,pour 1000 personnes non infectées,2010,1.0
-2010,SH_HIV_INCD,BI,_T,Y15T49,_T,_T,pour 1000 personnes non infectées,2010,1.4
+Year,SERIES,REF_AREA,SEX,AGE,URBANISATION,EDUCATION_LEV,UNIT_MEASURE,UNIT_MULT,TIME_DETAIL,Value
+2010,SH_HIV_INCD,BI,F,Y15T49,_T,_T,pour 1000 personnes non infectées,0,2010,1.7
+2010,SH_HIV_INCD,BI,M,Y15T49,_T,_T,pour 1000 personnes non infectées,0,2010,1.0
+2010,SH_HIV_INCD,BI,_T,Y15T49,_T,_T,pour 1000 personnes non infectées,0,2010,1.4

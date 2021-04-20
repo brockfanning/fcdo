@@ -12,16 +12,16 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
-            "name": "AREA",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
                 "West Bank",
                 "Gaza Strip",
-                "Palestine",
+                "PS",
                 "Jenin",
                 "Tubas & Northern Valleys",
                 "Tulkarm",
@@ -57,6 +57,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "SERIES",
+            "type": "string"
           },
           {
             "name": "Value",

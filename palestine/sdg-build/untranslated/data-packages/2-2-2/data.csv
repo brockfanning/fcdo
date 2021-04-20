@@ -1,19 +1,19 @@
-Year,SEX,AREA,TIME_DETAIL,Value
-2014,Male,West Bank,2014,
-2019,Male,West Bank,2019,
-2014,Male,Gaza Strip,2014,
-2019,Male,Gaza Strip,2019,
-2014,Male,Palestine,2014,9.1
-2019,Male,Palestine,2019,10.2
-2014,Female,West Bank,2014,
-2019,Female,West Bank,2019,
-2014,Female,Gaza Strip,2014,
-2019,Female,Gaza Strip,2019,
-2014,Female,Palestine,2014,7.1
-2019,Female,Palestine,2019,6.9
-2014,Both sexes or no breakdown by sex,West Bank,2014,9.8
-2019,Both sexes or no breakdown by sex,West Bank,2019,10.9
-2014,Both sexes or no breakdown by sex,Gaza Strip,2014,6.5
-2019,Both sexes or no breakdown by sex,Gaza Strip,2019,5.8
-2014,Both sexes or no breakdown by sex,Palestine,2014,8.2
-2019,Both sexes or no breakdown by sex,Palestine,2019,8.6
+Year,SEX,REF_AREA,TIME_DETAIL,SERIES,Value
+2014,M,West Bank,2014,SH_STA_WAST,
+2019,M,West Bank,2019,SH_STA_WAST,
+2014,M,Gaza Strip,2014,SH_STA_WAST,
+2019,M,Gaza Strip,2019,SH_STA_WAST,
+2014,M,PS,2014,SH_STA_WAST,9.1
+2019,M,PS,2019,SH_STA_WAST,10.2
+2014,F,West Bank,2014,SH_STA_WAST,
+2019,F,West Bank,2019,SH_STA_WAST,
+2014,F,Gaza Strip,2014,SH_STA_WAST,
+2019,F,Gaza Strip,2019,SH_STA_WAST,
+2014,F,PS,2014,SH_STA_WAST,7.1
+2019,F,PS,2019,SH_STA_WAST,6.9
+2014,_T,West Bank,2014,SH_STA_WAST,9.8
+2019,_T,West Bank,2019,SH_STA_WAST,10.9
+2014,_T,Gaza Strip,2014,SH_STA_WAST,6.5
+2019,_T,Gaza Strip,2019,SH_STA_WAST,5.8
+2014,_T,PS,2014,SH_STA_WAST,8.2
+2019,_T,PS,2019,SH_STA_WAST,8.6

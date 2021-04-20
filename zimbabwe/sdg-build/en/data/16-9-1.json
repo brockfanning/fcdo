@@ -1,1 +1,1 @@
-{"Year":[2017],"seriesdescription":["SG_REG_BRTH"],"geoarea":["716"],"sex":["_T"],"age":["_T"],"urbanisation":["_T"],"unit":["Percent"],"TIME_DETAIL":["2017"],"Value":[38.2]}
+{"Year":["2017"],"SERIES":["SG_REG_BRTH"],"REF_AREA":["716"],"SEX":["_T"],"AGE":["_T"],"URBANISATION":["_T"],"UNIT_MEASURE":["PT"],"UNIT_MULT":["0"],"TIME_DETAIL":["2017"],"Value":[38.2]}

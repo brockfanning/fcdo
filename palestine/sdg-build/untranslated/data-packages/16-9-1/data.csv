@@ -1,55 +1,55 @@
-Year,SEX,AREA,TIME_DETAIL,Value
-2011,Male,West Bank,2011,93.3
-2012,Male,West Bank,2012,88.2
-2013,Male,West Bank,2013,99.0
-2014,Male,West Bank,2014,94.0
-2015,Male,West Bank,2015,95.6
-2019,Male,West Bank,2019,
-2011,Male,Gaza Strip,2011,
-2012,Male,Gaza Strip,2012,
-2013,Male,Gaza Strip,2013,
-2014,Male,Gaza Strip,2014,
-2015,Male,Gaza Strip,2015,91.2
-2019,Male,Gaza Strip,2019,
-2011,Male,Palestine,2011,
-2012,Male,Palestine,2012,
-2013,Male,Palestine,2013,
-2014,Male,Palestine,2014,99.3
-2015,Male,Palestine,2015,93.6
-2019,Male,Palestine,2019,99.4
-2011,Female,West Bank,2011,91.3
-2012,Female,West Bank,2012,87.3
-2013,Female,West Bank,2013,98.9
-2014,Female,West Bank,2014,91.9
-2015,Female,West Bank,2015,94.1
-2019,Female,West Bank,2019,
-2011,Female,Gaza Strip,2011,
-2012,Female,Gaza Strip,2012,
-2013,Female,Gaza Strip,2013,
-2014,Female,Gaza Strip,2014,
-2015,Female,Gaza Strip,2015,89.2
-2019,Female,Gaza Strip,2019,
-2011,Female,Palestine,2011,
-2012,Female,Palestine,2012,
-2013,Female,Palestine,2013,
-2014,Female,Palestine,2014,99.3
-2015,Female,Palestine,2015,91.9
-2019,Female,Palestine,2019,98.9
-2011,Both sexes or no breakdown by sex,West Bank,2011,92.3
-2012,Both sexes or no breakdown by sex,West Bank,2012,87.7
-2013,Both sexes or no breakdown by sex,West Bank,2013,99.0
-2014,Both sexes or no breakdown by sex,West Bank,2014,99.1
-2015,Both sexes or no breakdown by sex,West Bank,2015,94.9
-2019,Both sexes or no breakdown by sex,West Bank,2019,98.9
-2011,Both sexes or no breakdown by sex,Gaza Strip,2011,
-2012,Both sexes or no breakdown by sex,Gaza Strip,2012,
-2013,Both sexes or no breakdown by sex,Gaza Strip,2013,
-2014,Both sexes or no breakdown by sex,Gaza Strip,2014,99.6
-2015,Both sexes or no breakdown by sex,Gaza Strip,2015,90.2
-2019,Both sexes or no breakdown by sex,Gaza Strip,2019,99.5
-2011,Both sexes or no breakdown by sex,Palestine,2011,
-2012,Both sexes or no breakdown by sex,Palestine,2012,
-2013,Both sexes or no breakdown by sex,Palestine,2013,
-2014,Both sexes or no breakdown by sex,Palestine,2014,99.3
-2015,Both sexes or no breakdown by sex,Palestine,2015,92.8
-2019,Both sexes or no breakdown by sex,Palestine,2019,99.2
+Year,SEX,REF_AREA,TIME_DETAIL,SERIES,Value
+2011,M,West Bank,2011,SG_REG_BRTH,93.3
+2012,M,West Bank,2012,SG_REG_BRTH,88.2
+2013,M,West Bank,2013,SG_REG_BRTH,99.0
+2014,M,West Bank,2014,SG_REG_BRTH,94.0
+2015,M,West Bank,2015,SG_REG_BRTH,95.6
+2019,M,West Bank,2019,SG_REG_BRTH,
+2011,M,Gaza Strip,2011,SG_REG_BRTH,
+2012,M,Gaza Strip,2012,SG_REG_BRTH,
+2013,M,Gaza Strip,2013,SG_REG_BRTH,
+2014,M,Gaza Strip,2014,SG_REG_BRTH,
+2015,M,Gaza Strip,2015,SG_REG_BRTH,91.2
+2019,M,Gaza Strip,2019,SG_REG_BRTH,
+2011,M,PS,2011,SG_REG_BRTH,
+2012,M,PS,2012,SG_REG_BRTH,
+2013,M,PS,2013,SG_REG_BRTH,
+2014,M,PS,2014,SG_REG_BRTH,99.3
+2015,M,PS,2015,SG_REG_BRTH,93.6
+2019,M,PS,2019,SG_REG_BRTH,99.4
+2011,F,West Bank,2011,SG_REG_BRTH,91.3
+2012,F,West Bank,2012,SG_REG_BRTH,87.3
+2013,F,West Bank,2013,SG_REG_BRTH,98.9
+2014,F,West Bank,2014,SG_REG_BRTH,91.9
+2015,F,West Bank,2015,SG_REG_BRTH,94.1
+2019,F,West Bank,2019,SG_REG_BRTH,
+2011,F,Gaza Strip,2011,SG_REG_BRTH,
+2012,F,Gaza Strip,2012,SG_REG_BRTH,
+2013,F,Gaza Strip,2013,SG_REG_BRTH,
+2014,F,Gaza Strip,2014,SG_REG_BRTH,
+2015,F,Gaza Strip,2015,SG_REG_BRTH,89.2
+2019,F,Gaza Strip,2019,SG_REG_BRTH,
+2011,F,PS,2011,SG_REG_BRTH,
+2012,F,PS,2012,SG_REG_BRTH,
+2013,F,PS,2013,SG_REG_BRTH,
+2014,F,PS,2014,SG_REG_BRTH,99.3
+2015,F,PS,2015,SG_REG_BRTH,91.9
+2019,F,PS,2019,SG_REG_BRTH,98.9
+2011,_T,West Bank,2011,SG_REG_BRTH,92.3
+2012,_T,West Bank,2012,SG_REG_BRTH,87.7
+2013,_T,West Bank,2013,SG_REG_BRTH,99.0
+2014,_T,West Bank,2014,SG_REG_BRTH,99.1
+2015,_T,West Bank,2015,SG_REG_BRTH,94.9
+2019,_T,West Bank,2019,SG_REG_BRTH,98.9
+2011,_T,Gaza Strip,2011,SG_REG_BRTH,
+2012,_T,Gaza Strip,2012,SG_REG_BRTH,
+2013,_T,Gaza Strip,2013,SG_REG_BRTH,
+2014,_T,Gaza Strip,2014,SG_REG_BRTH,99.6
+2015,_T,Gaza Strip,2015,SG_REG_BRTH,90.2
+2019,_T,Gaza Strip,2019,SG_REG_BRTH,99.5
+2011,_T,PS,2011,SG_REG_BRTH,
+2012,_T,PS,2012,SG_REG_BRTH,
+2013,_T,PS,2013,SG_REG_BRTH,
+2014,_T,PS,2014,SG_REG_BRTH,99.3
+2015,_T,PS,2015,SG_REG_BRTH,92.8
+2019,_T,PS,2019,SG_REG_BRTH,99.2

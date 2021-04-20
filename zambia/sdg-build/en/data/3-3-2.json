@@ -1,1 +1,1 @@
-{"Year":[2014],"seriesdescription":["SH_TBS_INCD"],"geoarea":["ZM"],"sex":["_T"],"age":["_T"],"location":["_T"],"education-level":["_T"],"occupation":["_T"],"comp-breakdown":["_T"],"disability-status":["_T"],"unit":["PER_100000_POP"],"TIME_DETAIL":["2014"],"Value":[638.0]}
+{"Year":["2014"],"SERIES":["SH_TBS_INCD"],"REF_AREA":["ZM"],"SEX":["_T"],"AGE":["_T"],"location":["_T"],"EDUCATION_LEV":["_T"],"OCCUPATION":["_T"],"COMPOSITE_BREAKDOWN":["_T"],"DISABILITY_STATUS":["_T"],"UNIT_MEASURE":["PER_100000_POP"],"UNIT_MULT":["0"],"TIME_DETAIL":["2014"],"Value":[638.0]}

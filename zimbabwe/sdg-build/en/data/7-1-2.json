@@ -1,1 +1,1 @@
-{"Year":[2017],"seriesdescription":["EG_EGY_CLEAN"],"geoarea":["716"],"sex":["_T"],"age":["_T"],"urbanisation":["_T"],"unit":["Percent"],"TIME_DETAIL":["2017"],"Value":[21.6]}
+{"Year":["2017"],"SERIES":["EG_EGY_CLEAN"],"REF_AREA":["716"],"SEX":["_T"],"AGE":["_T"],"URBANISATION":["_T"],"UNIT_MEASURE":["PT"],"UNIT_MULT":["0"],"TIME_DETAIL":["2017"],"Value":[21.6]}

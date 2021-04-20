@@ -11,6 +11,11 @@
       "schema": {
         "fields": [
           {
+            "name": "SERIES",
+            "type": "number",
+            "title": "SERIES"
+          },
+          {
             "name": "Subject",
             "type": "string",
             "constraints": {
@@ -42,7 +47,7 @@
           },
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           }
         ]

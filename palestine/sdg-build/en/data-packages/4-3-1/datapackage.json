@@ -16,13 +16,18 @@
             "constraints": {
               "enum": [
                 "",
-                "15 to 24 years old",
-                "25 to 64 years old",
-                "65 years old and over",
-                "All age ranges or no breakdown by age"
+                "Y15T24",
+                "Y25T64",
+                "Y_GE65",
+                "_T"
               ]
             },
             "title": "AGE"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
           },
           {
             "name": "SEX",
@@ -30,9 +35,9 @@
             "constraints": {
               "enum": [
                 "",
-                "Both sexes or no breakdown by sex",
-                "Female",
-                "Male"
+                "F",
+                "M",
+                "_T"
               ]
             },
             "title": "SEX"
@@ -55,7 +60,7 @@
           },
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           }
         ]

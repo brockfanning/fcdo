@@ -12,28 +12,28 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
-                "Female",
-                "Both sexes or no breakdown by sex",
+                "M",
+                "F",
+                "_T",
                 ""
               ]
             }
           },
           {
-            "name": "AREA",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
                 "West Bank",
                 "Gaza Strip",
-                "Palestine",
+                "PS",
                 ""
               ]
             }
@@ -43,10 +43,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "All age ranges or no breakdown by age",
-                "10 to 14 years old",
-                "10 to 17 years old",
-                "15 to 17 years old",
+                "_T",
+                "Y10T14",
+                "Y10T17",
+                "Y15T17",
                 ""
               ]
             }
@@ -78,6 +78,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "SERIES",
+            "type": "string"
           },
           {
             "name": "Value",

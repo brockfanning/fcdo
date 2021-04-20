@@ -12,10 +12,10 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
-            "name": "indicador-disponível",
+            "name": "REPORTING_TYPE",
             "type": "string",
             "constraints": {
               "enum": [
@@ -25,18 +25,11 @@
             }
           },
           {
-            "name": "sériedescrição",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "FB_ATM_TOTL",
-                "FB_CBK_BRCH",
-                ""
-              ]
-            }
+            "name": "SERIES",
+            "type": "string"
           },
           {
-            "name": "província",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
@@ -46,7 +39,7 @@
             }
           },
           {
-            "name": "sexo",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
@@ -56,7 +49,7 @@
             }
           },
           {
-            "name": "idade",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
@@ -66,7 +59,7 @@
             }
           },
           {
-            "name": "área-de-residência",
+            "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
@@ -78,7 +71,7 @@
             }
           },
           {
-            "name": "nível-de-educação",
+            "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
               "enum": [
@@ -88,7 +81,7 @@
             }
           },
           {
-            "name": "ocupação",
+            "name": "OCCUPATION",
             "type": "string",
             "constraints": {
               "enum": [
@@ -98,7 +91,7 @@
             }
           },
           {
-            "name": "deficiência",
+            "name": "DISABILITY_STATUS",
             "type": "string",
             "constraints": {
               "enum": [
@@ -108,7 +101,7 @@
             }
           },
           {
-            "name": "composição-composta",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
@@ -118,7 +111,7 @@
             }
           },
           {
-            "name": "quintil",
+            "name": "INCOME_WEALTH_QUANTILE",
             "type": "string",
             "constraints": {
               "enum": [
@@ -128,11 +121,15 @@
             }
           },
           {
-            "name": "unit",
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "por 100 mil adultos",
+                "0",
                 ""
               ]
             }

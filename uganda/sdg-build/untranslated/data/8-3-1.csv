@@ -1,4 +1,4 @@
-Year,seriesdescription,geoarea,sex,age,location,disability,unit,TIME_DETAIL,Value
-2016,SL_ISV_IFRM,UG,F,_T,_T,_T,%,2016,85.6
-2016,SL_ISV_IFRM,UG,M,_T,_T,_T,%,2016,84.5
-2016,SL_ISV_IFRM,UG,_T,_T,_T,_T,%,2016,84.9
+Year,SERIES,REF_AREA,SEX,AGE,location,disability,UNIT_MEASURE,UNIT_MULT,TIME_DETAIL,Value
+2016,SL_ISV_IFRM,UG,F,_T,_T,_T,PT,0,2016,85.6
+2016,SL_ISV_IFRM,UG,M,_T,_T,_T,PT,0,2016,84.5
+2016,SL_ISV_IFRM,UG,_T,_T,_T,_T,PT,0,2016,84.9

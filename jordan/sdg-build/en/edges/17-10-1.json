@@ -1,1 +1,1 @@
-{"From":["Tariff regime","Type of product"],"To":["Type of product","TIME_DETAIL"]}
+{"From":["Tariff regime","PRODUCT"],"To":["PRODUCT","TIME_DETAIL"]}

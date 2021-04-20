@@ -12,29 +12,29 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
             "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "Total",
-                "Urban",
-                "Rural",
+                "_T",
+                "U",
+                "R",
                 "Camp",
                 ""
               ]
             }
           },
           {
-            "name": "AREA",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
                 "West Bank",
                 "Gaza Strip",
-                "Palestine",
+                "PS",
                 "Jenin",
                 "Tubas & Northern Valleys",
                 "Tulkarm",
@@ -66,6 +66,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "SERIES",
+            "type": "string"
           },
           {
             "name": "Value",

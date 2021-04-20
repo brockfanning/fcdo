@@ -13,6 +13,44 @@
       "schema": {
         "fields": [
           {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "_T"
+              ]
+            },
+            "title": "AGE"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "UG"
+              ]
+            },
+            "title": "REF_AREA"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "_T"
+              ]
+            },
+            "title": "SEX"
+          },
+          {
             "name": "TIME_DETAIL",
             "type": "string",
             "constraints": {
@@ -24,25 +62,30 @@
             "title": "TIME_DETAIL"
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "0"
+              ]
+            },
+            "title": "UNIT_MULT"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "age",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "_T"
-              ]
-            },
-            "title": "age"
+            "title": "Year"
           },
           {
             "name": "disability",
@@ -56,17 +99,6 @@
             "title": "disability"
           },
           {
-            "name": "geoarea",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "UG"
-              ]
-            },
-            "title": "geoarea"
-          },
-          {
             "name": "location",
             "type": "string",
             "constraints": {
@@ -76,39 +108,6 @@
               ]
             },
             "title": "location"
-          },
-          {
-            "name": "seriesdescription",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "SI_POV_NAHC"
-              ]
-            },
-            "title": "seriesdescription"
-          },
-          {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "_T"
-              ]
-            },
-            "title": "sex"
-          },
-          {
-            "name": "unit",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "%"
-              ]
-            },
-            "title": "unit"
           }
         ]
       },
@@ -125,6 +124,44 @@
       "schema": {
         "fields": [
           {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "_T"
+              ]
+            },
+            "title": "AGE"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "UG"
+              ]
+            },
+            "title": "REF_AREA"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "_T"
+              ]
+            },
+            "title": "SEX"
+          },
+          {
             "name": "TIME_DETAIL",
             "type": "string",
             "constraints": {
@@ -137,25 +174,30 @@
             "title": "TIME_DETAIL"
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "0"
+              ]
+            },
+            "title": "UNIT_MULT"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "age",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "_T"
-              ]
-            },
-            "title": "age"
+            "title": "Year"
           },
           {
             "name": "disability",
@@ -169,17 +211,6 @@
             "title": "disability"
           },
           {
-            "name": "geoarea",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "UG"
-              ]
-            },
-            "title": "geoarea"
-          },
-          {
             "name": "location",
             "type": "string",
             "constraints": {
@@ -189,39 +220,6 @@
               ]
             },
             "title": "location"
-          },
-          {
-            "name": "seriesdescription",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "SP_LGL_LNDDOC"
-              ]
-            },
-            "title": "seriesdescription"
-          },
-          {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "_T"
-              ]
-            },
-            "title": "sex"
-          },
-          {
-            "name": "unit",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "%"
-              ]
-            },
-            "title": "unit"
           }
         ]
       },
@@ -238,6 +236,46 @@
       "schema": {
         "fields": [
           {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Y0T4"
+              ]
+            },
+            "title": "AGE"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "UG"
+              ]
+            },
+            "title": "REF_AREA"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "F",
+                "M",
+                "_T"
+              ]
+            },
+            "title": "SEX"
+          },
+          {
             "name": "TIME_DETAIL",
             "type": "string",
             "constraints": {
@@ -249,25 +287,30 @@
             "title": "TIME_DETAIL"
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "0"
+              ]
+            },
+            "title": "UNIT_MULT"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "age",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Y0T4"
-              ]
-            },
-            "title": "age"
+            "title": "Year"
           },
           {
             "name": "disability",
@@ -281,17 +324,6 @@
             "title": "disability"
           },
           {
-            "name": "geoarea",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "UG"
-              ]
-            },
-            "title": "geoarea"
-          },
-          {
             "name": "location",
             "type": "string",
             "constraints": {
@@ -301,41 +333,6 @@
               ]
             },
             "title": "location"
-          },
-          {
-            "name": "seriesdescription",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "SH_STA_WAST"
-              ]
-            },
-            "title": "seriesdescription"
-          },
-          {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "F",
-                "M",
-                "_T"
-              ]
-            },
-            "title": "sex"
-          },
-          {
-            "name": "unit",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "%"
-              ]
-            },
-            "title": "unit"
           }
         ]
       },
@@ -352,6 +349,46 @@
       "schema": {
         "fields": [
           {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Y0T4"
+              ]
+            },
+            "title": "AGE"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "UG"
+              ]
+            },
+            "title": "REF_AREA"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "F",
+                "M",
+                "_T"
+              ]
+            },
+            "title": "SEX"
+          },
+          {
             "name": "TIME_DETAIL",
             "type": "string",
             "constraints": {
@@ -363,25 +400,30 @@
             "title": "TIME_DETAIL"
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "0"
+              ]
+            },
+            "title": "UNIT_MULT"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "age",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Y0T4"
-              ]
-            },
-            "title": "age"
+            "title": "Year"
           },
           {
             "name": "disability",
@@ -395,17 +437,6 @@
             "title": "disability"
           },
           {
-            "name": "geoarea",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "UG"
-              ]
-            },
-            "title": "geoarea"
-          },
-          {
             "name": "location",
             "type": "string",
             "constraints": {
@@ -415,41 +446,6 @@
               ]
             },
             "title": "location"
-          },
-          {
-            "name": "seriesdescription",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "SH_STA_STNT"
-              ]
-            },
-            "title": "seriesdescription"
-          },
-          {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "F",
-                "M",
-                "_T"
-              ]
-            },
-            "title": "sex"
-          },
-          {
-            "name": "unit",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "%"
-              ]
-            },
-            "title": "unit"
           }
         ]
       },
@@ -466,6 +462,44 @@
       "schema": {
         "fields": [
           {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "_T"
+              ]
+            },
+            "title": "AGE"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "UG"
+              ]
+            },
+            "title": "REF_AREA"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "_T"
+              ]
+            },
+            "title": "SEX"
+          },
+          {
             "name": "TIME_DETAIL",
             "type": "string",
             "constraints": {
@@ -477,25 +511,30 @@
             "title": "TIME_DETAIL"
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "0"
+              ]
+            },
+            "title": "UNIT_MULT"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "age",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "_T"
-              ]
-            },
-            "title": "age"
+            "title": "Year"
           },
           {
             "name": "disability",
@@ -509,17 +548,6 @@
             "title": "disability"
           },
           {
-            "name": "geoarea",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "UG"
-              ]
-            },
-            "title": "geoarea"
-          },
-          {
             "name": "location",
             "type": "string",
             "constraints": {
@@ -529,39 +557,6 @@
               ]
             },
             "title": "location"
-          },
-          {
-            "name": "seriesdescription",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "SH_STA_BRTC"
-              ]
-            },
-            "title": "seriesdescription"
-          },
-          {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "_T"
-              ]
-            },
-            "title": "sex"
-          },
-          {
-            "name": "unit",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "%"
-              ]
-            },
-            "title": "unit"
           }
         ]
       },
@@ -578,6 +573,44 @@
       "schema": {
         "fields": [
           {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Y15T49"
+              ]
+            },
+            "title": "AGE"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "UG"
+              ]
+            },
+            "title": "REF_AREA"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "F"
+              ]
+            },
+            "title": "SEX"
+          },
+          {
             "name": "TIME_DETAIL",
             "type": "string",
             "constraints": {
@@ -589,25 +622,30 @@
             "title": "TIME_DETAIL"
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "0"
+              ]
+            },
+            "title": "UNIT_MULT"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "age",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Y15T49"
-              ]
-            },
-            "title": "age"
+            "title": "Year"
           },
           {
             "name": "disability",
@@ -621,17 +659,6 @@
             "title": "disability"
           },
           {
-            "name": "geoarea",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "UG"
-              ]
-            },
-            "title": "geoarea"
-          },
-          {
             "name": "location",
             "type": "string",
             "constraints": {
@@ -641,39 +668,6 @@
               ]
             },
             "title": "location"
-          },
-          {
-            "name": "seriesdescription",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "SH_STA_MORT"
-              ]
-            },
-            "title": "seriesdescription"
-          },
-          {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "F"
-              ]
-            },
-            "title": "sex"
-          },
-          {
-            "name": "unit",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "per 100000 live births"
-              ]
-            },
-            "title": "unit"
           }
         ]
       },
@@ -690,6 +684,46 @@
       "schema": {
         "fields": [
           {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Y0T4"
+              ]
+            },
+            "title": "AGE"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "UG"
+              ]
+            },
+            "title": "REF_AREA"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "F",
+                "M",
+                "_T"
+              ]
+            },
+            "title": "SEX"
+          },
+          {
             "name": "TIME_DETAIL",
             "type": "string",
             "constraints": {
@@ -701,25 +735,30 @@
             "title": "TIME_DETAIL"
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "0"
+              ]
+            },
+            "title": "UNIT_MULT"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "age",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Y0T4"
-              ]
-            },
-            "title": "age"
+            "title": "Year"
           },
           {
             "name": "disability",
@@ -733,17 +772,6 @@
             "title": "disability"
           },
           {
-            "name": "geoarea",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "UG"
-              ]
-            },
-            "title": "geoarea"
-          },
-          {
             "name": "location",
             "type": "string",
             "constraints": {
@@ -753,41 +781,6 @@
               ]
             },
             "title": "location"
-          },
-          {
-            "name": "seriesdescription",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "SH_DYN_MORT"
-              ]
-            },
-            "title": "seriesdescription"
-          },
-          {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "F",
-                "M",
-                "_T"
-              ]
-            },
-            "title": "sex"
-          },
-          {
-            "name": "unit",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "deaths per 1,000 live births"
-              ]
-            },
-            "title": "unit"
           }
         ]
       },
@@ -804,6 +797,46 @@
       "schema": {
         "fields": [
           {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "M0"
+              ]
+            },
+            "title": "AGE"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "UG"
+              ]
+            },
+            "title": "REF_AREA"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "F",
+                "M",
+                "_T"
+              ]
+            },
+            "title": "SEX"
+          },
+          {
             "name": "TIME_DETAIL",
             "type": "string",
             "constraints": {
@@ -815,25 +848,30 @@
             "title": "TIME_DETAIL"
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "0"
+              ]
+            },
+            "title": "UNIT_MULT"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "age",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "M0"
-              ]
-            },
-            "title": "age"
+            "title": "Year"
           },
           {
             "name": "disability",
@@ -847,17 +885,6 @@
             "title": "disability"
           },
           {
-            "name": "geoarea",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "UG"
-              ]
-            },
-            "title": "geoarea"
-          },
-          {
             "name": "location",
             "type": "string",
             "constraints": {
@@ -867,41 +894,6 @@
               ]
             },
             "title": "location"
-          },
-          {
-            "name": "seriesdescription",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "SH_DYN_NMRT"
-              ]
-            },
-            "title": "seriesdescription"
-          },
-          {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "F",
-                "M",
-                "_T"
-              ]
-            },
-            "title": "sex"
-          },
-          {
-            "name": "unit",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "deaths per 1,000 live births"
-              ]
-            },
-            "title": "unit"
           }
         ]
       },
@@ -918,6 +910,46 @@
       "schema": {
         "fields": [
           {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "_T"
+              ]
+            },
+            "title": "AGE"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "UG"
+              ]
+            },
+            "title": "REF_AREA"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "F",
+                "M",
+                "_T"
+              ]
+            },
+            "title": "SEX"
+          },
+          {
             "name": "TIME_DETAIL",
             "type": "string",
             "constraints": {
@@ -929,25 +961,30 @@
             "title": "TIME_DETAIL"
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "0"
+              ]
+            },
+            "title": "UNIT_MULT"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "age",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "_T"
-              ]
-            },
-            "title": "age"
+            "title": "Year"
           },
           {
             "name": "disability",
@@ -961,17 +998,6 @@
             "title": "disability"
           },
           {
-            "name": "geoarea",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "UG"
-              ]
-            },
-            "title": "geoarea"
-          },
-          {
             "name": "location",
             "type": "string",
             "constraints": {
@@ -981,41 +1007,6 @@
               ]
             },
             "title": "location"
-          },
-          {
-            "name": "seriesdescription",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "SH_STA_TRAF"
-              ]
-            },
-            "title": "seriesdescription"
-          },
-          {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "F",
-                "M",
-                "_T"
-              ]
-            },
-            "title": "sex"
-          },
-          {
-            "name": "unit",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "per 100,000 population"
-              ]
-            },
-            "title": "unit"
           }
         ]
       },
@@ -1032,6 +1023,44 @@
       "schema": {
         "fields": [
           {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Y15T49"
+              ]
+            },
+            "title": "AGE"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "UG"
+              ]
+            },
+            "title": "REF_AREA"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "F"
+              ]
+            },
+            "title": "SEX"
+          },
+          {
             "name": "TIME_DETAIL",
             "type": "string",
             "constraints": {
@@ -1043,25 +1072,30 @@
             "title": "TIME_DETAIL"
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "0"
+              ]
+            },
+            "title": "UNIT_MULT"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "age",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Y15T49"
-              ]
-            },
-            "title": "age"
+            "title": "Year"
           },
           {
             "name": "disability",
@@ -1075,17 +1109,6 @@
             "title": "disability"
           },
           {
-            "name": "geoarea",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "UG"
-              ]
-            },
-            "title": "geoarea"
-          },
-          {
             "name": "location",
             "type": "string",
             "constraints": {
@@ -1095,39 +1118,6 @@
               ]
             },
             "title": "location"
-          },
-          {
-            "name": "seriesdescription",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "SH_FPL_MTMM"
-              ]
-            },
-            "title": "seriesdescription"
-          },
-          {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "F"
-              ]
-            },
-            "title": "sex"
-          },
-          {
-            "name": "unit",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "%"
-              ]
-            },
-            "title": "unit"
           }
         ]
       },
@@ -1144,6 +1134,46 @@
       "schema": {
         "fields": [
           {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Y_GE15"
+              ]
+            },
+            "title": "AGE"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "UG"
+              ]
+            },
+            "title": "REF_AREA"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "F",
+                "M",
+                "_T"
+              ]
+            },
+            "title": "SEX"
+          },
+          {
             "name": "TIME_DETAIL",
             "type": "string",
             "constraints": {
@@ -1155,25 +1185,30 @@
             "title": "TIME_DETAIL"
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "0"
+              ]
+            },
+            "title": "UNIT_MULT"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "age",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Y_GE15"
-              ]
-            },
-            "title": "age"
+            "title": "Year"
           },
           {
             "name": "disability",
@@ -1187,17 +1222,6 @@
             "title": "disability"
           },
           {
-            "name": "geoarea",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "UG"
-              ]
-            },
-            "title": "geoarea"
-          },
-          {
             "name": "location",
             "type": "string",
             "constraints": {
@@ -1207,41 +1231,6 @@
               ]
             },
             "title": "location"
-          },
-          {
-            "name": "seriesdescription",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "SH_PRV_SMOK"
-              ]
-            },
-            "title": "seriesdescription"
-          },
-          {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "F",
-                "M",
-                "_T"
-              ]
-            },
-            "title": "sex"
-          },
-          {
-            "name": "unit",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "%"
-              ]
-            },
-            "title": "unit"
           }
         ]
       },
@@ -1258,6 +1247,46 @@
       "schema": {
         "fields": [
           {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "_T"
+              ]
+            },
+            "title": "AGE"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "UG"
+              ]
+            },
+            "title": "REF_AREA"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "F",
+                "M",
+                "_T"
+              ]
+            },
+            "title": "SEX"
+          },
+          {
             "name": "TIME_DETAIL",
             "type": "string",
             "constraints": {
@@ -1269,25 +1298,30 @@
             "title": "TIME_DETAIL"
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "0"
+              ]
+            },
+            "title": "UNIT_MULT"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "age",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "_T"
-              ]
-            },
-            "title": "age"
+            "title": "Year"
           },
           {
             "name": "disability",
@@ -1301,17 +1335,6 @@
             "title": "disability"
           },
           {
-            "name": "geoarea",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "UG"
-              ]
-            },
-            "title": "geoarea"
-          },
-          {
             "name": "location",
             "type": "string",
             "constraints": {
@@ -1321,41 +1344,6 @@
               ]
             },
             "title": "location"
-          },
-          {
-            "name": "seriesdescription",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "SH_ACS_VACN"
-              ]
-            },
-            "title": "seriesdescription"
-          },
-          {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "F",
-                "M",
-                "_T"
-              ]
-            },
-            "title": "sex"
-          },
-          {
-            "name": "unit",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "%"
-              ]
-            },
-            "title": "unit"
           }
         ]
       },
@@ -1372,6 +1360,46 @@
       "schema": {
         "fields": [
           {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Y0T4"
+              ]
+            },
+            "title": "AGE"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "UG"
+              ]
+            },
+            "title": "REF_AREA"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "F",
+                "M",
+                "_T"
+              ]
+            },
+            "title": "SEX"
+          },
+          {
             "name": "TIME_DETAIL",
             "type": "string",
             "constraints": {
@@ -1383,25 +1411,30 @@
             "title": "TIME_DETAIL"
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "0"
+              ]
+            },
+            "title": "UNIT_MULT"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "age",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Y0T4"
-              ]
-            },
-            "title": "age"
+            "title": "Year"
           },
           {
             "name": "disability",
@@ -1415,17 +1448,6 @@
             "title": "disability"
           },
           {
-            "name": "geoarea",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "UG"
-              ]
-            },
-            "title": "geoarea"
-          },
-          {
             "name": "location",
             "type": "string",
             "constraints": {
@@ -1435,41 +1457,6 @@
               ]
             },
             "title": "location"
-          },
-          {
-            "name": "seriesdescription",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "SE_DEV_ONTRK"
-              ]
-            },
-            "title": "seriesdescription"
-          },
-          {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "F",
-                "M",
-                "_T"
-              ]
-            },
-            "title": "sex"
-          },
-          {
-            "name": "unit",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "%"
-              ]
-            },
-            "title": "unit"
           }
         ]
       },
@@ -1486,6 +1473,44 @@
       "schema": {
         "fields": [
           {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Y_GE15"
+              ]
+            },
+            "title": "AGE"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "UG"
+              ]
+            },
+            "title": "REF_AREA"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "F"
+              ]
+            },
+            "title": "SEX"
+          },
+          {
             "name": "TIME_DETAIL",
             "type": "string",
             "constraints": {
@@ -1498,25 +1523,30 @@
             "title": "TIME_DETAIL"
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "0"
+              ]
+            },
+            "title": "UNIT_MULT"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "age",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Y_GE15"
-              ]
-            },
-            "title": "age"
+            "title": "Year"
           },
           {
             "name": "disability",
@@ -1530,17 +1560,6 @@
             "title": "disability"
           },
           {
-            "name": "geoarea",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "UG"
-              ]
-            },
-            "title": "geoarea"
-          },
-          {
             "name": "location",
             "type": "string",
             "constraints": {
@@ -1550,42 +1569,6 @@
               ]
             },
             "title": "location"
-          },
-          {
-            "name": "seriesdescription",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "VC_VAW_MARR",
-                "VC_VAW_PHYV",
-                "VC_VAW_PSYV",
-                "VC_VAW_SEXV"
-              ]
-            },
-            "title": "seriesdescription"
-          },
-          {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "F"
-              ]
-            },
-            "title": "sex"
-          },
-          {
-            "name": "unit",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "%"
-              ]
-            },
-            "title": "unit"
           }
         ]
       },
@@ -1602,6 +1585,44 @@
       "schema": {
         "fields": [
           {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Y20T24"
+              ]
+            },
+            "title": "AGE"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "UG"
+              ]
+            },
+            "title": "REF_AREA"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "F"
+              ]
+            },
+            "title": "SEX"
+          },
+          {
             "name": "TIME_DETAIL",
             "type": "string",
             "constraints": {
@@ -1613,25 +1634,30 @@
             "title": "TIME_DETAIL"
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "0"
+              ]
+            },
+            "title": "UNIT_MULT"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "age",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Y20T24"
-              ]
-            },
-            "title": "age"
+            "title": "Year"
           },
           {
             "name": "disability",
@@ -1645,17 +1671,6 @@
             "title": "disability"
           },
           {
-            "name": "geoarea",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "UG"
-              ]
-            },
-            "title": "geoarea"
-          },
-          {
             "name": "location",
             "type": "string",
             "constraints": {
@@ -1665,40 +1680,6 @@
               ]
             },
             "title": "location"
-          },
-          {
-            "name": "seriesdescription",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "SP_DYN_MRBF15",
-                "SP_DYN_MRBF18"
-              ]
-            },
-            "title": "seriesdescription"
-          },
-          {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "F"
-              ]
-            },
-            "title": "sex"
-          },
-          {
-            "name": "unit",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "%"
-              ]
-            },
-            "title": "unit"
           }
         ]
       },
@@ -1715,6 +1696,44 @@
       "schema": {
         "fields": [
           {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Y15T49"
+              ]
+            },
+            "title": "AGE"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "UG"
+              ]
+            },
+            "title": "REF_AREA"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "F"
+              ]
+            },
+            "title": "SEX"
+          },
+          {
             "name": "TIME_DETAIL",
             "type": "string",
             "constraints": {
@@ -1726,25 +1745,30 @@
             "title": "TIME_DETAIL"
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "0"
+              ]
+            },
+            "title": "UNIT_MULT"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "age",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Y15T49"
-              ]
-            },
-            "title": "age"
+            "title": "Year"
           },
           {
             "name": "disability",
@@ -1758,17 +1782,6 @@
             "title": "disability"
           },
           {
-            "name": "geoarea",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "UG"
-              ]
-            },
-            "title": "geoarea"
-          },
-          {
             "name": "location",
             "type": "string",
             "constraints": {
@@ -1778,39 +1791,6 @@
               ]
             },
             "title": "location"
-          },
-          {
-            "name": "seriesdescription",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "SH_STA_FGMS"
-              ]
-            },
-            "title": "seriesdescription"
-          },
-          {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "F"
-              ]
-            },
-            "title": "sex"
-          },
-          {
-            "name": "unit",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "%"
-              ]
-            },
-            "title": "unit"
           }
         ]
       },
@@ -1827,6 +1807,44 @@
       "schema": {
         "fields": [
           {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Y15T49"
+              ]
+            },
+            "title": "AGE"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "UG"
+              ]
+            },
+            "title": "REF_AREA"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "F"
+              ]
+            },
+            "title": "SEX"
+          },
+          {
             "name": "TIME_DETAIL",
             "type": "string",
             "constraints": {
@@ -1838,25 +1856,30 @@
             "title": "TIME_DETAIL"
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "0"
+              ]
+            },
+            "title": "UNIT_MULT"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "age",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Y15T49"
-              ]
-            },
-            "title": "age"
+            "title": "Year"
           },
           {
             "name": "disability",
@@ -1870,17 +1893,6 @@
             "title": "disability"
           },
           {
-            "name": "geoarea",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "UG"
-              ]
-            },
-            "title": "geoarea"
-          },
-          {
             "name": "location",
             "type": "string",
             "constraints": {
@@ -1890,39 +1902,6 @@
               ]
             },
             "title": "location"
-          },
-          {
-            "name": "seriesdescription",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "SH_FPL_INFM"
-              ]
-            },
-            "title": "seriesdescription"
-          },
-          {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "F"
-              ]
-            },
-            "title": "sex"
-          },
-          {
-            "name": "unit",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "%"
-              ]
-            },
-            "title": "unit"
           }
         ]
       },
@@ -1939,6 +1918,46 @@
       "schema": {
         "fields": [
           {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "_T"
+              ]
+            },
+            "title": "AGE"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "UG"
+              ]
+            },
+            "title": "REF_AREA"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "F",
+                "M",
+                "_T"
+              ]
+            },
+            "title": "SEX"
+          },
+          {
             "name": "TIME_DETAIL",
             "type": "string",
             "constraints": {
@@ -1950,25 +1969,30 @@
             "title": "TIME_DETAIL"
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "0"
+              ]
+            },
+            "title": "UNIT_MULT"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "age",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "_T"
-              ]
-            },
-            "title": "age"
+            "title": "Year"
           },
           {
             "name": "disability",
@@ -1982,17 +2006,6 @@
             "title": "disability"
           },
           {
-            "name": "geoarea",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "UG"
-              ]
-            },
-            "title": "geoarea"
-          },
-          {
             "name": "location",
             "type": "string",
             "constraints": {
@@ -2002,41 +2015,6 @@
               ]
             },
             "title": "location"
-          },
-          {
-            "name": "seriesdescription",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "IT_MOB_OWN"
-              ]
-            },
-            "title": "seriesdescription"
-          },
-          {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "F",
-                "M",
-                "_T"
-              ]
-            },
-            "title": "sex"
-          },
-          {
-            "name": "unit",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "%"
-              ]
-            },
-            "title": "unit"
           }
         ]
       },
@@ -2053,6 +2031,44 @@
       "schema": {
         "fields": [
           {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Y15T49"
+              ]
+            },
+            "title": "AGE"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "UG"
+              ]
+            },
+            "title": "REF_AREA"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "F"
+              ]
+            },
+            "title": "SEX"
+          },
+          {
             "name": "TIME_DETAIL",
             "type": "string",
             "constraints": {
@@ -2064,25 +2080,30 @@
             "title": "TIME_DETAIL"
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "0"
+              ]
+            },
+            "title": "UNIT_MULT"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "age",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Y15T49"
-              ]
-            },
-            "title": "age"
+            "title": "Year"
           },
           {
             "name": "disability",
@@ -2096,17 +2117,6 @@
             "title": "disability"
           },
           {
-            "name": "geoarea",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "UG"
-              ]
-            },
-            "title": "geoarea"
-          },
-          {
             "name": "location",
             "type": "string",
             "constraints": {
@@ -2116,39 +2126,6 @@
               ]
             },
             "title": "location"
-          },
-          {
-            "name": "seriesdescription",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "SG_GEN_LOCG"
-              ]
-            },
-            "title": "seriesdescription"
-          },
-          {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "F"
-              ]
-            },
-            "title": "sex"
-          },
-          {
-            "name": "unit",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "%"
-              ]
-            },
-            "title": "unit"
           }
         ]
       },
@@ -2165,6 +2142,46 @@
       "schema": {
         "fields": [
           {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "_T"
+              ]
+            },
+            "title": "AGE"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "UG"
+              ]
+            },
+            "title": "REF_AREA"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "F",
+                "M",
+                "_T"
+              ]
+            },
+            "title": "SEX"
+          },
+          {
             "name": "TIME_DETAIL",
             "type": "string",
             "constraints": {
@@ -2176,25 +2193,30 @@
             "title": "TIME_DETAIL"
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "0"
+              ]
+            },
+            "title": "UNIT_MULT"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "age",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "_T"
-              ]
-            },
-            "title": "age"
+            "title": "Year"
           },
           {
             "name": "disability",
@@ -2208,17 +2230,6 @@
             "title": "disability"
           },
           {
-            "name": "geoarea",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "UG"
-              ]
-            },
-            "title": "geoarea"
-          },
-          {
             "name": "location",
             "type": "string",
             "constraints": {
@@ -2228,41 +2239,6 @@
               ]
             },
             "title": "location"
-          },
-          {
-            "name": "seriesdescription",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "SP_LGL_LNDAGSEC"
-              ]
-            },
-            "title": "seriesdescription"
-          },
-          {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "F",
-                "M",
-                "_T"
-              ]
-            },
-            "title": "sex"
-          },
-          {
-            "name": "unit",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "%"
-              ]
-            },
-            "title": "unit"
           }
         ]
       },
@@ -2279,6 +2255,46 @@
       "schema": {
         "fields": [
           {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "_T"
+              ]
+            },
+            "title": "AGE"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "UG"
+              ]
+            },
+            "title": "REF_AREA"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "F",
+                "M",
+                "_T"
+              ]
+            },
+            "title": "SEX"
+          },
+          {
             "name": "TIME_DETAIL",
             "type": "string",
             "constraints": {
@@ -2290,25 +2306,30 @@
             "title": "TIME_DETAIL"
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "0"
+              ]
+            },
+            "title": "UNIT_MULT"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "age",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "_T"
-              ]
-            },
-            "title": "age"
+            "title": "Year"
           },
           {
             "name": "disability",
@@ -2322,17 +2343,6 @@
             "title": "disability"
           },
           {
-            "name": "geoarea",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "UG"
-              ]
-            },
-            "title": "geoarea"
-          },
-          {
             "name": "location",
             "type": "string",
             "constraints": {
@@ -2342,41 +2352,6 @@
               ]
             },
             "title": "location"
-          },
-          {
-            "name": "seriesdescription",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "SH_H2O_SAFE"
-              ]
-            },
-            "title": "seriesdescription"
-          },
-          {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "F",
-                "M",
-                "_T"
-              ]
-            },
-            "title": "sex"
-          },
-          {
-            "name": "unit",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "%"
-              ]
-            },
-            "title": "unit"
           }
         ]
       },
@@ -2393,6 +2368,46 @@
       "schema": {
         "fields": [
           {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "_T"
+              ]
+            },
+            "title": "AGE"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "UG"
+              ]
+            },
+            "title": "REF_AREA"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "F",
+                "M",
+                "_T"
+              ]
+            },
+            "title": "SEX"
+          },
+          {
             "name": "TIME_DETAIL",
             "type": "string",
             "constraints": {
@@ -2404,25 +2419,30 @@
             "title": "TIME_DETAIL"
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "0"
+              ]
+            },
+            "title": "UNIT_MULT"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "age",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "_T"
-              ]
-            },
-            "title": "age"
+            "title": "Year"
           },
           {
             "name": "disability",
@@ -2436,17 +2456,6 @@
             "title": "disability"
           },
           {
-            "name": "geoarea",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "UG"
-              ]
-            },
-            "title": "geoarea"
-          },
-          {
             "name": "location",
             "type": "string",
             "constraints": {
@@ -2456,41 +2465,6 @@
               ]
             },
             "title": "location"
-          },
-          {
-            "name": "seriesdescription",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "SH_SAN_SAFE"
-              ]
-            },
-            "title": "seriesdescription"
-          },
-          {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "F",
-                "M",
-                "_T"
-              ]
-            },
-            "title": "sex"
-          },
-          {
-            "name": "unit",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "%"
-              ]
-            },
-            "title": "unit"
           }
         ]
       },
@@ -2507,6 +2481,46 @@
       "schema": {
         "fields": [
           {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "_T"
+              ]
+            },
+            "title": "AGE"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "UG"
+              ]
+            },
+            "title": "REF_AREA"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "F",
+                "M",
+                "_T"
+              ]
+            },
+            "title": "SEX"
+          },
+          {
             "name": "TIME_DETAIL",
             "type": "string",
             "constraints": {
@@ -2518,25 +2532,30 @@
             "title": "TIME_DETAIL"
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "0"
+              ]
+            },
+            "title": "UNIT_MULT"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "age",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "_T"
-              ]
-            },
-            "title": "age"
+            "title": "Year"
           },
           {
             "name": "disability",
@@ -2550,17 +2569,6 @@
             "title": "disability"
           },
           {
-            "name": "geoarea",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "UG"
-              ]
-            },
-            "title": "geoarea"
-          },
-          {
             "name": "location",
             "type": "string",
             "constraints": {
@@ -2570,41 +2578,6 @@
               ]
             },
             "title": "location"
-          },
-          {
-            "name": "seriesdescription",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "EG_ACS_ELEC"
-              ]
-            },
-            "title": "seriesdescription"
-          },
-          {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "F",
-                "M",
-                "_T"
-              ]
-            },
-            "title": "sex"
-          },
-          {
-            "name": "unit",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "%"
-              ]
-            },
-            "title": "unit"
           }
         ]
       },
@@ -2621,6 +2594,46 @@
       "schema": {
         "fields": [
           {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "_T"
+              ]
+            },
+            "title": "AGE"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "UG"
+              ]
+            },
+            "title": "REF_AREA"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "F",
+                "M",
+                "_T"
+              ]
+            },
+            "title": "SEX"
+          },
+          {
             "name": "TIME_DETAIL",
             "type": "string",
             "constraints": {
@@ -2632,25 +2645,30 @@
             "title": "TIME_DETAIL"
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "0"
+              ]
+            },
+            "title": "UNIT_MULT"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "age",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "_T"
-              ]
-            },
-            "title": "age"
+            "title": "Year"
           },
           {
             "name": "disability",
@@ -2664,17 +2682,6 @@
             "title": "disability"
           },
           {
-            "name": "geoarea",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "UG"
-              ]
-            },
-            "title": "geoarea"
-          },
-          {
             "name": "location",
             "type": "string",
             "constraints": {
@@ -2684,41 +2691,6 @@
               ]
             },
             "title": "location"
-          },
-          {
-            "name": "seriesdescription",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "EG_EGY_CLEAN"
-              ]
-            },
-            "title": "seriesdescription"
-          },
-          {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "F",
-                "M",
-                "_T"
-              ]
-            },
-            "title": "sex"
-          },
-          {
-            "name": "unit",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "%"
-              ]
-            },
-            "title": "unit"
           }
         ]
       },
@@ -2735,6 +2707,44 @@
       "schema": {
         "fields": [
           {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "_T"
+              ]
+            },
+            "title": "AGE"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "UG"
+              ]
+            },
+            "title": "REF_AREA"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "_T"
+              ]
+            },
+            "title": "SEX"
+          },
+          {
             "name": "TIME_DETAIL",
             "type": "string",
             "constraints": {
@@ -2747,25 +2757,30 @@
             "title": "TIME_DETAIL"
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "0"
+              ]
+            },
+            "title": "UNIT_MULT"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "age",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "_T"
-              ]
-            },
-            "title": "age"
+            "title": "Year"
           },
           {
             "name": "disability",
@@ -2779,17 +2794,6 @@
             "title": "disability"
           },
           {
-            "name": "geoarea",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "UG"
-              ]
-            },
-            "title": "geoarea"
-          },
-          {
             "name": "location",
             "type": "string",
             "constraints": {
@@ -2799,39 +2803,6 @@
               ]
             },
             "title": "location"
-          },
-          {
-            "name": "seriesdescription",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "NY_GDP_PCAP"
-              ]
-            },
-            "title": "seriesdescription"
-          },
-          {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "_T"
-              ]
-            },
-            "title": "sex"
-          },
-          {
-            "name": "unit",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "%"
-              ]
-            },
-            "title": "unit"
           }
         ]
       },
@@ -2848,6 +2819,46 @@
       "schema": {
         "fields": [
           {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "_T"
+              ]
+            },
+            "title": "AGE"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "UG"
+              ]
+            },
+            "title": "REF_AREA"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "F",
+                "M",
+                "_T"
+              ]
+            },
+            "title": "SEX"
+          },
+          {
             "name": "TIME_DETAIL",
             "type": "string",
             "constraints": {
@@ -2859,25 +2870,30 @@
             "title": "TIME_DETAIL"
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "0"
+              ]
+            },
+            "title": "UNIT_MULT"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "age",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "_T"
-              ]
-            },
-            "title": "age"
+            "title": "Year"
           },
           {
             "name": "disability",
@@ -2891,17 +2907,6 @@
             "title": "disability"
           },
           {
-            "name": "geoarea",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "UG"
-              ]
-            },
-            "title": "geoarea"
-          },
-          {
             "name": "location",
             "type": "string",
             "constraints": {
@@ -2911,41 +2916,6 @@
               ]
             },
             "title": "location"
-          },
-          {
-            "name": "seriesdescription",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "SL_ISV_IFRM"
-              ]
-            },
-            "title": "seriesdescription"
-          },
-          {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "F",
-                "M",
-                "_T"
-              ]
-            },
-            "title": "sex"
-          },
-          {
-            "name": "unit",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "%"
-              ]
-            },
-            "title": "unit"
           }
         ]
       },
@@ -2962,6 +2932,46 @@
       "schema": {
         "fields": [
           {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "_T"
+              ]
+            },
+            "title": "AGE"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "UG"
+              ]
+            },
+            "title": "REF_AREA"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "F",
+                "M",
+                "_T"
+              ]
+            },
+            "title": "SEX"
+          },
+          {
             "name": "TIME_DETAIL",
             "type": "string",
             "constraints": {
@@ -2973,25 +2983,30 @@
             "title": "TIME_DETAIL"
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "0"
+              ]
+            },
+            "title": "UNIT_MULT"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "age",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "_T"
-              ]
-            },
-            "title": "age"
+            "title": "Year"
           },
           {
             "name": "disability",
@@ -3006,17 +3021,6 @@
             "title": "disability"
           },
           {
-            "name": "geoarea",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "UG"
-              ]
-            },
-            "title": "geoarea"
-          },
-          {
             "name": "location",
             "type": "string",
             "constraints": {
@@ -3026,41 +3030,6 @@
               ]
             },
             "title": "location"
-          },
-          {
-            "name": "seriesdescription",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "SL_TLF_UEM"
-              ]
-            },
-            "title": "seriesdescription"
-          },
-          {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "F",
-                "M",
-                "_T"
-              ]
-            },
-            "title": "sex"
-          },
-          {
-            "name": "unit",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "%"
-              ]
-            },
-            "title": "unit"
           }
         ]
       },
@@ -3077,6 +3046,46 @@
       "schema": {
         "fields": [
           {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Y5T17"
+              ]
+            },
+            "title": "AGE"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "UG"
+              ]
+            },
+            "title": "REF_AREA"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "F",
+                "M",
+                "_T"
+              ]
+            },
+            "title": "SEX"
+          },
+          {
             "name": "TIME_DETAIL",
             "type": "string",
             "constraints": {
@@ -3088,25 +3097,30 @@
             "title": "TIME_DETAIL"
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "0"
+              ]
+            },
+            "title": "UNIT_MULT"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "age",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Y5T17"
-              ]
-            },
-            "title": "age"
+            "title": "Year"
           },
           {
             "name": "disability",
@@ -3120,17 +3134,6 @@
             "title": "disability"
           },
           {
-            "name": "geoarea",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "UG"
-              ]
-            },
-            "title": "geoarea"
-          },
-          {
             "name": "location",
             "type": "string",
             "constraints": {
@@ -3140,41 +3143,6 @@
               ]
             },
             "title": "location"
-          },
-          {
-            "name": "seriesdescription",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "SL_TLF_CHLDEA"
-              ]
-            },
-            "title": "seriesdescription"
-          },
-          {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "F",
-                "M",
-                "_T"
-              ]
-            },
-            "title": "sex"
-          },
-          {
-            "name": "unit",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "%"
-              ]
-            },
-            "title": "unit"
           }
         ]
       },
@@ -3191,6 +3159,46 @@
       "schema": {
         "fields": [
           {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Y_GE15"
+              ]
+            },
+            "title": "AGE"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "UG"
+              ]
+            },
+            "title": "REF_AREA"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "F",
+                "M",
+                "_T"
+              ]
+            },
+            "title": "SEX"
+          },
+          {
             "name": "TIME_DETAIL",
             "type": "string",
             "constraints": {
@@ -3202,25 +3210,30 @@
             "title": "TIME_DETAIL"
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "0"
+              ]
+            },
+            "title": "UNIT_MULT"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "age",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Y_GE15"
-              ]
-            },
-            "title": "age"
+            "title": "Year"
           },
           {
             "name": "disability",
@@ -3234,17 +3247,6 @@
             "title": "disability"
           },
           {
-            "name": "geoarea",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "UG"
-              ]
-            },
-            "title": "geoarea"
-          },
-          {
             "name": "location",
             "type": "string",
             "constraints": {
@@ -3254,41 +3256,6 @@
               ]
             },
             "title": "location"
-          },
-          {
-            "name": "seriesdescription",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "FB_BNK_ACCSS"
-              ]
-            },
-            "title": "seriesdescription"
-          },
-          {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "F",
-                "M",
-                "_T"
-              ]
-            },
-            "title": "sex"
-          },
-          {
-            "name": "unit",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "%"
-              ]
-            },
-            "title": "unit"
           }
         ]
       },
@@ -3305,6 +3272,46 @@
       "schema": {
         "fields": [
           {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "_T"
+              ]
+            },
+            "title": "AGE"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "UG"
+              ]
+            },
+            "title": "REF_AREA"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "F",
+                "M",
+                "_T"
+              ]
+            },
+            "title": "SEX"
+          },
+          {
             "name": "TIME_DETAIL",
             "type": "string",
             "constraints": {
@@ -3316,25 +3323,30 @@
             "title": "TIME_DETAIL"
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "0"
+              ]
+            },
+            "title": "UNIT_MULT"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "age",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "_T"
-              ]
-            },
-            "title": "age"
+            "title": "Year"
           },
           {
             "name": "disability",
@@ -3348,17 +3360,6 @@
             "title": "disability"
           },
           {
-            "name": "geoarea",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "UG"
-              ]
-            },
-            "title": "geoarea"
-          },
-          {
             "name": "location",
             "type": "string",
             "constraints": {
@@ -3368,41 +3369,6 @@
               ]
             },
             "title": "location"
-          },
-          {
-            "name": "seriesdescription",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "SL_TLF_NEET"
-              ]
-            },
-            "title": "seriesdescription"
-          },
-          {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "F",
-                "M",
-                "_T"
-              ]
-            },
-            "title": "sex"
-          },
-          {
-            "name": "unit",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "%"
-              ]
-            },
-            "title": "unit"
           }
         ]
       },
@@ -3419,6 +3385,46 @@
       "schema": {
         "fields": [
           {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "_T"
+              ]
+            },
+            "title": "AGE"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "UG"
+              ]
+            },
+            "title": "REF_AREA"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "F",
+                "M",
+                "_T"
+              ]
+            },
+            "title": "SEX"
+          },
+          {
             "name": "TIME_DETAIL",
             "type": "string",
             "constraints": {
@@ -3430,25 +3436,30 @@
             "title": "TIME_DETAIL"
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "0"
+              ]
+            },
+            "title": "UNIT_MULT"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "age",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "_T"
-              ]
-            },
-            "title": "age"
+            "title": "Year"
           },
           {
             "name": "disability",
@@ -3462,17 +3473,6 @@
             "title": "disability"
           },
           {
-            "name": "geoarea",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "UG"
-              ]
-            },
-            "title": "geoarea"
-          },
-          {
             "name": "location",
             "type": "string",
             "constraints": {
@@ -3482,41 +3482,6 @@
               ]
             },
             "title": "location"
-          },
-          {
-            "name": "seriesdescription",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "SL_TLF_MANF"
-              ]
-            },
-            "title": "seriesdescription"
-          },
-          {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "F",
-                "M",
-                "_T"
-              ]
-            },
-            "title": "sex"
-          },
-          {
-            "name": "unit",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "%"
-              ]
-            },
-            "title": "unit"
           }
         ]
       },
@@ -3533,6 +3498,44 @@
       "schema": {
         "fields": [
           {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "_T"
+              ]
+            },
+            "title": "AGE"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "UG"
+              ]
+            },
+            "title": "REF_AREA"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "_T"
+              ]
+            },
+            "title": "SEX"
+          },
+          {
             "name": "TIME_DETAIL",
             "type": "string",
             "constraints": {
@@ -3545,25 +3548,30 @@
             "title": "TIME_DETAIL"
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "0"
+              ]
+            },
+            "title": "UNIT_MULT"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "age",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "_T"
-              ]
-            },
-            "title": "age"
+            "title": "Year"
           },
           {
             "name": "disability",
@@ -3577,17 +3585,6 @@
             "title": "disability"
           },
           {
-            "name": "geoarea",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "UG"
-              ]
-            },
-            "title": "geoarea"
-          },
-          {
             "name": "location",
             "type": "string",
             "constraints": {
@@ -3597,39 +3594,6 @@
               ]
             },
             "title": "location"
-          },
-          {
-            "name": "seriesdescription",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "AG_LND_FRST"
-              ]
-            },
-            "title": "seriesdescription"
-          },
-          {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "_T"
-              ]
-            },
-            "title": "sex"
-          },
-          {
-            "name": "unit",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "%"
-              ]
-            },
-            "title": "unit"
           }
         ]
       },
@@ -3646,6 +3610,46 @@
       "schema": {
         "fields": [
           {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "_T"
+              ]
+            },
+            "title": "AGE"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "UG"
+              ]
+            },
+            "title": "REF_AREA"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "F",
+                "M",
+                "_T"
+              ]
+            },
+            "title": "SEX"
+          },
+          {
             "name": "TIME_DETAIL",
             "type": "string",
             "constraints": {
@@ -3657,25 +3661,30 @@
             "title": "TIME_DETAIL"
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "0"
+              ]
+            },
+            "title": "UNIT_MULT"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "age",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "_T"
-              ]
-            },
-            "title": "age"
+            "title": "Year"
           },
           {
             "name": "disability",
@@ -3689,17 +3698,6 @@
             "title": "disability"
           },
           {
-            "name": "geoarea",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "UG"
-              ]
-            },
-            "title": "geoarea"
-          },
-          {
             "name": "location",
             "type": "string",
             "constraints": {
@@ -3709,41 +3707,6 @@
               ]
             },
             "title": "location"
-          },
-          {
-            "name": "seriesdescription",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "VC_SNS_WALN"
-              ]
-            },
-            "title": "seriesdescription"
-          },
-          {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "F",
-                "M",
-                "_T"
-              ]
-            },
-            "title": "sex"
-          },
-          {
-            "name": "unit",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "%"
-              ]
-            },
-            "title": "unit"
           }
         ]
       },
@@ -3760,6 +3723,46 @@
       "schema": {
         "fields": [
           {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Y1T17"
+              ]
+            },
+            "title": "AGE"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "UG"
+              ]
+            },
+            "title": "REF_AREA"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "F",
+                "M",
+                "_T"
+              ]
+            },
+            "title": "SEX"
+          },
+          {
             "name": "TIME_DETAIL",
             "type": "string",
             "constraints": {
@@ -3771,25 +3774,30 @@
             "title": "TIME_DETAIL"
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "0"
+              ]
+            },
+            "title": "UNIT_MULT"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "age",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Y1T17"
-              ]
-            },
-            "title": "age"
+            "title": "Year"
           },
           {
             "name": "disability",
@@ -3803,17 +3811,6 @@
             "title": "disability"
           },
           {
-            "name": "geoarea",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "UG"
-              ]
-            },
-            "title": "geoarea"
-          },
-          {
             "name": "location",
             "type": "string",
             "constraints": {
@@ -3823,41 +3820,6 @@
               ]
             },
             "title": "location"
-          },
-          {
-            "name": "seriesdescription",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "VC_VAW_PHYPYV"
-              ]
-            },
-            "title": "seriesdescription"
-          },
-          {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "F",
-                "M",
-                "_T"
-              ]
-            },
-            "title": "sex"
-          },
-          {
-            "name": "unit",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "%"
-              ]
-            },
-            "title": "unit"
           }
         ]
       },
@@ -3874,6 +3836,46 @@
       "schema": {
         "fields": [
           {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "_T"
+              ]
+            },
+            "title": "AGE"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "UG"
+              ]
+            },
+            "title": "REF_AREA"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "F",
+                "M",
+                "_T"
+              ]
+            },
+            "title": "SEX"
+          },
+          {
             "name": "TIME_DETAIL",
             "type": "string",
             "constraints": {
@@ -3885,25 +3887,30 @@
             "title": "TIME_DETAIL"
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "0"
+              ]
+            },
+            "title": "UNIT_MULT"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "age",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "_T"
-              ]
-            },
-            "title": "age"
+            "title": "Year"
           },
           {
             "name": "disability",
@@ -3917,17 +3924,6 @@
             "title": "disability"
           },
           {
-            "name": "geoarea",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "UG"
-              ]
-            },
-            "title": "geoarea"
-          },
-          {
             "name": "location",
             "type": "string",
             "constraints": {
@@ -3937,41 +3933,6 @@
               ]
             },
             "title": "location"
-          },
-          {
-            "name": "seriesdescription",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "IU_COR_BRIB"
-              ]
-            },
-            "title": "seriesdescription"
-          },
-          {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "F",
-                "M",
-                "_T"
-              ]
-            },
-            "title": "sex"
-          },
-          {
-            "name": "unit",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "%"
-              ]
-            },
-            "title": "unit"
           }
         ]
       },
@@ -3988,6 +3949,46 @@
       "schema": {
         "fields": [
           {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "_T"
+              ]
+            },
+            "title": "AGE"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "UG"
+              ]
+            },
+            "title": "REF_AREA"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "F",
+                "M",
+                "_T"
+              ]
+            },
+            "title": "SEX"
+          },
+          {
             "name": "TIME_DETAIL",
             "type": "string",
             "constraints": {
@@ -3999,25 +4000,30 @@
             "title": "TIME_DETAIL"
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "0"
+              ]
+            },
+            "title": "UNIT_MULT"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "age",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "_T"
-              ]
-            },
-            "title": "age"
+            "title": "Year"
           },
           {
             "name": "disability",
@@ -4031,17 +4037,6 @@
             "title": "disability"
           },
           {
-            "name": "geoarea",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "UG"
-              ]
-            },
-            "title": "geoarea"
-          },
-          {
             "name": "location",
             "type": "string",
             "constraints": {
@@ -4051,41 +4046,6 @@
               ]
             },
             "title": "location"
-          },
-          {
-            "name": "seriesdescription",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "IU_DMK_ICRS"
-              ]
-            },
-            "title": "seriesdescription"
-          },
-          {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "F",
-                "M",
-                "_T"
-              ]
-            },
-            "title": "sex"
-          },
-          {
-            "name": "unit",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "%"
-              ]
-            },
-            "title": "unit"
           }
         ]
       },
@@ -4102,6 +4062,46 @@
       "schema": {
         "fields": [
           {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Y0T4"
+              ]
+            },
+            "title": "AGE"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "UG"
+              ]
+            },
+            "title": "REF_AREA"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "F",
+                "M",
+                "_T"
+              ]
+            },
+            "title": "SEX"
+          },
+          {
             "name": "TIME_DETAIL",
             "type": "string",
             "constraints": {
@@ -4113,25 +4113,30 @@
             "title": "TIME_DETAIL"
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "0"
+              ]
+            },
+            "title": "UNIT_MULT"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "age",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Y0T4"
-              ]
-            },
-            "title": "age"
+            "title": "Year"
           },
           {
             "name": "disability",
@@ -4145,17 +4150,6 @@
             "title": "disability"
           },
           {
-            "name": "geoarea",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "UG"
-              ]
-            },
-            "title": "geoarea"
-          },
-          {
             "name": "location",
             "type": "string",
             "constraints": {
@@ -4165,41 +4159,6 @@
               ]
             },
             "title": "location"
-          },
-          {
-            "name": "seriesdescription",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "SG_REG_BRTH"
-              ]
-            },
-            "title": "seriesdescription"
-          },
-          {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "F",
-                "M",
-                "_T"
-              ]
-            },
-            "title": "sex"
-          },
-          {
-            "name": "unit",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "%"
-              ]
-            },
-            "title": "unit"
           }
         ]
       },
@@ -4216,6 +4175,46 @@
       "schema": {
         "fields": [
           {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "_T"
+              ]
+            },
+            "title": "AGE"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "UG"
+              ]
+            },
+            "title": "REF_AREA"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "F",
+                "M",
+                "_T"
+              ]
+            },
+            "title": "SEX"
+          },
+          {
             "name": "TIME_DETAIL",
             "type": "string",
             "constraints": {
@@ -4227,25 +4226,30 @@
             "title": "TIME_DETAIL"
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "0"
+              ]
+            },
+            "title": "UNIT_MULT"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "age",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "_T"
-              ]
-            },
-            "title": "age"
+            "title": "Year"
           },
           {
             "name": "disability",
@@ -4259,17 +4263,6 @@
             "title": "disability"
           },
           {
-            "name": "geoarea",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "UG"
-              ]
-            },
-            "title": "geoarea"
-          },
-          {
             "name": "location",
             "type": "string",
             "constraints": {
@@ -4279,41 +4272,6 @@
               ]
             },
             "title": "location"
-          },
-          {
-            "name": "seriesdescription",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "VC_VOV_DCMN"
-              ]
-            },
-            "title": "seriesdescription"
-          },
-          {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "F",
-                "M",
-                "_T"
-              ]
-            },
-            "title": "sex"
-          },
-          {
-            "name": "unit",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "%"
-              ]
-            },
-            "title": "unit"
           }
         ]
       },
@@ -4330,6 +4288,46 @@
       "schema": {
         "fields": [
           {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "_T"
+              ]
+            },
+            "title": "AGE"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "UG"
+              ]
+            },
+            "title": "REF_AREA"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "F",
+                "M",
+                "_T"
+              ]
+            },
+            "title": "SEX"
+          },
+          {
             "name": "TIME_DETAIL",
             "type": "string",
             "constraints": {
@@ -4341,25 +4339,30 @@
             "title": "TIME_DETAIL"
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "0"
+              ]
+            },
+            "title": "UNIT_MULT"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "age",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "_T"
-              ]
-            },
-            "title": "age"
+            "title": "Year"
           },
           {
             "name": "disability",
@@ -4373,17 +4376,6 @@
             "title": "disability"
           },
           {
-            "name": "geoarea",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "UG"
-              ]
-            },
-            "title": "geoarea"
-          },
-          {
             "name": "location",
             "type": "string",
             "constraints": {
@@ -4393,41 +4385,6 @@
               ]
             },
             "title": "location"
-          },
-          {
-            "name": "seriesdescription",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "SP_PSR_SATIS"
-              ]
-            },
-            "title": "seriesdescription"
-          },
-          {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "F",
-                "M",
-                "_T"
-              ]
-            },
-            "title": "sex"
-          },
-          {
-            "name": "unit",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "%"
-              ]
-            },
-            "title": "unit"
           }
         ]
       },
@@ -4444,6 +4401,46 @@
       "schema": {
         "fields": [
           {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "_T"
+              ]
+            },
+            "title": "AGE"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "UG"
+              ]
+            },
+            "title": "REF_AREA"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "F",
+                "M",
+                "_T"
+              ]
+            },
+            "title": "SEX"
+          },
+          {
             "name": "TIME_DETAIL",
             "type": "string",
             "constraints": {
@@ -4455,25 +4452,30 @@
             "title": "TIME_DETAIL"
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "0"
+              ]
+            },
+            "title": "UNIT_MULT"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "age",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "_T"
-              ]
-            },
-            "title": "age"
+            "title": "Year"
           },
           {
             "name": "disability",
@@ -4487,17 +4489,6 @@
             "title": "disability"
           },
           {
-            "name": "geoarea",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "UG"
-              ]
-            },
-            "title": "geoarea"
-          },
-          {
             "name": "location",
             "type": "string",
             "constraints": {
@@ -4507,41 +4498,6 @@
               ]
             },
             "title": "location"
-          },
-          {
-            "name": "seriesdescription",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "IT_USE_II99"
-              ]
-            },
-            "title": "seriesdescription"
-          },
-          {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "F",
-                "M",
-                "_T"
-              ]
-            },
-            "title": "sex"
-          },
-          {
-            "name": "unit",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "%"
-              ]
-            },
-            "title": "unit"
           }
         ]
       },

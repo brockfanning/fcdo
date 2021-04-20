@@ -1,1 +1,1 @@
-{"Year":[2015],"seriesdescription":["PD_AGR_SSFP"],"geoarea":["716"],"sex":["_T"],"age":["_T"],"urbanisation":["_T"],"unit":["Constant USD"],"TIME_DETAIL":["2015"],"Value":[0.28]}
+{"Year":["2015"],"SERIES":["PD_AGR_SSFP"],"REF_AREA":["716"],"SEX":["_T"],"AGE":["_T"],"URBANISATION":["_T"],"UNIT_MEASURE":["Constant USD"],"UNIT_MULT":["0"],"TIME_DETAIL":["2015"],"Value":[0.28]}

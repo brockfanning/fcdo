@@ -1,7 +1,6 @@
 From,To
-seriesdescription,geoarea
-geoarea,sex
-sex,age
-age,urbanisation
-urbanisation,unit
-unit,TIME_DETAIL
+REF_AREA,SEX
+SEX,AGE
+AGE,URBANISATION
+URBANISATION,UNIT_MULT
+UNIT_MULT,TIME_DETAIL

@@ -12,21 +12,14 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
-            "name": "seriesdescription",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "SL_TLF_UEMDIS",
-                "SL_TLF_UEM",
-                ""
-              ]
-            }
+            "name": "SERIES",
+            "type": "string"
           },
           {
-            "name": "geoarea",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
@@ -36,7 +29,7 @@
             }
           },
           {
-            "name": "sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
@@ -48,7 +41,7 @@
             }
           },
           {
-            "name": "age",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
@@ -80,7 +73,7 @@
             }
           },
           {
-            "name": "education-level",
+            "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
               "enum": [
@@ -90,7 +83,7 @@
             }
           },
           {
-            "name": "occupation",
+            "name": "OCCUPATION",
             "type": "string",
             "constraints": {
               "enum": [
@@ -100,7 +93,7 @@
             }
           },
           {
-            "name": "comp-breakdown",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
@@ -110,7 +103,7 @@
             }
           },
           {
-            "name": "disability-status",
+            "name": "DISABILITY_STATUS",
             "type": "string",
             "constraints": {
               "enum": [
@@ -121,11 +114,15 @@
             }
           },
           {
-            "name": "unit",
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percent",
+                "0",
                 ""
               ]
             }

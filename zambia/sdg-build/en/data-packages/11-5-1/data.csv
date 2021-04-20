@@ -1,2 +1,2 @@
-Year,seriesdescription,geoarea,sex,age,location,education-level,occupation,comp-breakdown,disability-status,unit,TIME_DETAIL,Value
-2016,DETH_MISN_DIST,ZM,_T,_T,_T,_T,_T,_T,_T,,2016,0.0
+Year,SERIES,REF_AREA,SEX,AGE,location,EDUCATION_LEV,OCCUPATION,COMPOSITE_BREAKDOWN,DISABILITY_STATUS,UNIT_MEASURE,UNIT_MULT,TIME_DETAIL,Value
+2016,DETH_MISN_DIST,ZM,_T,_T,_T,_T,_T,_T,_T,,0,2016,0.0

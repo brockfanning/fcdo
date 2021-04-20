@@ -11,16 +11,21 @@
       "schema": {
         "fields": [
           {
-            "name": "Age",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
                 " before age 18",
-                "before age 15"
+                "Y0T14"
               ]
             },
-            "title": "Age"
+            "title": "AGE"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
           },
           {
             "name": "TIME_DETAIL",
@@ -45,7 +50,7 @@
           },
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           }
         ]

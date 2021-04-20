@@ -1,1 +1,1 @@
-{"Year":[2011],"seriesdescription":["SH_STA_BRTC"],"geoarea":["ET"],"sex":["_T"],"age":["_T"],"urbanization":["_T"],"education-level":["_T"],"wealth-quintile":["_T"],"unit":["Percent"],"TIME_DETAIL":["2011"],"Value":[11.0]}
+{"Year":["2011"],"SERIES":["SH_STA_BRTC"],"REF_AREA":["ET"],"SEX":["_T"],"AGE":["_T"],"URBANISATION":["_T"],"EDUCATION_LEV":["_T"],"INCOME_WEALTH_QUANTILE":["_T"],"UNIT_MEASURE":["PT"],"UNIT_MULT":["0"],"TIME_DETAIL":["2011"],"Value":[11.0]}

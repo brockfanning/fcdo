@@ -1,4 +1,4 @@
-Year,Amount of fossil-fuel subsidies,TIME_DETAIL,Value
-2015,US Dollar,2015,69.88376
-2015,Percent,2015,1.21211
-2015,billions of current United States dollars,2015,0.47687
+Year,Amount of fossil-fuel subsidies,TIME_DETAIL,SERIES,Value
+2015,US Dollar,2015,EN_EWT_RCYPCAP,69.88376
+2015,Percent,2015,EN_EWT_RCYPCAP,1.21211
+2015,billions of current United States dollars,2015,EN_EWT_RCYPCAP,0.47687

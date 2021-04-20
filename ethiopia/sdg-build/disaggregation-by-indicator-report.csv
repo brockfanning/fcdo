@@ -1,21 +1,21 @@
 Indicator,Disaggregations,Number of disaggregations
-#1-2-1,"seriesdescription, geoarea, sex, age, urbanization, education-level, wealth-quintile, unit, TIME_DETAIL",9
-#16-9-1,"seriesdescription, geoarea, sex, age, urbanization, education-level, wealth-quintile, unit, TIME_DETAIL",9
-#2-2-1,"seriesdescription, geoarea, sex, age, urbanization, education-level, wealth-quintile, unit, TIME_DETAIL",9
-#2-2-2,"seriesdescription, geoarea, sex, age, urbanization, education-level, wealth-quintile, unit, TIME_DETAIL",9
-#3-1-1,"seriesdescription, geoarea, sex, age, urbanization, education-level, wealth-quintile, unit, TIME_DETAIL",9
-#3-1-2,"seriesdescription, geoarea, sex, age, urbanization, education-level, wealth-quintile, unit, TIME_DETAIL",9
-#3-2-1,"seriesdescription, geoarea, sex, age, urbanization, education-level, wealth-quintile, unit, TIME_DETAIL",9
-#3-2-2,"seriesdescription, geoarea, sex, age, urbanization, education-level, wealth-quintile, unit, TIME_DETAIL",9
-#3-7-1,"seriesdescription, geoarea, sex, age, urbanization, education-level, wealth-quintile, unit, TIME_DETAIL",9
-#3-a-1,"seriesdescription, geoarea, sex, age, urbanization, education-level, wealth-quintile, unit, TIME_DETAIL",9
-#5-2-1,"seriesdescription, geoarea, sex, age, urbanization, education-level, wealth-quintile, unit, TIME_DETAIL",9
-#5-3-1,"seriesdescription, geoarea, sex, age, urbanization, education-level, wealth-quintile, unit, TIME_DETAIL",9
-#5-3-2,"seriesdescription, geoarea, sex, age, urbanization, education-level, wealth-quintile, unit, TIME_DETAIL",9
-#5-5-2,"seriesdescription, geoarea, sex, age, urbanization, education-level, wealth-quintile, unit, TIME_DETAIL",9
-#5-6-1,"seriesdescription, geoarea, sex, age, urbanization, education-level, wealth-quintile, unit, TIME_DETAIL",9
-#5-a-1,"seriesdescription, geoarea, sex, age, urbanization, education-level, wealth-quintile, unit, TIME_DETAIL",9
-#5-b-1,"seriesdescription, geoarea, sex, age, urbanization, education-level, wealth-quintile, unit, TIME_DETAIL",9
-#7-1-1,"seriesdescription, geoarea, sex, age, urbanization, education-level, wealth-quintile, unit, TIME_DETAIL",9
-#8-3-1,"seriesdescription, geoarea, sex, age, urbanization, education-level, wealth-quintile, unit, TIME_DETAIL",9
-#8-5-2,"seriesdescription, geoarea, sex, age, urbanization, education-level, wealth-quintile, unit, TIME_DETAIL",9
+#1-2-1,"REF_AREA, SEX, AGE, URBANISATION, EDUCATION_LEV, INCOME_WEALTH_QUANTILE, UNIT_MULT, TIME_DETAIL",8
+#16-9-1,"REF_AREA, SEX, AGE, URBANISATION, EDUCATION_LEV, INCOME_WEALTH_QUANTILE, UNIT_MULT, TIME_DETAIL",8
+#2-2-1,"REF_AREA, SEX, AGE, URBANISATION, EDUCATION_LEV, INCOME_WEALTH_QUANTILE, UNIT_MULT, TIME_DETAIL",8
+#2-2-2,"REF_AREA, SEX, AGE, URBANISATION, EDUCATION_LEV, INCOME_WEALTH_QUANTILE, UNIT_MULT, TIME_DETAIL",8
+#3-1-1,"REF_AREA, SEX, AGE, URBANISATION, EDUCATION_LEV, INCOME_WEALTH_QUANTILE, UNIT_MULT, TIME_DETAIL",8
+#3-1-2,"REF_AREA, SEX, AGE, URBANISATION, EDUCATION_LEV, INCOME_WEALTH_QUANTILE, UNIT_MULT, TIME_DETAIL",8
+#3-2-1,"REF_AREA, SEX, AGE, URBANISATION, EDUCATION_LEV, INCOME_WEALTH_QUANTILE, UNIT_MULT, TIME_DETAIL",8
+#3-2-2,"REF_AREA, SEX, AGE, URBANISATION, EDUCATION_LEV, INCOME_WEALTH_QUANTILE, UNIT_MULT, TIME_DETAIL",8
+#3-7-1,"REF_AREA, SEX, AGE, URBANISATION, EDUCATION_LEV, INCOME_WEALTH_QUANTILE, UNIT_MULT, TIME_DETAIL",8
+#3-a-1,"REF_AREA, SEX, AGE, URBANISATION, EDUCATION_LEV, INCOME_WEALTH_QUANTILE, UNIT_MULT, TIME_DETAIL",8
+#5-2-1,"REF_AREA, SEX, AGE, URBANISATION, EDUCATION_LEV, INCOME_WEALTH_QUANTILE, UNIT_MULT, TIME_DETAIL",8
+#5-3-1,"REF_AREA, SEX, AGE, URBANISATION, EDUCATION_LEV, INCOME_WEALTH_QUANTILE, UNIT_MULT, TIME_DETAIL",8
+#5-3-2,"REF_AREA, SEX, AGE, URBANISATION, EDUCATION_LEV, INCOME_WEALTH_QUANTILE, UNIT_MULT, TIME_DETAIL",8
+#5-5-2,"REF_AREA, SEX, AGE, URBANISATION, EDUCATION_LEV, INCOME_WEALTH_QUANTILE, UNIT_MULT, TIME_DETAIL",8
+#5-6-1,"REF_AREA, SEX, AGE, URBANISATION, EDUCATION_LEV, INCOME_WEALTH_QUANTILE, UNIT_MULT, TIME_DETAIL",8
+#5-a-1,"REF_AREA, SEX, AGE, URBANISATION, EDUCATION_LEV, INCOME_WEALTH_QUANTILE, UNIT_MULT, TIME_DETAIL",8
+#5-b-1,"REF_AREA, SEX, AGE, URBANISATION, EDUCATION_LEV, INCOME_WEALTH_QUANTILE, UNIT_MULT, TIME_DETAIL",8
+#7-1-1,"REF_AREA, SEX, AGE, URBANISATION, EDUCATION_LEV, INCOME_WEALTH_QUANTILE, UNIT_MULT, TIME_DETAIL",8
+#8-3-1,"REF_AREA, SEX, AGE, URBANISATION, EDUCATION_LEV, INCOME_WEALTH_QUANTILE, UNIT_MULT, TIME_DETAIL",8
+#8-5-2,"REF_AREA, SEX, AGE, URBANISATION, EDUCATION_LEV, INCOME_WEALTH_QUANTILE, UNIT_MULT, TIME_DETAIL",8

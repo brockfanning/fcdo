@@ -1,9 +1,8 @@
 Disaggregation,Number of indicators,Number of values
-age,40,8
+AGE,40,8
 disability,40,2
-geoarea,40,1
 location,40,1
-seriesdescription,40,44
-sex,40,3
+REF_AREA,40,1
+SEX,40,3
 TIME_DETAIL,40,6
-unit,40,4
+UNIT_MULT,40,1

@@ -1,1 +1,1 @@
-{"Year":[2014],"seriesdescription":["SL_EMP_FTLINJUR"],"geoarea":["716"],"sex":["_T"],"age":["_T"],"urbanisation":["_T"],"unit":["per 100,000 employees"],"TIME_DETAIL":["2014"],"Value":[0.05]}
+{"Year":["2014"],"SERIES":["SL_EMP_FTLINJUR"],"REF_AREA":["716"],"SEX":["_T"],"AGE":["_T"],"URBANISATION":["_T"],"UNIT_MEASURE":["per 100,000 employees"],"UNIT_MULT":["0"],"TIME_DETAIL":["2014"],"Value":[0.05]}

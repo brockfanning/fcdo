@@ -1,2 +1,2 @@
-Year,seriesdescription,geoarea,sex,age,location,education-level,occupation,comp-breakdown,disability-status,unit,TIME_DETAIL,Value
-2016,SH_STA_TRAF,ZM,_T,_T,_T,_T,_T,_T,_T,PER_100000_POP,2016,14.0
+Year,SERIES,REF_AREA,SEX,AGE,location,EDUCATION_LEV,OCCUPATION,COMPOSITE_BREAKDOWN,DISABILITY_STATUS,UNIT_MEASURE,UNIT_MULT,TIME_DETAIL,Value
+2016,SH_STA_TRAF,ZM,_T,_T,_T,_T,_T,_T,_T,PER_100000_POP,0,2016,14.0

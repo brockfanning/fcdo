@@ -11,35 +11,40 @@
       "schema": {
         "fields": [
           {
-            "name": "AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Gaza Strip",
-                "Palestine",
-                "West Bank"
-              ]
-            },
-            "title": "AREA"
-          },
-          {
             "name": "OCCUPATION",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "Craft and related trades workers",
-                "Elementary occupations",
-                "Legislators, senior officials and managers",
-                "Plant and machine operators, and assemblers",
-                "Service and sales workers",
-                "Skilled agricultural, forestry and fishery workers",
-                "Technicians and associate professionals",
-                "Total or no breakdown by Occupation"
+                "ISCO08_3",
+                "ISCO08_5",
+                "ISCO08_6",
+                "ISCO08_7",
+                "ISCO08_9",
+                "ISCO88_1",
+                "ISCO88_8",
+                "_T"
               ]
             },
             "title": "OCCUPATION"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Gaza Strip",
+                "PS",
+                "West Bank"
+              ]
+            },
+            "title": "REF_AREA"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
           },
           {
             "name": "SEX",
@@ -47,9 +52,9 @@
             "constraints": {
               "enum": [
                 "",
-                "Both sexes or no breakdown by sex",
-                "Female",
-                "Male"
+                "F",
+                "M",
+                "_T"
               ]
             },
             "title": "SEX"
@@ -90,7 +95,7 @@
           },
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           }
         ]

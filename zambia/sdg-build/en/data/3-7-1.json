@@ -1,1 +1,1 @@
-{"Year":[2014],"seriesdescription":["SH_FPL_MTMM"],"geoarea":["ZM"],"sex":["F"],"age":["Y15T49"],"location":["_T"],"education-level":["_T"],"occupation":["_T"],"comp-breakdown":["_T"],"disability-status":["_T"],"unit":["Percent"],"TIME_DETAIL":["2014"],"Value":[32.5]}
+{"Year":["2014"],"SERIES":["SH_FPL_MTMM"],"REF_AREA":["ZM"],"SEX":["F"],"AGE":["Y15T49"],"location":["_T"],"EDUCATION_LEV":["_T"],"OCCUPATION":["_T"],"COMPOSITE_BREAKDOWN":["_T"],"DISABILITY_STATUS":["_T"],"UNIT_MEASURE":["PT"],"UNIT_MULT":["0"],"TIME_DETAIL":["2014"],"Value":[32.5]}

@@ -1,5 +1,5 @@
-Year,Area,TIME_DETAIL,Value
-2018,Area 1: overarching legal frameworks and public life,2018,45.45
-2018,Area 2: violence against women,2018,33.33
-2018,Area 3: employment and economic benefits,2018,20.0
-2018,Area 4: marriage and family,2018,36.36
+Year,Area,TIME_DETAIL,SERIES,Value
+2018,Area 1: overarching legal frameworks and public life,2018,SG_LGL_GENEQLFP,45.45
+2018,Area 2: violence against women,2018,SG_LGL_GENEQLFP,33.33
+2018,Area 3: employment and economic benefits,2018,SG_LGL_GENEQLFP,20.0
+2018,Area 4: marriage and family,2018,SG_LGL_GENEQLFP,36.36

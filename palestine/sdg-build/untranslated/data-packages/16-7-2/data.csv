@@ -1,37 +1,37 @@
-Year,URBANISATION,SEX,AREA,TIME_DETAIL,Value
-2018,Total,Male,West Bank,2018,
-2018,Total,Male,Gaza Strip,2018,
-2018,Total,Male,Palestine,2018,47.1
-2018,Total,Female,West Bank,2018,
-2018,Total,Female,Gaza Strip,2018,
-2018,Total,Female,Palestine,2018,35.9
-2018,Total,Both sexes or no breakdown by sex,West Bank,2018,40.9
-2018,Total,Both sexes or no breakdown by sex,Gaza Strip,2018,42.6
-2018,Total,Both sexes or no breakdown by sex,Palestine,2018,41.6
-2018,Urban,Male,West Bank,2018,
-2018,Urban,Male,Gaza Strip,2018,
-2018,Urban,Male,Palestine,2018,
-2018,Urban,Female,West Bank,2018,
-2018,Urban,Female,Gaza Strip,2018,
-2018,Urban,Female,Palestine,2018,
-2018,Urban,Both sexes or no breakdown by sex,West Bank,2018,
-2018,Urban,Both sexes or no breakdown by sex,Gaza Strip,2018,
-2018,Urban,Both sexes or no breakdown by sex,Palestine,2018,40.1
-2018,Rural,Male,West Bank,2018,
-2018,Rural,Male,Gaza Strip,2018,
-2018,Rural,Male,Palestine,2018,
-2018,Rural,Female,West Bank,2018,
-2018,Rural,Female,Gaza Strip,2018,
-2018,Rural,Female,Palestine,2018,
-2018,Rural,Both sexes or no breakdown by sex,West Bank,2018,
-2018,Rural,Both sexes or no breakdown by sex,Gaza Strip,2018,
-2018,Rural,Both sexes or no breakdown by sex,Palestine,2018,45.0
-2018,Camp,Male,West Bank,2018,
-2018,Camp,Male,Gaza Strip,2018,
-2018,Camp,Male,Palestine,2018,
-2018,Camp,Female,West Bank,2018,
-2018,Camp,Female,Gaza Strip,2018,
-2018,Camp,Female,Palestine,2018,
-2018,Camp,Both sexes or no breakdown by sex,West Bank,2018,
-2018,Camp,Both sexes or no breakdown by sex,Gaza Strip,2018,
-2018,Camp,Both sexes or no breakdown by sex,Palestine,2018,48.4
+Year,URBANISATION,SEX,REF_AREA,TIME_DETAIL,SERIES,Value
+2018,_T,M,West Bank,2018,IU_DMK_ICRS,
+2018,_T,M,Gaza Strip,2018,IU_DMK_ICRS,
+2018,_T,M,PS,2018,IU_DMK_ICRS,47.1
+2018,_T,F,West Bank,2018,IU_DMK_ICRS,
+2018,_T,F,Gaza Strip,2018,IU_DMK_ICRS,
+2018,_T,F,PS,2018,IU_DMK_ICRS,35.9
+2018,_T,_T,West Bank,2018,IU_DMK_ICRS,40.9
+2018,_T,_T,Gaza Strip,2018,IU_DMK_ICRS,42.6
+2018,_T,_T,PS,2018,IU_DMK_ICRS,41.6
+2018,U,M,West Bank,2018,IU_DMK_ICRS,
+2018,U,M,Gaza Strip,2018,IU_DMK_ICRS,
+2018,U,M,PS,2018,IU_DMK_ICRS,
+2018,U,F,West Bank,2018,IU_DMK_ICRS,
+2018,U,F,Gaza Strip,2018,IU_DMK_ICRS,
+2018,U,F,PS,2018,IU_DMK_ICRS,
+2018,U,_T,West Bank,2018,IU_DMK_ICRS,
+2018,U,_T,Gaza Strip,2018,IU_DMK_ICRS,
+2018,U,_T,PS,2018,IU_DMK_ICRS,40.1
+2018,R,M,West Bank,2018,IU_DMK_ICRS,
+2018,R,M,Gaza Strip,2018,IU_DMK_ICRS,
+2018,R,M,PS,2018,IU_DMK_ICRS,
+2018,R,F,West Bank,2018,IU_DMK_ICRS,
+2018,R,F,Gaza Strip,2018,IU_DMK_ICRS,
+2018,R,F,PS,2018,IU_DMK_ICRS,
+2018,R,_T,West Bank,2018,IU_DMK_ICRS,
+2018,R,_T,Gaza Strip,2018,IU_DMK_ICRS,
+2018,R,_T,PS,2018,IU_DMK_ICRS,45.0
+2018,Camp,M,West Bank,2018,IU_DMK_ICRS,
+2018,Camp,M,Gaza Strip,2018,IU_DMK_ICRS,
+2018,Camp,M,PS,2018,IU_DMK_ICRS,
+2018,Camp,F,West Bank,2018,IU_DMK_ICRS,
+2018,Camp,F,Gaza Strip,2018,IU_DMK_ICRS,
+2018,Camp,F,PS,2018,IU_DMK_ICRS,
+2018,Camp,_T,West Bank,2018,IU_DMK_ICRS,
+2018,Camp,_T,Gaza Strip,2018,IU_DMK_ICRS,
+2018,Camp,_T,PS,2018,IU_DMK_ICRS,48.4

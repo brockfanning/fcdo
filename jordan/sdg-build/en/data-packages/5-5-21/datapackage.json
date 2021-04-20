@@ -11,18 +11,23 @@
       "schema": {
         "fields": [
           {
-            "name": "Age",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "15-24",
-                "15-49",
-                "25-34",
-                "35-49"
+                "Y15T24",
+                "Y15T49",
+                "Y25T34",
+                "Y35T49"
               ]
             },
-            "title": "Age"
+            "title": "AGE"
+          },
+          {
+            "name": "SERIES",
+            "type": "number",
+            "title": "SERIES"
           },
           {
             "name": "TIME_DETAIL",
@@ -58,7 +63,7 @@
           },
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           }
         ]

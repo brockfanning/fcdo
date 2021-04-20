@@ -11,17 +11,22 @@
       "schema": {
         "fields": [
           {
-            "name": "AREA",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
                 "Gaza Strip",
-                "Palestine",
+                "PS",
                 "West Bank"
               ]
             },
-            "title": "AREA"
+            "title": "REF_AREA"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
           },
           {
             "name": "TIME_DETAIL",
@@ -54,9 +59,9 @@
               "enum": [
                 "",
                 "Camp",
-                "Rural",
-                "Total",
-                "Urban"
+                "R",
+                "U",
+                "_T"
               ]
             },
             "title": "URBANISATION"
@@ -68,7 +73,7 @@
           },
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           }
         ]

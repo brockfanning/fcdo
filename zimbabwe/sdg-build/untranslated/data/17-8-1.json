@@ -1,1 +1,1 @@
-{"Year":[2019,2019],"seriesdescription":["IT_USE_II99","IT_USE_II99"],"geoarea":["716","716"],"sex":["F","M"],"age":["_T","_T"],"urbanisation":["_T","_T"],"unit":["Percent","Percent"],"TIME_DETAIL":["2019","2019"],"Value":[27.1,35.7]}
+{"Year":["2019","2019"],"SERIES":["IT_USE_II99","IT_USE_II99"],"REF_AREA":["716","716"],"SEX":["F","M"],"AGE":["_T","_T"],"URBANISATION":["_T","_T"],"UNIT_MEASURE":["PT","PT"],"UNIT_MULT":["0","0"],"TIME_DETAIL":["2019","2019"],"Value":[27.1,35.7]}

@@ -1,1 +1,1 @@
-{"Year":[2019],"seriesdescription":["VC_VAW_PHYPYV"],"geoarea":["ZM"],"sex":["_T"],"age":["Y1T17"],"location":["_T"],"education-level":["_T"],"occupation":["_T"],"comp-breakdown":["_T"],"disability-status":["_T"],"unit":["ratio"],"TIME_DETAIL":["2019"],"Value":[0.00153]}
+{"Year":["2019"],"SERIES":["VC_VAW_PHYPYV"],"REF_AREA":["ZM"],"SEX":["_T"],"AGE":["Y1T17"],"location":["_T"],"EDUCATION_LEV":["_T"],"OCCUPATION":["_T"],"COMPOSITE_BREAKDOWN":["_T"],"DISABILITY_STATUS":["_T"],"UNIT_MEASURE":["ratio"],"UNIT_MULT":["0"],"TIME_DETAIL":["2019"],"Value":[0.00153]}

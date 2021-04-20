@@ -1,9 +1,8 @@
 From,To
-seriesdescription,geoarea
-geoarea,sex
-sex,age
-age,urbanization
-urbanization,education-level
-education-level,wealth-quintile
-wealth-quintile,unit
-unit,TIME_DETAIL
+REF_AREA,SEX
+SEX,AGE
+AGE,URBANISATION
+URBANISATION,EDUCATION_LEV
+EDUCATION_LEV,INCOME_WEALTH_QUANTILE
+INCOME_WEALTH_QUANTILE,UNIT_MULT
+UNIT_MULT,TIME_DETAIL

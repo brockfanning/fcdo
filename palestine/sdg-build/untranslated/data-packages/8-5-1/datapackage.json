@@ -12,28 +12,28 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
-                "Female",
-                "Both sexes or no breakdown by sex",
+                "M",
+                "F",
+                "_T",
                 ""
               ]
             }
           },
           {
-            "name": "AREA",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
                 "West Bank",
                 "Gaza Strip",
-                "Palestine",
+                "PS",
                 ""
               ]
             }
@@ -43,14 +43,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total or no breakdown by Occupation",
-                "Technicians and associate professionals",
-                "Service and sales workers",
-                "Skilled agricultural, forestry and fishery workers",
-                "Craft and related trades workers",
-                "Plant and machine operators, and assemblers",
-                "Elementary occupations",
-                "Legislators, senior officials and managers",
+                "_T",
+                "ISCO08_3",
+                "ISCO08_5",
+                "ISCO08_6",
+                "ISCO08_7",
+                "ISCO88_8",
+                "ISCO08_9",
+                "ISCO88_1",
                 ""
               ]
             }
@@ -82,6 +82,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "SERIES",
+            "type": "string"
           },
           {
             "name": "Value",
