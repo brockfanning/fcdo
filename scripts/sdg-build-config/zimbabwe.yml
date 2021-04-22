@@ -8,6 +8,10 @@ src_dir: 'scripts/sdg-build-config'
 docs_branding: Zimbabwe SDG data summary
 docs_intro: This summary uses code from the Open SDG project to
   display reports and examples from the Zimbabwe SDG data.
+docs_extra_disaggregations:
+  - UNIT_MEASURE
+  - UNIT_MULT
+  - SERIES
 
 inputs:
   - class: InputOpenDataPlatform

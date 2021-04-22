@@ -8,6 +8,10 @@ src_dir: 'scripts/sdg-build-config'
 docs_branding: Ethiopia SDG data summary
 docs_intro: This summary uses code from the Open SDG project to
   display reports and examples from the Ethiopia SDG data.
+docs_extra_disaggregations:
+  - UNIT_MEASURE
+  - UNIT_MULT
+  - SERIES
 
 inputs:
   - class: InputOpenDataPlatform
