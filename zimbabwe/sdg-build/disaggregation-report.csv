@@ -1,7 +1,9 @@
 Disaggregation,Number of indicators,Number of values
 AGE,78,9
 REF_AREA,78,1
+SERIES,78,85
 SEX,78,3
 TIME_DETAIL,78,6
+UNIT_MEASURE,73,10
 UNIT_MULT,78,1
 URBANISATION,78,4

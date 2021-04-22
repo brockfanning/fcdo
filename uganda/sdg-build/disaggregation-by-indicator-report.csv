@@ -1,41 +1,41 @@
 Indicator,Disaggregations,Number of disaggregations
-#1-2-1,"REF_AREA, SEX, AGE, location, disability, UNIT_MULT, TIME_DETAIL",7
-#1-4-2,"REF_AREA, SEX, AGE, location, disability, UNIT_MULT, TIME_DETAIL",7
-#15-1-1,"REF_AREA, SEX, AGE, location, disability, UNIT_MULT, TIME_DETAIL",7
-#16-1-4,"REF_AREA, SEX, AGE, location, disability, UNIT_MULT, TIME_DETAIL",7
-#16-2-1,"REF_AREA, SEX, AGE, location, disability, UNIT_MULT, TIME_DETAIL",7
-#16-5-1,"REF_AREA, SEX, AGE, location, disability, UNIT_MULT, TIME_DETAIL",7
-#16-6-2,"REF_AREA, SEX, AGE, location, disability, UNIT_MULT, TIME_DETAIL",7
-#16-7-2,"REF_AREA, SEX, AGE, location, disability, UNIT_MULT, TIME_DETAIL",7
-#16-9-1,"REF_AREA, SEX, AGE, location, disability, UNIT_MULT, TIME_DETAIL",7
-#16-b-1,"REF_AREA, SEX, AGE, location, disability, UNIT_MULT, TIME_DETAIL",7
-#17-8-1,"REF_AREA, SEX, AGE, location, disability, UNIT_MULT, TIME_DETAIL",7
-#2-2-1,"REF_AREA, SEX, AGE, location, disability, UNIT_MULT, TIME_DETAIL",7
-#2-2-2,"REF_AREA, SEX, AGE, location, disability, UNIT_MULT, TIME_DETAIL",7
-#3-1-1,"REF_AREA, SEX, AGE, location, disability, UNIT_MULT, TIME_DETAIL",7
-#3-1-2,"REF_AREA, SEX, AGE, location, disability, UNIT_MULT, TIME_DETAIL",7
-#3-2-1,"REF_AREA, SEX, AGE, location, disability, UNIT_MULT, TIME_DETAIL",7
-#3-2-2,"REF_AREA, SEX, AGE, location, disability, UNIT_MULT, TIME_DETAIL",7
-#3-6-1,"REF_AREA, SEX, AGE, location, disability, UNIT_MULT, TIME_DETAIL",7
-#3-7-1,"REF_AREA, SEX, AGE, location, disability, UNIT_MULT, TIME_DETAIL",7
-#3-a-1,"REF_AREA, SEX, AGE, location, disability, UNIT_MULT, TIME_DETAIL",7
-#3-b-1,"REF_AREA, SEX, AGE, location, disability, UNIT_MULT, TIME_DETAIL",7
-#4-2-1,"REF_AREA, SEX, AGE, location, disability, UNIT_MULT, TIME_DETAIL",7
-#5-2-1,"REF_AREA, SEX, AGE, location, disability, UNIT_MULT, TIME_DETAIL",7
-#5-3-1,"REF_AREA, SEX, AGE, location, disability, UNIT_MULT, TIME_DETAIL",7
-#5-3-2,"REF_AREA, SEX, AGE, location, disability, UNIT_MULT, TIME_DETAIL",7
-#5-5-1,"REF_AREA, SEX, AGE, location, disability, UNIT_MULT, TIME_DETAIL",7
-#5-6-1,"REF_AREA, SEX, AGE, location, disability, UNIT_MULT, TIME_DETAIL",7
-#5-a-1,"REF_AREA, SEX, AGE, location, disability, UNIT_MULT, TIME_DETAIL",7
-#5-b-1,"REF_AREA, SEX, AGE, location, disability, UNIT_MULT, TIME_DETAIL",7
-#6-1-1,"REF_AREA, SEX, AGE, location, disability, UNIT_MULT, TIME_DETAIL",7
-#6-2-1,"REF_AREA, SEX, AGE, location, disability, UNIT_MULT, TIME_DETAIL",7
-#7-1-1,"REF_AREA, SEX, AGE, location, disability, UNIT_MULT, TIME_DETAIL",7
-#7-1-2,"REF_AREA, SEX, AGE, location, disability, UNIT_MULT, TIME_DETAIL",7
-#8-1-1,"REF_AREA, SEX, AGE, location, disability, UNIT_MULT, TIME_DETAIL",7
-#8-10-2,"REF_AREA, SEX, AGE, location, disability, UNIT_MULT, TIME_DETAIL",7
-#8-3-1,"REF_AREA, SEX, AGE, location, disability, UNIT_MULT, TIME_DETAIL",7
-#8-5-2,"REF_AREA, SEX, AGE, location, disability, UNIT_MULT, TIME_DETAIL",7
-#8-6-1,"REF_AREA, SEX, AGE, location, disability, UNIT_MULT, TIME_DETAIL",7
-#8-7-1,"REF_AREA, SEX, AGE, location, disability, UNIT_MULT, TIME_DETAIL",7
-#9-2-2,"REF_AREA, SEX, AGE, location, disability, UNIT_MULT, TIME_DETAIL",7
+#1-2-1,"SERIES, REF_AREA, SEX, AGE, location, disability, UNIT_MEASURE, UNIT_MULT, TIME_DETAIL",9
+#1-4-2,"SERIES, REF_AREA, SEX, AGE, location, disability, UNIT_MEASURE, UNIT_MULT, TIME_DETAIL",9
+#15-1-1,"SERIES, REF_AREA, SEX, AGE, location, disability, UNIT_MEASURE, UNIT_MULT, TIME_DETAIL",9
+#16-1-4,"SERIES, REF_AREA, SEX, AGE, location, disability, UNIT_MEASURE, UNIT_MULT, TIME_DETAIL",9
+#16-2-1,"SERIES, REF_AREA, SEX, AGE, location, disability, UNIT_MEASURE, UNIT_MULT, TIME_DETAIL",9
+#16-5-1,"SERIES, REF_AREA, SEX, AGE, location, disability, UNIT_MEASURE, UNIT_MULT, TIME_DETAIL",9
+#16-6-2,"SERIES, REF_AREA, SEX, AGE, location, disability, UNIT_MEASURE, UNIT_MULT, TIME_DETAIL",9
+#16-7-2,"SERIES, REF_AREA, SEX, AGE, location, disability, UNIT_MEASURE, UNIT_MULT, TIME_DETAIL",9
+#16-9-1,"SERIES, REF_AREA, SEX, AGE, location, disability, UNIT_MEASURE, UNIT_MULT, TIME_DETAIL",9
+#16-b-1,"SERIES, REF_AREA, SEX, AGE, location, disability, UNIT_MEASURE, UNIT_MULT, TIME_DETAIL",9
+#17-8-1,"SERIES, REF_AREA, SEX, AGE, location, disability, UNIT_MEASURE, UNIT_MULT, TIME_DETAIL",9
+#2-2-1,"SERIES, REF_AREA, SEX, AGE, location, disability, UNIT_MEASURE, UNIT_MULT, TIME_DETAIL",9
+#2-2-2,"SERIES, REF_AREA, SEX, AGE, location, disability, UNIT_MEASURE, UNIT_MULT, TIME_DETAIL",9
+#3-1-1,"SERIES, REF_AREA, SEX, AGE, location, disability, UNIT_MEASURE, UNIT_MULT, TIME_DETAIL",9
+#3-1-2,"SERIES, REF_AREA, SEX, AGE, location, disability, UNIT_MEASURE, UNIT_MULT, TIME_DETAIL",9
+#3-2-1,"SERIES, REF_AREA, SEX, AGE, location, disability, UNIT_MEASURE, UNIT_MULT, TIME_DETAIL",9
+#3-2-2,"SERIES, REF_AREA, SEX, AGE, location, disability, UNIT_MEASURE, UNIT_MULT, TIME_DETAIL",9
+#3-6-1,"SERIES, REF_AREA, SEX, AGE, location, disability, UNIT_MEASURE, UNIT_MULT, TIME_DETAIL",9
+#3-7-1,"SERIES, REF_AREA, SEX, AGE, location, disability, UNIT_MEASURE, UNIT_MULT, TIME_DETAIL",9
+#3-a-1,"SERIES, REF_AREA, SEX, AGE, location, disability, UNIT_MEASURE, UNIT_MULT, TIME_DETAIL",9
+#3-b-1,"SERIES, REF_AREA, SEX, AGE, location, disability, UNIT_MEASURE, UNIT_MULT, TIME_DETAIL",9
+#4-2-1,"SERIES, REF_AREA, SEX, AGE, location, disability, UNIT_MEASURE, UNIT_MULT, TIME_DETAIL",9
+#5-2-1,"SERIES, REF_AREA, SEX, AGE, location, disability, UNIT_MEASURE, UNIT_MULT, TIME_DETAIL",9
+#5-3-1,"SERIES, REF_AREA, SEX, AGE, location, disability, UNIT_MEASURE, UNIT_MULT, TIME_DETAIL",9
+#5-3-2,"SERIES, REF_AREA, SEX, AGE, location, disability, UNIT_MEASURE, UNIT_MULT, TIME_DETAIL",9
+#5-5-1,"SERIES, REF_AREA, SEX, AGE, location, disability, UNIT_MEASURE, UNIT_MULT, TIME_DETAIL",9
+#5-6-1,"SERIES, REF_AREA, SEX, AGE, location, disability, UNIT_MEASURE, UNIT_MULT, TIME_DETAIL",9
+#5-a-1,"SERIES, REF_AREA, SEX, AGE, location, disability, UNIT_MEASURE, UNIT_MULT, TIME_DETAIL",9
+#5-b-1,"SERIES, REF_AREA, SEX, AGE, location, disability, UNIT_MEASURE, UNIT_MULT, TIME_DETAIL",9
+#6-1-1,"SERIES, REF_AREA, SEX, AGE, location, disability, UNIT_MEASURE, UNIT_MULT, TIME_DETAIL",9
+#6-2-1,"SERIES, REF_AREA, SEX, AGE, location, disability, UNIT_MEASURE, UNIT_MULT, TIME_DETAIL",9
+#7-1-1,"SERIES, REF_AREA, SEX, AGE, location, disability, UNIT_MEASURE, UNIT_MULT, TIME_DETAIL",9
+#7-1-2,"SERIES, REF_AREA, SEX, AGE, location, disability, UNIT_MEASURE, UNIT_MULT, TIME_DETAIL",9
+#8-1-1,"SERIES, REF_AREA, SEX, AGE, location, disability, UNIT_MEASURE, UNIT_MULT, TIME_DETAIL",9
+#8-10-2,"SERIES, REF_AREA, SEX, AGE, location, disability, UNIT_MEASURE, UNIT_MULT, TIME_DETAIL",9
+#8-3-1,"SERIES, REF_AREA, SEX, AGE, location, disability, UNIT_MEASURE, UNIT_MULT, TIME_DETAIL",9
+#8-5-2,"SERIES, REF_AREA, SEX, AGE, location, disability, UNIT_MEASURE, UNIT_MULT, TIME_DETAIL",9
+#8-6-1,"SERIES, REF_AREA, SEX, AGE, location, disability, UNIT_MEASURE, UNIT_MULT, TIME_DETAIL",9
+#8-7-1,"SERIES, REF_AREA, SEX, AGE, location, disability, UNIT_MEASURE, UNIT_MULT, TIME_DETAIL",9
+#9-2-2,"SERIES, REF_AREA, SEX, AGE, location, disability, UNIT_MEASURE, UNIT_MULT, TIME_DETAIL",9
