@@ -47,6 +47,10 @@
             }
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
             "name": "SERIES",
             "type": "number"
           },

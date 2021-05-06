@@ -1,36 +1,36 @@
-Year,Sub-indicators,TIME_DETAIL,SERIES,Value
-2017,Direct economic loss attributed to disasters (current United States dollars),2017,VC_DSR_GDPLS,1418393.0787
-2017,Direct economic loss attributed to disasters relative to GDP (%),2017,VC_DSR_GDPLS,4e-05
-2017,Direct agriculture loss attributed to disasters (current United States dollars),2017,VC_DSR_GDPLS,38593.0787
-2017,Direct economic loss in the housing sector attributed to disasters (current United States dollars),2017,VC_DSR_GDPLS,1377000.0
-2017,Direct economic loss resulting from damaged or destroyed critical infrastructure attributed to disasters (current United States dollars),2017,VC_DSR_GDPLS,0.0
-2017,Direct economic loss to cultural heritage damaged or destroyed attributed to disasters (millions of current United States dollars),2017,VC_DSR_GDPLS,2800.0
-2017,Direct economic loss to other damaged or destroyed productive assets attributed to disasters (current United States dollars),2017,VC_DSR_GDPLS,0.0
-2016,Direct economic loss attributed to disasters (current United States dollars),2016,VC_DSR_GDPLS,1060537.6704
-2016,Direct economic loss attributed to disasters relative to GDP (%),2016,VC_DSR_GDPLS,3e-05
-2016,Direct agriculture loss attributed to disasters (current United States dollars),2016,VC_DSR_GDPLS,971812.6704
-2016,Direct economic loss in the housing sector attributed to disasters (current United States dollars),2016,VC_DSR_GDPLS,88725.0
-2016,Direct economic loss resulting from damaged or destroyed critical infrastructure attributed to disasters (current United States dollars),2016,VC_DSR_GDPLS,0.0
-2016,Direct economic loss to cultural heritage damaged or destroyed attributed to disasters (millions of current United States dollars),2016,VC_DSR_GDPLS,0.0
-2016,Direct economic loss to other damaged or destroyed productive assets attributed to disasters (current United States dollars),2016,VC_DSR_GDPLS,0.0
-2011,Direct economic loss attributed to disasters (current United States dollars),2011,VC_DSR_GDPLS,125777090.8416
-2011,Direct economic loss attributed to disasters relative to GDP (%),2011,VC_DSR_GDPLS,0.00436
-2011,Direct agriculture loss attributed to disasters (current United States dollars),2011,VC_DSR_GDPLS,125777090.8416
-2011,Direct economic loss in the housing sector attributed to disasters (current United States dollars),2011,VC_DSR_GDPLS,0.0
-2011,Direct economic loss resulting from damaged or destroyed critical infrastructure attributed to disasters (current United States dollars),2011,VC_DSR_GDPLS,0.0
-2011,Direct economic loss to cultural heritage damaged or destroyed attributed to disasters (millions of current United States dollars),2011,VC_DSR_GDPLS,0.0
-2011,Direct economic loss to other damaged or destroyed productive assets attributed to disasters (current United States dollars),2011,VC_DSR_GDPLS,0.0
-2010,Direct economic loss attributed to disasters (current United States dollars),2010,VC_DSR_GDPLS,13200338.8954
-2010,Direct economic loss attributed to disasters relative to GDP (%),2010,VC_DSR_GDPLS,0.0005
-2010,Direct agriculture loss attributed to disasters (current United States dollars),2010,VC_DSR_GDPLS,13087514.363
-2010,Direct economic loss in the housing sector attributed to disasters (current United States dollars),2010,VC_DSR_GDPLS,112725.0
-2010,Direct economic loss resulting from damaged or destroyed critical infrastructure attributed to disasters (current United States dollars),2010,VC_DSR_GDPLS,99.5324
-2010,Direct economic loss to cultural heritage damaged or destroyed attributed to disasters (millions of current United States dollars),2010,VC_DSR_GDPLS,0.0
-2010,Direct economic loss to other damaged or destroyed productive assets attributed to disasters (current United States dollars),2010,VC_DSR_GDPLS,0.0
-2009,Direct economic loss attributed to disasters (current United States dollars),2009,VC_DSR_GDPLS,2608507.1252
-2009,Direct economic loss attributed to disasters relative to GDP (%),2009,VC_DSR_GDPLS,0.00011
-2009,Direct agriculture loss attributed to disasters (current United States dollars),2009,VC_DSR_GDPLS,79312.1252
-2009,Direct economic loss in the housing sector attributed to disasters (current United States dollars),2009,VC_DSR_GDPLS,80925.0
-2009,Direct economic loss resulting from damaged or destroyed critical infrastructure attributed to disasters (current United States dollars),2009,VC_DSR_GDPLS,2448270.0
-2009,Direct economic loss to cultural heritage damaged or destroyed attributed to disasters (millions of current United States dollars),2009,VC_DSR_GDPLS,0.0
-2009,Direct economic loss to other damaged or destroyed productive assets attributed to disasters (current United States dollars),2009,VC_DSR_GDPLS,0.0
+Year,Sub-indicators,TIME_DETAIL,UNIT_MEASURE,SERIES,Value
+2017,Direct economic loss attributed to disasters (current United States dollars),2017,NUMBER,VC_DSR_GDPLS,1418393.0787
+2017,Direct economic loss attributed to disasters relative to GDP (%),2017,NUMBER,VC_DSR_GDPLS,4e-05
+2017,Direct agriculture loss attributed to disasters (current United States dollars),2017,NUMBER,VC_DSR_GDPLS,38593.0787
+2017,Direct economic loss in the housing sector attributed to disasters (current United States dollars),2017,NUMBER,VC_DSR_GDPLS,1377000.0
+2017,Direct economic loss resulting from damaged or destroyed critical infrastructure attributed to disasters (current United States dollars),2017,NUMBER,VC_DSR_GDPLS,0.0
+2017,Direct economic loss to cultural heritage damaged or destroyed attributed to disasters (millions of current United States dollars),2017,NUMBER,VC_DSR_GDPLS,2800.0
+2017,Direct economic loss to other damaged or destroyed productive assets attributed to disasters (current United States dollars),2017,NUMBER,VC_DSR_GDPLS,0.0
+2016,Direct economic loss attributed to disasters (current United States dollars),2016,NUMBER,VC_DSR_GDPLS,1060537.6704
+2016,Direct economic loss attributed to disasters relative to GDP (%),2016,NUMBER,VC_DSR_GDPLS,3e-05
+2016,Direct agriculture loss attributed to disasters (current United States dollars),2016,NUMBER,VC_DSR_GDPLS,971812.6704
+2016,Direct economic loss in the housing sector attributed to disasters (current United States dollars),2016,NUMBER,VC_DSR_GDPLS,88725.0
+2016,Direct economic loss resulting from damaged or destroyed critical infrastructure attributed to disasters (current United States dollars),2016,NUMBER,VC_DSR_GDPLS,0.0
+2016,Direct economic loss to cultural heritage damaged or destroyed attributed to disasters (millions of current United States dollars),2016,NUMBER,VC_DSR_GDPLS,0.0
+2016,Direct economic loss to other damaged or destroyed productive assets attributed to disasters (current United States dollars),2016,NUMBER,VC_DSR_GDPLS,0.0
+2011,Direct economic loss attributed to disasters (current United States dollars),2011,NUMBER,VC_DSR_GDPLS,125777090.8416
+2011,Direct economic loss attributed to disasters relative to GDP (%),2011,NUMBER,VC_DSR_GDPLS,0.00436
+2011,Direct agriculture loss attributed to disasters (current United States dollars),2011,NUMBER,VC_DSR_GDPLS,125777090.8416
+2011,Direct economic loss in the housing sector attributed to disasters (current United States dollars),2011,NUMBER,VC_DSR_GDPLS,0.0
+2011,Direct economic loss resulting from damaged or destroyed critical infrastructure attributed to disasters (current United States dollars),2011,NUMBER,VC_DSR_GDPLS,0.0
+2011,Direct economic loss to cultural heritage damaged or destroyed attributed to disasters (millions of current United States dollars),2011,NUMBER,VC_DSR_GDPLS,0.0
+2011,Direct economic loss to other damaged or destroyed productive assets attributed to disasters (current United States dollars),2011,NUMBER,VC_DSR_GDPLS,0.0
+2010,Direct economic loss attributed to disasters (current United States dollars),2010,NUMBER,VC_DSR_GDPLS,13200338.8954
+2010,Direct economic loss attributed to disasters relative to GDP (%),2010,NUMBER,VC_DSR_GDPLS,0.0005
+2010,Direct agriculture loss attributed to disasters (current United States dollars),2010,NUMBER,VC_DSR_GDPLS,13087514.363
+2010,Direct economic loss in the housing sector attributed to disasters (current United States dollars),2010,NUMBER,VC_DSR_GDPLS,112725.0
+2010,Direct economic loss resulting from damaged or destroyed critical infrastructure attributed to disasters (current United States dollars),2010,NUMBER,VC_DSR_GDPLS,99.5324
+2010,Direct economic loss to cultural heritage damaged or destroyed attributed to disasters (millions of current United States dollars),2010,NUMBER,VC_DSR_GDPLS,0.0
+2010,Direct economic loss to other damaged or destroyed productive assets attributed to disasters (current United States dollars),2010,NUMBER,VC_DSR_GDPLS,0.0
+2009,Direct economic loss attributed to disasters (current United States dollars),2009,NUMBER,VC_DSR_GDPLS,2608507.1252
+2009,Direct economic loss attributed to disasters relative to GDP (%),2009,NUMBER,VC_DSR_GDPLS,0.00011
+2009,Direct agriculture loss attributed to disasters (current United States dollars),2009,NUMBER,VC_DSR_GDPLS,79312.1252
+2009,Direct economic loss in the housing sector attributed to disasters (current United States dollars),2009,NUMBER,VC_DSR_GDPLS,80925.0
+2009,Direct economic loss resulting from damaged or destroyed critical infrastructure attributed to disasters (current United States dollars),2009,NUMBER,VC_DSR_GDPLS,2448270.0
+2009,Direct economic loss to cultural heritage damaged or destroyed attributed to disasters (millions of current United States dollars),2009,NUMBER,VC_DSR_GDPLS,0.0
+2009,Direct economic loss to other damaged or destroyed productive assets attributed to disasters (current United States dollars),2009,NUMBER,VC_DSR_GDPLS,0.0

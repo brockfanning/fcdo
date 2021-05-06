@@ -1,1 +1,1 @@
-{"data":{"Year":["2017","2017","2017"],"REF_AREA":["West Bank","Gaza Strip","PS"],"TIME_DETAIL":["2017","2017","2017"],"SERIES":["SI_POV_NMPI","SI_POV_NMPI","SI_POV_NMPI"],"Value":[10.6,44.7,24.0]},"edges":{"From":["REF_AREA"],"To":["TIME_DETAIL"]}}
+{"data":{"Year":["2017","2017","2017"],"REF_AREA":["West Bank","Gaza Strip","PS"],"TIME_DETAIL":["2017","2017","2017"],"UNIT_MEASURE":["NUMBER","NUMBER","NUMBER"],"SERIES":["SI_POV_NMPI","SI_POV_NMPI","SI_POV_NMPI"],"Value":[10.6,44.7,24.0]},"edges":{"From":["REF_AREA"],"To":["TIME_DETAIL"]}}

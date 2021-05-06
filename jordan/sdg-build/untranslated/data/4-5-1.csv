@@ -1,4 +1,4 @@
-Year,Enrollment ratio,TIME_DETAIL,SERIES,Value
-2016,Female to male in primary education,2016,SE_GPI_PART,97
-2017,Female to male in primary education,2017,SE_GPI_PART,96
-2018,Female to male in primary education,2018,SE_GPI_PART,96
+Year,Enrollment ratio,TIME_DETAIL,UNIT_MEASURE,SERIES,Value
+2016,Female to male in primary education,2016,NUMBER,SE_GPI_PART,97
+2017,Female to male in primary education,2017,NUMBER,SE_GPI_PART,96
+2018,Female to male in primary education,2018,NUMBER,SE_GPI_PART,96

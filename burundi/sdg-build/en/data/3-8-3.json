@@ -1,1 +1,1 @@
-{"Year":["2010","2012"],"SERIES":["D37","D37"],"REF_AREA":["BI","BI"],"SEX":["_T","_T"],"AGE":["_T","_T"],"URBANISATION":["_T","_T"],"EDUCATION_LEV":["_T","_T"],"UNIT_MEASURE":[null,null],"UNIT_MULT":["0","0"],"TIME_DETAIL":["2010","2012"],"Value":[0.29,4.31]}
+{"Year":["2010","2012"],"SERIES":["D37","D37"],"REF_AREA":["BI","BI"],"SEX":["_T","_T"],"AGE":["_T","_T"],"URBANISATION":["_T","_T"],"EDUCATION_LEV":["_T","_T"],"UNIT_MEASURE":["NUMBER","NUMBER"],"UNIT_MULT":["0","0"],"TIME_DETAIL":["2010","2012"],"Value":[0.29,4.31]}

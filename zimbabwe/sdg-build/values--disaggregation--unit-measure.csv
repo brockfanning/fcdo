@@ -1,6 +1,7 @@
 Value,Disaggregation combinations using this value,Number of indicators
 Constant USD,1,1
 Index,3,2
+NUMBER,20,5
 Number,2,2
 "per 1,000 live births",3,2
 "per 1,000 population",5,2
