@@ -68,6 +68,8 @@ def drop_columns(df, country):
 
 
 def set_fallback_unit(df):
+    if 'UNIT_MEASURE' not in df.columns.to_list():
+        df['UNIT_MEASURE'] = 'NUMBER'
     df['UNIT_MEASURE'] = df['UNIT_MEASURE'].replace('', 'NUMBER')
     return df
 
