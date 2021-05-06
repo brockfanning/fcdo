@@ -3,6 +3,8 @@ import os
 import shutil
 import yaml
 from sdg import helpers
+import pandas as pd
+pd.options.mode.chained_assignment = None
 
 
 def is_country_afdb(country):
@@ -57,10 +59,16 @@ def columns_to_drop(country):
 
 def drop_columns(df, country):
     df = set_time_detail(df)
+    df = set_fallback_unit(df)
     columns_in_data = df.columns.to_list()
     for column in columns_to_drop(country):
         if column in columns_in_data:
             df = df.drop([column], axis=1)
+    return df
+
+
+def set_fallback_unit(df):
+    df['UNIT_MEASURE'] = df['UNIT_MEASURE'].replace('', 'NUMBER')
     return df
 
 
