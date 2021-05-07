@@ -59,7 +59,6 @@ def columns_to_drop(country):
 
 def drop_columns(df, country):
     df = set_time_detail(df)
-    df = set_fallback_unit(df)
     columns_in_data = df.columns.to_list()
     for column in columns_to_drop(country):
         if column in columns_in_data:
@@ -67,18 +66,18 @@ def drop_columns(df, country):
     return df
 
 
-def set_fallback_unit(df):
-    if 'UNIT_MEASURE' not in df.columns.to_list():
-        df['UNIT_MEASURE'] = 'NUMBER'
-    df['UNIT_MEASURE'] = df['UNIT_MEASURE'].replace('', 'NUMBER')
-    return df
-
-
-def set_series(df, context):
+def set_series_and_unit(df, context):
     if 'SERIES' not in df.columns.to_list():
         indicator_id = context['indicator_id']
         series = helpers.sdmx.get_series_code_from_indicator_id(indicator_id)
         df['SERIES'] = series
+    if 'UNIT_MEASURE' not in df.columns.to_list():
+        df['UNIT_MEASURE'] = ''
+    for index, row in df.iterrows():
+        if row['UNIT_MEASURE'] == '':
+            series = row['SERIES']
+            unit = helpers.sdmx.get_unit_code_from_series_code(series)
+            row['UNIT_MEASURE'] = unit
     return df
 
 
@@ -119,7 +118,7 @@ def alter_data_jordan(df, context):
     df = df.rename(columns=column_fixes)
     df = apply_complex_mappings(df, 'jordan')
     df = drop_columns(df, 'jordan')
-    df = set_series(df, context)
+    df = set_series_and_unit(df, context)
     return df
 
 
@@ -130,37 +129,37 @@ def alter_data_palestine(df, context):
     }
     df = df.rename(columns=column_fixes)
     df = drop_columns(df, 'palestine')
-    df = set_series(df, context)
+    df = set_series_and_unit(df, context)
     return df
 
 
 def alter_data_burundi(df, context):
-    df = set_series(df, context)
+    df = set_series_and_unit(df, context)
     return drop_columns(df, 'burundi')
 
 
 def alter_data_ethiopia(df, context):
-    df = set_series(df, context)
+    df = set_series_and_unit(df, context)
     return drop_columns(df, 'ethiopia')
 
 
 def alter_data_mozambique(df, context):
-    df = set_series(df, context)
+    df = set_series_and_unit(df, context)
     return drop_columns(df, 'mozambique')
 
 
 def alter_data_uganda(df, context):
-    df = set_series(df, context)
+    df = set_series_and_unit(df, context)
     return drop_columns(df, 'uganda')
 
 
 def alter_data_zambia(df, context):
-    df = set_series(df, context)
+    df = set_series_and_unit(df, context)
     return drop_columns(df, 'zambia')
 
 
 def alter_data_zimbabwe(df, context):
-    df = set_series(df, context)
+    df = set_series_and_unit(df, context)
     return drop_columns(df, 'zimbabwe')
 
 
