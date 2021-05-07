@@ -1,8 +1,8 @@
 Value,Disaggregation combinations using this value,Number of indicators
 ISCO08_1,3,1
 ISCO08_2,3,1
-ISCO08_221,2,1
-ISCO08_222_322,2,1
+ISCO08_221,3,1
+ISCO08_222_322,3,1
 ISCO08_3,3,1
 ISCO08_4,3,1
 ISCO08_5,3,1
@@ -11,4 +11,4 @@ ISCO08_7,3,1
 ISCO08_8,3,1
 ISCO08_9,3,1
 ISCO08_X,3,1
-_T,210,64
+_T,272,64

@@ -66,14 +66,15 @@
               "enum": [
                 "",
                 "2015",
-                "2016"
+                "2016",
+                "2017"
               ]
             },
             "title": "TIME_DETAIL"
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "string",
+            "type": "number",
             "title": "UNIT_MEASURE"
           },
           {

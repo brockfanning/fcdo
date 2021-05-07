@@ -53,11 +53,11 @@
             }
           },
           {
-            "name": "UNIT_MEASURE",
-            "type": "string"
+            "name": "SERIES",
+            "type": "number"
           },
           {
-            "name": "SERIES",
+            "name": "UNIT_MEASURE",
             "type": "number"
           },
           {

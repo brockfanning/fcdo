@@ -68,14 +68,15 @@
                 "2010",
                 "2011",
                 "2012",
-                "2013"
+                "2013",
+                "2014"
               ]
             },
             "title": "TIME_DETAIL"
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "string",
+            "type": "number",
             "title": "UNIT_MEASURE"
           },
           {

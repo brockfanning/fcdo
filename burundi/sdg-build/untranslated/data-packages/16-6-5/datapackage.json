@@ -70,7 +70,7 @@
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "string"
+            "type": "number"
           },
           {
             "name": "UNIT_MULT",
@@ -95,6 +95,7 @@
                 "2015",
                 "2016",
                 "2017",
+                "2018",
                 ""
               ]
             }

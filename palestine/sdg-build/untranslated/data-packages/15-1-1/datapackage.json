@@ -59,12 +59,12 @@
             }
           },
           {
-            "name": "UNIT_MEASURE",
+            "name": "SERIES",
             "type": "string"
           },
           {
-            "name": "SERIES",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "number"
           },
           {
             "name": "Value",

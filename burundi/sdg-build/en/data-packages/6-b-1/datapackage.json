@@ -65,7 +65,8 @@
             "constraints": {
               "enum": [
                 "",
-                "2013"
+                "2013",
+                "2017"
               ]
             },
             "title": "TIME_DETAIL"

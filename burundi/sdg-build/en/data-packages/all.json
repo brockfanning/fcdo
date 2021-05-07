@@ -302,7 +302,8 @@
                 "2014",
                 "2015",
                 "2016",
-                "2017"
+                "2017",
+                "2018"
               ]
             },
             "title": "TIME_DETAIL"
@@ -764,7 +765,8 @@
                 "2014",
                 "2015",
                 "2016",
-                "2017"
+                "2017",
+                "2018"
               ]
             },
             "title": "TIME_DETAIL"
@@ -877,7 +879,8 @@
                 "",
                 "2012",
                 "2013",
-                "2014"
+                "2014",
+                "2015"
               ]
             },
             "title": "TIME_DETAIL"
@@ -997,7 +1000,8 @@
                 "2014",
                 "2015",
                 "2016",
-                "2017"
+                "2017",
+                "2018"
               ]
             },
             "title": "TIME_DETAIL"
@@ -1228,7 +1232,8 @@
               "enum": [
                 "",
                 "2015",
-                "2016"
+                "2016",
+                "2017"
               ]
             },
             "title": "TIME_DETAIL"
@@ -1340,7 +1345,8 @@
               "enum": [
                 "",
                 "2015",
-                "2016"
+                "2016",
+                "2017"
               ]
             },
             "title": "TIME_DETAIL"
@@ -1452,7 +1458,8 @@
               "enum": [
                 "",
                 "2015",
-                "2016"
+                "2016",
+                "2017"
               ]
             },
             "title": "TIME_DETAIL"
@@ -1569,7 +1576,8 @@
                 "2013",
                 "2014",
                 "2015",
-                "2016"
+                "2016",
+                "2017"
               ]
             },
             "title": "TIME_DETAIL"
@@ -1686,7 +1694,8 @@
               "enum": [
                 "",
                 "2010",
-                "2017"
+                "2017",
+                "2018"
               ]
             },
             "title": "TIME_DETAIL"
@@ -1803,7 +1812,8 @@
               "enum": [
                 "",
                 "2010",
-                "2017"
+                "2017",
+                "2018"
               ]
             },
             "title": "TIME_DETAIL"
@@ -1917,7 +1927,8 @@
               "enum": [
                 "",
                 "2010",
-                "2017"
+                "2017",
+                "2018"
               ]
             },
             "title": "TIME_DETAIL"
@@ -2252,7 +2263,8 @@
             "constraints": {
               "enum": [
                 "",
-                "2010"
+                "2010",
+                "2017"
               ]
             },
             "title": "TIME_DETAIL"
@@ -2370,7 +2382,8 @@
                 "2014",
                 "2015",
                 "2016",
-                "2017"
+                "2017",
+                "2018"
               ]
             },
             "title": "TIME_DETAIL"
@@ -2485,7 +2498,8 @@
             "constraints": {
               "enum": [
                 "",
-                "2010"
+                "2010",
+                "2017"
               ]
             },
             "title": "TIME_DETAIL"
@@ -2603,7 +2617,8 @@
             "constraints": {
               "enum": [
                 "",
-                "2010"
+                "2010",
+                "2017"
               ]
             },
             "title": "TIME_DETAIL"
@@ -2716,7 +2731,8 @@
             "constraints": {
               "enum": [
                 "",
-                "2010"
+                "2010",
+                "2017"
               ]
             },
             "title": "TIME_DETAIL"
@@ -2831,7 +2847,8 @@
             "constraints": {
               "enum": [
                 "",
-                "2010"
+                "2010",
+                "2017"
               ]
             },
             "title": "TIME_DETAIL"
@@ -2943,14 +2960,15 @@
             "constraints": {
               "enum": [
                 "",
-                "2010"
+                "2010",
+                "2017"
               ]
             },
             "title": "TIME_DETAIL"
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "string",
+            "type": "number",
             "title": "UNIT_MEASURE"
           },
           {
@@ -3061,7 +3079,8 @@
                 "2014",
                 "2015",
                 "2016",
-                "2017"
+                "2017",
+                "2018"
               ]
             },
             "title": "TIME_DETAIL"
@@ -3179,14 +3198,15 @@
                 "2014",
                 "2015",
                 "2016",
-                "2017"
+                "2017",
+                "2018"
               ]
             },
             "title": "TIME_DETAIL"
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "string",
+            "type": "number",
             "title": "UNIT_MEASURE"
           },
           {
@@ -3297,14 +3317,15 @@
                 "2014",
                 "2015",
                 "2016",
-                "2017"
+                "2017",
+                "2018"
               ]
             },
             "title": "TIME_DETAIL"
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "string",
+            "type": "number",
             "title": "UNIT_MEASURE"
           },
           {
@@ -3415,14 +3436,15 @@
                 "2014",
                 "2015",
                 "2016",
-                "2017"
+                "2017",
+                "2018"
               ]
             },
             "title": "TIME_DETAIL"
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "string",
+            "type": "number",
             "title": "UNIT_MEASURE"
           },
           {
@@ -3537,14 +3559,15 @@
                 "2014",
                 "2015",
                 "2016",
-                "2017"
+                "2017",
+                "2018"
               ]
             },
             "title": "TIME_DETAIL"
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "string",
+            "type": "number",
             "title": "UNIT_MEASURE"
           },
           {
@@ -3658,7 +3681,7 @@
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "string",
+            "type": "number",
             "title": "UNIT_MEASURE"
           },
           {
@@ -3773,7 +3796,7 @@
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "string",
+            "type": "number",
             "title": "UNIT_MEASURE"
           },
           {
@@ -3877,14 +3900,15 @@
             "constraints": {
               "enum": [
                 "",
-                "2010"
+                "2010",
+                "2017"
               ]
             },
             "title": "TIME_DETAIL"
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "string",
+            "type": "number",
             "title": "UNIT_MEASURE"
           },
           {
@@ -3997,14 +4021,15 @@
                 "2014",
                 "2015",
                 "2016",
-                "2017"
+                "2017",
+                "2018"
               ]
             },
             "title": "TIME_DETAIL"
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "string",
+            "type": "number",
             "title": "UNIT_MEASURE"
           },
           {
@@ -4109,14 +4134,15 @@
               "enum": [
                 "",
                 "2010",
-                "2012"
+                "2012",
+                "2013"
               ]
             },
             "title": "TIME_DETAIL"
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "string",
+            "type": "number",
             "title": "UNIT_MEASURE"
           },
           {
@@ -4223,14 +4249,15 @@
               "enum": [
                 "",
                 "2010",
-                "2014"
+                "2014",
+                "2017"
               ]
             },
             "title": "TIME_DETAIL"
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "string",
+            "type": "number",
             "title": "UNIT_MEASURE"
           },
           {
@@ -4335,14 +4362,15 @@
               "enum": [
                 "",
                 "2010",
-                "2012"
+                "2012",
+                "2017"
               ]
             },
             "title": "TIME_DETAIL"
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "string",
+            "type": "number",
             "title": "UNIT_MEASURE"
           },
           {
@@ -4448,14 +4476,15 @@
                 "",
                 "2010",
                 "2012",
-                "2013"
+                "2013",
+                "2018"
               ]
             },
             "title": "TIME_DETAIL"
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "string",
+            "type": "number",
             "title": "UNIT_MEASURE"
           },
           {
@@ -4561,14 +4590,15 @@
                 "",
                 "2010",
                 "2012",
-                "2017"
+                "2017",
+                "2018"
               ]
             },
             "title": "TIME_DETAIL"
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "string",
+            "type": "number",
             "title": "UNIT_MEASURE"
           },
           {
@@ -4681,7 +4711,8 @@
                 "2014",
                 "2015",
                 "2016",
-                "2017"
+                "2017",
+                "2018"
               ]
             },
             "title": "TIME_DETAIL"
@@ -4924,7 +4955,8 @@
                 "2014",
                 "2015",
                 "2016",
-                "2017"
+                "2017",
+                "2018"
               ]
             },
             "title": "TIME_DETAIL"
@@ -5046,7 +5078,8 @@
                 "2014",
                 "2015",
                 "2016",
-                "2017"
+                "2017",
+                "2018"
               ]
             },
             "title": "TIME_DETAIL"
@@ -5168,7 +5201,8 @@
                 "2014",
                 "2015",
                 "2016",
-                "2017"
+                "2017",
+                "2018"
               ]
             },
             "title": "TIME_DETAIL"
@@ -5514,7 +5548,8 @@
                 "2013",
                 "2014",
                 "2015",
-                "2016"
+                "2016",
+                "2017"
               ]
             },
             "title": "TIME_DETAIL"
@@ -5631,7 +5666,8 @@
                 "2013",
                 "2014",
                 "2015",
-                "2016"
+                "2016",
+                "2017"
               ]
             },
             "title": "TIME_DETAIL"
@@ -5751,7 +5787,8 @@
                 "2014",
                 "2015",
                 "2016",
-                "2017"
+                "2017",
+                "2018"
               ]
             },
             "title": "TIME_DETAIL"
@@ -5869,7 +5906,8 @@
                 "2014",
                 "2015",
                 "2016",
-                "2017"
+                "2017",
+                "2018"
               ]
             },
             "title": "TIME_DETAIL"
@@ -5989,7 +6027,8 @@
                 "2014",
                 "2015",
                 "2016",
-                "2017"
+                "2017",
+                "2018"
               ]
             },
             "title": "TIME_DETAIL"
@@ -6103,7 +6142,8 @@
                 "2010",
                 "2013",
                 "2014",
-                "2016"
+                "2016",
+                "2017"
               ]
             },
             "title": "TIME_DETAIL"
@@ -6222,7 +6262,8 @@
                 "2014",
                 "2015",
                 "2016",
-                "2017"
+                "2017",
+                "2018"
               ]
             },
             "title": "TIME_DETAIL"
@@ -6451,7 +6492,8 @@
                 "2014",
                 "2015",
                 "2016",
-                "2017"
+                "2017",
+                "2018"
               ]
             },
             "title": "TIME_DETAIL"
@@ -6562,7 +6604,8 @@
             "constraints": {
               "enum": [
                 "",
-                "2010"
+                "2010",
+                "2017"
               ]
             },
             "title": "TIME_DETAIL"
@@ -6675,7 +6718,8 @@
             "constraints": {
               "enum": [
                 "",
-                "2014"
+                "2014",
+                "2017"
               ]
             },
             "title": "TIME_DETAIL"
@@ -6791,7 +6835,8 @@
                 "2010",
                 "2011",
                 "2012",
-                "2014"
+                "2014",
+                "2016"
               ]
             },
             "title": "TIME_DETAIL"
@@ -6909,7 +6954,8 @@
                 "2013",
                 "2014",
                 "2015",
-                "2016"
+                "2016",
+                "2017"
               ]
             },
             "title": "TIME_DETAIL"
@@ -7023,7 +7069,8 @@
               "enum": [
                 "",
                 "2010",
-                "2014"
+                "2014",
+                "2017"
               ]
             },
             "title": "TIME_DETAIL"
@@ -7138,7 +7185,8 @@
                 "",
                 "2010",
                 "2012",
-                "2014"
+                "2014",
+                "2017"
               ]
             },
             "title": "TIME_DETAIL"
@@ -7252,7 +7300,8 @@
               "enum": [
                 "",
                 "2010",
-                "2014"
+                "2014",
+                "2017"
               ]
             },
             "title": "TIME_DETAIL"
@@ -7368,7 +7417,8 @@
                 "2010",
                 "2011",
                 "2012",
-                "2013"
+                "2013",
+                "2014"
               ]
             },
             "title": "TIME_DETAIL"
@@ -7479,7 +7529,8 @@
             "constraints": {
               "enum": [
                 "",
-                "2013"
+                "2013",
+                "2017"
               ]
             },
             "title": "TIME_DETAIL"
@@ -7591,7 +7642,8 @@
               "enum": [
                 "",
                 "2010",
-                "2014"
+                "2014",
+                "2017"
               ]
             },
             "title": "TIME_DETAIL"
@@ -7711,7 +7763,7 @@
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "string",
+            "type": "number",
             "title": "UNIT_MEASURE"
           },
           {
@@ -7822,14 +7874,15 @@
                 "2014",
                 "2015",
                 "2016",
-                "2017"
+                "2017",
+                "2018"
               ]
             },
             "title": "TIME_DETAIL"
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "string",
+            "type": "number",
             "title": "UNIT_MEASURE"
           },
           {
@@ -7940,14 +7993,15 @@
                 "2014",
                 "2015",
                 "2016",
-                "2017"
+                "2017",
+                "2018"
               ]
             },
             "title": "TIME_DETAIL"
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "string",
+            "type": "number",
             "title": "UNIT_MEASURE"
           },
           {
@@ -8058,14 +8112,15 @@
                 "2014",
                 "2015",
                 "2016",
-                "2017"
+                "2017",
+                "2018"
               ]
             },
             "title": "TIME_DETAIL"
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "string",
+            "type": "number",
             "title": "UNIT_MEASURE"
           },
           {
@@ -8172,14 +8227,15 @@
                 "2010",
                 "2011",
                 "2012",
-                "2013"
+                "2013",
+                "2014"
               ]
             },
             "title": "TIME_DETAIL"
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "string",
+            "type": "number",
             "title": "UNIT_MEASURE"
           },
           {
@@ -8399,7 +8455,8 @@
                 "2012",
                 "2013",
                 "2014",
-                "2015"
+                "2015",
+                "2016"
               ]
             },
             "title": "TIME_DETAIL"
@@ -8515,14 +8572,15 @@
                 "2012",
                 "2013",
                 "2014",
-                "2015"
+                "2015",
+                "2016"
               ]
             },
             "title": "TIME_DETAIL"
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "string",
+            "type": "number",
             "title": "UNIT_MEASURE"
           },
           {
@@ -8631,7 +8689,8 @@
                 "2013",
                 "2014",
                 "2015",
-                "2016"
+                "2016",
+                "2017"
               ]
             },
             "title": "TIME_DETAIL"
@@ -8743,7 +8802,8 @@
               "enum": [
                 "",
                 "2016",
-                "2017"
+                "2017",
+                "2018"
               ]
             },
             "title": "TIME_DETAIL"
@@ -8965,7 +9025,8 @@
             "constraints": {
               "enum": [
                 "",
-                "2017"
+                "2017",
+                "2018"
               ]
             },
             "title": "TIME_DETAIL"
@@ -9192,14 +9253,15 @@
                 "2012",
                 "2013",
                 "2014",
-                "2015"
+                "2015",
+                "2016"
               ]
             },
             "title": "TIME_DETAIL"
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "string",
+            "type": "number",
             "title": "UNIT_MEASURE"
           },
           {
@@ -9310,7 +9372,7 @@
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "string",
+            "type": "number",
             "title": "UNIT_MEASURE"
           },
           {
@@ -9417,7 +9479,8 @@
                 "2014",
                 "2015",
                 "2016",
-                "2017"
+                "2017",
+                "2018"
               ]
             },
             "title": "TIME_DETAIL"
@@ -9529,14 +9592,15 @@
               "enum": [
                 "",
                 "2015",
-                "2016"
+                "2016",
+                "2017"
               ]
             },
             "title": "TIME_DETAIL"
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "string",
+            "type": "number",
             "title": "UNIT_MEASURE"
           },
           {
@@ -9758,14 +9822,15 @@
                 "2014",
                 "2015",
                 "2016",
-                "2017"
+                "2017",
+                "2018"
               ]
             },
             "title": "TIME_DETAIL"
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "string",
+            "type": "number",
             "title": "UNIT_MEASURE"
           },
           {
@@ -9869,14 +9934,15 @@
             "constraints": {
               "enum": [
                 "",
-                "2010"
+                "2010",
+                "2017"
               ]
             },
             "title": "TIME_DETAIL"
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "string",
+            "type": "number",
             "title": "UNIT_MEASURE"
           },
           {
@@ -9989,7 +10055,7 @@
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "string",
+            "type": "number",
             "title": "UNIT_MEASURE"
           },
           {
@@ -10211,14 +10277,15 @@
                 "2014",
                 "2015",
                 "2016",
-                "2017"
+                "2017",
+                "2018"
               ]
             },
             "title": "TIME_DETAIL"
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "string",
+            "type": "number",
             "title": "UNIT_MEASURE"
           },
           {
@@ -10329,7 +10396,8 @@
                 "2014",
                 "2015",
                 "2016",
-                "2017"
+                "2017",
+                "2018"
               ]
             },
             "title": "TIME_DETAIL"
@@ -10441,14 +10509,15 @@
               "enum": [
                 "",
                 "2015",
-                "2016"
+                "2016",
+                "2017"
               ]
             },
             "title": "TIME_DETAIL"
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "string",
+            "type": "number",
             "title": "UNIT_MEASURE"
           },
           {
@@ -10559,7 +10628,7 @@
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "string",
+            "type": "number",
             "title": "UNIT_MEASURE"
           },
           {
@@ -10670,7 +10739,7 @@
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "string",
+            "type": "number",
             "title": "UNIT_MEASURE"
           },
           {
@@ -10781,7 +10850,7 @@
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "string",
+            "type": "number",
             "title": "UNIT_MEASURE"
           },
           {
@@ -10892,7 +10961,7 @@
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "string",
+            "type": "number",
             "title": "UNIT_MEASURE"
           },
           {
@@ -11003,7 +11072,7 @@
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "string",
+            "type": "number",
             "title": "UNIT_MEASURE"
           },
           {
@@ -11111,14 +11180,15 @@
                 "2011",
                 "2012",
                 "2013",
-                "2014"
+                "2014",
+                "2015"
               ]
             },
             "title": "TIME_DETAIL"
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "string",
+            "type": "number",
             "title": "UNIT_MEASURE"
           },
           {
@@ -11229,7 +11299,7 @@
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "string",
+            "type": "number",
             "title": "UNIT_MEASURE"
           },
           {
@@ -11450,14 +11520,15 @@
                 "2014",
                 "2015",
                 "2016",
-                "2017"
+                "2017",
+                "2018"
               ]
             },
             "title": "TIME_DETAIL"
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "string",
+            "type": "number",
             "title": "UNIT_MEASURE"
           },
           {
@@ -11568,14 +11639,15 @@
                 "2014",
                 "2015",
                 "2016",
-                "2017"
+                "2017",
+                "2018"
               ]
             },
             "title": "TIME_DETAIL"
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "string",
+            "type": "number",
             "title": "UNIT_MEASURE"
           },
           {
@@ -11682,14 +11754,15 @@
               "enum": [
                 "",
                 "2010",
-                "2014"
+                "2014",
+                "2017"
               ]
             },
             "title": "TIME_DETAIL"
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "string",
+            "type": "number",
             "title": "UNIT_MEASURE"
           },
           {
@@ -12148,7 +12221,8 @@
                 "2014",
                 "2015",
                 "2016",
-                "2017"
+                "2017",
+                "2018"
               ]
             },
             "title": "TIME_DETAIL"
@@ -12266,7 +12340,8 @@
                 "2014",
                 "2015",
                 "2016",
-                "2017"
+                "2017",
+                "2018"
               ]
             },
             "title": "TIME_DETAIL"
@@ -12384,7 +12459,8 @@
                 "2014",
                 "2015",
                 "2016",
-                "2017"
+                "2017",
+                "2018"
               ]
             },
             "title": "TIME_DETAIL"
@@ -12502,7 +12578,8 @@
                 "2014",
                 "2015",
                 "2016",
-                "2017"
+                "2017",
+                "2018"
               ]
             },
             "title": "TIME_DETAIL"
@@ -12620,7 +12697,8 @@
                 "2014",
                 "2015",
                 "2016",
-                "2017"
+                "2017",
+                "2018"
               ]
             },
             "title": "TIME_DETAIL"
@@ -12738,7 +12816,8 @@
                 "2014",
                 "2015",
                 "2016",
-                "2017"
+                "2017",
+                "2018"
               ]
             },
             "title": "TIME_DETAIL"
@@ -12856,14 +12935,15 @@
                 "2014",
                 "2015",
                 "2016",
-                "2017"
+                "2017",
+                "2018"
               ]
             },
             "title": "TIME_DETAIL"
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "string",
+            "type": "number",
             "title": "UNIT_MEASURE"
           },
           {
@@ -12972,14 +13052,15 @@
                 "2014",
                 "2015",
                 "2016",
-                "2017"
+                "2017",
+                "2018"
               ]
             },
             "title": "TIME_DETAIL"
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "string",
+            "type": "number",
             "title": "UNIT_MEASURE"
           },
           {
@@ -13089,14 +13170,15 @@
                 "2013",
                 "2014",
                 "2015",
-                "2016"
+                "2016",
+                "2017"
               ]
             },
             "title": "TIME_DETAIL"
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "string",
+            "type": "number",
             "title": "UNIT_MEASURE"
           },
           {
@@ -13206,7 +13288,8 @@
                 "2013",
                 "2014",
                 "2015",
-                "2016"
+                "2016",
+                "2017"
               ]
             },
             "title": "TIME_DETAIL"
@@ -13541,7 +13624,8 @@
                 "",
                 "2015",
                 "2016",
-                "2017"
+                "2017",
+                "2018"
               ]
             },
             "title": "TIME_DETAIL"
@@ -13656,7 +13740,8 @@
                 "2014",
                 "2015",
                 "2016",
-                "2017"
+                "2017",
+                "2018"
               ]
             },
             "title": "TIME_DETAIL"
@@ -13774,7 +13859,8 @@
                 "2014",
                 "2015",
                 "2016",
-                "2017"
+                "2017",
+                "2018"
               ]
             },
             "title": "TIME_DETAIL"
@@ -13891,14 +13977,15 @@
                 "2013",
                 "2014",
                 "2015",
-                "2016"
+                "2016",
+                "2017"
               ]
             },
             "title": "TIME_DETAIL"
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "string",
+            "type": "number",
             "title": "UNIT_MEASURE"
           },
           {
@@ -14007,14 +14094,15 @@
                 "2012",
                 "2013",
                 "2014",
-                "2015"
+                "2015",
+                "2016"
               ]
             },
             "title": "TIME_DETAIL"
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "string",
+            "type": "number",
             "title": "UNIT_MEASURE"
           },
           {
@@ -14121,14 +14209,15 @@
                 "2013",
                 "2014",
                 "2015",
-                "2016"
+                "2016",
+                "2017"
               ]
             },
             "title": "TIME_DETAIL"
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "string",
+            "type": "number",
             "title": "UNIT_MEASURE"
           },
           {
@@ -14238,14 +14327,15 @@
                 "2013",
                 "2014",
                 "2015",
-                "2016"
+                "2016",
+                "2017"
               ]
             },
             "title": "TIME_DETAIL"
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "string",
+            "type": "number",
             "title": "UNIT_MEASURE"
           },
           {
@@ -14356,7 +14446,7 @@
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "string",
+            "type": "number",
             "title": "UNIT_MEASURE"
           },
           {
@@ -14461,14 +14551,15 @@
               "enum": [
                 "",
                 "2015",
-                "2016"
+                "2016",
+                "2017"
               ]
             },
             "title": "TIME_DETAIL"
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "string",
+            "type": "number",
             "title": "UNIT_MEASURE"
           },
           {
@@ -14574,7 +14665,8 @@
             "constraints": {
               "enum": [
                 "",
-                "2014"
+                "2014",
+                "2017"
               ]
             },
             "title": "TIME_DETAIL"
@@ -14694,7 +14786,7 @@
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "string",
+            "type": "number",
             "title": "UNIT_MEASURE"
           },
           {
@@ -14917,7 +15009,8 @@
                 "2013",
                 "2014",
                 "2015",
-                "2016"
+                "2016",
+                "2017"
               ]
             },
             "title": "TIME_DETAIL"
@@ -15037,7 +15130,7 @@
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "string",
+            "type": "number",
             "title": "UNIT_MEASURE"
           },
           {

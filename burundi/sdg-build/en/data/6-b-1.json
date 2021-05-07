@@ -1,1 +1,1 @@
-{"Year":["2013"],"SERIES":["ER_WAT_PARTIC"],"REF_AREA":["BI"],"SEX":["_T"],"AGE":["_T"],"URBANISATION":["_T"],"EDUCATION_LEV":["_T"],"UNIT_MEASURE":["PT"],"UNIT_MULT":["0"],"TIME_DETAIL":["2013"],"Value":[36.2]}
+{"Year":["2013","2017"],"SERIES":["ER_WAT_PARTIC","ER_WAT_PARTIC"],"REF_AREA":["BI","BI"],"SEX":["_T","_T"],"AGE":["_T","_T"],"URBANISATION":["_T","_T"],"EDUCATION_LEV":["_T","_T"],"UNIT_MEASURE":["PT","PT"],"UNIT_MULT":["0","0"],"TIME_DETAIL":["2013","2017"],"Value":[36.2,70.6]}

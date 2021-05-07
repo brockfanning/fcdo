@@ -69,11 +69,11 @@
             }
           },
           {
-            "name": "UNIT_MEASURE",
-            "type": "string"
+            "name": "SERIES",
+            "type": "number"
           },
           {
-            "name": "SERIES",
+            "name": "UNIT_MEASURE",
             "type": "number"
           },
           {
@@ -121,12 +121,12 @@
             }
           },
           {
-            "name": "UNIT_MEASURE",
+            "name": "SERIES",
             "type": "string"
           },
           {
-            "name": "SERIES",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "number"
           },
           {
             "name": "Value",
@@ -172,12 +172,12 @@
             }
           },
           {
-            "name": "UNIT_MEASURE",
+            "name": "SERIES",
             "type": "string"
           },
           {
-            "name": "SERIES",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "number"
           },
           {
             "name": "Value",
@@ -220,12 +220,12 @@
             }
           },
           {
-            "name": "UNIT_MEASURE",
+            "name": "SERIES",
             "type": "string"
           },
           {
-            "name": "SERIES",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "number"
           },
           {
             "name": "Value",
@@ -261,12 +261,12 @@
             }
           },
           {
-            "name": "UNIT_MEASURE",
+            "name": "SERIES",
             "type": "string"
           },
           {
-            "name": "SERIES",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "number"
           },
           {
             "name": "Value",
@@ -302,12 +302,12 @@
             }
           },
           {
-            "name": "UNIT_MEASURE",
+            "name": "SERIES",
             "type": "string"
           },
           {
-            "name": "SERIES",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "number"
           },
           {
             "name": "Value",
@@ -351,12 +351,12 @@
             }
           },
           {
-            "name": "UNIT_MEASURE",
+            "name": "SERIES",
             "type": "string"
           },
           {
-            "name": "SERIES",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "number"
           },
           {
             "name": "Value",
@@ -395,12 +395,12 @@
             }
           },
           {
-            "name": "UNIT_MEASURE",
+            "name": "SERIES",
             "type": "string"
           },
           {
-            "name": "SERIES",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "number"
           },
           {
             "name": "Value",
@@ -468,12 +468,12 @@
             }
           },
           {
-            "name": "UNIT_MEASURE",
+            "name": "SERIES",
             "type": "string"
           },
           {
-            "name": "SERIES",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "number"
           },
           {
             "name": "Value",
@@ -533,12 +533,12 @@
             }
           },
           {
-            "name": "UNIT_MEASURE",
+            "name": "SERIES",
             "type": "string"
           },
           {
-            "name": "SERIES",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "number"
           },
           {
             "name": "Value",
@@ -616,12 +616,12 @@
             }
           },
           {
-            "name": "UNIT_MEASURE",
+            "name": "SERIES",
             "type": "string"
           },
           {
-            "name": "SERIES",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "number"
           },
           {
             "name": "Value",
@@ -660,12 +660,12 @@
             }
           },
           {
-            "name": "UNIT_MEASURE",
+            "name": "SERIES",
             "type": "string"
           },
           {
-            "name": "SERIES",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "number"
           },
           {
             "name": "Value",
@@ -727,12 +727,12 @@
             }
           },
           {
-            "name": "UNIT_MEASURE",
+            "name": "SERIES",
             "type": "string"
           },
           {
-            "name": "SERIES",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "number"
           },
           {
             "name": "Value",
@@ -782,12 +782,12 @@
             }
           },
           {
-            "name": "UNIT_MEASURE",
+            "name": "SERIES",
             "type": "string"
           },
           {
-            "name": "SERIES",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "number"
           },
           {
             "name": "Value",
@@ -851,12 +851,12 @@
             }
           },
           {
-            "name": "UNIT_MEASURE",
+            "name": "SERIES",
             "type": "string"
           },
           {
-            "name": "SERIES",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "number"
           },
           {
             "name": "Value",
@@ -921,12 +921,12 @@
             }
           },
           {
-            "name": "UNIT_MEASURE",
+            "name": "SERIES",
             "type": "string"
           },
           {
-            "name": "SERIES",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "number"
           },
           {
             "name": "Value",
@@ -977,12 +977,12 @@
             }
           },
           {
-            "name": "UNIT_MEASURE",
+            "name": "SERIES",
             "type": "string"
           },
           {
-            "name": "SERIES",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "number"
           },
           {
             "name": "Value",
@@ -1033,12 +1033,12 @@
             }
           },
           {
-            "name": "UNIT_MEASURE",
+            "name": "SERIES",
             "type": "string"
           },
           {
-            "name": "SERIES",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "number"
           },
           {
             "name": "Value",
@@ -1089,12 +1089,12 @@
             }
           },
           {
-            "name": "UNIT_MEASURE",
+            "name": "SERIES",
             "type": "string"
           },
           {
-            "name": "SERIES",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "number"
           },
           {
             "name": "Value",
@@ -1145,12 +1145,12 @@
             }
           },
           {
-            "name": "UNIT_MEASURE",
+            "name": "SERIES",
             "type": "string"
           },
           {
-            "name": "SERIES",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "number"
           },
           {
             "name": "Value",
@@ -1200,12 +1200,12 @@
             }
           },
           {
-            "name": "UNIT_MEASURE",
+            "name": "SERIES",
             "type": "string"
           },
           {
-            "name": "SERIES",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "number"
           },
           {
             "name": "Value",
@@ -1258,12 +1258,12 @@
             }
           },
           {
-            "name": "UNIT_MEASURE",
+            "name": "SERIES",
             "type": "string"
           },
           {
-            "name": "SERIES",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "number"
           },
           {
             "name": "Value",
@@ -1326,12 +1326,12 @@
             }
           },
           {
-            "name": "UNIT_MEASURE",
+            "name": "SERIES",
             "type": "string"
           },
           {
-            "name": "SERIES",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "number"
           },
           {
             "name": "Value",
@@ -1390,12 +1390,12 @@
             }
           },
           {
-            "name": "UNIT_MEASURE",
+            "name": "SERIES",
             "type": "string"
           },
           {
-            "name": "SERIES",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "number"
           },
           {
             "name": "Value",
@@ -1457,12 +1457,12 @@
             }
           },
           {
-            "name": "UNIT_MEASURE",
+            "name": "SERIES",
             "type": "string"
           },
           {
-            "name": "SERIES",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "number"
           },
           {
             "name": "Value",
@@ -1497,12 +1497,12 @@
             }
           },
           {
-            "name": "UNIT_MEASURE",
+            "name": "SERIES",
             "type": "string"
           },
           {
-            "name": "SERIES",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "number"
           },
           {
             "name": "Value",
@@ -1565,12 +1565,12 @@
             }
           },
           {
-            "name": "UNIT_MEASURE",
+            "name": "SERIES",
             "type": "string"
           },
           {
-            "name": "SERIES",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "number"
           },
           {
             "name": "Value",
@@ -1642,12 +1642,12 @@
             }
           },
           {
-            "name": "UNIT_MEASURE",
+            "name": "SERIES",
             "type": "string"
           },
           {
-            "name": "SERIES",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "number"
           },
           {
             "name": "Value",
@@ -1700,12 +1700,12 @@
             }
           },
           {
-            "name": "UNIT_MEASURE",
+            "name": "SERIES",
             "type": "string"
           },
           {
-            "name": "SERIES",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "number"
           },
           {
             "name": "Value",
@@ -1744,12 +1744,12 @@
             }
           },
           {
-            "name": "UNIT_MEASURE",
+            "name": "SERIES",
             "type": "string"
           },
           {
-            "name": "SERIES",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "number"
           },
           {
             "name": "Value",
@@ -1808,12 +1808,12 @@
             }
           },
           {
-            "name": "UNIT_MEASURE",
+            "name": "SERIES",
             "type": "string"
           },
           {
-            "name": "SERIES",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "number"
           },
           {
             "name": "Value",
@@ -1872,12 +1872,12 @@
             }
           },
           {
-            "name": "UNIT_MEASURE",
+            "name": "SERIES",
             "type": "string"
           },
           {
-            "name": "SERIES",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "number"
           },
           {
             "name": "Value",
@@ -1916,12 +1916,12 @@
             }
           },
           {
-            "name": "UNIT_MEASURE",
+            "name": "SERIES",
             "type": "string"
           },
           {
-            "name": "SERIES",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "number"
           },
           {
             "name": "Value",
@@ -1981,12 +1981,12 @@
             }
           },
           {
-            "name": "UNIT_MEASURE",
+            "name": "SERIES",
             "type": "string"
           },
           {
-            "name": "SERIES",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "number"
           },
           {
             "name": "Value",
@@ -2075,12 +2075,12 @@
             }
           },
           {
-            "name": "UNIT_MEASURE",
+            "name": "SERIES",
             "type": "string"
           },
           {
-            "name": "SERIES",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "number"
           },
           {
             "name": "Value",
@@ -2140,12 +2140,12 @@
             }
           },
           {
-            "name": "UNIT_MEASURE",
+            "name": "SERIES",
             "type": "string"
           },
           {
-            "name": "SERIES",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "number"
           },
           {
             "name": "Value",
@@ -2192,12 +2192,12 @@
             }
           },
           {
-            "name": "UNIT_MEASURE",
+            "name": "SERIES",
             "type": "string"
           },
           {
-            "name": "SERIES",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "number"
           },
           {
             "name": "Value",
@@ -2274,12 +2274,12 @@
             }
           },
           {
-            "name": "UNIT_MEASURE",
+            "name": "SERIES",
             "type": "string"
           },
           {
-            "name": "SERIES",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "number"
           },
           {
             "name": "Value",
@@ -2326,12 +2326,12 @@
             }
           },
           {
-            "name": "UNIT_MEASURE",
+            "name": "SERIES",
             "type": "string"
           },
           {
-            "name": "SERIES",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "number"
           },
           {
             "name": "Value",
@@ -2397,12 +2397,12 @@
             }
           },
           {
-            "name": "UNIT_MEASURE",
+            "name": "SERIES",
             "type": "string"
           },
           {
-            "name": "SERIES",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "number"
           },
           {
             "name": "Value",
@@ -2480,12 +2480,12 @@
             }
           },
           {
-            "name": "UNIT_MEASURE",
+            "name": "SERIES",
             "type": "string"
           },
           {
-            "name": "SERIES",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "number"
           },
           {
             "name": "Value",
@@ -2551,12 +2551,12 @@
             }
           },
           {
-            "name": "UNIT_MEASURE",
+            "name": "SERIES",
             "type": "string"
           },
           {
-            "name": "SERIES",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "number"
           },
           {
             "name": "Value",
@@ -2634,12 +2634,12 @@
             }
           },
           {
-            "name": "UNIT_MEASURE",
+            "name": "SERIES",
             "type": "string"
           },
           {
-            "name": "SERIES",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "number"
           },
           {
             "name": "Value",
@@ -2731,12 +2731,12 @@
             }
           },
           {
-            "name": "UNIT_MEASURE",
+            "name": "SERIES",
             "type": "string"
           },
           {
-            "name": "SERIES",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "number"
           },
           {
             "name": "Value",
@@ -2788,12 +2788,12 @@
             }
           },
           {
-            "name": "UNIT_MEASURE",
+            "name": "SERIES",
             "type": "string"
           },
           {
-            "name": "SERIES",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "number"
           },
           {
             "name": "Value",
@@ -2866,12 +2866,12 @@
             }
           },
           {
-            "name": "UNIT_MEASURE",
+            "name": "SERIES",
             "type": "string"
           },
           {
-            "name": "SERIES",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "number"
           },
           {
             "name": "Value",
@@ -2947,12 +2947,12 @@
             }
           },
           {
-            "name": "UNIT_MEASURE",
+            "name": "SERIES",
             "type": "string"
           },
           {
-            "name": "SERIES",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "number"
           },
           {
             "name": "Value",
@@ -3003,12 +3003,12 @@
             }
           },
           {
-            "name": "UNIT_MEASURE",
+            "name": "SERIES",
             "type": "string"
           },
           {
-            "name": "SERIES",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "number"
           },
           {
             "name": "Value",
@@ -3060,12 +3060,12 @@
             }
           },
           {
-            "name": "UNIT_MEASURE",
+            "name": "SERIES",
             "type": "string"
           },
           {
-            "name": "SERIES",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "number"
           },
           {
             "name": "Value",
@@ -3131,12 +3131,12 @@
             }
           },
           {
-            "name": "UNIT_MEASURE",
+            "name": "SERIES",
             "type": "string"
           },
           {
-            "name": "SERIES",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "number"
           },
           {
             "name": "Value",
@@ -3182,12 +3182,12 @@
             }
           },
           {
-            "name": "UNIT_MEASURE",
+            "name": "SERIES",
             "type": "string"
           },
           {
-            "name": "SERIES",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "number"
           },
           {
             "name": "Value",
@@ -3250,12 +3250,12 @@
             }
           },
           {
-            "name": "UNIT_MEASURE",
+            "name": "SERIES",
             "type": "string"
           },
           {
-            "name": "SERIES",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "number"
           },
           {
             "name": "Value",
@@ -3319,12 +3319,12 @@
             }
           },
           {
-            "name": "UNIT_MEASURE",
+            "name": "SERIES",
             "type": "string"
           },
           {
-            "name": "SERIES",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "number"
           },
           {
             "name": "Value",
@@ -3391,12 +3391,12 @@
             }
           },
           {
-            "name": "UNIT_MEASURE",
+            "name": "SERIES",
             "type": "string"
           },
           {
-            "name": "SERIES",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "number"
           },
           {
             "name": "Value",
@@ -3490,12 +3490,12 @@
             }
           },
           {
-            "name": "UNIT_MEASURE",
+            "name": "SERIES",
             "type": "string"
           },
           {
-            "name": "SERIES",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "number"
           },
           {
             "name": "Value",
@@ -3585,12 +3585,12 @@
             }
           },
           {
-            "name": "UNIT_MEASURE",
+            "name": "SERIES",
             "type": "string"
           },
           {
-            "name": "SERIES",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "number"
           },
           {
             "name": "Value",
@@ -3666,12 +3666,12 @@
             }
           },
           {
-            "name": "UNIT_MEASURE",
+            "name": "SERIES",
             "type": "string"
           },
           {
-            "name": "SERIES",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "number"
           },
           {
             "name": "Value",
@@ -3761,12 +3761,12 @@
             }
           },
           {
-            "name": "UNIT_MEASURE",
+            "name": "SERIES",
             "type": "string"
           },
           {
-            "name": "SERIES",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "number"
           },
           {
             "name": "Value",
@@ -3825,12 +3825,12 @@
             }
           },
           {
-            "name": "UNIT_MEASURE",
+            "name": "SERIES",
             "type": "string"
           },
           {
-            "name": "SERIES",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "number"
           },
           {
             "name": "Value",
@@ -3877,12 +3877,12 @@
             }
           },
           {
-            "name": "UNIT_MEASURE",
+            "name": "SERIES",
             "type": "string"
           },
           {
-            "name": "SERIES",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "number"
           },
           {
             "name": "Value",
@@ -3948,12 +3948,12 @@
             }
           },
           {
-            "name": "UNIT_MEASURE",
+            "name": "SERIES",
             "type": "string"
           },
           {
-            "name": "SERIES",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "number"
           },
           {
             "name": "Value",
@@ -4029,12 +4029,12 @@
             }
           },
           {
-            "name": "UNIT_MEASURE",
+            "name": "SERIES",
             "type": "string"
           },
           {
-            "name": "SERIES",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "number"
           },
           {
             "name": "Value",
@@ -4099,12 +4099,12 @@
             }
           },
           {
-            "name": "UNIT_MEASURE",
+            "name": "SERIES",
             "type": "string"
           },
           {
-            "name": "SERIES",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "number"
           },
           {
             "name": "Value",
@@ -4140,12 +4140,12 @@
             }
           },
           {
-            "name": "UNIT_MEASURE",
+            "name": "SERIES",
             "type": "string"
           },
           {
-            "name": "SERIES",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "number"
           },
           {
             "name": "Value",
@@ -4191,12 +4191,12 @@
             }
           },
           {
-            "name": "UNIT_MEASURE",
+            "name": "SERIES",
             "type": "string"
           },
           {
-            "name": "SERIES",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "number"
           },
           {
             "name": "Value",
@@ -4231,12 +4231,12 @@
             }
           },
           {
-            "name": "UNIT_MEASURE",
+            "name": "SERIES",
             "type": "string"
           },
           {
-            "name": "SERIES",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "number"
           },
           {
             "name": "Value",
@@ -4271,12 +4271,12 @@
             }
           },
           {
-            "name": "UNIT_MEASURE",
+            "name": "SERIES",
             "type": "string"
           },
           {
-            "name": "SERIES",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "number"
           },
           {
             "name": "Value",
@@ -4342,12 +4342,12 @@
             }
           },
           {
-            "name": "UNIT_MEASURE",
+            "name": "SERIES",
             "type": "string"
           },
           {
-            "name": "SERIES",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "number"
           },
           {
             "name": "Value",
@@ -4382,12 +4382,12 @@
             }
           },
           {
-            "name": "UNIT_MEASURE",
+            "name": "SERIES",
             "type": "string"
           },
           {
-            "name": "SERIES",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "number"
           },
           {
             "name": "Value",
@@ -4425,12 +4425,12 @@
             }
           },
           {
-            "name": "UNIT_MEASURE",
+            "name": "SERIES",
             "type": "string"
           },
           {
-            "name": "SERIES",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "number"
           },
           {
             "name": "Value",
@@ -4502,12 +4502,12 @@
             }
           },
           {
-            "name": "UNIT_MEASURE",
+            "name": "SERIES",
             "type": "string"
           },
           {
-            "name": "SERIES",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "number"
           },
           {
             "name": "Value",
@@ -4561,12 +4561,12 @@
             }
           },
           {
-            "name": "UNIT_MEASURE",
+            "name": "SERIES",
             "type": "string"
           },
           {
-            "name": "SERIES",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "number"
           },
           {
             "name": "Value",
@@ -4601,12 +4601,12 @@
             }
           },
           {
-            "name": "UNIT_MEASURE",
+            "name": "SERIES",
             "type": "string"
           },
           {
-            "name": "SERIES",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "number"
           },
           {
             "name": "Value",
@@ -4649,12 +4649,12 @@
             }
           },
           {
-            "name": "UNIT_MEASURE",
+            "name": "SERIES",
             "type": "string"
           },
           {
-            "name": "SERIES",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "number"
           },
           {
             "name": "Value",
@@ -4690,12 +4690,12 @@
             }
           },
           {
-            "name": "UNIT_MEASURE",
+            "name": "SERIES",
             "type": "string"
           },
           {
-            "name": "SERIES",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "number"
           },
           {
             "name": "Value",
@@ -4731,12 +4731,12 @@
             }
           },
           {
-            "name": "UNIT_MEASURE",
+            "name": "SERIES",
             "type": "string"
           },
           {
-            "name": "SERIES",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "number"
           },
           {
             "name": "Value",
@@ -4772,12 +4772,12 @@
             }
           },
           {
-            "name": "UNIT_MEASURE",
+            "name": "SERIES",
             "type": "string"
           },
           {
-            "name": "SERIES",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "number"
           },
           {
             "name": "Value",
@@ -4815,12 +4815,12 @@
             }
           },
           {
-            "name": "UNIT_MEASURE",
+            "name": "SERIES",
             "type": "string"
           },
           {
-            "name": "SERIES",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "number"
           },
           {
             "name": "Value",
@@ -4889,12 +4889,12 @@
             }
           },
           {
-            "name": "UNIT_MEASURE",
+            "name": "SERIES",
             "type": "string"
           },
           {
-            "name": "SERIES",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "number"
           },
           {
             "name": "Value",
@@ -4929,12 +4929,12 @@
             }
           },
           {
-            "name": "UNIT_MEASURE",
+            "name": "SERIES",
             "type": "string"
           },
           {
-            "name": "SERIES",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "number"
           },
           {
             "name": "Value",
@@ -4969,12 +4969,12 @@
             }
           },
           {
-            "name": "UNIT_MEASURE",
+            "name": "SERIES",
             "type": "string"
           },
           {
-            "name": "SERIES",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "number"
           },
           {
             "name": "Value",
@@ -5009,12 +5009,12 @@
             }
           },
           {
-            "name": "UNIT_MEASURE",
+            "name": "SERIES",
             "type": "string"
           },
           {
-            "name": "SERIES",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "number"
           },
           {
             "name": "Value",
@@ -5049,12 +5049,12 @@
             }
           },
           {
-            "name": "UNIT_MEASURE",
+            "name": "SERIES",
             "type": "string"
           },
           {
-            "name": "SERIES",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "number"
           },
           {
             "name": "Value",
@@ -5105,12 +5105,12 @@
             }
           },
           {
-            "name": "UNIT_MEASURE",
+            "name": "SERIES",
             "type": "string"
           },
           {
-            "name": "SERIES",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "number"
           },
           {
             "name": "Value",
@@ -5173,12 +5173,12 @@
             }
           },
           {
-            "name": "UNIT_MEASURE",
+            "name": "SERIES",
             "type": "string"
           },
           {
-            "name": "SERIES",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "number"
           },
           {
             "name": "Value",
@@ -5228,12 +5228,12 @@
             }
           },
           {
-            "name": "UNIT_MEASURE",
+            "name": "SERIES",
             "type": "string"
           },
           {
-            "name": "SERIES",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "number"
           },
           {
             "name": "Value",
@@ -5293,12 +5293,12 @@
             }
           },
           {
-            "name": "UNIT_MEASURE",
+            "name": "SERIES",
             "type": "string"
           },
           {
-            "name": "SERIES",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "number"
           },
           {
             "name": "Value",
@@ -5350,12 +5350,12 @@
             }
           },
           {
-            "name": "UNIT_MEASURE",
+            "name": "SERIES",
             "type": "string"
           },
           {
-            "name": "SERIES",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "number"
           },
           {
             "name": "Value",
@@ -5395,12 +5395,12 @@
             }
           },
           {
-            "name": "UNIT_MEASURE",
+            "name": "SERIES",
             "type": "string"
           },
           {
-            "name": "SERIES",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "number"
           },
           {
             "name": "Value",
@@ -5460,12 +5460,12 @@
             }
           },
           {
-            "name": "UNIT_MEASURE",
+            "name": "SERIES",
             "type": "string"
           },
           {
-            "name": "SERIES",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "number"
           },
           {
             "name": "Value",
@@ -5537,12 +5537,12 @@
             }
           },
           {
-            "name": "UNIT_MEASURE",
+            "name": "SERIES",
             "type": "string"
           },
           {
-            "name": "SERIES",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "number"
           },
           {
             "name": "Value",
@@ -5592,12 +5592,12 @@
             }
           },
           {
-            "name": "UNIT_MEASURE",
+            "name": "SERIES",
             "type": "string"
           },
           {
-            "name": "SERIES",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "number"
           },
           {
             "name": "Value",
@@ -5675,12 +5675,12 @@
             }
           },
           {
-            "name": "UNIT_MEASURE",
+            "name": "SERIES",
             "type": "string"
           },
           {
-            "name": "SERIES",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "number"
           },
           {
             "name": "Value",
@@ -5754,12 +5754,12 @@
             }
           },
           {
-            "name": "UNIT_MEASURE",
+            "name": "SERIES",
             "type": "string"
           },
           {
-            "name": "SERIES",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "number"
           },
           {
             "name": "Value",
@@ -5795,12 +5795,12 @@
             }
           },
           {
-            "name": "UNIT_MEASURE",
+            "name": "SERIES",
             "type": "string"
           },
           {
-            "name": "SERIES",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "number"
           },
           {
             "name": "Value",
@@ -5856,12 +5856,12 @@
             }
           },
           {
-            "name": "UNIT_MEASURE",
+            "name": "SERIES",
             "type": "string"
           },
           {
-            "name": "SERIES",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "number"
           },
           {
             "name": "Value",
@@ -5920,12 +5920,12 @@
             }
           },
           {
-            "name": "UNIT_MEASURE",
+            "name": "SERIES",
             "type": "string"
           },
           {
-            "name": "SERIES",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "number"
           },
           {
             "name": "Value",
@@ -5997,12 +5997,12 @@
             }
           },
           {
-            "name": "UNIT_MEASURE",
+            "name": "SERIES",
             "type": "string"
           },
           {
-            "name": "SERIES",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "number"
           },
           {
             "name": "Value",
@@ -6056,12 +6056,12 @@
             }
           },
           {
-            "name": "UNIT_MEASURE",
+            "name": "SERIES",
             "type": "string"
           },
           {
-            "name": "SERIES",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "number"
           },
           {
             "name": "Value",
@@ -6125,12 +6125,12 @@
             }
           },
           {
-            "name": "UNIT_MEASURE",
+            "name": "SERIES",
             "type": "string"
           },
           {
-            "name": "SERIES",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "number"
           },
           {
             "name": "Value",
@@ -6169,12 +6169,12 @@
             }
           },
           {
-            "name": "UNIT_MEASURE",
+            "name": "SERIES",
             "type": "string"
           },
           {
-            "name": "SERIES",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "number"
           },
           {
             "name": "Value",
@@ -6246,12 +6246,12 @@
             }
           },
           {
-            "name": "UNIT_MEASURE",
+            "name": "SERIES",
             "type": "string"
           },
           {
-            "name": "SERIES",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "number"
           },
           {
             "name": "Value",
@@ -6295,12 +6295,12 @@
             }
           },
           {
-            "name": "UNIT_MEASURE",
+            "name": "SERIES",
             "type": "string"
           },
           {
-            "name": "SERIES",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "number"
           },
           {
             "name": "Value",
@@ -6354,12 +6354,12 @@
             }
           },
           {
-            "name": "UNIT_MEASURE",
+            "name": "SERIES",
             "type": "string"
           },
           {
-            "name": "SERIES",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "number"
           },
           {
             "name": "Value",
@@ -6413,12 +6413,12 @@
             }
           },
           {
-            "name": "UNIT_MEASURE",
+            "name": "SERIES",
             "type": "string"
           },
           {
-            "name": "SERIES",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "number"
           },
           {
             "name": "Value",
@@ -6457,12 +6457,12 @@
             }
           },
           {
-            "name": "UNIT_MEASURE",
+            "name": "SERIES",
             "type": "string"
           },
           {
-            "name": "SERIES",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "number"
           },
           {
             "name": "Value",
@@ -6518,12 +6518,12 @@
             }
           },
           {
-            "name": "UNIT_MEASURE",
+            "name": "SERIES",
             "type": "string"
           },
           {
-            "name": "SERIES",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "number"
           },
           {
             "name": "Value",
@@ -6604,12 +6604,12 @@
             }
           },
           {
-            "name": "UNIT_MEASURE",
+            "name": "SERIES",
             "type": "string"
           },
           {
-            "name": "SERIES",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "number"
           },
           {
             "name": "Value",
@@ -6663,12 +6663,12 @@
             }
           },
           {
-            "name": "UNIT_MEASURE",
+            "name": "SERIES",
             "type": "string"
           },
           {
-            "name": "SERIES",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "number"
           },
           {
             "name": "Value",
@@ -6704,11 +6704,11 @@
             }
           },
           {
-            "name": "UNIT_MEASURE",
-            "type": "string"
+            "name": "SERIES",
+            "type": "number"
           },
           {
-            "name": "SERIES",
+            "name": "UNIT_MEASURE",
             "type": "number"
           },
           {
@@ -6774,12 +6774,12 @@
             }
           },
           {
-            "name": "UNIT_MEASURE",
+            "name": "SERIES",
             "type": "string"
           },
           {
-            "name": "SERIES",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "number"
           },
           {
             "name": "Value",

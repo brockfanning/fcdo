@@ -68,14 +68,15 @@
               "enum": [
                 "",
                 "2010",
-                "2014"
+                "2014",
+                "2017"
               ]
             },
             "title": "TIME_DETAIL"
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "string",
+            "type": "number",
             "title": "UNIT_MEASURE"
           },
           {

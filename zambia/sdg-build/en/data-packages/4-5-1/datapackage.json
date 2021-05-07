@@ -98,7 +98,8 @@
             "constraints": {
               "enum": [
                 "",
-                "2016"
+                "2016",
+                "2017"
               ]
             },
             "title": "TIME_DETAIL"

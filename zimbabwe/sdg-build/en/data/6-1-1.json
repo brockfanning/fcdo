@@ -1,1 +1,1 @@
-{"Year":["2014","2015"],"SERIES":["SH_H2O_SAFE","SH_H2O_SAFE"],"REF_AREA":["716","716"],"SEX":["_T","_T"],"AGE":["_T","_T"],"URBANISATION":["_T","_T"],"UNIT_MEASURE":["PT","PT"],"UNIT_MULT":["0","0"],"TIME_DETAIL":["2014","2015"],"Value":[76.0,78.0]}
+{"Year":["2014","2015","2017"],"SERIES":["SH_H2O_SAFE","SH_H2O_SAFE","SH_H2O_SAFE"],"REF_AREA":["716","716","716"],"SEX":["_T","_T","_T"],"AGE":["_T","_T","_T"],"URBANISATION":["_T","_T","_T"],"UNIT_MEASURE":["PT","PT","PT"],"UNIT_MULT":["0","0","0"],"TIME_DETAIL":["2014","2015","2017"],"Value":[76.0,78.0,78.3]}

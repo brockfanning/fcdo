@@ -1,5 +1,5 @@
-Year,International agreements,TIME_DETAIL,UNIT_MEASURE,SERIES,Value
-2015,Compliance with the Montreal Protocol on hazardous waste and other chemicals,2015,NUMBER,SG_HAZ_CMRBASEL,100.0
-2015,Compliance with the Rotterdam Convention on hazardous waste and other chemicals,2015,NUMBER,SG_HAZ_CMRBASEL,84.31
-2015,Compliance with the Stockholm Convention on hazardous waste and other chemicals,2015,NUMBER,SG_HAZ_CMRBASEL,33.33
-2015,Compliance with the Basel Convention on hazardous waste and other chemicals,2015,NUMBER,SG_HAZ_CMRBASEL,16.67
+Year,International agreements,TIME_DETAIL,SERIES,UNIT_MEASURE,Value
+2015,Compliance with the Montreal Protocol on hazardous waste and other chemicals,2015,SG_HAZ_CMRBASEL,,100.0
+2015,Compliance with the Rotterdam Convention on hazardous waste and other chemicals,2015,SG_HAZ_CMRBASEL,,84.31
+2015,Compliance with the Stockholm Convention on hazardous waste and other chemicals,2015,SG_HAZ_CMRBASEL,,33.33
+2015,Compliance with the Basel Convention on hazardous waste and other chemicals,2015,SG_HAZ_CMRBASEL,,16.67

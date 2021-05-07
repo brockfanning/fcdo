@@ -1,1 +1,1 @@
-{"Year":["2014"],"SERIES":["SL_ISV_IFRM"],"REF_AREA":["716"],"SEX":["_T"],"AGE":["_T"],"URBANISATION":["_T"],"UNIT_MEASURE":["PT"],"UNIT_MULT":["0"],"TIME_DETAIL":["2014"],"Value":[50.0]}
+{"Year":["2014","2017"],"SERIES":["SL_ISV_IFRM","SL_ISV_IFRM"],"REF_AREA":["716","716"],"SEX":["_T","_T"],"AGE":["_T","_T"],"URBANISATION":["_T","_T"],"UNIT_MEASURE":["PT","PT"],"UNIT_MULT":["0","0"],"TIME_DETAIL":["2014","2017"],"Value":[50.0,38.9]}

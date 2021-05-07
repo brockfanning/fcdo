@@ -1,1 +1,1 @@
-{"Year":["2015"],"SERIES":["SH_STA_STUNT"],"REF_AREA":["716"],"SEX":["_T"],"AGE":["_T"],"URBANISATION":["_T"],"UNIT_MEASURE":["PT"],"UNIT_MULT":["0"],"TIME_DETAIL":["2015"],"Value":[26.8]}
+{"Year":["2015","2019"],"SERIES":["SH_STA_STUNT","SH_STA_STUNT"],"REF_AREA":["716","716"],"SEX":["_T","_T"],"AGE":["_T","_T"],"URBANISATION":["_T","_T"],"UNIT_MEASURE":["PT","PT"],"UNIT_MULT":["0","0"],"TIME_DETAIL":["2015","2019"],"Value":[26.8,23.5]}

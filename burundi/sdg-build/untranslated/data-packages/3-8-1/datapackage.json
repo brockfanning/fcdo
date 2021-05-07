@@ -72,7 +72,7 @@
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "string"
+            "type": "number"
           },
           {
             "name": "UNIT_MULT",
@@ -90,6 +90,7 @@
             "constraints": {
               "enum": [
                 "2010",
+                "2017",
                 ""
               ]
             }

@@ -100,7 +100,8 @@
             "constraints": {
               "enum": [
                 "",
-                "2010"
+                "2010",
+                "2015"
               ]
             },
             "title": "TIME_DETAIL"
@@ -244,7 +245,8 @@
             "constraints": {
               "enum": [
                 "",
-                "2010"
+                "2010",
+                "2015"
               ]
             },
             "title": "TIME_DETAIL"
@@ -389,7 +391,8 @@
               "enum": [
                 "",
                 "2010",
-                "2015"
+                "2015",
+                "2016"
               ]
             },
             "title": "TIME_DETAIL"
@@ -534,7 +537,8 @@
               "enum": [
                 "",
                 "2016",
-                "2017"
+                "2017",
+                "2018"
               ]
             },
             "title": "TIME_DETAIL"
@@ -680,7 +684,8 @@
             "constraints": {
               "enum": [
                 "",
-                "2015"
+                "2015",
+                "2016"
               ]
             },
             "title": "TIME_DETAIL"
@@ -826,7 +831,8 @@
                 "",
                 "2015",
                 "2016",
-                "2017"
+                "2017",
+                "2018"
               ]
             },
             "title": "TIME_DETAIL"
@@ -1258,7 +1264,8 @@
             "constraints": {
               "enum": [
                 "",
-                "2016"
+                "2016",
+                "2017"
               ]
             },
             "title": "TIME_DETAIL"
@@ -2268,7 +2275,8 @@
             "constraints": {
               "enum": [
                 "",
-                "2016"
+                "2016",
+                "2017"
               ]
             },
             "title": "TIME_DETAIL"
@@ -2412,7 +2420,8 @@
             "constraints": {
               "enum": [
                 "",
-                "2016"
+                "2016",
+                "2017"
               ]
             },
             "title": "TIME_DETAIL"
@@ -2556,7 +2565,8 @@
             "constraints": {
               "enum": [
                 "",
-                "2016"
+                "2016",
+                "2017"
               ]
             },
             "title": "TIME_DETAIL"
@@ -2700,7 +2710,8 @@
             "constraints": {
               "enum": [
                 "",
-                "2016"
+                "2016",
+                "2017"
               ]
             },
             "title": "TIME_DETAIL"
@@ -3134,7 +3145,8 @@
               "enum": [
                 "",
                 "2016",
-                "2017"
+                "2017",
+                "2018"
               ]
             },
             "title": "TIME_DETAIL"
@@ -3571,7 +3583,8 @@
             "constraints": {
               "enum": [
                 "",
-                "2016"
+                "2016",
+                "2017"
               ]
             },
             "title": "TIME_DETAIL"
@@ -3715,7 +3728,8 @@
             "constraints": {
               "enum": [
                 "",
-                "2016"
+                "2016",
+                "2017"
               ]
             },
             "title": "TIME_DETAIL"
@@ -3862,7 +3876,8 @@
                 "2015",
                 "2016",
                 "2017",
-                "2018"
+                "2018",
+                "2019"
               ]
             },
             "title": "TIME_DETAIL"
@@ -4153,7 +4168,8 @@
                 "2015",
                 "2016",
                 "2017",
-                "2018"
+                "2018",
+                "2019"
               ]
             },
             "title": "TIME_DETAIL"
@@ -4729,7 +4745,8 @@
             "constraints": {
               "enum": [
                 "",
-                "2016"
+                "2016",
+                "2017"
               ]
             },
             "title": "TIME_DETAIL"
@@ -4873,14 +4890,15 @@
             "constraints": {
               "enum": [
                 "",
-                "2016"
+                "2016",
+                "2017"
               ]
             },
             "title": "TIME_DETAIL"
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "string",
+            "type": "number",
             "title": "UNIT_MEASURE"
           },
           {
@@ -5024,7 +5042,7 @@
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "string",
+            "type": "number",
             "title": "UNIT_MEASURE"
           },
           {
@@ -5309,7 +5327,8 @@
             "constraints": {
               "enum": [
                 "",
-                "2016"
+                "2016",
+                "2017"
               ]
             },
             "title": "TIME_DETAIL"
@@ -6070,7 +6089,8 @@
             "constraints": {
               "enum": [
                 "",
-                "2016"
+                "2016",
+                "2017"
               ]
             },
             "title": "TIME_DETAIL"
@@ -6369,7 +6389,7 @@
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "string",
+            "type": "number",
             "title": "UNIT_MEASURE"
           },
           {
@@ -6650,14 +6670,15 @@
             "constraints": {
               "enum": [
                 "",
-                "2016"
+                "2016",
+                "2017"
               ]
             },
             "title": "TIME_DETAIL"
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "string",
+            "type": "number",
             "title": "UNIT_MEASURE"
           },
           {
@@ -6794,7 +6815,8 @@
             "constraints": {
               "enum": [
                 "",
-                "2016"
+                "2016",
+                "2017"
               ]
             },
             "title": "TIME_DETAIL"
@@ -7082,7 +7104,8 @@
             "constraints": {
               "enum": [
                 "",
-                "2016"
+                "2016",
+                "2017"
               ]
             },
             "title": "TIME_DETAIL"
@@ -7370,14 +7393,15 @@
             "constraints": {
               "enum": [
                 "",
-                "2016"
+                "2016",
+                "2017"
               ]
             },
             "title": "TIME_DETAIL"
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "string",
+            "type": "number",
             "title": "UNIT_MEASURE"
           },
           {
@@ -7514,7 +7538,8 @@
             "constraints": {
               "enum": [
                 "",
-                "2016"
+                "2016",
+                "2017"
               ]
             },
             "title": "TIME_DETAIL"
@@ -7658,14 +7683,15 @@
             "constraints": {
               "enum": [
                 "",
-                "2016"
+                "2016",
+                "2017"
               ]
             },
             "title": "TIME_DETAIL"
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "string",
+            "type": "number",
             "title": "UNIT_MEASURE"
           },
           {
@@ -8234,7 +8260,8 @@
             "constraints": {
               "enum": [
                 "",
-                "2016"
+                "2016",
+                "2017"
               ]
             },
             "title": "TIME_DETAIL"
@@ -8522,7 +8549,8 @@
             "constraints": {
               "enum": [
                 "",
-                "2016"
+                "2016",
+                "2017"
               ]
             },
             "title": "TIME_DETAIL"
@@ -8666,7 +8694,8 @@
             "constraints": {
               "enum": [
                 "",
-                "2016"
+                "2016",
+                "2017"
               ]
             },
             "title": "TIME_DETAIL"
@@ -8810,7 +8839,8 @@
             "constraints": {
               "enum": [
                 "",
-                "2016"
+                "2016",
+                "2017"
               ]
             },
             "title": "TIME_DETAIL"
@@ -8954,7 +8984,8 @@
             "constraints": {
               "enum": [
                 "",
-                "2016"
+                "2016",
+                "2017"
               ]
             },
             "title": "TIME_DETAIL"
@@ -9098,7 +9129,8 @@
             "constraints": {
               "enum": [
                 "",
-                "2016"
+                "2016",
+                "2017"
               ]
             },
             "title": "TIME_DETAIL"
@@ -9242,7 +9274,8 @@
             "constraints": {
               "enum": [
                 "",
-                "2016"
+                "2016",
+                "2017"
               ]
             },
             "title": "TIME_DETAIL"
@@ -9386,7 +9419,8 @@
             "constraints": {
               "enum": [
                 "",
-                "2015"
+                "2015",
+                "2018"
               ]
             },
             "title": "TIME_DETAIL"

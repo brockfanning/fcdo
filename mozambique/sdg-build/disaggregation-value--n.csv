@@ -1,5 +1,5 @@
 Indicator,Disaggregation combinations using this value
-#1-a-MZ_1,4
+#1-a-MZ_1,6
 #16-3-MZ_1,1
 #16-3-MZ_2,1
 #16-3-MZ_3,1
@@ -7,14 +7,14 @@ Indicator,Disaggregation combinations using this value
 #17-3-MZ_1,1
 #2-1-MZ_1,1
 #2-1-MZ_2,2
-#2-4-MZ_1,1
-#2-a-MZ_1,3
-#3-2-MZ_1,1
+#2-4-MZ_1,2
+#2-a-MZ_1,4
+#3-2-MZ_1,2
 #4-1-MZ_1,6
-#4-1-MZ_2,96
-#4-1-MZ_3,112
-#4-1-MZ_4,126
-#4-1-MZ_5,56
+#4-1-MZ_2,120
+#4-1-MZ_3,140
+#4-1-MZ_4,168
+#4-1-MZ_5,70
 #4-3-MZ_1,1
 #4-3-MZ_2,1
 #4-3-MZ_3,1
@@ -22,10 +22,10 @@ Indicator,Disaggregation combinations using this value
 #4-3-MZ_5,1
 #4-6-MZ_2,1
 #4-6-MZ_3,1
-#4-a-MZ_1,36
-#4-a-MZ_2,48
+#4-a-MZ_1,48
+#4-a-MZ_2,60
 #4-c-MZ_1,1
-#6-3-MZ_1,4
-#8-10-MZ_1,2
-#8-8-MZ_1,12
-#8-8-MZ_2,4
+#6-3-MZ_1,5
+#8-10-MZ_1,3
+#8-8-MZ_1,15
+#8-8-MZ_2,5
