@@ -4,8 +4,6 @@ import shutil
 import yaml
 from sdg import helpers
 import pandas as pd
-pd.options.mode.chained_assignment = None
-
 
 def is_country_afdb(country):
     return country in [
@@ -33,6 +31,7 @@ def fix_time_period(x):
 
 def set_time_detail(df):
     if 'TIME_DETAIL' not in df.columns.to_list():
+        df = df.copy()
         df['TIME_DETAIL'] = df['Year']
     df['Year'] = df['Year'].apply(fix_time_period)
     return df
@@ -58,7 +57,6 @@ def columns_to_drop(country):
 
 
 def drop_columns(df, country):
-    df = set_time_detail(df)
     columns_in_data = df.columns.to_list()
     for column in columns_to_drop(country):
         if column in columns_in_data:
@@ -77,7 +75,7 @@ def set_series_and_unit(df, context):
         if row['UNIT_MEASURE'] == '':
             series = row['SERIES']
             unit = helpers.sdmx.get_unit_code_from_series_code(series)
-            row['UNIT_MEASURE'] = unit
+            df.at[index, 'UNIT_MEASURE'] = unit
     return df
 
 
@@ -117,6 +115,7 @@ def alter_data_jordan(df, context):
     }
     df = df.rename(columns=column_fixes)
     df = apply_complex_mappings(df, 'jordan')
+    df = set_time_detail(df)
     df = drop_columns(df, 'jordan')
     df = set_series_and_unit(df, context)
     return df
@@ -128,6 +127,7 @@ def alter_data_palestine(df, context):
         'السنة': 'Year',
     }
     df = df.rename(columns=column_fixes)
+    df = set_time_detail(df)
     df = drop_columns(df, 'palestine')
     df = set_series_and_unit(df, context)
     return df
@@ -135,31 +135,37 @@ def alter_data_palestine(df, context):
 
 def alter_data_burundi(df, context):
     df = set_series_and_unit(df, context)
+    df = set_time_detail(df)
     return drop_columns(df, 'burundi')
 
 
 def alter_data_ethiopia(df, context):
     df = set_series_and_unit(df, context)
+    df = set_time_detail(df)
     return drop_columns(df, 'ethiopia')
 
 
 def alter_data_mozambique(df, context):
     df = set_series_and_unit(df, context)
+    df = set_time_detail(df)
     return drop_columns(df, 'mozambique')
 
 
 def alter_data_uganda(df, context):
     df = set_series_and_unit(df, context)
+    df = set_time_detail(df)
     return drop_columns(df, 'uganda')
 
 
 def alter_data_zambia(df, context):
     df = set_series_and_unit(df, context)
+    df = set_time_detail(df)
     return drop_columns(df, 'zambia')
 
 
 def alter_data_zimbabwe(df, context):
     df = set_series_and_unit(df, context)
+    df = set_time_detail(df)
     return drop_columns(df, 'zimbabwe')
 
 
