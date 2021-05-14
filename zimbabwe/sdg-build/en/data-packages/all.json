@@ -370,7 +370,7 @@
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "number",
+            "type": "string",
             "title": "UNIT_MEASURE"
           },
           {
@@ -4936,7 +4936,7 @@
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "number",
+            "type": "string",
             "title": "UNIT_MEASURE"
           },
           {
@@ -6256,7 +6256,7 @@
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "number",
+            "type": "string",
             "title": "UNIT_MEASURE"
           },
           {
@@ -6356,7 +6356,7 @@
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "number",
+            "type": "string",
             "title": "UNIT_MEASURE"
           },
           {
@@ -6766,7 +6766,7 @@
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "number",
+            "type": "string",
             "title": "UNIT_MEASURE"
           },
           {

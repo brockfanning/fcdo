@@ -36,7 +36,7 @@
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "number"
+            "type": "string"
           },
           {
             "name": "Value",
@@ -102,7 +102,7 @@
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "number"
+            "type": "string"
           },
           {
             "name": "Value",
@@ -164,7 +164,7 @@
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "number"
+            "type": "string"
           },
           {
             "name": "Value",
@@ -224,7 +224,7 @@
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "number"
+            "type": "string"
           },
           {
             "name": "Value",
@@ -274,7 +274,7 @@
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "number"
+            "type": "string"
           },
           {
             "name": "Value",
@@ -326,7 +326,7 @@
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "number"
+            "type": "string"
           },
           {
             "name": "Value",
@@ -381,7 +381,7 @@
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "number"
+            "type": "string"
           },
           {
             "name": "Value",
@@ -435,7 +435,7 @@
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "number"
+            "type": "string"
           },
           {
             "name": "Value",
@@ -489,7 +489,7 @@
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "number"
+            "type": "string"
           },
           {
             "name": "Value",
@@ -544,7 +544,7 @@
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "number"
+            "type": "string"
           },
           {
             "name": "Value",
@@ -598,7 +598,7 @@
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "number"
+            "type": "string"
           },
           {
             "name": "Value",
@@ -660,7 +660,7 @@
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "number"
+            "type": "string"
           },
           {
             "name": "Value",
@@ -713,7 +713,7 @@
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "number"
+            "type": "string"
           },
           {
             "name": "Value",
@@ -767,7 +767,7 @@
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "number"
+            "type": "string"
           },
           {
             "name": "Value",
@@ -821,7 +821,7 @@
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "number"
+            "type": "string"
           },
           {
             "name": "Value",
@@ -875,7 +875,7 @@
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "number"
+            "type": "string"
           },
           {
             "name": "Value",
@@ -928,7 +928,7 @@
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "number"
+            "type": "string"
           },
           {
             "name": "Value",
@@ -987,7 +987,7 @@
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "number"
+            "type": "string"
           },
           {
             "name": "Value",
@@ -1039,7 +1039,7 @@
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "number"
+            "type": "string"
           },
           {
             "name": "Value",
@@ -1091,7 +1091,7 @@
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "number"
+            "type": "string"
           },
           {
             "name": "Value",
@@ -1146,7 +1146,7 @@
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "number"
+            "type": "string"
           },
           {
             "name": "Value",
@@ -1211,7 +1211,7 @@
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "number"
+            "type": "string"
           },
           {
             "name": "Value",
@@ -1264,7 +1264,7 @@
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "number"
+            "type": "string"
           },
           {
             "name": "Value",
@@ -1332,7 +1332,7 @@
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "number"
+            "type": "string"
           },
           {
             "name": "Value",
@@ -1388,7 +1388,7 @@
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "number"
+            "type": "string"
           },
           {
             "name": "Value",
@@ -1502,7 +1502,7 @@
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "number"
+            "type": "string"
           },
           {
             "name": "Value",
@@ -1542,7 +1542,7 @@
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "number"
+            "type": "string"
           },
           {
             "name": "Value",
@@ -1646,7 +1646,7 @@
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "number"
+            "type": "string"
           },
           {
             "name": "Value",
@@ -1690,7 +1690,7 @@
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "number"
+            "type": "string"
           },
           {
             "name": "Value",
@@ -1730,7 +1730,7 @@
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "number"
+            "type": "string"
           },
           {
             "name": "Value",
@@ -1770,7 +1770,7 @@
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "number"
+            "type": "string"
           },
           {
             "name": "Value",
@@ -1810,7 +1810,7 @@
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "number"
+            "type": "string"
           },
           {
             "name": "Value",
@@ -1850,7 +1850,7 @@
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "number"
+            "type": "string"
           },
           {
             "name": "Value",
@@ -1890,7 +1890,7 @@
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "number"
+            "type": "string"
           },
           {
             "name": "Value",
@@ -1930,7 +1930,7 @@
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "number"
+            "type": "string"
           },
           {
             "name": "Value",
@@ -1970,7 +1970,7 @@
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "number"
+            "type": "string"
           },
           {
             "name": "Value",
@@ -2010,7 +2010,7 @@
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "number"
+            "type": "string"
           },
           {
             "name": "Value",
@@ -2063,7 +2063,7 @@
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "number"
+            "type": "string"
           },
           {
             "name": "Value",
@@ -2116,7 +2116,7 @@
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "number"
+            "type": "string"
           },
           {
             "name": "Value",
@@ -2181,7 +2181,7 @@
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "number"
+            "type": "string"
           },
           {
             "name": "Value",
@@ -2221,7 +2221,7 @@
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "number"
+            "type": "string"
           },
           {
             "name": "Value",
@@ -2277,7 +2277,7 @@
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "number"
+            "type": "string"
           },
           {
             "name": "Value",
@@ -2319,7 +2319,7 @@
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "number"
+            "type": "string"
           },
           {
             "name": "Value",
@@ -2361,7 +2361,7 @@
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "number"
+            "type": "string"
           },
           {
             "name": "Value",
@@ -2405,7 +2405,7 @@
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "number"
+            "type": "string"
           },
           {
             "name": "Value",
@@ -2449,7 +2449,7 @@
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "number"
+            "type": "string"
           },
           {
             "name": "Value",
@@ -2505,7 +2505,7 @@
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "number"
+            "type": "string"
           },
           {
             "name": "Value",
@@ -2548,7 +2548,7 @@
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "number"
+            "type": "string"
           },
           {
             "name": "Value",
@@ -2599,7 +2599,7 @@
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "number"
+            "type": "string"
           },
           {
             "name": "Value",
@@ -2649,7 +2649,7 @@
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "number"
+            "type": "string"
           },
           {
             "name": "Value",
@@ -2701,7 +2701,7 @@
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "number"
+            "type": "string"
           },
           {
             "name": "Value",
@@ -2754,7 +2754,7 @@
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "number"
+            "type": "string"
           },
           {
             "name": "Value",
@@ -2807,7 +2807,7 @@
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "number"
+            "type": "string"
           },
           {
             "name": "Value",
@@ -2859,7 +2859,7 @@
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "number"
+            "type": "string"
           },
           {
             "name": "Value",
@@ -2910,7 +2910,7 @@
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "number"
+            "type": "string"
           },
           {
             "name": "Value",
@@ -2954,7 +2954,7 @@
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "number"
+            "type": "string"
           },
           {
             "name": "Value",
@@ -2996,7 +2996,7 @@
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "number"
+            "type": "string"
           },
           {
             "name": "Value",
@@ -3036,7 +3036,7 @@
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "number"
+            "type": "string"
           },
           {
             "name": "Value",
@@ -3080,7 +3080,7 @@
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "number"
+            "type": "string"
           },
           {
             "name": "Value",
@@ -3123,7 +3123,7 @@
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "number"
+            "type": "string"
           },
           {
             "name": "Value",
@@ -3166,7 +3166,7 @@
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "number"
+            "type": "string"
           },
           {
             "name": "Value",
@@ -3234,7 +3234,7 @@
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "number"
+            "type": "string"
           },
           {
             "name": "Value",
@@ -3287,7 +3287,7 @@
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "number"
+            "type": "string"
           },
           {
             "name": "Value",
@@ -3337,7 +3337,7 @@
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "number"
+            "type": "string"
           },
           {
             "name": "Value",
@@ -3381,7 +3381,7 @@
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "number"
+            "type": "string"
           },
           {
             "name": "Value",
@@ -3424,7 +3424,7 @@
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "number"
+            "type": "string"
           },
           {
             "name": "Value",
@@ -3467,7 +3467,7 @@
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "number"
+            "type": "string"
           },
           {
             "name": "Value",
@@ -3565,7 +3565,7 @@
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "number"
+            "type": "string"
           },
           {
             "name": "Value",
@@ -3608,7 +3608,7 @@
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "number"
+            "type": "string"
           },
           {
             "name": "Value",

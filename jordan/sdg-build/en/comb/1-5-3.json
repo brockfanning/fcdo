@@ -1,1 +1,1 @@
-{"data":{"Year":["2018"],"Sub-indicator":["Score of adoption and implementation of national DRR strategies in line with the Sendai Framework"],"TIME_DETAIL":["2018"],"SERIES":["SG_DSR_SFDRR"],"UNIT_MEASURE":[null],"Value":[0]},"edges":{"From":["Sub-indicator"],"To":["TIME_DETAIL"]}}
+{"data":{"Year":["2018"],"Sub-indicator":["Score of adoption and implementation of national DRR strategies in line with the Sendai Framework"],"TIME_DETAIL":["2018"],"SERIES":["SG_DSR_SFDRR"],"UNIT_MEASURE":["NUMBER"],"Value":[0]},"edges":{"From":["Sub-indicator"],"To":["TIME_DETAIL"]}}

@@ -1,11 +1,14 @@
 Value,Disaggregation combinations using this value,Number of indicators
 Constant USD,1,1
 Index,3,2
+NUMBER,17,3
 Number,2,2
 "per 1,000 live births",5,2
 "per 1,000 population",7,2
 "per 100,000 employees",1,1
 "per 100,000 live births",3,1
 "per 100,000 population",7,3
+PH,1,1
 PT,147,58
+RO,6,1
 tonne kilometres,1,1

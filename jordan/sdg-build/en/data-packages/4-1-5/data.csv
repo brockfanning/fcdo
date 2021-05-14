@@ -1,5 +1,5 @@
 Year,Grade,Subject,TIME_DETAIL,SERIES,UNIT_MEASURE,Value
-2016,Grade 4,Mathematics,2016,,,389.0
-2016,Grade 4,Sciences,2016,,,
-2016,Grade 8,Mathematics,2016,,,386.0
-2016,Grade 8,Sciences,2016,,,426.0
+2016,Grade 4,Mathematics,2016,,NUMBER,389.0
+2016,Grade 4,Sciences,2016,,NUMBER,
+2016,Grade 8,Mathematics,2016,,NUMBER,386.0
+2016,Grade 8,Sciences,2016,,NUMBER,426.0

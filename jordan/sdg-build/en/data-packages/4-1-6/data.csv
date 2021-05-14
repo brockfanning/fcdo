@@ -1,7 +1,7 @@
 Year,Subject,TIME_DETAIL,SERIES,UNIT_MEASURE,Value
-2018,Mathematics,2018,,,400
-2018,Sciences,2018,,,429
-2018,Literacy,2018,,,419
-2016,Mathematics,2016,,,380
-2016,Sciences,2016,,,409
-2016,Literacy,2016,,,408
+2018,Mathematics,2018,,NUMBER,400
+2018,Sciences,2018,,NUMBER,429
+2018,Literacy,2018,,NUMBER,419
+2016,Mathematics,2016,,NUMBER,380
+2016,Sciences,2016,,NUMBER,409
+2016,Literacy,2016,,NUMBER,408
