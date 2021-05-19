@@ -109,7 +109,7 @@
             "constraints": {
               "enum": [
                 "",
-                "508"
+                "MZ"
               ]
             },
             "title": "REF_AREA"
@@ -304,7 +304,7 @@
             "constraints": {
               "enum": [
                 "",
-                "508",
+                "MZ",
                 "MZ-A",
                 "MZ-B",
                 "MZ-G",
@@ -514,7 +514,7 @@
             "constraints": {
               "enum": [
                 "",
-                "508"
+                "MZ"
               ]
             },
             "title": "REF_AREA"
@@ -684,7 +684,7 @@
             "constraints": {
               "enum": [
                 "",
-                "508"
+                "MZ"
               ]
             },
             "title": "REF_AREA"
@@ -854,7 +854,7 @@
             "constraints": {
               "enum": [
                 "",
-                "508"
+                "MZ"
               ]
             },
             "title": "REF_AREA"
@@ -1023,7 +1023,7 @@
             "constraints": {
               "enum": [
                 "",
-                "508"
+                "MZ"
               ]
             },
             "title": "REF_AREA"
@@ -1191,7 +1191,7 @@
             "constraints": {
               "enum": [
                 "",
-                "508"
+                "MZ"
               ]
             },
             "title": "REF_AREA"
@@ -1360,7 +1360,7 @@
             "constraints": {
               "enum": [
                 "",
-                "508",
+                "MZ",
                 "MZ-A",
                 "MZ-B",
                 "MZ-G",
@@ -1539,7 +1539,7 @@
             "constraints": {
               "enum": [
                 "",
-                "508",
+                "MZ",
                 "MZ-A",
                 "MZ-B",
                 "MZ-G",
@@ -1718,7 +1718,7 @@
             "constraints": {
               "enum": [
                 "",
-                "508"
+                "MZ"
               ]
             },
             "title": "REF_AREA"
@@ -1888,7 +1888,7 @@
             "constraints": {
               "enum": [
                 "",
-                "508"
+                "MZ"
               ]
             },
             "title": "REF_AREA"
@@ -2054,7 +2054,7 @@
             "constraints": {
               "enum": [
                 "",
-                "508"
+                "MZ"
               ]
             },
             "title": "REF_AREA"
@@ -2221,7 +2221,7 @@
             "constraints": {
               "enum": [
                 "",
-                "508",
+                "MZ",
                 "MZ-A",
                 "MZ-B",
                 "MZ-G",
@@ -2401,7 +2401,7 @@
             "constraints": {
               "enum": [
                 "",
-                "508"
+                "MZ"
               ]
             },
             "title": "REF_AREA"
@@ -2568,7 +2568,7 @@
             "constraints": {
               "enum": [
                 "",
-                "508"
+                "MZ"
               ]
             },
             "title": "REF_AREA"
@@ -2734,7 +2734,7 @@
             "constraints": {
               "enum": [
                 "",
-                "508"
+                "MZ"
               ]
             },
             "title": "REF_AREA"
@@ -2900,7 +2900,7 @@
             "constraints": {
               "enum": [
                 "",
-                "508"
+                "MZ"
               ]
             },
             "title": "REF_AREA"
@@ -3071,7 +3071,7 @@
             "constraints": {
               "enum": [
                 "",
-                "508"
+                "MZ"
               ]
             },
             "title": "REF_AREA"
@@ -3237,7 +3237,7 @@
             "constraints": {
               "enum": [
                 "",
-                "508",
+                "MZ",
                 "MZ-A",
                 "MZ-B",
                 "MZ-G",
@@ -3418,7 +3418,7 @@
             "constraints": {
               "enum": [
                 "",
-                "508"
+                "MZ"
               ]
             },
             "title": "REF_AREA"
@@ -3585,7 +3585,7 @@
             "constraints": {
               "enum": [
                 "",
-                "508"
+                "MZ"
               ]
             },
             "title": "REF_AREA"
@@ -3751,7 +3751,7 @@
             "constraints": {
               "enum": [
                 "",
-                "508"
+                "MZ"
               ]
             },
             "title": "REF_AREA"
@@ -3921,7 +3921,7 @@
             "constraints": {
               "enum": [
                 "",
-                "508"
+                "MZ"
               ]
             },
             "title": "REF_AREA"
@@ -4087,7 +4087,7 @@
             "constraints": {
               "enum": [
                 "",
-                "508"
+                "MZ"
               ]
             },
             "title": "REF_AREA"
@@ -4254,7 +4254,7 @@
             "constraints": {
               "enum": [
                 "",
-                "508",
+                "MZ",
                 "MZ-A",
                 "MZ-B",
                 "MZ-G",
@@ -4435,7 +4435,7 @@
             "constraints": {
               "enum": [
                 "",
-                "508"
+                "MZ"
               ]
             },
             "title": "REF_AREA"
@@ -4612,7 +4612,7 @@
             "constraints": {
               "enum": [
                 "",
-                "508",
+                "MZ",
                 "MZ-A",
                 "MZ-B",
                 "MZ-G",
@@ -4791,7 +4791,7 @@
             "constraints": {
               "enum": [
                 "",
-                "508"
+                "MZ"
               ]
             },
             "title": "REF_AREA"
@@ -4958,7 +4958,7 @@
             "constraints": {
               "enum": [
                 "",
-                "508"
+                "MZ"
               ]
             },
             "title": "REF_AREA"
@@ -5124,7 +5124,7 @@
             "constraints": {
               "enum": [
                 "",
-                "508"
+                "MZ"
               ]
             },
             "title": "REF_AREA"
@@ -5290,7 +5290,7 @@
             "constraints": {
               "enum": [
                 "",
-                "508",
+                "MZ",
                 "MZ-A",
                 "MZ-B",
                 "MZ-G",
@@ -5471,7 +5471,7 @@
             "constraints": {
               "enum": [
                 "",
-                "508",
+                "MZ",
                 "MZ-A",
                 "MZ-B",
                 "MZ-G",
@@ -5651,7 +5651,7 @@
             "constraints": {
               "enum": [
                 "",
-                "508",
+                "MZ",
                 "MZ-A",
                 "MZ-B",
                 "MZ-G",
@@ -5831,7 +5831,7 @@
             "constraints": {
               "enum": [
                 "",
-                "508"
+                "MZ"
               ]
             },
             "title": "REF_AREA"
@@ -5999,7 +5999,7 @@
             "constraints": {
               "enum": [
                 "",
-                "508"
+                "MZ"
               ]
             },
             "title": "REF_AREA"
@@ -6165,7 +6165,7 @@
             "constraints": {
               "enum": [
                 "",
-                "508"
+                "MZ"
               ]
             },
             "title": "REF_AREA"
@@ -6333,7 +6333,7 @@
             "constraints": {
               "enum": [
                 "",
-                "508",
+                "MZ",
                 "MZ-A",
                 "MZ-B",
                 "MZ-G",
@@ -6513,7 +6513,7 @@
             "constraints": {
               "enum": [
                 "",
-                "508"
+                "MZ"
               ]
             },
             "title": "REF_AREA"
@@ -6682,7 +6682,7 @@
             "constraints": {
               "enum": [
                 "",
-                "508"
+                "MZ"
               ]
             },
             "title": "REF_AREA"
@@ -6864,7 +6864,7 @@
             "constraints": {
               "enum": [
                 "",
-                "508"
+                "MZ"
               ]
             },
             "title": "REF_AREA"
@@ -7032,7 +7032,7 @@
             "constraints": {
               "enum": [
                 "",
-                "508"
+                "MZ"
               ]
             },
             "title": "REF_AREA"
@@ -7200,7 +7200,7 @@
             "constraints": {
               "enum": [
                 "",
-                "508"
+                "MZ"
               ]
             },
             "title": "REF_AREA"
@@ -7371,7 +7371,7 @@
             "constraints": {
               "enum": [
                 "",
-                "508"
+                "MZ"
               ]
             },
             "title": "REF_AREA"
@@ -7540,7 +7540,7 @@
             "constraints": {
               "enum": [
                 "",
-                "508"
+                "MZ"
               ]
             },
             "title": "REF_AREA"
@@ -7711,7 +7711,7 @@
             "constraints": {
               "enum": [
                 "",
-                "508"
+                "MZ"
               ]
             },
             "title": "REF_AREA"
@@ -7879,7 +7879,7 @@
             "constraints": {
               "enum": [
                 "",
-                "508"
+                "MZ"
               ]
             },
             "title": "REF_AREA"
@@ -8047,7 +8047,7 @@
             "constraints": {
               "enum": [
                 "",
-                "508"
+                "MZ"
               ]
             },
             "title": "REF_AREA"
@@ -8230,7 +8230,7 @@
             "constraints": {
               "enum": [
                 "",
-                "508"
+                "MZ"
               ]
             },
             "title": "REF_AREA"
@@ -8398,7 +8398,7 @@
             "constraints": {
               "enum": [
                 "",
-                "508"
+                "MZ"
               ]
             },
             "title": "REF_AREA"
@@ -8569,7 +8569,7 @@
             "constraints": {
               "enum": [
                 "",
-                "508"
+                "MZ"
               ]
             },
             "title": "REF_AREA"
@@ -8735,7 +8735,7 @@
             "constraints": {
               "enum": [
                 "",
-                "508"
+                "MZ"
               ]
             },
             "title": "REF_AREA"
@@ -8901,7 +8901,7 @@
             "constraints": {
               "enum": [
                 "",
-                "508"
+                "MZ"
               ]
             },
             "title": "REF_AREA"
@@ -9074,7 +9074,7 @@
             "constraints": {
               "enum": [
                 "",
-                "508",
+                "MZ",
                 "MZ-A",
                 "MZ-B",
                 "MZ-G",
@@ -9262,7 +9262,7 @@
             "constraints": {
               "enum": [
                 "",
-                "508"
+                "MZ"
               ]
             },
             "title": "REF_AREA"
@@ -9430,7 +9430,7 @@
             "constraints": {
               "enum": [
                 "",
-                "508"
+                "MZ"
               ]
             },
             "title": "REF_AREA"
@@ -9598,7 +9598,7 @@
             "constraints": {
               "enum": [
                 "",
-                "508"
+                "MZ"
               ]
             },
             "title": "REF_AREA"
@@ -9764,7 +9764,7 @@
             "constraints": {
               "enum": [
                 "",
-                "508"
+                "MZ"
               ]
             },
             "title": "REF_AREA"
@@ -9938,7 +9938,7 @@
             "constraints": {
               "enum": [
                 "",
-                "508"
+                "MZ"
               ]
             },
             "title": "REF_AREA"
@@ -10105,7 +10105,7 @@
             "constraints": {
               "enum": [
                 "",
-                "508"
+                "MZ"
               ]
             },
             "title": "REF_AREA"
@@ -10274,7 +10274,7 @@
             "constraints": {
               "enum": [
                 "",
-                "508"
+                "MZ"
               ]
             },
             "title": "REF_AREA"
@@ -10441,7 +10441,7 @@
             "constraints": {
               "enum": [
                 "",
-                "508"
+                "MZ"
               ]
             },
             "title": "REF_AREA"
@@ -10607,7 +10607,7 @@
             "constraints": {
               "enum": [
                 "",
-                "508"
+                "MZ"
               ]
             },
             "title": "REF_AREA"
@@ -10774,7 +10774,7 @@
             "constraints": {
               "enum": [
                 "",
-                "508"
+                "MZ"
               ]
             },
             "title": "REF_AREA"
@@ -10943,7 +10943,7 @@
             "constraints": {
               "enum": [
                 "",
-                "508"
+                "MZ"
               ]
             },
             "title": "REF_AREA"
@@ -11111,7 +11111,7 @@
             "constraints": {
               "enum": [
                 "",
-                "508"
+                "MZ"
               ]
             },
             "title": "REF_AREA"
@@ -11280,7 +11280,7 @@
             "constraints": {
               "enum": [
                 "",
-                "508",
+                "MZ",
                 "MZ-A",
                 "MZ-B",
                 "MZ-G",
@@ -11462,7 +11462,7 @@
             "constraints": {
               "enum": [
                 "",
-                "508",
+                "MZ",
                 "MZ-A",
                 "MZ-B",
                 "MZ-G",
@@ -11647,7 +11647,7 @@
             "constraints": {
               "enum": [
                 "",
-                "508",
+                "MZ",
                 "MZ-A",
                 "MZ-B",
                 "MZ-G",
@@ -11829,7 +11829,7 @@
             "constraints": {
               "enum": [
                 "",
-                "508",
+                "MZ",
                 "MZ-A",
                 "MZ-B",
                 "MZ-G",
@@ -12012,7 +12012,7 @@
             "constraints": {
               "enum": [
                 "",
-                "508"
+                "MZ"
               ]
             },
             "title": "REF_AREA"
@@ -12178,7 +12178,7 @@
             "constraints": {
               "enum": [
                 "",
-                "508"
+                "MZ"
               ]
             },
             "title": "REF_AREA"
@@ -12344,7 +12344,7 @@
             "constraints": {
               "enum": [
                 "",
-                "508"
+                "MZ"
               ]
             },
             "title": "REF_AREA"
@@ -12510,7 +12510,7 @@
             "constraints": {
               "enum": [
                 "",
-                "508"
+                "MZ"
               ]
             },
             "title": "REF_AREA"
@@ -12676,7 +12676,7 @@
             "constraints": {
               "enum": [
                 "",
-                "508"
+                "MZ"
               ]
             },
             "title": "REF_AREA"
@@ -12842,7 +12842,7 @@
             "constraints": {
               "enum": [
                 "",
-                "508"
+                "MZ"
               ]
             },
             "title": "REF_AREA"
@@ -13008,7 +13008,7 @@
             "constraints": {
               "enum": [
                 "",
-                "508"
+                "MZ"
               ]
             },
             "title": "REF_AREA"
@@ -13174,7 +13174,7 @@
             "constraints": {
               "enum": [
                 "",
-                "508",
+                "MZ",
                 "MZ-A",
                 "MZ-B",
                 "MZ-G",
@@ -13354,7 +13354,7 @@
             "constraints": {
               "enum": [
                 "",
-                "508",
+                "MZ",
                 "MZ-A",
                 "MZ-B",
                 "MZ-G",
@@ -13535,7 +13535,7 @@
             "constraints": {
               "enum": [
                 "",
-                "508"
+                "MZ"
               ]
             },
             "title": "REF_AREA"
@@ -13701,7 +13701,7 @@
             "constraints": {
               "enum": [
                 "",
-                "508"
+                "MZ"
               ]
             },
             "title": "REF_AREA"
@@ -13871,7 +13871,7 @@
             "constraints": {
               "enum": [
                 "",
-                "508"
+                "MZ"
               ]
             },
             "title": "REF_AREA"
@@ -14041,7 +14041,7 @@
             "constraints": {
               "enum": [
                 "",
-                "508"
+                "MZ"
               ]
             },
             "title": "REF_AREA"
@@ -14211,7 +14211,7 @@
             "constraints": {
               "enum": [
                 "",
-                "508"
+                "MZ"
               ]
             },
             "title": "REF_AREA"
@@ -14381,7 +14381,7 @@
             "constraints": {
               "enum": [
                 "",
-                "508"
+                "MZ"
               ]
             },
             "title": "REF_AREA"
@@ -14547,7 +14547,7 @@
             "constraints": {
               "enum": [
                 "",
-                "508"
+                "MZ"
               ]
             },
             "title": "REF_AREA"
@@ -14713,7 +14713,7 @@
             "constraints": {
               "enum": [
                 "",
-                "508"
+                "MZ"
               ]
             },
             "title": "REF_AREA"
@@ -14883,7 +14883,7 @@
             "constraints": {
               "enum": [
                 "",
-                "508"
+                "MZ"
               ]
             },
             "title": "REF_AREA"
@@ -15049,7 +15049,7 @@
             "constraints": {
               "enum": [
                 "",
-                "508"
+                "MZ"
               ]
             },
             "title": "REF_AREA"

@@ -1,2 +1,2 @@
 Year,REPORTING_TYPE,SERIES,REF_AREA,SEX,AGE,URBANISATION,EDUCATION_LEV,OCCUPATION,DISABILITY_STATUS,COMPOSITE_BREAKDOWN,INCOME_WEALTH_QUANTILE,UNIT_MEASURE,UNIT_MULT,TIME_DETAIL,Value
-2011,G,SH_DYN_NMRT,508,_T,_T,_T,_T,_T,_T,_T,_T,Mortalidade de crianças menores de um mês por 1000 crianças nascidas vivas,0,2011,30.0
+2011,G,SH_DYN_NMRT,MZ,_T,_T,_T,_T,_T,_T,_T,_T,Mortalidade de crianças menores de um mês por 1000 crianças nascidas vivas,0,2011,30.0

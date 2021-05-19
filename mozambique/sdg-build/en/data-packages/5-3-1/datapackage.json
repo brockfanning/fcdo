@@ -83,7 +83,7 @@
             "constraints": {
               "enum": [
                 "",
-                "508"
+                "MZ"
               ]
             },
             "title": "REF_AREA"

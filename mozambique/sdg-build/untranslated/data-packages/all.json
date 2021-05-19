@@ -35,7 +35,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "508",
+                "MZ",
                 ""
               ]
             }
@@ -214,7 +214,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "508",
+                "MZ",
                 "MZ2",
                 "MZ3",
                 "MZ4",
@@ -408,7 +408,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "508",
+                "MZ",
                 ""
               ]
             }
@@ -587,7 +587,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "508",
+                "MZ",
                 ""
               ]
             }
@@ -741,7 +741,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "508",
+                "MZ",
                 ""
               ]
             }
@@ -894,7 +894,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "508",
+                "MZ",
                 ""
               ]
             }
@@ -1044,7 +1044,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "508",
+                "MZ",
                 ""
               ]
             }
@@ -1199,7 +1199,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "508",
+                "MZ",
                 "MZ-A",
                 "MZ-P",
                 "MZ-N",
@@ -1362,7 +1362,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "508",
+                "MZ",
                 "MZ-A",
                 "MZ-P",
                 "MZ-N",
@@ -1525,7 +1525,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "508",
+                "MZ",
                 ""
               ]
             }
@@ -1679,7 +1679,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "508",
+                "MZ",
                 ""
               ]
             }
@@ -1829,7 +1829,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "508",
+                "MZ",
                 ""
               ]
             }
@@ -1980,7 +1980,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "508",
+                "MZ",
                 "MZ-A",
                 "MZ-P",
                 "MZ-N",
@@ -2144,7 +2144,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "508",
+                "MZ",
                 ""
               ]
             }
@@ -2295,7 +2295,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "508",
+                "MZ",
                 ""
               ]
             }
@@ -2445,7 +2445,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "508",
+                "MZ",
                 ""
               ]
             }
@@ -2595,7 +2595,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "508",
+                "MZ",
                 ""
               ]
             }
@@ -2749,7 +2749,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "508",
+                "MZ",
                 ""
               ]
             }
@@ -2900,7 +2900,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "508",
+                "MZ",
                 "MZ-A",
                 "MZ-P",
                 "MZ-N",
@@ -3064,7 +3064,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "508",
+                "MZ",
                 ""
               ]
             }
@@ -3216,7 +3216,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "508",
+                "MZ",
                 ""
               ]
             }
@@ -3366,7 +3366,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "508",
+                "MZ",
                 ""
               ]
             }
@@ -3516,7 +3516,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "508",
+                "MZ",
                 ""
               ]
             }
@@ -3670,7 +3670,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "508",
+                "MZ",
                 ""
               ]
             }
@@ -3820,7 +3820,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "508",
+                "MZ",
                 "MZ-A",
                 "MZ-P",
                 "MZ-N",
@@ -3984,7 +3984,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "508",
+                "MZ",
                 ""
               ]
             }
@@ -4141,7 +4141,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "508",
+                "MZ",
                 "MZ-A",
                 "MZ-P",
                 "MZ-N",
@@ -4310,7 +4310,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "508",
+                "MZ",
                 ""
               ]
             }
@@ -4460,7 +4460,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "508",
+                "MZ",
                 ""
               ]
             }
@@ -4611,7 +4611,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "508",
+                "MZ",
                 ""
               ]
             }
@@ -4761,7 +4761,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "508",
+                "MZ",
                 "MZ-A",
                 "MZ-P",
                 "MZ-N",
@@ -4926,7 +4926,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "508",
+                "MZ",
                 "MZ-A",
                 "MZ-P",
                 "MZ-N",
@@ -5090,7 +5090,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "508",
+                "MZ",
                 "MZ-A",
                 "MZ-P",
                 "MZ-N",
@@ -5254,7 +5254,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "508",
+                "MZ",
                 ""
               ]
             }
@@ -5406,7 +5406,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "508",
+                "MZ",
                 ""
               ]
             }
@@ -5556,7 +5556,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "508",
+                "MZ",
                 ""
               ]
             }
@@ -5708,7 +5708,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "508",
+                "MZ",
                 "MZ-A",
                 "MZ-P",
                 "MZ-N",
@@ -5872,7 +5872,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "508",
+                "MZ",
                 ""
               ]
             }
@@ -6025,7 +6025,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "508",
+                "MZ",
                 ""
               ]
             }
@@ -6179,7 +6179,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "508",
+                "MZ",
                 ""
               ]
             }
@@ -6343,7 +6343,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "508",
+                "MZ",
                 ""
               ]
             }
@@ -6495,7 +6495,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "508",
+                "MZ",
                 ""
               ]
             }
@@ -6645,7 +6645,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "508",
+                "MZ",
                 ""
               ]
             }
@@ -6803,7 +6803,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "508",
+                "MZ",
                 ""
               ]
             }
@@ -6958,7 +6958,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "508",
+                "MZ",
                 ""
               ]
             }
@@ -7110,7 +7110,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "508",
+                "MZ",
                 ""
               ]
             }
@@ -7262,7 +7262,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "508",
+                "MZ",
                 ""
               ]
             }
@@ -7414,7 +7414,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "508",
+                "MZ",
                 ""
               ]
             }
@@ -7581,7 +7581,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "508",
+                "MZ",
                 ""
               ]
             }
@@ -7736,7 +7736,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "508",
+                "MZ",
                 ""
               ]
             }
@@ -7886,7 +7886,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "508",
+                "MZ",
                 ""
               ]
             }
@@ -8036,7 +8036,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "508",
+                "MZ",
                 ""
               ]
             }
@@ -8186,7 +8186,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "508",
+                "MZ",
                 "MZ-A",
                 "MZ-P",
                 "MZ-N",
@@ -8359,7 +8359,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "508",
+                "MZ",
                 ""
               ]
             }
@@ -8517,7 +8517,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "508",
+                "MZ",
                 ""
               ]
             }
@@ -8669,7 +8669,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "508",
+                "MZ",
                 ""
               ]
             }
@@ -8819,7 +8819,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "508",
+                "MZ",
                 ""
               ]
             }
@@ -8974,7 +8974,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "508",
+                "MZ",
                 ""
               ]
             }
@@ -9127,7 +9127,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "508",
+                "MZ",
                 ""
               ]
             }
@@ -9281,7 +9281,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "508",
+                "MZ",
                 ""
               ]
             }
@@ -9431,7 +9431,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "508",
+                "MZ",
                 ""
               ]
             }
@@ -9582,7 +9582,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "508",
+                "MZ",
                 ""
               ]
             }
@@ -9733,7 +9733,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "508",
+                "MZ",
                 ""
               ]
             }
@@ -9886,7 +9886,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "508",
+                "MZ",
                 ""
               ]
             }
@@ -10037,7 +10037,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "508",
+                "MZ",
                 ""
               ]
             }
@@ -10190,7 +10190,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "508",
+                "MZ",
                 "MZ-A",
                 "MZ-P",
                 "MZ-N",
@@ -10356,7 +10356,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "508",
+                "MZ",
                 "MZ-A",
                 "MZ-P",
                 "MZ-N",
@@ -10524,7 +10524,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "508",
+                "MZ",
                 "MZ-A",
                 "MZ-P",
                 "MZ-N",
@@ -10692,7 +10692,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "508",
+                "MZ",
                 "MZ-A",
                 "MZ-P",
                 "MZ-N",
@@ -10859,7 +10859,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "508",
+                "MZ",
                 ""
               ]
             }
@@ -11009,7 +11009,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "508",
+                "MZ",
                 ""
               ]
             }
@@ -11159,7 +11159,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "508",
+                "MZ",
                 ""
               ]
             }
@@ -11309,7 +11309,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "508",
+                "MZ",
                 ""
               ]
             }
@@ -11459,7 +11459,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "508",
+                "MZ",
                 ""
               ]
             }
@@ -11609,7 +11609,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "508",
+                "MZ",
                 ""
               ]
             }
@@ -11759,7 +11759,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "508",
+                "MZ",
                 ""
               ]
             }
@@ -11909,7 +11909,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "508",
+                "MZ",
                 "MZ-A",
                 "MZ-P",
                 "MZ-N",
@@ -12073,7 +12073,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "508",
+                "MZ",
                 "MZ-A",
                 "MZ-P",
                 "MZ-N",
@@ -12238,7 +12238,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "508",
+                "MZ",
                 ""
               ]
             }
@@ -12388,7 +12388,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "508",
+                "MZ",
                 ""
               ]
             }
@@ -12542,7 +12542,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "508",
+                "MZ",
                 ""
               ]
             }
@@ -12694,7 +12694,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "508",
+                "MZ",
                 ""
               ]
             }
@@ -12850,7 +12850,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "508",
+                "MZ",
                 ""
               ]
             }
@@ -13004,7 +13004,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "508",
+                "MZ",
                 ""
               ]
             }
@@ -13154,7 +13154,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "508",
+                "MZ",
                 ""
               ]
             }
@@ -13304,7 +13304,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "508",
+                "MZ",
                 ""
               ]
             }
@@ -13454,7 +13454,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "508",
+                "MZ",
                 ""
               ]
             }
@@ -13608,7 +13608,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "508",
+                "MZ",
                 ""
               ]
             }

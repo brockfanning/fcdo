@@ -82,7 +82,7 @@
             "constraints": {
               "enum": [
                 "",
-                "508",
+                "MZ",
                 "MZ-A",
                 "MZ-B",
                 "MZ-G",
