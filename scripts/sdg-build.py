@@ -56,6 +56,11 @@ def columns_to_drop(country):
     return columns
 
 
+def common_alterations(df):
+    df['REPORTING_TYPE'] = 'N'
+    return df
+
+
 def drop_columns(df, country):
     columns_in_data = df.columns.to_list()
     for column in columns_to_drop(country):
@@ -115,6 +120,7 @@ def alter_data_jordan(df, context):
     }
     df = df.rename(columns=column_fixes)
     df = apply_complex_mappings(df, 'jordan')
+    df = common_alterations(df)
     df = set_time_detail(df)
     df = drop_columns(df, 'jordan')
     df = set_series_and_unit(df, context)
@@ -127,6 +133,7 @@ def alter_data_palestine(df, context):
         'السنة': 'Year',
     }
     df = df.rename(columns=column_fixes)
+    df = common_alterations(df)
     df = set_time_detail(df)
     df = drop_columns(df, 'palestine')
     df = set_series_and_unit(df, context)
@@ -134,36 +141,42 @@ def alter_data_palestine(df, context):
 
 
 def alter_data_burundi(df, context):
+    df = common_alterations(df)
     df = set_series_and_unit(df, context)
     df = set_time_detail(df)
     return drop_columns(df, 'burundi')
 
 
 def alter_data_ethiopia(df, context):
+    df = common_alterations(df)
     df = set_series_and_unit(df, context)
     df = set_time_detail(df)
     return drop_columns(df, 'ethiopia')
 
 
 def alter_data_mozambique(df, context):
+    df = common_alterations(df)
     df = set_series_and_unit(df, context)
     df = set_time_detail(df)
     return drop_columns(df, 'mozambique')
 
 
 def alter_data_uganda(df, context):
+    df = common_alterations(df)
     df = set_series_and_unit(df, context)
     df = set_time_detail(df)
     return drop_columns(df, 'uganda')
 
 
 def alter_data_zambia(df, context):
+    df = common_alterations(df)
     df = set_series_and_unit(df, context)
     df = set_time_detail(df)
     return drop_columns(df, 'zambia')
 
 
 def alter_data_zimbabwe(df, context):
+    df = common_alterations(df)
     df = set_series_and_unit(df, context)
     df = set_time_detail(df)
     return drop_columns(df, 'zimbabwe')
