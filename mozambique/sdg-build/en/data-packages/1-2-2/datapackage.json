@@ -107,7 +107,7 @@
             "constraints": {
               "enum": [
                 "",
-                "MZ"
+                "508"
               ]
             },
             "title": "REF_AREA"

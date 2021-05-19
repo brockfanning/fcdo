@@ -33,7 +33,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "MZ",
+                "508",
                 "MZ2",
                 "MZ3",
                 "MZ4",
