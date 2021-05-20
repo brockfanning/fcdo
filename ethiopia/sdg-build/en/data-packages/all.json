@@ -67,6 +67,17 @@
             "title": "REF_AREA"
           },
           {
+            "name": "REPORTING_TYPE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "N"
+              ]
+            },
+            "title": "REPORTING_TYPE"
+          },
+          {
             "name": "SERIES",
             "type": "string",
             "title": "SERIES"
@@ -209,6 +220,17 @@
               ]
             },
             "title": "REF_AREA"
+          },
+          {
+            "name": "REPORTING_TYPE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "N"
+              ]
+            },
+            "title": "REPORTING_TYPE"
           },
           {
             "name": "SERIES",
@@ -361,6 +383,17 @@
             "title": "REF_AREA"
           },
           {
+            "name": "REPORTING_TYPE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "N"
+              ]
+            },
+            "title": "REPORTING_TYPE"
+          },
+          {
             "name": "SERIES",
             "type": "string",
             "title": "SERIES"
@@ -490,6 +523,17 @@
             "title": "REF_AREA"
           },
           {
+            "name": "REPORTING_TYPE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "N"
+              ]
+            },
+            "title": "REPORTING_TYPE"
+          },
+          {
             "name": "SERIES",
             "type": "string",
             "title": "SERIES"
@@ -615,6 +659,17 @@
             "title": "REF_AREA"
           },
           {
+            "name": "REPORTING_TYPE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "N"
+              ]
+            },
+            "title": "REPORTING_TYPE"
+          },
+          {
             "name": "SERIES",
             "type": "string",
             "title": "SERIES"
@@ -736,6 +791,17 @@
               ]
             },
             "title": "REF_AREA"
+          },
+          {
+            "name": "REPORTING_TYPE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "N"
+              ]
+            },
+            "title": "REPORTING_TYPE"
           },
           {
             "name": "SERIES",
@@ -863,6 +929,17 @@
             "title": "REF_AREA"
           },
           {
+            "name": "REPORTING_TYPE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "N"
+              ]
+            },
+            "title": "REPORTING_TYPE"
+          },
+          {
             "name": "SERIES",
             "type": "string",
             "title": "SERIES"
@@ -986,6 +1063,17 @@
               ]
             },
             "title": "REF_AREA"
+          },
+          {
+            "name": "REPORTING_TYPE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "N"
+              ]
+            },
+            "title": "REPORTING_TYPE"
           },
           {
             "name": "SERIES",
@@ -1132,6 +1220,17 @@
             "title": "REF_AREA"
           },
           {
+            "name": "REPORTING_TYPE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "N"
+              ]
+            },
+            "title": "REPORTING_TYPE"
+          },
+          {
             "name": "SERIES",
             "type": "string",
             "title": "SERIES"
@@ -1257,6 +1356,17 @@
             "title": "REF_AREA"
           },
           {
+            "name": "REPORTING_TYPE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "N"
+              ]
+            },
+            "title": "REPORTING_TYPE"
+          },
+          {
             "name": "SERIES",
             "type": "string",
             "title": "SERIES"
@@ -1377,6 +1487,17 @@
               ]
             },
             "title": "REF_AREA"
+          },
+          {
+            "name": "REPORTING_TYPE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "N"
+              ]
+            },
+            "title": "REPORTING_TYPE"
           },
           {
             "name": "SERIES",
@@ -1516,6 +1637,17 @@
             "title": "REF_AREA"
           },
           {
+            "name": "REPORTING_TYPE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "N"
+              ]
+            },
+            "title": "REPORTING_TYPE"
+          },
+          {
             "name": "SERIES",
             "type": "string",
             "title": "SERIES"
@@ -1638,6 +1770,17 @@
               ]
             },
             "title": "REF_AREA"
+          },
+          {
+            "name": "REPORTING_TYPE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "N"
+              ]
+            },
+            "title": "REPORTING_TYPE"
           },
           {
             "name": "SERIES",
@@ -1765,6 +1908,17 @@
             "title": "REF_AREA"
           },
           {
+            "name": "REPORTING_TYPE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "N"
+              ]
+            },
+            "title": "REPORTING_TYPE"
+          },
+          {
             "name": "SERIES",
             "type": "string",
             "title": "SERIES"
@@ -1887,6 +2041,17 @@
               ]
             },
             "title": "REF_AREA"
+          },
+          {
+            "name": "REPORTING_TYPE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "N"
+              ]
+            },
+            "title": "REPORTING_TYPE"
           },
           {
             "name": "SERIES",
@@ -2012,6 +2177,17 @@
             "title": "REF_AREA"
           },
           {
+            "name": "REPORTING_TYPE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "N"
+              ]
+            },
+            "title": "REPORTING_TYPE"
+          },
+          {
             "name": "SERIES",
             "type": "string",
             "title": "SERIES"
@@ -2133,6 +2309,17 @@
               ]
             },
             "title": "REF_AREA"
+          },
+          {
+            "name": "REPORTING_TYPE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "N"
+              ]
+            },
+            "title": "REPORTING_TYPE"
           },
           {
             "name": "SERIES",
@@ -2271,6 +2458,17 @@
             "title": "REF_AREA"
           },
           {
+            "name": "REPORTING_TYPE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "N"
+              ]
+            },
+            "title": "REPORTING_TYPE"
+          },
+          {
             "name": "SERIES",
             "type": "string",
             "title": "SERIES"
@@ -2406,6 +2604,17 @@
             "title": "REF_AREA"
           },
           {
+            "name": "REPORTING_TYPE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "N"
+              ]
+            },
+            "title": "REPORTING_TYPE"
+          },
+          {
             "name": "SERIES",
             "type": "string",
             "title": "SERIES"
@@ -2530,6 +2739,17 @@
               ]
             },
             "title": "REF_AREA"
+          },
+          {
+            "name": "REPORTING_TYPE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "N"
+              ]
+            },
+            "title": "REPORTING_TYPE"
           },
           {
             "name": "SERIES",

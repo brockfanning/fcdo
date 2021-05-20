@@ -96,7 +96,7 @@
             "constraints": {
               "enum": [
                 "",
-                "G"
+                "N"
               ]
             },
             "title": "REPORTING_TYPE"

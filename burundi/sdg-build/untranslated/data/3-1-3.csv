@@ -1,11 +1,11 @@
-Year,SERIES,REF_AREA,SEX,AGE,URBANISATION,EDUCATION_LEV,UNIT_MEASURE,UNIT_MULT,TIME_DETAIL,Value
-2010,SH_DYN_NMRT,BI,F,_T,_T,_T,Nombre de décès pour 100000 naissances vivantes,0,2010,32.0
-2017,SH_DYN_NMRT,BI,F,_T,_T,_T,Nombre de décès pour 100000 naissances vivantes,0,2017,21.0
-2010,SH_DYN_NMRT,BI,M,_T,_T,_T,Nombre de décès pour 100000 naissances vivantes,0,2010,42.0
-2017,SH_DYN_NMRT,BI,M,_T,_T,_T,Nombre de décès pour 100000 naissances vivantes,0,2017,25.0
-2010,SH_DYN_NMRT,BI,_T,_T,_T,_T,Nombre de décès pour 100000 naissances vivantes,0,2010,31.0
-2017,SH_DYN_NMRT,BI,_T,_T,_T,_T,Nombre de décès pour 100000 naissances vivantes,0,2017,23.0
-2010,SH_DYN_NMRT,BI,_T,_T,U,_T,Nombre de décès pour 100000 naissances vivantes,0,2010,22.0
-2017,SH_DYN_NMRT,BI,_T,_T,U,_T,Nombre de décès pour 100000 naissances vivantes,0,2017,30.0
-2010,SH_DYN_NMRT,BI,_T,_T,R,_T,Nombre de décès pour 100000 naissances vivantes,0,2010,38.0
-2017,SH_DYN_NMRT,BI,_T,_T,R,_T,Nombre de décès pour 100000 naissances vivantes,0,2017,22.0
+Year,SERIES,REF_AREA,SEX,AGE,URBANISATION,EDUCATION_LEV,UNIT_MEASURE,UNIT_MULT,REPORTING_TYPE,TIME_DETAIL,Value
+2010,SH_DYN_NMRT,BI,F,_T,_T,_T,Nombre de décès pour 100000 naissances vivantes,0,N,2010,32.0
+2017,SH_DYN_NMRT,BI,F,_T,_T,_T,Nombre de décès pour 100000 naissances vivantes,0,N,2017,21.0
+2010,SH_DYN_NMRT,BI,M,_T,_T,_T,Nombre de décès pour 100000 naissances vivantes,0,N,2010,42.0
+2017,SH_DYN_NMRT,BI,M,_T,_T,_T,Nombre de décès pour 100000 naissances vivantes,0,N,2017,25.0
+2010,SH_DYN_NMRT,BI,_T,_T,_T,_T,Nombre de décès pour 100000 naissances vivantes,0,N,2010,31.0
+2017,SH_DYN_NMRT,BI,_T,_T,_T,_T,Nombre de décès pour 100000 naissances vivantes,0,N,2017,23.0
+2010,SH_DYN_NMRT,BI,_T,_T,U,_T,Nombre de décès pour 100000 naissances vivantes,0,N,2010,22.0
+2017,SH_DYN_NMRT,BI,_T,_T,U,_T,Nombre de décès pour 100000 naissances vivantes,0,N,2017,30.0
+2010,SH_DYN_NMRT,BI,_T,_T,R,_T,Nombre de décès pour 100000 naissances vivantes,0,N,2010,38.0
+2017,SH_DYN_NMRT,BI,_T,_T,R,_T,Nombre de décès pour 100000 naissances vivantes,0,N,2017,22.0

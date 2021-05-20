@@ -1,1 +1,1 @@
-{"From":["Sub-indicators"],"To":["TIME_DETAIL"]}
+{"From":["Sub-indicators","REPORTING_TYPE"],"To":["REPORTING_TYPE","TIME_DETAIL"]}

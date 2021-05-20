@@ -1,2 +1,3 @@
 From,To
-Sub-indicators,TIME_DETAIL
+Sub-indicators,REPORTING_TYPE
+REPORTING_TYPE,TIME_DETAIL

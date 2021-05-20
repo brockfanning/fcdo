@@ -13,6 +13,17 @@
       "schema": {
         "fields": [
           {
+            "name": "REPORTING_TYPE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "N"
+              ]
+            },
+            "title": "REPORTING_TYPE"
+          },
+          {
             "name": "SERIES",
             "type": "string",
             "title": "SERIES"
@@ -85,6 +96,17 @@
             "title": "REF_AREA"
           },
           {
+            "name": "REPORTING_TYPE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "N"
+              ]
+            },
+            "title": "REPORTING_TYPE"
+          },
+          {
             "name": "SERIES",
             "type": "string",
             "title": "SERIES"
@@ -133,6 +155,17 @@
       "encoding": "utf-8",
       "schema": {
         "fields": [
+          {
+            "name": "REPORTING_TYPE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "N"
+              ]
+            },
+            "title": "REPORTING_TYPE"
+          },
           {
             "name": "SERIES",
             "type": "string",
@@ -202,6 +235,17 @@
       "schema": {
         "fields": [
           {
+            "name": "REPORTING_TYPE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "N"
+              ]
+            },
+            "title": "REPORTING_TYPE"
+          },
+          {
             "name": "SERIES",
             "type": "string",
             "title": "SERIES"
@@ -268,6 +312,17 @@
       "schema": {
         "fields": [
           {
+            "name": "REPORTING_TYPE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "N"
+              ]
+            },
+            "title": "REPORTING_TYPE"
+          },
+          {
             "name": "SERIES",
             "type": "string",
             "title": "SERIES"
@@ -323,6 +378,17 @@
       "encoding": "utf-8",
       "schema": {
         "fields": [
+          {
+            "name": "REPORTING_TYPE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "N"
+              ]
+            },
+            "title": "REPORTING_TYPE"
+          },
           {
             "name": "SERIES",
             "type": "string",
@@ -396,6 +462,17 @@
             "title": "Government spending percentage on"
           },
           {
+            "name": "REPORTING_TYPE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "N"
+              ]
+            },
+            "title": "REPORTING_TYPE"
+          },
+          {
             "name": "SERIES",
             "type": "number",
             "title": "SERIES"
@@ -442,6 +519,17 @@
       "encoding": "utf-8",
       "schema": {
         "fields": [
+          {
+            "name": "REPORTING_TYPE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "N"
+              ]
+            },
+            "title": "REPORTING_TYPE"
+          },
           {
             "name": "SERIES",
             "type": "string",
@@ -503,6 +591,17 @@
       "schema": {
         "fields": [
           {
+            "name": "REPORTING_TYPE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "N"
+              ]
+            },
+            "title": "REPORTING_TYPE"
+          },
+          {
             "name": "SERIES",
             "type": "string",
             "title": "SERIES"
@@ -562,6 +661,17 @@
       "encoding": "utf-8",
       "schema": {
         "fields": [
+          {
+            "name": "REPORTING_TYPE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "N"
+              ]
+            },
+            "title": "REPORTING_TYPE"
+          },
           {
             "name": "SERIES",
             "type": "number",
@@ -623,6 +733,17 @@
       "encoding": "utf-8",
       "schema": {
         "fields": [
+          {
+            "name": "REPORTING_TYPE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "N"
+              ]
+            },
+            "title": "REPORTING_TYPE"
+          },
           {
             "name": "SERIES",
             "type": "number",
@@ -696,6 +817,17 @@
             "title": "Grade"
           },
           {
+            "name": "REPORTING_TYPE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "N"
+              ]
+            },
+            "title": "REPORTING_TYPE"
+          },
+          {
             "name": "SERIES",
             "type": "number",
             "title": "SERIES"
@@ -752,6 +884,17 @@
       "encoding": "utf-8",
       "schema": {
         "fields": [
+          {
+            "name": "REPORTING_TYPE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "N"
+              ]
+            },
+            "title": "REPORTING_TYPE"
+          },
           {
             "name": "SERIES",
             "type": "number",
@@ -811,6 +954,17 @@
       "encoding": "utf-8",
       "schema": {
         "fields": [
+          {
+            "name": "REPORTING_TYPE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "N"
+              ]
+            },
+            "title": "REPORTING_TYPE"
+          },
           {
             "name": "SERIES",
             "type": "string",
@@ -872,6 +1026,17 @@
       "schema": {
         "fields": [
           {
+            "name": "REPORTING_TYPE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "N"
+              ]
+            },
+            "title": "REPORTING_TYPE"
+          },
+          {
             "name": "SERIES",
             "type": "string",
             "title": "SERIES"
@@ -932,6 +1097,17 @@
       "schema": {
         "fields": [
           {
+            "name": "REPORTING_TYPE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "N"
+              ]
+            },
+            "title": "REPORTING_TYPE"
+          },
+          {
             "name": "SERIES",
             "type": "string",
             "title": "SERIES"
@@ -991,6 +1167,17 @@
       "encoding": "utf-8",
       "schema": {
         "fields": [
+          {
+            "name": "REPORTING_TYPE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "N"
+              ]
+            },
+            "title": "REPORTING_TYPE"
+          },
           {
             "name": "SERIES",
             "type": "number",
@@ -1070,6 +1257,17 @@
             "title": "COMPOSITE_BREAKDOWN"
           },
           {
+            "name": "REPORTING_TYPE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "N"
+              ]
+            },
+            "title": "REPORTING_TYPE"
+          },
+          {
             "name": "SERIES",
             "type": "string",
             "title": "SERIES"
@@ -1125,6 +1323,17 @@
               ]
             },
             "title": "Enrollment ratio"
+          },
+          {
+            "name": "REPORTING_TYPE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "N"
+              ]
+            },
+            "title": "REPORTING_TYPE"
           },
           {
             "name": "SERIES",
@@ -1185,6 +1394,17 @@
             "title": "Enrollment ratio"
           },
           {
+            "name": "REPORTING_TYPE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "N"
+              ]
+            },
+            "title": "REPORTING_TYPE"
+          },
+          {
             "name": "SERIES",
             "type": "number",
             "title": "SERIES"
@@ -1231,6 +1451,17 @@
       "encoding": "utf-8",
       "schema": {
         "fields": [
+          {
+            "name": "REPORTING_TYPE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "N"
+              ]
+            },
+            "title": "REPORTING_TYPE"
+          },
           {
             "name": "SERIES",
             "type": "string",
@@ -1303,6 +1534,17 @@
               ]
             },
             "title": "Education Sector"
+          },
+          {
+            "name": "REPORTING_TYPE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "N"
+              ]
+            },
+            "title": "REPORTING_TYPE"
           },
           {
             "name": "SERIES",
@@ -1379,6 +1621,17 @@
             "title": "Area"
           },
           {
+            "name": "REPORTING_TYPE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "N"
+              ]
+            },
+            "title": "REPORTING_TYPE"
+          },
+          {
             "name": "SERIES",
             "type": "string",
             "title": "SERIES"
@@ -1436,6 +1689,17 @@
               ]
             },
             "title": "AGE"
+          },
+          {
+            "name": "REPORTING_TYPE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "N"
+              ]
+            },
+            "title": "REPORTING_TYPE"
           },
           {
             "name": "SERIES",
@@ -1511,6 +1775,17 @@
             "title": "AGE"
           },
           {
+            "name": "REPORTING_TYPE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "N"
+              ]
+            },
+            "title": "REPORTING_TYPE"
+          },
+          {
             "name": "SERIES",
             "type": "string",
             "title": "SERIES"
@@ -1560,6 +1835,17 @@
       "encoding": "utf-8",
       "schema": {
         "fields": [
+          {
+            "name": "REPORTING_TYPE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "N"
+              ]
+            },
+            "title": "REPORTING_TYPE"
+          },
           {
             "name": "SERIES",
             "type": "string",
@@ -1626,6 +1912,17 @@
             "title": "AGE"
           },
           {
+            "name": "REPORTING_TYPE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "N"
+              ]
+            },
+            "title": "REPORTING_TYPE"
+          },
+          {
             "name": "SERIES",
             "type": "number",
             "title": "SERIES"
@@ -1687,6 +1984,17 @@
       "schema": {
         "fields": [
           {
+            "name": "REPORTING_TYPE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "N"
+              ]
+            },
+            "title": "REPORTING_TYPE"
+          },
+          {
             "name": "SERIES",
             "type": "string",
             "title": "SERIES"
@@ -1731,6 +2039,17 @@
       "encoding": "utf-8",
       "schema": {
         "fields": [
+          {
+            "name": "REPORTING_TYPE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "N"
+              ]
+            },
+            "title": "REPORTING_TYPE"
+          },
           {
             "name": "SERIES",
             "type": "string",
@@ -1790,6 +2109,17 @@
       "schema": {
         "fields": [
           {
+            "name": "REPORTING_TYPE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "N"
+              ]
+            },
+            "title": "REPORTING_TYPE"
+          },
+          {
             "name": "SERIES",
             "type": "number",
             "title": "SERIES"
@@ -1848,6 +2178,17 @@
       "schema": {
         "fields": [
           {
+            "name": "REPORTING_TYPE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "N"
+              ]
+            },
+            "title": "REPORTING_TYPE"
+          },
+          {
             "name": "SERIES",
             "type": "string",
             "title": "SERIES"
@@ -1897,6 +2238,17 @@
       "schema": {
         "fields": [
           {
+            "name": "REPORTING_TYPE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "N"
+              ]
+            },
+            "title": "REPORTING_TYPE"
+          },
+          {
             "name": "SERIES",
             "type": "string",
             "title": "SERIES"
@@ -1941,6 +2293,17 @@
       "encoding": "utf-8",
       "schema": {
         "fields": [
+          {
+            "name": "REPORTING_TYPE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "N"
+              ]
+            },
+            "title": "REPORTING_TYPE"
+          },
           {
             "name": "SERIES",
             "type": "string",
@@ -1987,6 +2350,17 @@
       "schema": {
         "fields": [
           {
+            "name": "REPORTING_TYPE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "N"
+              ]
+            },
+            "title": "REPORTING_TYPE"
+          },
+          {
             "name": "SERIES",
             "type": "string",
             "title": "SERIES"
@@ -2031,6 +2405,17 @@
       "encoding": "utf-8",
       "schema": {
         "fields": [
+          {
+            "name": "REPORTING_TYPE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "N"
+              ]
+            },
+            "title": "REPORTING_TYPE"
+          },
           {
             "name": "SERIES",
             "type": "string",
@@ -2077,6 +2462,17 @@
       "schema": {
         "fields": [
           {
+            "name": "REPORTING_TYPE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "N"
+              ]
+            },
+            "title": "REPORTING_TYPE"
+          },
+          {
             "name": "SERIES",
             "type": "string",
             "title": "SERIES"
@@ -2121,6 +2517,17 @@
       "encoding": "utf-8",
       "schema": {
         "fields": [
+          {
+            "name": "REPORTING_TYPE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "N"
+              ]
+            },
+            "title": "REPORTING_TYPE"
+          },
           {
             "name": "SERIES",
             "type": "string",
@@ -2167,6 +2574,17 @@
       "schema": {
         "fields": [
           {
+            "name": "REPORTING_TYPE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "N"
+              ]
+            },
+            "title": "REPORTING_TYPE"
+          },
+          {
             "name": "SERIES",
             "type": "number",
             "title": "SERIES"
@@ -2212,6 +2630,17 @@
       "schema": {
         "fields": [
           {
+            "name": "REPORTING_TYPE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "N"
+              ]
+            },
+            "title": "REPORTING_TYPE"
+          },
+          {
             "name": "SERIES",
             "type": "number",
             "title": "SERIES"
@@ -2256,6 +2685,17 @@
       "encoding": "utf-8",
       "schema": {
         "fields": [
+          {
+            "name": "REPORTING_TYPE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "N"
+              ]
+            },
+            "title": "REPORTING_TYPE"
+          },
           {
             "name": "SERIES",
             "type": "string",
@@ -2315,6 +2755,17 @@
       "encoding": "utf-8",
       "schema": {
         "fields": [
+          {
+            "name": "REPORTING_TYPE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "N"
+              ]
+            },
+            "title": "REPORTING_TYPE"
+          },
           {
             "name": "SERIES",
             "type": "string",
@@ -2398,6 +2849,17 @@
             "title": "REF_AREA"
           },
           {
+            "name": "REPORTING_TYPE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "N"
+              ]
+            },
+            "title": "REPORTING_TYPE"
+          },
+          {
             "name": "SERIES",
             "type": "string",
             "title": "SERIES"
@@ -2446,6 +2908,17 @@
       "schema": {
         "fields": [
           {
+            "name": "REPORTING_TYPE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "N"
+              ]
+            },
+            "title": "REPORTING_TYPE"
+          },
+          {
             "name": "SERIES",
             "type": "string",
             "title": "SERIES"
@@ -2490,6 +2963,17 @@
       "encoding": "utf-8",
       "schema": {
         "fields": [
+          {
+            "name": "REPORTING_TYPE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "N"
+              ]
+            },
+            "title": "REPORTING_TYPE"
+          },
           {
             "name": "SERIES",
             "type": "string",
@@ -2553,6 +3037,17 @@
       "schema": {
         "fields": [
           {
+            "name": "REPORTING_TYPE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "N"
+              ]
+            },
+            "title": "REPORTING_TYPE"
+          },
+          {
             "name": "SERIES",
             "type": "string",
             "title": "SERIES"
@@ -2600,6 +3095,17 @@
       "schema": {
         "fields": [
           {
+            "name": "REPORTING_TYPE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "N"
+              ]
+            },
+            "title": "REPORTING_TYPE"
+          },
+          {
             "name": "SERIES",
             "type": "string",
             "title": "SERIES"
@@ -2646,6 +3152,17 @@
       "encoding": "utf-8",
       "schema": {
         "fields": [
+          {
+            "name": "REPORTING_TYPE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "N"
+              ]
+            },
+            "title": "REPORTING_TYPE"
+          },
           {
             "name": "SERIES",
             "type": "number",
@@ -2696,6 +3213,17 @@
       "schema": {
         "fields": [
           {
+            "name": "REPORTING_TYPE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "N"
+              ]
+            },
+            "title": "REPORTING_TYPE"
+          },
+          {
             "name": "SERIES",
             "type": "number",
             "title": "SERIES"
@@ -2744,6 +3272,17 @@
       "encoding": "utf-8",
       "schema": {
         "fields": [
+          {
+            "name": "REPORTING_TYPE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "N"
+              ]
+            },
+            "title": "REPORTING_TYPE"
+          },
           {
             "name": "SERIES",
             "type": "number",
@@ -2807,6 +3346,17 @@
       "schema": {
         "fields": [
           {
+            "name": "REPORTING_TYPE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "N"
+              ]
+            },
+            "title": "REPORTING_TYPE"
+          },
+          {
             "name": "SERIES",
             "type": "number",
             "title": "SERIES"
@@ -2867,6 +3417,17 @@
             "title": "Area"
           },
           {
+            "name": "REPORTING_TYPE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "N"
+              ]
+            },
+            "title": "REPORTING_TYPE"
+          },
+          {
             "name": "SERIES",
             "type": "string",
             "title": "SERIES"
@@ -2911,6 +3472,17 @@
       "encoding": "utf-8",
       "schema": {
         "fields": [
+          {
+            "name": "REPORTING_TYPE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "N"
+              ]
+            },
+            "title": "REPORTING_TYPE"
+          },
           {
             "name": "SERIES",
             "type": "number",
@@ -2967,6 +3539,17 @@
       "encoding": "utf-8",
       "schema": {
         "fields": [
+          {
+            "name": "REPORTING_TYPE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "N"
+              ]
+            },
+            "title": "REPORTING_TYPE"
+          },
           {
             "name": "SERIES",
             "type": "number",
@@ -3040,6 +3623,17 @@
             "title": "Plan"
           },
           {
+            "name": "REPORTING_TYPE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "N"
+              ]
+            },
+            "title": "REPORTING_TYPE"
+          },
+          {
             "name": "SERIES",
             "type": "string",
             "title": "SERIES"
@@ -3097,6 +3691,17 @@
               ]
             },
             "title": "International agreements"
+          },
+          {
+            "name": "REPORTING_TYPE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "N"
+              ]
+            },
+            "title": "REPORTING_TYPE"
           },
           {
             "name": "SERIES",
@@ -3157,6 +3762,17 @@
             "title": "Amount of fossil-fuel subsidies"
           },
           {
+            "name": "REPORTING_TYPE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "N"
+              ]
+            },
+            "title": "REPORTING_TYPE"
+          },
+          {
             "name": "SERIES",
             "type": "string",
             "title": "SERIES"
@@ -3213,6 +3829,17 @@
             "title": "Indicator"
           },
           {
+            "name": "REPORTING_TYPE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "N"
+              ]
+            },
+            "title": "REPORTING_TYPE"
+          },
+          {
             "name": "SERIES",
             "type": "string",
             "title": "SERIES"
@@ -3258,6 +3885,17 @@
       "encoding": "utf-8",
       "schema": {
         "fields": [
+          {
+            "name": "REPORTING_TYPE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "N"
+              ]
+            },
+            "title": "REPORTING_TYPE"
+          },
           {
             "name": "SERIES",
             "type": "string",
@@ -3308,6 +3946,17 @@
       "schema": {
         "fields": [
           {
+            "name": "REPORTING_TYPE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "N"
+              ]
+            },
+            "title": "REPORTING_TYPE"
+          },
+          {
             "name": "SERIES",
             "type": "string",
             "title": "SERIES"
@@ -3355,6 +4004,17 @@
       "schema": {
         "fields": [
           {
+            "name": "REPORTING_TYPE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "N"
+              ]
+            },
+            "title": "REPORTING_TYPE"
+          },
+          {
             "name": "SERIES",
             "type": "string",
             "title": "SERIES"
@@ -3399,6 +4059,17 @@
       "encoding": "utf-8",
       "schema": {
         "fields": [
+          {
+            "name": "REPORTING_TYPE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "N"
+              ]
+            },
+            "title": "REPORTING_TYPE"
+          },
           {
             "name": "SERIES",
             "type": "string",
@@ -3449,6 +4120,17 @@
       "schema": {
         "fields": [
           {
+            "name": "REPORTING_TYPE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "N"
+              ]
+            },
+            "title": "REPORTING_TYPE"
+          },
+          {
             "name": "SERIES",
             "type": "string",
             "title": "SERIES"
@@ -3496,6 +4178,17 @@
       "encoding": "utf-8",
       "schema": {
         "fields": [
+          {
+            "name": "REPORTING_TYPE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "N"
+              ]
+            },
+            "title": "REPORTING_TYPE"
+          },
           {
             "name": "SERIES",
             "type": "string",
@@ -3559,6 +4252,17 @@
               ]
             },
             "title": "PRODUCT"
+          },
+          {
+            "name": "REPORTING_TYPE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "N"
+              ]
+            },
+            "title": "REPORTING_TYPE"
           },
           {
             "name": "SERIES",
@@ -3631,6 +4335,17 @@
             "title": "Indicator"
           },
           {
+            "name": "REPORTING_TYPE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "N"
+              ]
+            },
+            "title": "REPORTING_TYPE"
+          },
+          {
             "name": "SERIES",
             "type": "number",
             "title": "SERIES"
@@ -3690,6 +4405,17 @@
             "title": "Jordan has national statistical legislation in line with the basic principles of official statistics"
           },
           {
+            "name": "REPORTING_TYPE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "N"
+              ]
+            },
+            "title": "REPORTING_TYPE"
+          },
+          {
             "name": "SERIES",
             "type": "string",
             "title": "SERIES"
@@ -3734,6 +4460,17 @@
       "encoding": "utf-8",
       "schema": {
         "fields": [
+          {
+            "name": "REPORTING_TYPE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "N"
+              ]
+            },
+            "title": "REPORTING_TYPE"
+          },
           {
             "name": "SERIES",
             "type": "string",
@@ -3784,6 +4521,17 @@
       "schema": {
         "fields": [
           {
+            "name": "REPORTING_TYPE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "N"
+              ]
+            },
+            "title": "REPORTING_TYPE"
+          },
+          {
             "name": "SERIES",
             "type": "string",
             "title": "SERIES"
@@ -3831,6 +4579,17 @@
       "encoding": "utf-8",
       "schema": {
         "fields": [
+          {
+            "name": "REPORTING_TYPE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "N"
+              ]
+            },
+            "title": "REPORTING_TYPE"
+          },
           {
             "name": "SERIES",
             "type": "string",
@@ -3894,6 +4653,17 @@
             "title": "COMPOSITE_BREAKDOWN"
           },
           {
+            "name": "REPORTING_TYPE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "N"
+              ]
+            },
+            "title": "REPORTING_TYPE"
+          },
+          {
             "name": "SERIES",
             "type": "string",
             "title": "SERIES"
@@ -3940,6 +4710,17 @@
       "encoding": "utf-8",
       "schema": {
         "fields": [
+          {
+            "name": "REPORTING_TYPE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "N"
+              ]
+            },
+            "title": "REPORTING_TYPE"
+          },
           {
             "name": "SERIES",
             "type": "string",
@@ -3988,6 +4769,17 @@
       "encoding": "utf-8",
       "schema": {
         "fields": [
+          {
+            "name": "REPORTING_TYPE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "N"
+              ]
+            },
+            "title": "REPORTING_TYPE"
+          },
           {
             "name": "SERIES",
             "type": "string",

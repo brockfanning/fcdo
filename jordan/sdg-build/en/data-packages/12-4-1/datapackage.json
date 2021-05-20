@@ -25,6 +25,17 @@
             "title": "International agreements"
           },
           {
+            "name": "REPORTING_TYPE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "N"
+              ]
+            },
+            "title": "REPORTING_TYPE"
+          },
+          {
             "name": "SERIES",
             "type": "string",
             "title": "SERIES"

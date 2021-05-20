@@ -22,6 +22,17 @@
             "title": "Jordan has national statistical legislation in line with the basic principles of official statistics"
           },
           {
+            "name": "REPORTING_TYPE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "N"
+              ]
+            },
+            "title": "REPORTING_TYPE"
+          },
+          {
             "name": "SERIES",
             "type": "string",
             "title": "SERIES"

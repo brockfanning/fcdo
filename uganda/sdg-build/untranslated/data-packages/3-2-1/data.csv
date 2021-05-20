@@ -1,4 +1,4 @@
-Year,SERIES,REF_AREA,SEX,AGE,location,disability,UNIT_MEASURE,UNIT_MULT,TIME_DETAIL,Value
-2016,SH_DYN_MORT,UG,F,Y0T4,_T,_T,"deaths per 1,000 live births",0,2016,56.0
-2016,SH_DYN_MORT,UG,M,Y0T4,_T,_T,"deaths per 1,000 live births",0,2016,72.0
-2016,SH_DYN_MORT,UG,_T,Y0T4,_T,_T,"deaths per 1,000 live births",0,2016,64.0
+Year,SERIES,REF_AREA,SEX,AGE,location,disability,UNIT_MEASURE,UNIT_MULT,REPORTING_TYPE,TIME_DETAIL,Value
+2016,SH_DYN_MORT,UG,F,Y0T4,_T,_T,"deaths per 1,000 live births",0,N,2016,56.0
+2016,SH_DYN_MORT,UG,M,Y0T4,_T,_T,"deaths per 1,000 live births",0,N,2016,72.0
+2016,SH_DYN_MORT,UG,_T,Y0T4,_T,_T,"deaths per 1,000 live births",0,N,2016,64.0

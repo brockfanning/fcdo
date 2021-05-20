@@ -1,4 +1,4 @@
-Year,SERIES,REF_AREA,SEX,AGE,location,disability,UNIT_MEASURE,UNIT_MULT,TIME_DETAIL,Value
-2016,SH_STA_TRAF,UG,F,_T,_T,_T,"per 100,000 population",0,2016,7.0
-2016,SH_STA_TRAF,UG,M,_T,_T,_T,"per 100,000 population",0,2016,46.0
-2016,SH_STA_TRAF,UG,_T,_T,_T,_T,"per 100,000 population",0,2016,53.0
+Year,SERIES,REF_AREA,SEX,AGE,location,disability,UNIT_MEASURE,UNIT_MULT,REPORTING_TYPE,TIME_DETAIL,Value
+2016,SH_STA_TRAF,UG,F,_T,_T,_T,"per 100,000 population",0,N,2016,7.0
+2016,SH_STA_TRAF,UG,M,_T,_T,_T,"per 100,000 population",0,N,2016,46.0
+2016,SH_STA_TRAF,UG,_T,_T,_T,_T,"per 100,000 population",0,N,2016,53.0

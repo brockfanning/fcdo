@@ -1,2 +1,3 @@
 From,To
-International agreements,TIME_DETAIL
+International agreements,REPORTING_TYPE
+REPORTING_TYPE,TIME_DETAIL

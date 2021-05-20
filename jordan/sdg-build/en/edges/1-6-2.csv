@@ -1,2 +1,3 @@
 From,To
-Government spending percentage on,TIME_DETAIL
+Government spending percentage on,REPORTING_TYPE
+REPORTING_TYPE,TIME_DETAIL
