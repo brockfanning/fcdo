@@ -1,0 +1,28 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "11-c-1",
+  "title": "Proportion de l’assistance financière allouée aux pays les moins avancés qui est consacrée à la construction de bâtiments durables, résilients et économes en ressources et à la remise à niveau d’anciens bâtiments, en utilisant des matériaux locaux"
+}

@@ -125,7 +125,7 @@
           }
         ]
       },
-      "title": "Proportion d’indicateurs du développement durable établis à l’échelle nationale, ventilés de manière exhaustive en fonction de la cible conformément aux Principes fondamentaux de la statistique officielle"
+      "title": ". Nombre d’associations mutualistes engagés dans la promotion des programmes de développement communautaire (%)"
     },
     {
       "path": "1-3-2/data.csv",
@@ -250,7 +250,7 @@
           }
         ]
       },
-      "title": "Proportion d’indicateurs du développement durable établis à l’échelle nationale, ventilés de manière exhaustive en fonction de la cible conformément aux Principes fondamentaux de la statistique officielle"
+      "title": ". Taux de couverture de la population en assurance maladie (%)"
     },
     {
       "path": "1-3-3/data.csv",
@@ -380,7 +380,7 @@
           }
         ]
       },
-      "title": "Proportion d’indicateurs du développement durable établis à l’échelle nationale, ventilés de manière exhaustive en fonction de la cible conformément aux Principes fondamentaux de la statistique officielle"
+      "title": ". Taux de couverture en pension (%)"
     },
     {
       "path": "1-4-1/data.csv",
@@ -504,7 +504,7 @@
           }
         ]
       },
-      "title": "Proportion d’indicateurs du développement durable établis à l’échelle nationale, ventilés de manière exhaustive en fonction de la cible conformément aux Principes fondamentaux de la statistique officielle"
+      "title": ". Pourcentage de la population vivant en-dessous du seuil de pauvreté"
     },
     {
       "path": "1-4-2/data.csv",
@@ -630,7 +630,7 @@
           }
         ]
       },
-      "title": "Proportion d’indicateurs du développement durable établis à l’échelle nationale, ventilés de manière exhaustive en fonction de la cible conformément aux Principes fondamentaux de la statistique officielle"
+      "title": ". Pourcentage de la population bénéficiant d’une assurance maladie"
     },
     {
       "path": "1-4-3/data.csv",
@@ -755,7 +755,7 @@
           }
         ]
       },
-      "title": "Proportion d’indicateurs du développement durable établis à l’échelle nationale, ventilés de manière exhaustive en fonction de la cible conformément aux Principes fondamentaux de la statistique officielle"
+      "title": ". Population moyenne par centre de santé"
     },
     {
       "path": "1-4-4/data.csv",
@@ -887,7 +887,7 @@
           }
         ]
       },
-      "title": "Proportion d’indicateurs du développement durable établis à l’échelle nationale, ventilés de manière exhaustive en fonction de la cible conformément aux Principes fondamentaux de la statistique officielle"
+      "title": ". Taux brut de scolarisation à l’école fondamentale"
     },
     {
       "path": "1-4-5/data.csv",
@@ -1012,7 +1012,7 @@
           }
         ]
       },
-      "title": "Proportion d’indicateurs du développement durable établis à l’échelle nationale, ventilés de manière exhaustive en fonction de la cible conformément aux Principes fondamentaux de la statistique officielle"
+      "title": ". Taux de pénétration des institutions financières dans la population"
     },
     {
       "path": "1-4-6/data.csv",
@@ -1146,7 +1146,7 @@
           }
         ]
       },
-      "title": "Proportion d’indicateurs du développement durable établis à l’échelle nationale, ventilés de manière exhaustive en fonction de la cible conformément aux Principes fondamentaux de la statistique officielle"
+      "title": ". Pourcentage de la population  ayant accès au téléphone mobile"
     },
     {
       "path": "1-4-7/data.csv",
@@ -1274,7 +1274,7 @@
           }
         ]
       },
-      "title": "Proportion d’indicateurs du développement durable établis à l’échelle nationale, ventilés de manière exhaustive en fonction de la cible conformément aux Principes fondamentaux de la statistique officielle"
+      "title": ". Pourcentage de la population  ayant accès à l’internet"
     },
     {
       "path": "1-a-1/data.csv",
@@ -1398,7 +1398,7 @@
           }
         ]
       },
-      "title": "Proportion d’indicateurs du développement durable établis à l’échelle nationale, ventilés de manière exhaustive en fonction de la cible conformément aux Principes fondamentaux de la statistique officielle"
+      "title": ".Proportion des ressources directement allouées par l’Etat à des programmes de réduction de la pauvreté"
     },
     {
       "path": "1-a-2/data.csv",
@@ -1522,7 +1522,7 @@
           }
         ]
       },
-      "title": "Proportion d’indicateurs du développement durable établis à l’échelle nationale, ventilés de manière exhaustive en fonction de la cible conformément aux Principes fondamentaux de la statistique officielle"
+      "title": ".Proportion des dépenses publiques affectées aux services essentiels (éducation, santé et protection sociale)"
     },
     {
       "path": "1-a-3/data.csv",
@@ -1646,7 +1646,7 @@
           }
         ]
       },
-      "title": "Proportion d’indicateurs du développement durable établis à l’échelle nationale, ventilés de manière exhaustive en fonction de la cible conformément aux Principes fondamentaux de la statistique officielle"
+      "title": ".Total des subventions et des flux extérieurs non générateurs d’endettement directement alloués aux programmes de réduction de la pauvreté, exprimé en proportion du PIB"
     },
     {
       "path": "1-b-1/data.csv",
@@ -1775,7 +1775,7 @@
           }
         ]
       },
-      "title": "Proportion d’indicateurs du développement durable établis à l’échelle nationale, ventilés de manière exhaustive en fonction de la cible conformément aux Principes fondamentaux de la statistique officielle"
+      "title": ".Proportion des dépenses publiques de fonctionnement et d’équipement consacrées aux secteurs répondant plus particulièrement aux besoins des femmes, pauvres et vulnérables"
     },
     {
       "path": "2-2-2/data.csv",
@@ -1904,7 +1904,7 @@
           }
         ]
       },
-      "title": "Proportion d’indicateurs du développement durable établis à l’échelle nationale, ventilés de manière exhaustive en fonction de la cible conformément aux Principes fondamentaux de la statistique officielle"
+      "title": ". Taux de malnutrition chronique"
     },
     {
       "path": "2-2-1/data.csv",
@@ -2033,7 +2033,7 @@
           }
         ]
       },
-      "title": "Proportion d’indicateurs du développement durable établis à l’échelle nationale, ventilés de manière exhaustive en fonction de la cible conformément aux Principes fondamentaux de la statistique officielle"
+      "title": ". Nombre d'enfants de moins de 5 ans en sous poids (Malnutrition aigue)"
     },
     {
       "path": "2-2-3/data.csv",
@@ -2159,7 +2159,7 @@
           }
         ]
       },
-      "title": "Proportion d’indicateurs du développement durable établis à l’échelle nationale, ventilés de manière exhaustive en fonction de la cible conformément aux Principes fondamentaux de la statistique officielle"
+      "title": ". Prévalence de l’insuffisance pondérale chez les moins 5 ans"
     },
     {
       "path": "2-3-1/data.csv",
@@ -2281,7 +2281,7 @@
           }
         ]
       },
-      "title": "Proportion d’indicateurs du développement durable établis à l’échelle nationale, ventilés de manière exhaustive en fonction de la cible conformément aux Principes fondamentaux de la statistique officielle"
+      "title": ". Quantité de la production annuelle (en tonnes)"
     },
     {
       "path": "2-1-1/data.csv",
@@ -2405,7 +2405,7 @@
           }
         ]
       },
-      "title": "Proportion d’indicateurs du développement durable établis à l’échelle nationale, ventilés de manière exhaustive en fonction de la cible conformément aux Principes fondamentaux de la statistique officielle"
+      "title": "Prévalence de la sous-alimentation"
     },
     {
       "path": "3-1-1/data.csv",
@@ -2528,7 +2528,7 @@
           }
         ]
       },
-      "title": "Proportion d’indicateurs du développement durable établis à l’échelle nationale, ventilés de manière exhaustive en fonction de la cible conformément aux Principes fondamentaux de la statistique officielle"
+      "title": ". Ratio de mortalité maternelle"
     },
     {
       "path": "3-1-2/data.csv",
@@ -2660,7 +2660,7 @@
           }
         ]
       },
-      "title": "Proportion d’indicateurs du développement durable établis à l’échelle nationale, ventilés de manière exhaustive en fonction de la cible conformément aux Principes fondamentaux de la statistique officielle"
+      "title": ". Pourcentage d’accouchement assisté par un personnel de santé formé"
     },
     {
       "path": "3-1-3/data.csv",
@@ -2787,7 +2787,7 @@
           }
         ]
       },
-      "title": "Proportion d’indicateurs du développement durable établis à l’échelle nationale, ventilés de manière exhaustive en fonction de la cible conformément aux Principes fondamentaux de la statistique officielle"
+      "title": ". Taux de mortalité néonatale"
     },
     {
       "path": "3-2-1/data.csv",
@@ -2915,7 +2915,7 @@
           }
         ]
       },
-      "title": "Proportion d’indicateurs du développement durable établis à l’échelle nationale, ventilés de manière exhaustive en fonction de la cible conformément aux Principes fondamentaux de la statistique officielle"
+      "title": ". Prévalence de l’insuffisance pondérale chez les moins 5 ans"
     },
     {
       "path": "3-2-2/data.csv",
@@ -3042,7 +3042,7 @@
           }
         ]
       },
-      "title": "Proportion d’indicateurs du développement durable établis à l’échelle nationale, ventilés de manière exhaustive en fonction de la cible conformément aux Principes fondamentaux de la statistique officielle"
+      "title": ". Taux de mortalité infanto-juvénile"
     },
     {
       "path": "3-3-1/data.csv",
@@ -3167,7 +3167,7 @@
           }
         ]
       },
-      "title": "Proportion d’indicateurs du développement durable établis à l’échelle nationale, ventilés de manière exhaustive en fonction de la cible conformément aux Principes fondamentaux de la statistique officielle"
+      "title": ". Taux de prévalence VIH/SIDA (15 – 49 ans"
     },
     {
       "path": "3-3-2/data.csv",
@@ -3291,7 +3291,7 @@
           }
         ]
       },
-      "title": "Proportion d’indicateurs du développement durable établis à l’échelle nationale, ventilés de manière exhaustive en fonction de la cible conformément aux Principes fondamentaux de la statistique officielle"
+      "title": ". Taux de dépistage de VIH"
     },
     {
       "path": "3-3-3/data.csv",
@@ -3421,7 +3421,7 @@
           }
         ]
       },
-      "title": "Proportion d’indicateurs du développement durable établis à l’échelle nationale, ventilés de manière exhaustive en fonction de la cible conformément aux Principes fondamentaux de la statistique officielle"
+      "title": ". Couverture des services PTME (Prévention transmission Materno-Enfantine du VIH SIDA"
     },
     {
       "path": "3-3-4/data.csv",
@@ -3551,7 +3551,7 @@
           }
         ]
       },
-      "title": "Proportion d’indicateurs du développement durable établis à l’échelle nationale, ventilés de manière exhaustive en fonction de la cible conformément aux Principes fondamentaux de la statistique officielle"
+      "title": ". Taux de prévalence du paludisme < 5ans"
     },
     {
       "path": "3-3-5/data.csv",
@@ -3681,7 +3681,7 @@
           }
         ]
       },
-      "title": "Proportion d’indicateurs du développement durable établis à l’échelle nationale, ventilés de manière exhaustive en fonction de la cible conformément aux Principes fondamentaux de la statistique officielle"
+      "title": ". Taux de notification de toutes les formes de tuberculose"
     },
     {
       "path": "3-3-6/data.csv",
@@ -3811,7 +3811,7 @@
           }
         ]
       },
-      "title": "Proportion d’indicateurs du développement durable établis à l’échelle nationale, ventilés de manière exhaustive en fonction de la cible conformément aux Principes fondamentaux de la statistique officielle"
+      "title": ". Taux de notification des cas contagieux (TPM+)"
     },
     {
       "path": "3-3-7/data.csv",
@@ -3945,7 +3945,7 @@
           }
         ]
       },
-      "title": "Proportion d’indicateurs du développement durable établis à l’échelle nationale, ventilés de manière exhaustive en fonction de la cible conformément aux Principes fondamentaux de la statistique officielle"
+      "title": ". Taux de coïnfection TB –VIH"
     },
     {
       "path": "3-7-1/data.csv",
@@ -4072,7 +4072,7 @@
           }
         ]
       },
-      "title": "Proportion d’indicateurs du développement durable établis à l’échelle nationale, ventilés de manière exhaustive en fonction de la cible conformément aux Principes fondamentaux de la statistique officielle"
+      "title": ". Taux de prévalence contraceptive pour les femmes en unions (en %)"
     },
     {
       "path": "3-7-2/data.csv",
@@ -4321,7 +4321,7 @@
           }
         ]
       },
-      "title": "Proportion d’indicateurs du développement durable établis à l’échelle nationale, ventilés de manière exhaustive en fonction de la cible conformément aux Principes fondamentaux de la statistique officielle"
+      "title": ". % d’enfants complètement vaccinés"
     },
     {
       "path": "3-8-2/data.csv",
@@ -4451,7 +4451,7 @@
           }
         ]
       },
-      "title": "Proportion d’indicateurs du développement durable établis à l’échelle nationale, ventilés de manière exhaustive en fonction de la cible conformément aux Principes fondamentaux de la statistique officielle"
+      "title": ". Couverture des services PTME (Prévention Transmission Materno-Enfantine du VIH)"
     },
     {
       "path": "3-8-3/data.csv",
@@ -4575,7 +4575,7 @@
           }
         ]
       },
-      "title": "Proportion d’indicateurs du développement durable établis à l’échelle nationale, ventilés de manière exhaustive en fonction de la cible conformément aux Principes fondamentaux de la statistique officielle"
+      "title": ". % de ménages affiliés à la mutualité recevant des revenus générés par la synergie entre les programmes de croissance et les unités mutuelles (%)"
     },
     {
       "path": "3-8-4/data.csv",
@@ -4701,7 +4701,7 @@
           }
         ]
       },
-      "title": "Proportion d’indicateurs du développement durable établis à l’échelle nationale, ventilés de manière exhaustive en fonction de la cible conformément aux Principes fondamentaux de la statistique officielle"
+      "title": ". Taux de couverture de la population en assurance maladie (%)"
     },
     {
       "path": "3-a-1/data.csv",
@@ -4825,7 +4825,7 @@
           }
         ]
       },
-      "title": "Proportion d’indicateurs du développement durable établis à l’échelle nationale, ventilés de manière exhaustive en fonction de la cible conformément aux Principes fondamentaux de la statistique officielle"
+      "title": ".Prévalence de la consommation actuelle de tabac chez les plus de 15 ans (taux comparatifs par âge)"
     },
     {
       "path": "3-b-2/data.csv",
@@ -4950,7 +4950,7 @@
           }
         ]
       },
-      "title": "Proportion d’indicateurs du développement durable établis à l’échelle nationale, ventilés de manière exhaustive en fonction de la cible conformément aux Principes fondamentaux de la statistique officielle"
+      "title": ".Montant total net de l’aide publique au développement consacré à la recherche médicale et aux soins de santé de base"
     },
     {
       "path": "3-c-1/data.csv",
@@ -5075,7 +5075,7 @@
           }
         ]
       },
-      "title": "Proportion d’indicateurs du développement durable établis à l’échelle nationale, ventilés de manière exhaustive en fonction de la cible conformément aux Principes fondamentaux de la statistique officielle"
+      "title": ".Densité et répartition du personnel de santé"
     },
     {
       "path": "4-1-1/data.csv",
@@ -5207,7 +5207,7 @@
           }
         ]
       },
-      "title": "Proportion d’indicateurs du développement durable établis à l’échelle nationale, ventilés de manière exhaustive en fonction de la cible conformément aux Principes fondamentaux de la statistique officielle"
+      "title": ". Taux net de scolarisation (école primaire)"
     },
     {
       "path": "4-1-2/data.csv",
@@ -5341,7 +5341,7 @@
           }
         ]
       },
-      "title": "Proportion d’indicateurs du développement durable établis à l’échelle nationale, ventilés de manière exhaustive en fonction de la cible conformément aux Principes fondamentaux de la statistique officielle"
+      "title": ". Taux brut de scolarisation (école post fondamentale)"
     },
     {
       "path": "4-1-3/data.csv",
@@ -5473,7 +5473,7 @@
           }
         ]
       },
-      "title": "Proportion d’indicateurs du développement durable établis à l’échelle nationale, ventilés de manière exhaustive en fonction de la cible conformément aux Principes fondamentaux de la statistique officielle"
+      "title": ". Indice de parité (école primaire et secondaire)"
     },
     {
       "path": "4-1-4/data.csv",
@@ -5607,7 +5607,7 @@
           }
         ]
       },
-      "title": "Proportion d’indicateurs du développement durable établis à l’échelle nationale, ventilés de manière exhaustive en fonction de la cible conformément aux Principes fondamentaux de la statistique officielle"
+      "title": ". Taux de redoublement (école primaire et secondaire)"
     },
     {
       "path": "4-1-5/data.csv",
@@ -5741,7 +5741,7 @@
           }
         ]
       },
-      "title": "Proportion d’indicateurs du développement durable établis à l’échelle nationale, ventilés de manière exhaustive en fonction de la cible conformément aux Principes fondamentaux de la statistique officielle"
+      "title": ". Taux d’achèvement"
     },
     {
       "path": "4-2-1/data.csv",
@@ -5994,7 +5994,7 @@
           }
         ]
       },
-      "title": "Proportion d’indicateurs du développement durable établis à l’échelle nationale, ventilés de manière exhaustive en fonction de la cible conformément aux Principes fondamentaux de la statistique officielle"
+      "title": ". % des sortants de 6ème année scolarisés dans les CEM (public et privés)"
     },
     {
       "path": "4-4-3/data.csv",
@@ -6121,7 +6121,7 @@
           }
         ]
       },
-      "title": "Proportion d’indicateurs du développement durable établis à l’échelle nationale, ventilés de manière exhaustive en fonction de la cible conformément aux Principes fondamentaux de la statistique officielle"
+      "title": ". Indice de parité pour le public et le privé (éducation supérieur)"
     },
     {
       "path": "4-5-1/data.csv",
@@ -6250,7 +6250,7 @@
           }
         ]
       },
-      "title": "Proportion d’indicateurs du développement durable établis à l’échelle nationale, ventilés de manière exhaustive en fonction de la cible conformément aux Principes fondamentaux de la statistique officielle"
+      "title": "b) Indice de parité fille/ garçon à l'école post fondamentale"
     },
     {
       "path": "4-a-1/data.csv",
@@ -6382,7 +6382,7 @@
           }
         ]
       },
-      "title": "Proportion d’indicateurs du développement durable établis à l’échelle nationale, ventilés de manière exhaustive en fonction de la cible conformément aux Principes fondamentaux de la statistique officielle"
+      "title": ".Proportion d’établissements scolaires ayant accès à : a) l’électricité; b) l’Internet à des fins pédagogiques; c) des ordinateurs à des fins pédagogiques; d) des infrastructures et des matériels adaptés aux élèves handicapés; e) une alimentation de base en eau potable;"
     },
     {
       "path": "5-1-2/data.csv",
@@ -6512,7 +6512,7 @@
           }
         ]
       },
-      "title": "Proportion d’indicateurs du développement durable établis à l’échelle nationale, ventilés de manière exhaustive en fonction de la cible conformément aux Principes fondamentaux de la statistique officielle"
+      "title": ". % siège occupé par des femmes dans le parlement national"
     },
     {
       "path": "5-1-3/data.csv",
@@ -6644,7 +6644,7 @@
           }
         ]
       },
-      "title": "Proportion d’indicateurs du développement durable établis à l’échelle nationale, ventilés de manière exhaustive en fonction de la cible conformément aux Principes fondamentaux de la statistique officielle"
+      "title": ". % femmes occupant des postes de prise de décision (Ministre,Gouverneur de Province et  Administrateur Communale)"
     },
     {
       "path": "5-1-1/data.csv",
@@ -6770,7 +6770,7 @@
           }
         ]
       },
-      "title": "Proportion d’indicateurs du développement durable établis à l’échelle nationale, ventilés de manière exhaustive en fonction de la cible conformément aux Principes fondamentaux de la statistique officielle"
+      "title": ". Nombre de textes et de lois votés par le parlement"
     },
     {
       "path": "5-5-1/data.csv",
@@ -6901,7 +6901,7 @@
           }
         ]
       },
-      "title": "Proportion d’indicateurs du développement durable établis à l’échelle nationale, ventilés de manière exhaustive en fonction de la cible conformément aux Principes fondamentaux de la statistique officielle"
+      "title": ". % de sièges occupés par des femmes au parlement national"
     },
     {
       "path": "5-5-2/data.csv",
@@ -7023,7 +7023,7 @@
           }
         ]
       },
-      "title": "Proportion d’indicateurs du développement durable établis à l’échelle nationale, ventilés de manière exhaustive en fonction de la cible conformément aux Principes fondamentaux de la statistique officielle"
+      "title": ". % de femmes occupant des postes de prise de décisions (Ministre,Gouverneur de Province, Administrateur Communale % Gouverneur deProvince, Administrateur Communal)"
     },
     {
       "path": "5-6-1/data.csv",
@@ -7153,7 +7153,7 @@
           }
         ]
       },
-      "title": "Proportion d’indicateurs du développement durable établis à l’échelle nationale, ventilés de manière exhaustive en fonction de la cible conformément aux Principes fondamentaux de la statistique officielle"
+      "title": ". Taux de croissance démographique"
     },
     {
       "path": "5-6-2/data.csv",
@@ -7276,7 +7276,7 @@
           }
         ]
       },
-      "title": "Proportion d’indicateurs du développement durable établis à l’échelle nationale, ventilés de manière exhaustive en fonction de la cible conformément aux Principes fondamentaux de la statistique officielle"
+      "title": ". Nombre moyen d’enfants par femme"
     },
     {
       "path": "5-b-1/data.csv",
@@ -7530,7 +7530,7 @@
           }
         ]
       },
-      "title": "Proportion d’indicateurs du développement durable établis à l’échelle nationale, ventilés de manière exhaustive en fonction de la cible conformément aux Principes fondamentaux de la statistique officielle"
+      "title": ". Taux de couverture en eau potable (%) : Milieu urbain Milieu rural"
     },
     {
       "path": "6-1-2/data.csv",
@@ -7661,7 +7661,7 @@
           }
         ]
       },
-      "title": "Proportion d’indicateurs du développement durable établis à l’échelle nationale, ventilés de manière exhaustive en fonction de la cible conformément aux Principes fondamentaux de la statistique officielle"
+      "title": ". Nombre de ménages alimentés en eau potable en branchement privé"
     },
     {
       "path": "6-1-3/data.csv",
@@ -7787,7 +7787,7 @@
           }
         ]
       },
-      "title": "Proportion d’indicateurs du développement durable établis à l’échelle nationale, ventilés de manière exhaustive en fonction de la cible conformément aux Principes fondamentaux de la statistique officielle"
+      "title": ". Proportion de la population ayant un accès durable à une source d’eau améliorée"
     },
     {
       "path": "6-2-1/data.csv",
@@ -7914,7 +7914,7 @@
           }
         ]
       },
-      "title": "Proportion d’indicateurs du développement durable établis à l’échelle nationale, ventilés de manière exhaustive en fonction de la cible conformément aux Principes fondamentaux de la statistique officielle"
+      "title": ". % de la population ayant accès à un assainissement adéquat"
     },
     {
       "path": "6-2-2/data.csv",
@@ -8040,7 +8040,7 @@
           }
         ]
       },
-      "title": "Proportion d’indicateurs du développement durable établis à l’échelle nationale, ventilés de manière exhaustive en fonction de la cible conformément aux Principes fondamentaux de la statistique officielle"
+      "title": ". Pourcentage des ménages disposant d’un lieu d’aisance convenable (WC avec chasseau d’eau et WC extérieur privé)"
     },
     {
       "path": "6-a-1/data.csv",
@@ -8166,7 +8166,7 @@
           }
         ]
       },
-      "title": "Proportion d’indicateurs du développement durable établis à l’échelle nationale, ventilés de manière exhaustive en fonction de la cible conformément aux Principes fondamentaux de la statistique officielle"
+      "title": "Montant de l’aide publique au développement consacrée à l’eau et à l’assainissement dans un plan de dépenses coordonné par les pouvoirs publics"
     },
     {
       "path": "6-b-1/data.csv",
@@ -8289,7 +8289,7 @@
           }
         ]
       },
-      "title": "Proportion d’indicateurs du développement durable établis à l’échelle nationale, ventilés de manière exhaustive en fonction de la cible conformément aux Principes fondamentaux de la statistique officielle"
+      "title": ".Proportion d’administrations locales ayant mis en place des politiques et procédures opérationnelles encourageant la participation de la population locale à  la gestion de l’eau et de l’assainissement"
     },
     {
       "path": "7-1-1/data.csv",
@@ -8415,7 +8415,7 @@
           }
         ]
       },
-      "title": "Proportion d’indicateurs du développement durable établis à l’échelle nationale, ventilés de manière exhaustive en fonction de la cible conformément aux Principes fondamentaux de la statistique officielle"
+      "title": ". Taux d’accès à l’électricité"
     },
     {
       "path": "7-1-2/data.csv",
@@ -8537,7 +8537,7 @@
           }
         ]
       },
-      "title": "Proportion d’indicateurs du développement durable établis à l’échelle nationale, ventilés de manière exhaustive en fonction de la cible conformément aux Principes fondamentaux de la statistique officielle"
+      "title": ". Nombre de ménages électrifiés (urbain )"
     },
     {
       "path": "7-1-3/data.csv",
@@ -8667,7 +8667,7 @@
           }
         ]
       },
-      "title": "Proportion d’indicateurs du développement durable établis à l’échelle nationale, ventilés de manière exhaustive en fonction de la cible conformément aux Principes fondamentaux de la statistique officielle"
+      "title": ". Offre électrique nationale (Mw)"
     },
     {
       "path": "7-1-4/data.csv",
@@ -8797,7 +8797,7 @@
           }
         ]
       },
-      "title": "Proportion d’indicateurs du développement durable établis à l’échelle nationale, ventilés de manière exhaustive en fonction de la cible conformément aux Principes fondamentaux de la statistique officielle"
+      "title": ". Production nationale d’énergie électrique annuelle (GwH)"
     },
     {
       "path": "7-1-5/data.csv",
@@ -8927,7 +8927,7 @@
           }
         ]
       },
-      "title": "Proportion d’indicateurs du développement durable établis à l’échelle nationale, ventilés de manière exhaustive en fonction de la cible conformément aux Principes fondamentaux de la statistique officielle"
+      "title": ". Energie électrique vendue (GwH)"
     },
     {
       "path": "8-1-1/data.csv",
@@ -9053,7 +9053,7 @@
           }
         ]
       },
-      "title": "Proportion d’indicateurs du développement durable établis à l’échelle nationale, ventilés de manière exhaustive en fonction de la cible conformément aux Principes fondamentaux de la statistique officielle"
+      "title": ". Taux de croissance annuelle du PIB réel"
     },
     {
       "path": "8-2-1/data.csv",
@@ -9303,7 +9303,7 @@
           }
         ]
       },
-      "title": "Proportion d’indicateurs du développement durable établis à l’échelle nationale, ventilés de manière exhaustive en fonction de la cible conformément aux Principes fondamentaux de la statistique officielle"
+      "title": "Engagements pris et décaissements effectués dans le cadre de l’initiative Aide pour le commerce (en USD)"
     },
     {
       "path": "9-a-1/data.csv",
@@ -9431,7 +9431,7 @@
           }
         ]
       },
-      "title": "Proportion d’indicateurs du développement durable établis à l’échelle nationale, ventilés de manière exhaustive en fonction de la cible conformément aux Principes fondamentaux de la statistique officielle"
+      "title": "Montant total de l’aide publique internationale (aide publique au développement et autres apports du secteur public) alloué aux infrastructures (en millions de USD)"
     },
     {
       "path": "9-c-1/data.csv",
@@ -9559,7 +9559,7 @@
           }
         ]
       },
-      "title": "Proportion d’indicateurs du développement durable établis à l’échelle nationale, ventilés de manière exhaustive en fonction de la cible conformément aux Principes fondamentaux de la statistique officielle"
+      "title": "Proportion de la population ayant accès à un réseau mobile, par type de technologie"
     },
     {
       "path": "9-1-1/data.csv",
@@ -9683,7 +9683,7 @@
           }
         ]
       },
-      "title": "Proportion d’indicateurs du développement durable établis à l’échelle nationale, ventilés de manière exhaustive en fonction de la cible conformément aux Principes fondamentaux de la statistique officielle"
+      "title": ". Proportion du réseau routier praticable en toute saison (bitumé + classé) (%)"
     },
     {
       "path": "10-1-1/data.csv",
@@ -9805,7 +9805,7 @@
           }
         ]
       },
-      "title": "Proportion d’indicateurs du développement durable établis à l’échelle nationale, ventilés de manière exhaustive en fonction de la cible conformément aux Principes fondamentaux de la statistique officielle"
+      "title": "b) Taux de croissance des dépenses des ménages par habitant pour l'ensemble de la population"
     },
     {
       "path": "10-2-1/data.csv",
@@ -9928,7 +9928,7 @@
           }
         ]
       },
-      "title": "Proportion d’indicateurs du développement durable établis à l’échelle nationale, ventilés de manière exhaustive en fonction de la cible conformément aux Principes fondamentaux de la statistique officielle"
+      "title": ". Nombre des personnes rapatriées"
     },
     {
       "path": "10-4-1/data.csv",
@@ -10050,7 +10050,7 @@
           }
         ]
       },
-      "title": "Proportion d’indicateurs du développement durable établis à l’échelle nationale, ventilés de manière exhaustive en fonction de la cible conformément aux Principes fondamentaux de la statistique officielle"
+      "title": "Part du travail dans le PIB, y compris les salaires et les transferts sociaux"
     },
     {
       "path": "10-b-1/data.csv",
@@ -10178,7 +10178,7 @@
           }
         ]
       },
-      "title": "Proportion d’indicateurs du développement durable établis à l’échelle nationale, ventilés de manière exhaustive en fonction de la cible conformément aux Principes fondamentaux de la statistique officielle"
+      "title": "Montant total des ressources allouées au développement, par pays bénéficiaire et donateur et type d’apport (aide publique au développement, investissement étranger direct et autres) (en millions de USD)"
     },
     {
       "path": "11-1-1/data.csv",
@@ -10300,7 +10300,7 @@
           }
         ]
       },
-      "title": "Proportion d’indicateurs du développement durable établis à l’échelle nationale, ventilés de manière exhaustive en fonction de la cible conformément aux Principes fondamentaux de la statistique officielle"
+      "title": ". Coût pour permis de construire (% du PIB / tête)"
     },
     {
       "path": "11-4-1/data.csv",
@@ -10426,7 +10426,7 @@
           }
         ]
       },
-      "title": "Proportion d’indicateurs du développement durable établis à l’échelle nationale, ventilés de manière exhaustive en fonction de la cible conformément aux Principes fondamentaux de la statistique officielle"
+      "title": ". Pourcentage de sites touristiques aménagés"
     },
     {
       "path": "11-5-1/data.csv",
@@ -10802,7 +10802,7 @@
           }
         ]
       },
-      "title": "Proportion d’indicateurs du développement durable établis à l’échelle nationale, ventilés de manière exhaustive en fonction de la cible conformément aux Principes fondamentaux de la statistique officielle"
+      "title": ". Taux de croissance démographique"
     },
     {
       "path": "12-2-2/data.csv",
@@ -10927,7 +10927,7 @@
           }
         ]
       },
-      "title": "Proportion d’indicateurs du développement durable établis à l’échelle nationale, ventilés de manière exhaustive en fonction de la cible conformément aux Principes fondamentaux de la statistique officielle"
+      "title": ". Indice synthétique de fécondité"
     },
     {
       "path": "12-4-3/data.csv",
@@ -11049,7 +11049,7 @@
           }
         ]
       },
-      "title": "Proportion d’indicateurs du développement durable établis à l’échelle nationale, ventilés de manière exhaustive en fonction de la cible conformément aux Principes fondamentaux de la statistique officielle"
+      "title": ". Pourcentage de centre de formations sanitaires sont équipés d'ici 2015"
     },
     {
       "path": "12-6-1/data.csv",
@@ -11171,7 +11171,7 @@
           }
         ]
       },
-      "title": "Proportion d’indicateurs du développement durable établis à l’échelle nationale, ventilés de manière exhaustive en fonction de la cible conformément aux Principes fondamentaux de la statistique officielle"
+      "title": "Nombre de sociétés publiant des rapports sur la viabilité (Nombre  d'entreprises ayant des certificats d'études d'impact environnemental)"
     },
     {
       "path": "12-1-1/data.csv",
@@ -11431,7 +11431,7 @@
           }
         ]
       },
-      "title": "Proportion d’indicateurs du développement durable établis à l’échelle nationale, ventilés de manière exhaustive en fonction de la cible conformément aux Principes fondamentaux de la statistique officielle"
+      "title": ". Pourcentage des villes de plus de 25 000 habitants qui disposent d’un site de dépôt adéquat"
     },
     {
       "path": "13-1-1/data.csv",
@@ -11555,7 +11555,7 @@
           }
         ]
       },
-      "title": "Proportion d’indicateurs du développement durable établis à l’échelle nationale, ventilés de manière exhaustive en fonction de la cible conformément aux Principes fondamentaux de la statistique officielle"
+      "title": "Nombre de personnes décédées, disparues ou directement touchées lors de catastrophes, pour 100000 personnes"
     },
     {
       "path": "13-1-2/data.csv",
@@ -11799,7 +11799,7 @@
           }
         ]
       },
-      "title": "Proportion d’indicateurs du développement durable établis à l’échelle nationale, ventilés de manière exhaustive en fonction de la cible conformément aux Principes fondamentaux de la statistique officielle"
+      "title": "Nombre de rapports d'ateliers sur le renforcement de capacités pour le suivi des questions de l'environnement ou des changements climatiques"
     },
     {
       "path": "14-7-1/data.csv",
@@ -11921,7 +11921,7 @@
           }
         ]
       },
-      "title": "Proportion d’indicateurs du développement durable établis à l’échelle nationale, ventilés de manière exhaustive en fonction de la cible conformément aux Principes fondamentaux de la statistique officielle"
+      "title": ".Pourcentage du PIB représenté par la pêche durable"
     },
     {
       "path": "15-3-1/data.csv",
@@ -12043,7 +12043,7 @@
           }
         ]
       },
-      "title": "Proportion d’indicateurs du développement durable établis à l’échelle nationale, ventilés de manière exhaustive en fonction de la cible conformément aux Principes fondamentaux de la statistique officielle"
+      "title": "Surface des zones dégradées en proportion de la surface terrestre"
     },
     {
       "path": "15-4-1/data.csv",
@@ -12165,7 +12165,7 @@
           }
         ]
       },
-      "title": "Proportion d’indicateurs du développement durable établis à l’échelle nationale, ventilés de manière exhaustive en fonction de la cible conformément aux Principes fondamentaux de la statistique officielle"
+      "title": "Proportion de la superficie des  écosystèmes naturels montagneux qui se trouvent dans les aires  protégées."
     },
     {
       "path": "15-a-1/data.csv",
@@ -12292,7 +12292,7 @@
           }
         ]
       },
-      "title": "Proportion d’indicateurs du développement durable établis à l’échelle nationale, ventilés de manière exhaustive en fonction de la cible conformément aux Principes fondamentaux de la statistique officielle"
+      "title": "Aide publique au développement et dépenses publiques consacrées à la préservation et à l’exploitation durable de la biodiversité et des écosystèmes (en millions de USD)"
     },
     {
       "path": "15-b-1/data.csv",
@@ -12414,7 +12414,7 @@
           }
         ]
       },
-      "title": "Proportion d’indicateurs du développement durable établis à l’échelle nationale, ventilés de manière exhaustive en fonction de la cible conformément aux Principes fondamentaux de la statistique officielle"
+      "title": "Aide publique au développement et dépenses publiques consacrées à la préservation et à l’exploitation durable de la biodiversité et des écosystèmes (en millions de USD)"
     },
     {
       "path": "16-6-1/data.csv",
@@ -12537,7 +12537,7 @@
           }
         ]
       },
-      "title": "Proportion d’indicateurs du développement durable établis à l’échelle nationale, ventilés de manière exhaustive en fonction de la cible conformément aux Principes fondamentaux de la statistique officielle"
+      "title": ". Niveau de confiance de la population dans les principales institutions de l’Etat (Parlement, Gouvernement, Justice)"
     },
     {
       "path": "16-6-4/data.csv",
@@ -12665,7 +12665,7 @@
           }
         ]
       },
-      "title": "Proportion d’indicateurs du développement durable établis à l’échelle nationale, ventilés de manière exhaustive en fonction de la cible conformément aux Principes fondamentaux de la statistique officielle"
+      "title": ". Indice de perception de corruption par Transparency international"
     },
     {
       "path": "16-6-5/data.csv",
@@ -12795,7 +12795,7 @@
           }
         ]
       },
-      "title": "Proportion d’indicateurs du développement durable établis à l’échelle nationale, ventilés de manière exhaustive en fonction de la cible conformément aux Principes fondamentaux de la statistique officielle"
+      "title": ". Indice-Mo Ibrahim sur le Gouvernance"
     },
     {
       "path": "16-9-1/data.csv",
@@ -12923,7 +12923,7 @@
           }
         ]
       },
-      "title": "Proportion d’indicateurs du développement durable établis à l’échelle nationale, ventilés de manière exhaustive en fonction de la cible conformément aux Principes fondamentaux de la statistique officielle"
+      "title": "Proportion d’enfants de moins de 5 ans possédant un acte de naissance"
     },
     {
       "path": "16-1-1/data.csv",
@@ -13053,7 +13053,7 @@
           }
         ]
       },
-      "title": "Proportion d’indicateurs du développement durable établis à l’échelle nationale, ventilés de manière exhaustive en fonction de la cible conformément aux Principes fondamentaux de la statistique officielle"
+      "title": ". Pourcentage des personnes ayant été victimes des violences basées sur le genre"
     },
     {
       "path": "16-1-3/data.csv",
@@ -13179,7 +13179,7 @@
           }
         ]
       },
-      "title": "Proportion d’indicateurs du développement durable établis à l’échelle nationale, ventilés de manière exhaustive en fonction de la cible conformément aux Principes fondamentaux de la statistique officielle"
+      "title": "Proportion de la population susceptible d'être victime de violences d'ordre criminel au cours des 12 derniers mois"
     },
     {
       "path": "16-1-4/data.csv",
@@ -13305,7 +13305,7 @@
           }
         ]
       },
-      "title": "Proportion d’indicateurs du développement durable établis à l’échelle nationale, ventilés de manière exhaustive en fonction de la cible conformément aux Principes fondamentaux de la statistique officielle"
+      "title": "Nombre de personnes considérant qu'il n'y a pas de danger à se déplacer seules à pied dans leur zone de résidence, en proportion de la population totale"
     },
     {
       "path": "16-3-2/data.csv",
@@ -13432,7 +13432,7 @@
           }
         ]
       },
-      "title": "Proportion d’indicateurs du développement durable établis à l’échelle nationale, ventilés de manière exhaustive en fonction de la cible conformément aux Principes fondamentaux de la statistique officielle"
+      "title": ". Proportion d’arriérés judiciaires dans les différentes juridictions"
     },
     {
       "path": "16-3-3/data.csv",
@@ -13562,7 +13562,7 @@
           }
         ]
       },
-      "title": "Proportion d’indicateurs du développement durable établis à l’échelle nationale, ventilés de manière exhaustive en fonction de la cible conformément aux Principes fondamentaux de la statistique officielle"
+      "title": ". Pourcentage de prévenus en détention par rapport au nombre total des détenus"
     },
     {
       "path": "16-3-5/data.csv",
@@ -13692,7 +13692,7 @@
           }
         ]
       },
-      "title": "Proportion d’indicateurs du développement durable établis à l’échelle nationale, ventilés de manière exhaustive en fonction de la cible conformément aux Principes fondamentaux de la statistique officielle"
+      "title": ". Taux d'occupation des prisons (en %)"
     },
     {
       "path": "16-3-6/data.csv",
@@ -13822,7 +13822,7 @@
           }
         ]
       },
-      "title": "Proportion d’indicateurs du développement durable établis à l’échelle nationale, ventilés de manière exhaustive en fonction de la cible conformément aux Principes fondamentaux de la statistique officielle"
+      "title": ". Pourcentage de prévenus en détention par rapport au nombre total des détenus"
     },
     {
       "path": "16-3-1/data.csv",
@@ -13952,7 +13952,7 @@
           }
         ]
       },
-      "title": "Proportion d’indicateurs du développement durable établis à l’échelle nationale, ventilés de manière exhaustive en fonction de la cible conformément aux Principes fondamentaux de la statistique officielle"
+      "title": ". Pourcentage de magistrats recrutés à la suite d’un concours"
     },
     {
       "path": "16-3-4/data.csv",
@@ -14082,7 +14082,7 @@
           }
         ]
       },
-      "title": "Proportion d’indicateurs du développement durable établis à l’échelle nationale, ventilés de manière exhaustive en fonction de la cible conformément aux Principes fondamentaux de la statistique officielle"
+      "title": ". % des affaires jugées sur les affaires enrôlées"
     },
     {
       "path": "16-5-1/data.csv",
@@ -14212,7 +14212,7 @@
           }
         ]
       },
-      "title": "Proportion d’indicateurs du développement durable établis à l’échelle nationale, ventilés de manière exhaustive en fonction de la cible conformément aux Principes fondamentaux de la statistique officielle"
+      "title": ". Nombre de cas de Corruption Constatées"
     },
     {
       "path": "16-5-3/data.csv",
@@ -14340,7 +14340,7 @@
           }
         ]
       },
-      "title": "Proportion d’indicateurs du développement durable établis à l’échelle nationale, ventilés de manière exhaustive en fonction de la cible conformément aux Principes fondamentaux de la statistique officielle"
+      "title": ". Indice de perception de corruption par Transparency international"
     },
     {
       "path": "16-5-5/data.csv",
@@ -14469,7 +14469,7 @@
           }
         ]
       },
-      "title": "Proportion d’indicateurs du développement durable établis à l’échelle nationale, ventilés de manière exhaustive en fonction de la cible conformément aux Principes fondamentaux de la statistique officielle"
+      "title": ". Nombre de marchés publics attribués"
     },
     {
       "path": "16-5-2/data.csv",
@@ -14598,7 +14598,7 @@
           }
         ]
       },
-      "title": "Proportion d’indicateurs du développement durable établis à l’échelle nationale, ventilés de manière exhaustive en fonction de la cible conformément aux Principes fondamentaux de la statistique officielle"
+      "title": ". Pourcentage de cas de corruption jugés par la Cour anticorruption"
     },
     {
       "path": "16-b-1/data.csv",
@@ -14720,7 +14720,7 @@
           }
         ]
       },
-      "title": "Proportion d’indicateurs du développement durable établis à l’échelle nationale, ventilés de manière exhaustive en fonction de la cible conformément aux Principes fondamentaux de la statistique officielle"
+      "title": "Proportion de la population ayant déclaré avoir personnellement fait l’objet de discrimination ou de harcèlement au cours des 12 mois précédents pour des motifs interdits par le droit international des droits de l’homme"
     },
     {
       "path": "16-2-3/data.csv",
@@ -14967,7 +14967,7 @@
           }
         ]
       },
-      "title": "Proportion d’indicateurs du développement durable établis à l’échelle nationale, ventilés de manière exhaustive en fonction de la cible conformément aux Principes fondamentaux de la statistique officielle"
+      "title": "Nombre d'armes saisies, trouvées ou rendues volontairement dont la provenance ou l’utilisation illicite a été retracée ou établie par des autorités compétentes"
     },
     {
       "path": "16-a-1/data.csv",
@@ -15094,7 +15094,7 @@
           }
         ]
       },
-      "title": "Proportion d’indicateurs du développement durable établis à l’échelle nationale, ventilés de manière exhaustive en fonction de la cible conformément aux Principes fondamentaux de la statistique officielle"
+      "title": "Existence d’institutions nationales des droits de l’homme indépendantes et conformes aux Principes de Paris"
     },
     {
       "path": "17-1-1/data.csv",
@@ -15224,7 +15224,7 @@
           }
         ]
       },
-      "title": "Proportion d’indicateurs du développement durable établis à l’échelle nationale, ventilés de manière exhaustive en fonction de la cible conformément aux Principes fondamentaux de la statistique officielle"
+      "title": "Total des recettes publiques en proportion du PIB, par source"
     },
     {
       "path": "17-1-2/data.csv",
@@ -15353,7 +15353,7 @@
           }
         ]
       },
-      "title": "Proportion d’indicateurs du développement durable établis à l’échelle nationale, ventilés de manière exhaustive en fonction de la cible conformément aux Principes fondamentaux de la statistique officielle"
+      "title": "Proportion du budget national financé par les impôts nationaux"
     },
     {
       "path": "17-3-1/data.csv",
@@ -15481,7 +15481,7 @@
           }
         ]
       },
-      "title": "Proportion d’indicateurs du développement durable établis à l’échelle nationale, ventilés de manière exhaustive en fonction de la cible conformément aux Principes fondamentaux de la statistique officielle"
+      "title": "Investissements étrangers directs, aide publique au développement et coopération Sud-Sud, en proportion du budget national total"
     },
     {
       "path": "17-3-2/data.csv",
@@ -15607,7 +15607,7 @@
           }
         ]
       },
-      "title": "Proportion d’indicateurs du développement durable établis à l’échelle nationale, ventilés de manière exhaustive en fonction de la cible conformément aux Principes fondamentaux de la statistique officielle"
+      "title": "Volume des envois de fonds de travailleurs migrants (en dollars des États-Unis) en proportion du PIB total"
     },
     {
       "path": "17-4-1/data.csv",
@@ -15736,7 +15736,7 @@
           }
         ]
       },
-      "title": "Proportion d’indicateurs du développement durable établis à l’échelle nationale, ventilés de manière exhaustive en fonction de la cible conformément aux Principes fondamentaux de la statistique officielle"
+      "title": "Service de la dette en proportion des exportations de biens et services"
     },
     {
       "path": "17-6-1/data.csv",
@@ -15858,7 +15858,7 @@
           }
         ]
       },
-      "title": "Proportion d’indicateurs du développement durable établis à l’échelle nationale, ventilés de manière exhaustive en fonction de la cible conformément aux Principes fondamentaux de la statistique officielle"
+      "title": "Nombre d’accords et de programmes de coopération scientifique et technologique entre pays, par type de coopération"
     },
     {
       "path": "17-6-2/data.csv",
@@ -15982,7 +15982,7 @@
           }
         ]
       },
-      "title": "Proportion d’indicateurs du développement durable établis à l’échelle nationale, ventilés de manière exhaustive en fonction de la cible conformément aux Principes fondamentaux de la statistique officielle"
+      "title": "Abonnements à une connexion à Internet à haut débit fixe pour 100 habitants, par vitesse de connexion"
     },
     {
       "path": "17-8-1/data.csv",
@@ -16109,7 +16109,7 @@
           }
         ]
       },
-      "title": "Proportion d’indicateurs du développement durable établis à l’échelle nationale, ventilés de manière exhaustive en fonction de la cible conformément aux Principes fondamentaux de la statistique officielle"
+      "title": "Proportion de la population utilisant Internet"
     },
     {
       "path": "17-17-1/data.csv",
@@ -16231,7 +16231,7 @@
           }
         ]
       },
-      "title": "Proportion d’indicateurs du développement durable établis à l’échelle nationale, ventilés de manière exhaustive en fonction de la cible conformément aux Principes fondamentaux de la statistique officielle"
+      "title": "Montant (en dollars des États-Unis) des ressources allouées aux partenariats public -privé et aux partenariats avec la société civile"
     },
     {
       "path": "17-19-1/data.csv",
@@ -16353,7 +16353,7 @@
           }
         ]
       },
-      "title": "Proportion d’indicateurs du développement durable établis à l’échelle nationale, ventilés de manière exhaustive en fonction de la cible conformément aux Principes fondamentaux de la statistique officielle"
+      "title": "Valeur (en dollars) de l’ensemble des ressources allouées au renforcement des capacités statistiques des pays en développement"
     },
     {
       "path": "17-19-2/data.csv",
@@ -16486,7 +16486,7 @@
           }
         ]
       },
-      "title": "Proportion d’indicateurs du développement durable établis à l’échelle nationale, ventilés de manière exhaustive en fonction de la cible conformément aux Principes fondamentaux de la statistique officielle"
+      "title": "Proportion de pays qui a) ont procédé à au moins un recensement de la population et du logement au cours des 10 dernières années, et b) ont atteint un taux d’enregistrement des naissances de 100% et un taux d’enregistrement des décès de 80%"
     },
     {
       "path": "17-18-1/data.csv",
@@ -16609,6 +16609,1806 @@
         ]
       },
       "title": "Proportion d’indicateurs du développement durable établis à l’échelle nationale, ventilés de manière exhaustive en fonction de la cible conformément aux Principes fondamentaux de la statistique officielle"
+    },
+    {
+      "path": "10-2-2/data.csv",
+      "name": "10-2-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": ". Nombre des personnes assistées (par an)"
+    },
+    {
+      "path": "10-2-3/data.csv",
+      "name": "10-2-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": ". Nombre d’handicapés assistés"
+    },
+    {
+      "path": "10-a-1/data.csv",
+      "name": "10-a-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Proportion de lignes tarifaires concernées par les importations en provenance des pays les moins avancés et des pays en développement bénéficiant d’une franchise de droits"
+    },
+    {
+      "path": "10-c-1/data.csv",
+      "name": "10-c-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Coûts des envois de fonds en proportion du montant transféré"
+    },
+    {
+      "path": "11-2-1/data.csv",
+      "name": "11-2-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Proportion de la population se trouvant à moins de 15 minutes d'une gare routière"
+    },
+    {
+      "path": "11-a-1/data.csv",
+      "name": "11-a-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Proportion d’habitants vivant dans des villes qui mettent en œuvre des plans de développement urbains et régionaux tenant compte des projections démographiques et des ressources nécessaires, selon la taille de la ville"
+    },
+    {
+      "path": "11-b-1/data.csv",
+      "name": "11-b-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Nombre de pays ayant adopté et mis en place des stratégies nationales de réduction des risques de catastrophe, conformément au Cadre de Sendai pour la réduction des risques de catastrophe (2015‑2030)"
+    },
+    {
+      "path": "11-b-2/data.csv",
+      "name": "11-b-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Proportion d’administrations locales ayant adopté et mis en place des stratégies locales de réduction des risques de catastrophe, conformément aux stratégies suivies à l’échelle nationale"
+    },
+    {
+      "path": "11-c-1/data.csv",
+      "name": "11-c-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Proportion de l’assistance financière allouée aux pays les moins avancés qui est consacrée à la construction de bâtiments durables, résilients et économes en ressources et à la remise à niveau d’anciens bâtiments, en utilisant des matériaux locaux"
+    },
+    {
+      "path": "12-4-1/data.csv",
+      "name": "12-4-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": ". Production et transmission d’un rapport annuel"
+    },
+    {
+      "path": "12-4-2/data.csv",
+      "name": "12-4-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": ". Pourcentage des sites de traitement identifiés sont fonctionnels avant 2018 et le maximum avant 2025"
+    },
+    {
+      "path": "12-5-1/data.csv",
+      "name": "12-5-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": ". Pourcentage des déchets biomédicaux traités d'ici 2020, et le maximum d’ici 2025"
+    },
+    {
+      "path": "12-5-2/data.csv",
+      "name": "12-5-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": ". Un guide de sensibilisation est disponible et au moins 1 activité de sensibilisation menée par commune d’ici 2025"
+    },
+    {
+      "path": "12-a-1/data.csv",
+      "name": "12-a-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Montant de l’aide apportée aux pays en développement au titre d’activités de recherche-développement consacrées aux modes de consommation et de production durables et aux technologies écologiquement rationnelles"
+    },
+    {
+      "path": "12-b-1/data.csv",
+      "name": "12-b-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Nombre de stratégies ou de politiques en place dans le domaine du tourisme durable et de plans d’action mis en œuvre en appliquant des outils d’évaluation et de suivi convenus"
+    },
+    {
+      "path": "12-c-1/data.csv",
+      "name": "12-c-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Montant des subventions aux combustibles fossiles par unité de PIB (production et consommation) et en proportion des dépenses nationales totales consacrées à ces combustibles"
+    },
+    {
+      "path": "13-2-1/data.csv",
+      "name": "13-2-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Nombre de communications nationales élaborées sur la mise en œuvre de la politique visant à améliorer les changements climatiques"
+    },
+    {
+      "path": "13-a-1/data.csv",
+      "name": "13-a-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Montant (en dollars des États‑Unis) des ressources mobilisées par année, de 2020 à 2025, au titre de l’engagement de 100 milliards de dollars"
+    },
+    {
+      "path": "13-b-1/data.csv",
+      "name": "13-b-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Nombre de pays les moins avancés et de petits États insulaires en développement recevant un appui spécialisé aux fins de la mise en place de moyens efficaces de planification et de gestion face aux changements climatiques, en privilégiant notamment les femmes, les jeunes, la population locale et les groupes marginalisés, et importance de cet appui en termes de financement, de technologie et de renforcement des capacités"
+    },
+    {
+      "path": "14-4-1/data.csv",
+      "name": "14-4-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": ".Niveau du stock de poissons (Proportion de stocks de poissons se situant à un niveau biologiquement viable)"
+    },
+    {
+      "path": "14-a-1/data.csv",
+      "name": "14-a-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Proportion du budget total de la recherche allouée à la recherche sur les techniques marines"
+    },
+    {
+      "path": "14-b-1/data.csv",
+      "name": "14-b-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Progrès réalisés par les pays dans la mise en œuvre d’un cadre juridique, réglementaire, politique ou institutionnel reconnaissant et protégeant les droits d’accès des petits pêcheurs"
+    },
+    {
+      "path": "14-c-1/data.csv",
+      "name": "14-c-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Nombre de pays progressant dans la ratification, l’acceptation et la mise en œuvre, au moyen de cadres juridiques, opérationnels et institutionnels, des instruments relatifs aux océans visant à donner effet aux dispositions du droit international énoncées dans la Convention des Nations Unies sur le droit de la mer qui concernent la conservation et de l’utilisation durable des océans et de leurs ressources"
+    },
+    {
+      "path": "15-7-1/data.csv",
+      "name": "15-7-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Proportion du braconnage et du trafic illicite dans le commerce des espèces de faune et de flore sauvages"
+    },
+    {
+      "path": "15-c-1/data.csv",
+      "name": "15-c-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Proportion du braconnage et du trafic illicite dans le commerce des espèces de faune et de flore sauvages"
+    },
+    {
+      "path": "16-1-2/data.csv",
+      "name": "16-1-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": ". Proportion des victimes ayant bénéficié de la prise en charge intégrée"
+    },
+    {
+      "path": "16-4-1/data.csv",
+      "name": "16-4-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Valeur totale des flux financiers illicites entrants et sortants (en dollars des États-Unis courants)"
+    },
+    {
+      "path": "16-5-4/data.csv",
+      "name": "16-5-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": ". Nombre d'audits effectués par an pour chaque structure"
+    },
+    {
+      "path": "16-5-6/data.csv",
+      "name": "16-5-6",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": ". Transparence dans le recrutement et la gestion du personnel de l'Etat"
+    },
+    {
+      "path": "16-6-2/data.csv",
+      "name": "16-6-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": ". Niveau de décentralisation au niveau provincial de principaux services administratifs"
+    },
+    {
+      "path": "16-6-3/data.csv",
+      "name": "16-6-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": ". Niveau de transparence et d’équité dans le recrutement et la rémunération des fonctionnaires de l’Etat"
+    },
+    {
+      "path": "17-10-1/data.csv",
+      "name": "17-10-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Moyenne mondiale pondérée des taux de droits de douane"
+    },
+    {
+      "path": "17-11-1/data.csv",
+      "name": "17-11-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Part des pays en développement et des pays les moins avancés dans les exportations mondiales"
+    },
+    {
+      "path": "17-12-1/data.csv",
+      "name": "17-12-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Droits de douane moyens appliqués aux pays en développement, aux pays les moins avancés et aux petits États insulaires en développement"
+    },
+    {
+      "path": "17-13-1/data.csv",
+      "name": "17-13-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Tableau de bord macroéconomique"
+    },
+    {
+      "path": "17-14-1/data.csv",
+      "name": "17-14-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Nombre de pays ayant mis en place des mécanismes pour renforcer la cohérence des politiques de développement durable"
+    },
+    {
+      "path": "17-15-1/data.csv",
+      "name": "17-15-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Ampleur du recours par les prestataires de la coopération pour le développement à des cadres de résultats et à des outils de planification propres aux pays"
+    },
+    {
+      "path": "17-16-1/data.csv",
+      "name": "17-16-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Nombre de pays faisant état de progrès dans la mise en place de cadres multipartites de suivi de l’efficacité du développement favorisant la réalisation des objectifs de développement durable"
+    },
+    {
+      "path": "17-18-2/data.csv",
+      "name": "17-18-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Nombre de pays dotés d’une législation nationale relative à la statistique conforme aux principes fondamentaux de la statistique officielle"
+    },
+    {
+      "path": "17-18-3/data.csv",
+      "name": "17-18-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Nombre de pays dotés d’un plan statistique national intégralement financé et en cours de mise en œuvre, par source de financement"
+    },
+    {
+      "path": "17-2-1/data.csv",
+      "name": "17-2-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Aide publique au développement nette, montant total et montant alloué aux pays les moins avancés, en proportion du revenu national brut (RNB) des pays donateurs membres du Comité d’aide au développement de l’Organisation de coopération et de développement économiques (OCDE)"
+    },
+    {
+      "path": "17-5-1/data.csv",
+      "name": "17-5-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Nombre de pays qui adoptent et mettent en œuvre des dispositifs visant à encourager l’investissement en faveur des pays les moins avancés"
+    },
+    {
+      "path": "17-7-1/data.csv",
+      "name": "17-7-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Montant total des financements approuvés pour les pays en développement aux fins de la promotion de la mise au point, du transfert et de la diffusion de technologies respectueuses de l’environnement"
+    },
+    {
+      "path": "17-9-1/data.csv",
+      "name": "17-9-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Valeur en dollars de l’aide financière et technique promise aux pays en développement (notamment dans le cadre de la coopération Nord-Sud et Sud-Sud et de la coopération triangulaire)"
+    },
+    {
+      "path": "2-3-2/data.csv",
+      "name": "2-3-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": ". Nombre d’organisations faîtières fonctionnelles dans les filières thé, coton,palmier, riz, lait, ect…."
+    },
+    {
+      "path": "2-3-3/data.csv",
+      "name": "2-3-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": ". Quantité de la production annuelle (en tonnes ; nombre de têtes de bétail)"
+    },
+    {
+      "path": "2-a-1/data.csv",
+      "name": "2-a-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Indice d’orientation agricole des dépenses publiques"
+    },
+    {
+      "path": "2-a-2/data.csv",
+      "name": "2-a-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Total des apports publics (aide publique au développement plus autres apports publics) alloués au secteur agricole"
+    },
+    {
+      "path": "2-b-1/data.csv",
+      "name": "2-b-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Subventions à l’exportation dans le secteur agricole"
+    },
+    {
+      "path": "2-c-1/data.csv",
+      "name": "2-c-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Indicateur des anomalies tarifaires pour les denrées alimentaires"
+    },
+    {
+      "path": "3-3-5-a/data.csv",
+      "name": "3-3-5-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Nombre de personnes atteintes d’onchocercose"
+    },
+    {
+      "path": "3-3-5-b/data.csv",
+      "name": "3-3-5-b",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Nombre de personnes de 1 à 14 ans atteintes de géo helminthiase"
+    },
+    {
+      "path": "3-3-5-c/data.csv",
+      "name": "3-3-5-c",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Nombre de personnes de 15 ans et plus atteintes de géo helminthiases"
+    },
+    {
+      "path": "3-3-5-d/data.csv",
+      "name": "3-3-5-d",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Nombre de Femmes enceintes (2& 3ème trimestre de grossesse) atteintes de géo helminthiases"
+    },
+    {
+      "path": "3-3-5-e/data.csv",
+      "name": "3-3-5-e",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Nombre de personnes atteintes de schistosomiase"
+    },
+    {
+      "path": "3-7-1-a)/data.csv",
+      "name": "3-7-1-a)",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Taux de prévalence contraceptive moderne pour les femmes âgées de 15-49 ans"
+    },
+    {
+      "path": "3-b-2-2/data.csv",
+      "name": "3-b-2-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": ". La part des dépenses de santé dans le PIB"
+    },
+    {
+      "path": "3-b-1/data.csv",
+      "name": "3-b-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": ".Proportion de la population pouvant se procurer les médicaments et vaccins essentiels à un coût abordable et de façon pérenne"
+    },
+    {
+      "path": "3-b-3/data.csv",
+      "name": "3-b-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": ".Proportion des établissements de santé disposant constamment d’un ensemble de médicaments essentiels à un coût abordable"
+    },
+    {
+      "path": "3-d-1/data.csv",
+      "name": "3-d-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": ".Application du règlement sanitaire international (RSI) et préparation aux urgences sanitaires"
+    },
+    {
+      "path": "4-4-2/data.csv",
+      "name": "4-4-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": ". % des sortants de 10ème année scolarisés dans les CFP (public et privés)"
+    },
+    {
+      "path": "4-b-1/data.csv",
+      "name": "4-b-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": ".Volume de l’aide publique au développement consacrée aux bourses d’études, par secteur et type de formation"
+    },
+    {
+      "path": "4-c-1/data.csv",
+      "name": "4-c-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": ".Proportion d’enseignants dans : a) le préscolaire; b) le cycle primaire; c) le premier cycle du secondaire; et d) le deuxième cycle du secondaire qui ont suivi (avant leur entrée en fonction ou en cours d’activité) au moins les formations organisées"
+    },
+    {
+      "path": "5-2-1/data.csv",
+      "name": "5-2-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Proportion de femmes et de filles âgées de 15 ans ou plus ayant vécu en couple victimes de violences physiques ou sexuelles au cours des 12 mois précédents"
+    },
+    {
+      "path": "5-a-1/data.csv",
+      "name": "5-a-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": ".Proportion de la population agricole totale ayant des droits de propriété ou des droits garantis sur des terres agricoles, par sexe; b) proportion de femmes parmi les titulaires de droits de propriété ou de droits garantis sur des terrains agricoles, par types de droit"
+    },
+    {
+      "path": "5-a-2/data.csv",
+      "name": "5-a-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": ".Proportion de pays dotés d’un cadre juridique (y compris le droit coutumier) garantissant aux femmes les mêmes droits que les hommes en matière d’accès à la propriété ou au contrôle des terres"
+    },
+    {
+      "path": "5-c-1/data.csv",
+      "name": "5-c-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": ".Proportion de pays dotés de systèmes permettant de suivre et de rendre public le montant des ressources allouées à l’égalité des sexes et à l’autonomisation des femmes"
+    },
+    {
+      "path": "6-1-4/data.csv",
+      "name": "6-1-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": ". Nombre d'infrastructures d’eau et d'assainissement"
+    },
+    {
+      "path": "7-a-1/data.csv",
+      "name": "7-a-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Flux financiers internationaux à destination des pays en développement à l’appui de la recherche-développement dans le domaine des énergies propres et de la production d’énergie renouvelable, notamment au moyen de systèmes hybrides"
+    },
+    {
+      "path": "7-b-1/data.csv",
+      "name": "7-b-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Investissements dans l’efficacité énergétique en proportion du PIB et montant de l’investissement étranger direct sous la forme de transferts financiers destinés à l’infrastructure et à la technologie nécessaires aux services de développement durable"
+    },
+    {
+      "path": "8-3-1/data.csv",
+      "name": "8-3-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": ". Production minière : Nikel (T)"
+    },
+    {
+      "path": "8-9-1/data.csv",
+      "name": "8-9-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": ". Contribution du tourisme au PIB"
+    },
+    {
+      "path": "8-b-1/data.csv",
+      "name": "8-b-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Existence d'une stratégie nationale de promotion de l'emploi des jeunes, qu'il s'agisse d'une stratégie à part entière ou d'une composante d'une stratégie nationale de promotion de l'emploi, et application de cette stratégie"
+    },
+    {
+      "path": "9-3-1/data.csv",
+      "name": "9-3-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Proportion des petites entreprises dans la valeur ajoutée totale de l’industrie"
+    },
+    {
+      "path": "9-b-1/data.csv",
+      "name": "9-b-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Proportion dans la valeur ajoutée totale de la valeur ajoutée des secteurs de moyenne et haute technologie"
     }
   ]
 }

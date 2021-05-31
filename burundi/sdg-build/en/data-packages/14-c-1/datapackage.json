@@ -1,0 +1,30 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "14-c-1",
+  "title": "Nombre de pays progressant dans la ratification, l’acceptation et la mise en œuvre, au moyen de cadres juridiques, opérationnels et institutionnels, des instruments relatifs aux océans visant à donner effet aux dispositions du droit international énoncées dans la Convention des Nations Unies sur le droit de la mer qui concernent la conservation et de l’utilisation durable des océans et de leurs ressources"
+}

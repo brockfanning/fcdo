@@ -1,0 +1,28 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "5-a-1",
+  "title": ".Proportion de la population agricole totale ayant des droits de propriété ou des droits garantis sur des terres agricoles, par sexe; b) proportion de femmes parmi les titulaires de droits de propriété ou de droits garantis sur des terrains agricoles, par types de droit"
+}
