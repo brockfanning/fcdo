@@ -232,7 +232,7 @@ mammoth.convertToHtml({path: 'web/_data/countries/rwanda/77 Metadata document.do
 
             const metadata = new Metadata(newMetadata, descriptors)
 
-            const folder = path.join('web', '_data', 'countries', 'rwanda', 'metadata-templates')
+            const folder = path.join('web', '_site', 'rwanda')
             const filename = indicatorId.replace(/\./g, '-') + '.docm'
             const filepath = path.join(folder, filename)
             await wordTemplateOutput.write(metadata, filepath)
