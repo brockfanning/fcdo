@@ -1,0 +1,734 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
+  <mes:Header>
+    <mes:ID>MESSAGE_ID_PLACEHOLDER</mes:ID>
+    <mes:Test>false</mes:Test>
+    <mes:Prepared>2021-06-05T22:10:53.446Z</mes:Prepared>
+    <mes:Sender id="sender"/>
+    <mes:Structure structureID="MDS1">
+      <com:Structure>
+        <URN>urn:sdmx:org.sdmx.infomodel.metadatastructure.MetadataStructure=IAEG-SDGs:SDG_MSD(0.3)</URN>
+      </com:Structure>
+    </mes:Structure>
+  </mes:Header>
+  <mes:MetadataSet structureRef="MDS1" setID="07aaefc9-9ab7-4991-891a-3cbcfad23b2b">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>VC_VAW_MARR</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>RW</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        <gen:ReportedAttribute id="SDG_INDICATOR_INFO">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_GOAL">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_TARGET">
+          <com:Text xml:lang="en"><![CDATA[<p>5.2</p> <p>Eliminate all forms of violence against all women and girls in the public and private spheres, including trafficking and sexual and other types of exploitation</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          <com:Text xml:lang="en"><![CDATA[<p>5.2.1</p> <p>Proportion of ever-partnered women and girls aged 15 years and older subjected to physical, sexual or psychological violence by a current or former intimate partner in the previous 12 months, by form of violence and by age</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_SERIES_DESCR">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="META_LAST_UPDATE">
+          <com:Text xml:lang="en"><![CDATA[<p>2014-15</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_RELATED_INDICATORS">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_CUSTODIAN_AGENCIES">
+          <com:Text xml:lang="en"><![CDATA[<p>United Nations Children’s Fund (UNICEF) The United Nations Entity for Gender Equality and the Empowerment of Women (UN Women) United Nations Population Fund (UNFPA) World Health Organization (WHO) United Nations Office on Drugs and Crime (UNODC)</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_ORGANISATION">
+          <com:Text xml:lang="en"><![CDATA[<p>National Institute of Statistics of Rwanda</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_FUNCT">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_MAIL">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          <com:Text xml:lang="en"><![CDATA[<p><a href="mailto:info@statistics.gov.rw">info@statistics.gov.rw</a></p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="IND_DEF_CON_CLASS">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          <com:Text xml:lang="en"><![CDATA[<p>This indicator measures the percentage of ever-married women and girls aged 15-49 years who have experienced spousal physical, sexual or psychological violence in the previous 12 months.</p><p>According to the UN Declaration on the Elimination of Violence against Women (1993), Violence against Women is “Any act of gender-based violence that results in, or is likely to result in, physical, sexual or psychological harm or suffering to women, including threats of such acts, coercion or arbitrary deprivation of liberty, whether occurring in public or in private life. Violence against women shall be understood to encompass, but not be limited to, the following: Physical, sexual and psychological violence occurring in the family […]”. See here for full definition: <a href="http://www.un.org/documents/ga/res/48/a48r104.htm">http://www.un.org/documents/ga/res/48/a48r104.htm</a></p><p>Intimate partner violence includes any abuse perpetrated by a current or former partner within the context of marriage, cohabitation or any other formal or informal union. </p><p>The different forms of violence included in the indicator are defined as follows: </p><p>1. Physical violence consists of acts aimed at physically hurting the victim and include, but are not limited to, pushing, grabbing, twisting the arm, pulling the hair, slapping, kicking, biting or hitting with the fist or object, trying to strangle or suffocate, burning or scalding on purpose, or threatening or attacking with some sort of weapon, gun or knife. </p><p>2. Sexual violence is defined as any sort of harmful or unwanted sexual behaviour that is imposed on someone. It includes acts of abusive sexual contact, forced engagement in sexual acts, attempted or completed sexual acts without consent, incest, sexual harassment, etc. In intimate partner relationships, experiencing sexual violence is commonly defined as being forced to have sexual intercourse, having sexual intercourse out of fear for what the partner might do, and/or being forced to so something sexual that the woman considers humiliating or degrading. </p><p>3. Psychological violence includes a range of behaviours that encompass acts of emotional abuse and controlling behaviour. These often coexist with acts of physical and sexual violence by intimate partners and are acts of violence in themselves. For a more detailed definition of physical, sexual and psychological violence against women see Guidelines for Producing Statistics on Violence against Women- Statistical Surveys (UN, 2014).</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="UNIT_MEASURE">
+          <com:Text xml:lang="en"><![CDATA[<p>Percentage (%)</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CLASS_SYSTEM">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SRC_TYPE_COLL_METHOD">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COLL_METHOD">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="FREQ_COLL">
+          <com:Text xml:lang="en"><![CDATA[<p>3-5 Years</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="REL_CAL_POLICY">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="DATA_SOURCE">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="INST_MANDATE">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="OTHER_METHOD">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="RATIONALE">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="DATA_COMP">
+          <com:Text xml:lang="en"><![CDATA[<p>This indicator calls for breakdown by form of violence and by age group and yields the following for each form of violence or forms of violence: </p><p>1. Physical violence: Number of ever-partnered women and girls (aged 15 years and above) who experience physical violence by a current or former intimate partner in the previous 12 months divided by the number of ever-partnered women and girls (aged 15 years and above) in the population multiplied by 100</p><p>2. Sexual violence: Number of ever-partnered women and girls (aged 15 years and above) who experience sexual violence by a current or former intimate partner in the previous 12 months divided by the number of ever-partnered women and girls (aged 15 years and above) in the population multiplied by 100 3 </p><p>3. Psychological violence: Number of ever-partnered women and girls (aged 15 years and above) who experience psychological violence by a current or former intimate partner in the previous 12 months divided by the number of ever-partnered women and girls (aged 15 years and above) multiplied by 100 </p><p>4. Any form of physical and/or sexual violence: Number of ever-partnered women and girls (aged 15 years and above) who experience physical and/or sexual violence by a current or former intimate partner in the previous 12 months divided by the number of ever-partnered women and girls (aged 15 years and above) multiplied by 100 </p><p>5. Any form of physical, sexual and/or psychological violence: Number of ever-partnered women and girls (aged 15 years and above) who experience physical, sexual and/or psychological violence by a current or former intimate partner in the previous 12 months divided by the number of ever-partnered women and girls (aged 15 years and above) multiplied by 100</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="DATA_VALIDATION">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="ADJUSTMENT">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="IMPUTATION">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="REG_AGG">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="DOC_METHOD">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="QUALITY_MGMNT">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="QUALITY_ASSMNT">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COVERAGE">
+          <com:Text xml:lang="en"><![CDATA[<h2>Earliest available data</h2>
+            <p>Rwanda Demographic Health Survey (RDHS) 1992</p>
+            
+
+            
+            <h2>Geographical coverage</h2>
+             <p>National</p>
+            
+
+            
+            <h2>Disaggregation</h2>
+            <ul><li>Geographical: National, Province, Residence (Urban &amp; Rural)</li><li>Age</li><li>Maternity status</li><li>Number of living children</li><li>Employment</li><li>Education</li><li>Wealth quintile </li><li>By frequency of violence in the past 12 months preceding the survey (Often, Sometimes, Often or sometimes)</li><li>Religion</li></ul>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COMPARABILITY">
+          <com:Text xml:lang="en"><![CDATA[<h2>Indicator available</h2>
+            
+            <p>Percentage of ever-married women age 15-49 years who have experienced various forms of violence ever or in the 12 months preceding the survey committed by their husband/partner</p>
+            
+
+            
+            <h2>Global indicator description</h2>
+            <p>Proportion of ever-partnered women and girls aged 15 years and older subjected to physical, sexual or psychological violence by a current or former intimate partner in the previous 12 months, by form of violence and by age</p>
+            
+
+            
+            <h2>Link to UN Metadata</h2>
+            <p><a href="https://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-5.pdf" target="_blank">United Nations Sustainable Development Goals Metadata (PDF 518 KB)</a></p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="OTHER_DOC">
+          <com:Text xml:lang="en"><![CDATA[<h2>UN designated tier</h2>
+            <p>2</p>]]></com:Text>
+        </gen:ReportedAttribute>
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  <mes:MetadataSet structureRef="MDS1" setID="9b59eb97-4688-436c-8d94-8667ed7522c3">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>VC_VAW_PHYV</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>RW</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        <gen:ReportedAttribute id="SDG_INDICATOR_INFO">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_GOAL">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_TARGET">
+          <com:Text xml:lang="en"><![CDATA[<p>5.2</p> <p>Eliminate all forms of violence against all women and girls in the public and private spheres, including trafficking and sexual and other types of exploitation</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          <com:Text xml:lang="en"><![CDATA[<p>5.2.1</p> <p>Proportion of ever-partnered women and girls aged 15 years and older subjected to physical, sexual or psychological violence by a current or former intimate partner in the previous 12 months, by form of violence and by age</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_SERIES_DESCR">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="META_LAST_UPDATE">
+          <com:Text xml:lang="en"><![CDATA[<p>2014-15</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_RELATED_INDICATORS">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_CUSTODIAN_AGENCIES">
+          <com:Text xml:lang="en"><![CDATA[<p>United Nations Children’s Fund (UNICEF) The United Nations Entity for Gender Equality and the Empowerment of Women (UN Women) United Nations Population Fund (UNFPA) World Health Organization (WHO) United Nations Office on Drugs and Crime (UNODC)</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_ORGANISATION">
+          <com:Text xml:lang="en"><![CDATA[<p>National Institute of Statistics of Rwanda</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_FUNCT">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_MAIL">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          <com:Text xml:lang="en"><![CDATA[<p><a href="mailto:info@statistics.gov.rw">info@statistics.gov.rw</a></p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="IND_DEF_CON_CLASS">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          <com:Text xml:lang="en"><![CDATA[<p>This indicator measures the percentage of ever-married women and girls aged 15-49 years who have experienced spousal physical, sexual or psychological violence in the previous 12 months.</p><p>According to the UN Declaration on the Elimination of Violence against Women (1993), Violence against Women is “Any act of gender-based violence that results in, or is likely to result in, physical, sexual or psychological harm or suffering to women, including threats of such acts, coercion or arbitrary deprivation of liberty, whether occurring in public or in private life. Violence against women shall be understood to encompass, but not be limited to, the following: Physical, sexual and psychological violence occurring in the family […]”. See here for full definition: <a href="http://www.un.org/documents/ga/res/48/a48r104.htm">http://www.un.org/documents/ga/res/48/a48r104.htm</a></p><p>Intimate partner violence includes any abuse perpetrated by a current or former partner within the context of marriage, cohabitation or any other formal or informal union. </p><p>The different forms of violence included in the indicator are defined as follows: </p><p>1. Physical violence consists of acts aimed at physically hurting the victim and include, but are not limited to, pushing, grabbing, twisting the arm, pulling the hair, slapping, kicking, biting or hitting with the fist or object, trying to strangle or suffocate, burning or scalding on purpose, or threatening or attacking with some sort of weapon, gun or knife. </p><p>2. Sexual violence is defined as any sort of harmful or unwanted sexual behaviour that is imposed on someone. It includes acts of abusive sexual contact, forced engagement in sexual acts, attempted or completed sexual acts without consent, incest, sexual harassment, etc. In intimate partner relationships, experiencing sexual violence is commonly defined as being forced to have sexual intercourse, having sexual intercourse out of fear for what the partner might do, and/or being forced to so something sexual that the woman considers humiliating or degrading. </p><p>3. Psychological violence includes a range of behaviours that encompass acts of emotional abuse and controlling behaviour. These often coexist with acts of physical and sexual violence by intimate partners and are acts of violence in themselves. For a more detailed definition of physical, sexual and psychological violence against women see Guidelines for Producing Statistics on Violence against Women- Statistical Surveys (UN, 2014).</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="UNIT_MEASURE">
+          <com:Text xml:lang="en"><![CDATA[<p>Percentage (%)</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CLASS_SYSTEM">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SRC_TYPE_COLL_METHOD">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COLL_METHOD">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="FREQ_COLL">
+          <com:Text xml:lang="en"><![CDATA[<p>3-5 Years</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="REL_CAL_POLICY">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="DATA_SOURCE">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="INST_MANDATE">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="OTHER_METHOD">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="RATIONALE">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="DATA_COMP">
+          <com:Text xml:lang="en"><![CDATA[<p>This indicator calls for breakdown by form of violence and by age group and yields the following for each form of violence or forms of violence: </p><p>1. Physical violence: Number of ever-partnered women and girls (aged 15 years and above) who experience physical violence by a current or former intimate partner in the previous 12 months divided by the number of ever-partnered women and girls (aged 15 years and above) in the population multiplied by 100</p><p>2. Sexual violence: Number of ever-partnered women and girls (aged 15 years and above) who experience sexual violence by a current or former intimate partner in the previous 12 months divided by the number of ever-partnered women and girls (aged 15 years and above) in the population multiplied by 100 3 </p><p>3. Psychological violence: Number of ever-partnered women and girls (aged 15 years and above) who experience psychological violence by a current or former intimate partner in the previous 12 months divided by the number of ever-partnered women and girls (aged 15 years and above) multiplied by 100 </p><p>4. Any form of physical and/or sexual violence: Number of ever-partnered women and girls (aged 15 years and above) who experience physical and/or sexual violence by a current or former intimate partner in the previous 12 months divided by the number of ever-partnered women and girls (aged 15 years and above) multiplied by 100 </p><p>5. Any form of physical, sexual and/or psychological violence: Number of ever-partnered women and girls (aged 15 years and above) who experience physical, sexual and/or psychological violence by a current or former intimate partner in the previous 12 months divided by the number of ever-partnered women and girls (aged 15 years and above) multiplied by 100</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="DATA_VALIDATION">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="ADJUSTMENT">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="IMPUTATION">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="REG_AGG">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="DOC_METHOD">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="QUALITY_MGMNT">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="QUALITY_ASSMNT">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COVERAGE">
+          <com:Text xml:lang="en"><![CDATA[<h2>Earliest available data</h2>
+            <p>Rwanda Demographic Health Survey (RDHS) 1992</p>
+            
+
+            
+            <h2>Geographical coverage</h2>
+             <p>National</p>
+            
+
+            
+            <h2>Disaggregation</h2>
+            <ul><li>Geographical: National, Province, Residence (Urban &amp; Rural)</li><li>Age</li><li>Maternity status</li><li>Number of living children</li><li>Employment</li><li>Education</li><li>Wealth quintile </li><li>By frequency of violence in the past 12 months preceding the survey (Often, Sometimes, Often or sometimes)</li><li>Religion</li></ul>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COMPARABILITY">
+          <com:Text xml:lang="en"><![CDATA[<h2>Indicator available</h2>
+            
+            <p>Percentage of ever-married women age 15-49 years who have experienced various forms of violence ever or in the 12 months preceding the survey committed by their husband/partner</p>
+            
+
+            
+            <h2>Global indicator description</h2>
+            <p>Proportion of ever-partnered women and girls aged 15 years and older subjected to physical, sexual or psychological violence by a current or former intimate partner in the previous 12 months, by form of violence and by age</p>
+            
+
+            
+            <h2>Link to UN Metadata</h2>
+            <p><a href="https://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-5.pdf" target="_blank">United Nations Sustainable Development Goals Metadata (PDF 518 KB)</a></p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="OTHER_DOC">
+          <com:Text xml:lang="en"><![CDATA[<h2>UN designated tier</h2>
+            <p>2</p>]]></com:Text>
+        </gen:ReportedAttribute>
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  <mes:MetadataSet structureRef="MDS1" setID="192f6b3a-98fd-4da5-b46a-b91dd987441e">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>VC_VAW_SEXV</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>RW</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        <gen:ReportedAttribute id="SDG_INDICATOR_INFO">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_GOAL">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_TARGET">
+          <com:Text xml:lang="en"><![CDATA[<p>5.2</p> <p>Eliminate all forms of violence against all women and girls in the public and private spheres, including trafficking and sexual and other types of exploitation</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          <com:Text xml:lang="en"><![CDATA[<p>5.2.1</p> <p>Proportion of ever-partnered women and girls aged 15 years and older subjected to physical, sexual or psychological violence by a current or former intimate partner in the previous 12 months, by form of violence and by age</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_SERIES_DESCR">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="META_LAST_UPDATE">
+          <com:Text xml:lang="en"><![CDATA[<p>2014-15</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_RELATED_INDICATORS">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_CUSTODIAN_AGENCIES">
+          <com:Text xml:lang="en"><![CDATA[<p>United Nations Children’s Fund (UNICEF) The United Nations Entity for Gender Equality and the Empowerment of Women (UN Women) United Nations Population Fund (UNFPA) World Health Organization (WHO) United Nations Office on Drugs and Crime (UNODC)</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_ORGANISATION">
+          <com:Text xml:lang="en"><![CDATA[<p>National Institute of Statistics of Rwanda</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_FUNCT">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_MAIL">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          <com:Text xml:lang="en"><![CDATA[<p><a href="mailto:info@statistics.gov.rw">info@statistics.gov.rw</a></p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="IND_DEF_CON_CLASS">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          <com:Text xml:lang="en"><![CDATA[<p>This indicator measures the percentage of ever-married women and girls aged 15-49 years who have experienced spousal physical, sexual or psychological violence in the previous 12 months.</p><p>According to the UN Declaration on the Elimination of Violence against Women (1993), Violence against Women is “Any act of gender-based violence that results in, or is likely to result in, physical, sexual or psychological harm or suffering to women, including threats of such acts, coercion or arbitrary deprivation of liberty, whether occurring in public or in private life. Violence against women shall be understood to encompass, but not be limited to, the following: Physical, sexual and psychological violence occurring in the family […]”. See here for full definition: <a href="http://www.un.org/documents/ga/res/48/a48r104.htm">http://www.un.org/documents/ga/res/48/a48r104.htm</a></p><p>Intimate partner violence includes any abuse perpetrated by a current or former partner within the context of marriage, cohabitation or any other formal or informal union. </p><p>The different forms of violence included in the indicator are defined as follows: </p><p>1. Physical violence consists of acts aimed at physically hurting the victim and include, but are not limited to, pushing, grabbing, twisting the arm, pulling the hair, slapping, kicking, biting or hitting with the fist or object, trying to strangle or suffocate, burning or scalding on purpose, or threatening or attacking with some sort of weapon, gun or knife. </p><p>2. Sexual violence is defined as any sort of harmful or unwanted sexual behaviour that is imposed on someone. It includes acts of abusive sexual contact, forced engagement in sexual acts, attempted or completed sexual acts without consent, incest, sexual harassment, etc. In intimate partner relationships, experiencing sexual violence is commonly defined as being forced to have sexual intercourse, having sexual intercourse out of fear for what the partner might do, and/or being forced to so something sexual that the woman considers humiliating or degrading. </p><p>3. Psychological violence includes a range of behaviours that encompass acts of emotional abuse and controlling behaviour. These often coexist with acts of physical and sexual violence by intimate partners and are acts of violence in themselves. For a more detailed definition of physical, sexual and psychological violence against women see Guidelines for Producing Statistics on Violence against Women- Statistical Surveys (UN, 2014).</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="UNIT_MEASURE">
+          <com:Text xml:lang="en"><![CDATA[<p>Percentage (%)</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CLASS_SYSTEM">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SRC_TYPE_COLL_METHOD">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COLL_METHOD">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="FREQ_COLL">
+          <com:Text xml:lang="en"><![CDATA[<p>3-5 Years</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="REL_CAL_POLICY">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="DATA_SOURCE">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="INST_MANDATE">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="OTHER_METHOD">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="RATIONALE">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="DATA_COMP">
+          <com:Text xml:lang="en"><![CDATA[<p>This indicator calls for breakdown by form of violence and by age group and yields the following for each form of violence or forms of violence: </p><p>1. Physical violence: Number of ever-partnered women and girls (aged 15 years and above) who experience physical violence by a current or former intimate partner in the previous 12 months divided by the number of ever-partnered women and girls (aged 15 years and above) in the population multiplied by 100</p><p>2. Sexual violence: Number of ever-partnered women and girls (aged 15 years and above) who experience sexual violence by a current or former intimate partner in the previous 12 months divided by the number of ever-partnered women and girls (aged 15 years and above) in the population multiplied by 100 3 </p><p>3. Psychological violence: Number of ever-partnered women and girls (aged 15 years and above) who experience psychological violence by a current or former intimate partner in the previous 12 months divided by the number of ever-partnered women and girls (aged 15 years and above) multiplied by 100 </p><p>4. Any form of physical and/or sexual violence: Number of ever-partnered women and girls (aged 15 years and above) who experience physical and/or sexual violence by a current or former intimate partner in the previous 12 months divided by the number of ever-partnered women and girls (aged 15 years and above) multiplied by 100 </p><p>5. Any form of physical, sexual and/or psychological violence: Number of ever-partnered women and girls (aged 15 years and above) who experience physical, sexual and/or psychological violence by a current or former intimate partner in the previous 12 months divided by the number of ever-partnered women and girls (aged 15 years and above) multiplied by 100</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="DATA_VALIDATION">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="ADJUSTMENT">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="IMPUTATION">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="REG_AGG">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="DOC_METHOD">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="QUALITY_MGMNT">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="QUALITY_ASSMNT">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COVERAGE">
+          <com:Text xml:lang="en"><![CDATA[<h2>Earliest available data</h2>
+            <p>Rwanda Demographic Health Survey (RDHS) 1992</p>
+            
+
+            
+            <h2>Geographical coverage</h2>
+             <p>National</p>
+            
+
+            
+            <h2>Disaggregation</h2>
+            <ul><li>Geographical: National, Province, Residence (Urban &amp; Rural)</li><li>Age</li><li>Maternity status</li><li>Number of living children</li><li>Employment</li><li>Education</li><li>Wealth quintile </li><li>By frequency of violence in the past 12 months preceding the survey (Often, Sometimes, Often or sometimes)</li><li>Religion</li></ul>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COMPARABILITY">
+          <com:Text xml:lang="en"><![CDATA[<h2>Indicator available</h2>
+            
+            <p>Percentage of ever-married women age 15-49 years who have experienced various forms of violence ever or in the 12 months preceding the survey committed by their husband/partner</p>
+            
+
+            
+            <h2>Global indicator description</h2>
+            <p>Proportion of ever-partnered women and girls aged 15 years and older subjected to physical, sexual or psychological violence by a current or former intimate partner in the previous 12 months, by form of violence and by age</p>
+            
+
+            
+            <h2>Link to UN Metadata</h2>
+            <p><a href="https://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-5.pdf" target="_blank">United Nations Sustainable Development Goals Metadata (PDF 518 KB)</a></p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="OTHER_DOC">
+          <com:Text xml:lang="en"><![CDATA[<h2>UN designated tier</h2>
+            <p>2</p>]]></com:Text>
+        </gen:ReportedAttribute>
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  <mes:MetadataSet structureRef="MDS1" setID="16f12a5c-163b-4f60-82c3-e8ddab606b22">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>VC_VAW_PSYV</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>RW</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        <gen:ReportedAttribute id="SDG_INDICATOR_INFO">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_GOAL">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_TARGET">
+          <com:Text xml:lang="en"><![CDATA[<p>5.2</p> <p>Eliminate all forms of violence against all women and girls in the public and private spheres, including trafficking and sexual and other types of exploitation</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          <com:Text xml:lang="en"><![CDATA[<p>5.2.1</p> <p>Proportion of ever-partnered women and girls aged 15 years and older subjected to physical, sexual or psychological violence by a current or former intimate partner in the previous 12 months, by form of violence and by age</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_SERIES_DESCR">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="META_LAST_UPDATE">
+          <com:Text xml:lang="en"><![CDATA[<p>2014-15</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_RELATED_INDICATORS">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_CUSTODIAN_AGENCIES">
+          <com:Text xml:lang="en"><![CDATA[<p>United Nations Children’s Fund (UNICEF) The United Nations Entity for Gender Equality and the Empowerment of Women (UN Women) United Nations Population Fund (UNFPA) World Health Organization (WHO) United Nations Office on Drugs and Crime (UNODC)</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_ORGANISATION">
+          <com:Text xml:lang="en"><![CDATA[<p>National Institute of Statistics of Rwanda</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_FUNCT">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_MAIL">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          <com:Text xml:lang="en"><![CDATA[<p><a href="mailto:info@statistics.gov.rw">info@statistics.gov.rw</a></p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="IND_DEF_CON_CLASS">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          <com:Text xml:lang="en"><![CDATA[<p>This indicator measures the percentage of ever-married women and girls aged 15-49 years who have experienced spousal physical, sexual or psychological violence in the previous 12 months.</p><p>According to the UN Declaration on the Elimination of Violence against Women (1993), Violence against Women is “Any act of gender-based violence that results in, or is likely to result in, physical, sexual or psychological harm or suffering to women, including threats of such acts, coercion or arbitrary deprivation of liberty, whether occurring in public or in private life. Violence against women shall be understood to encompass, but not be limited to, the following: Physical, sexual and psychological violence occurring in the family […]”. See here for full definition: <a href="http://www.un.org/documents/ga/res/48/a48r104.htm">http://www.un.org/documents/ga/res/48/a48r104.htm</a></p><p>Intimate partner violence includes any abuse perpetrated by a current or former partner within the context of marriage, cohabitation or any other formal or informal union. </p><p>The different forms of violence included in the indicator are defined as follows: </p><p>1. Physical violence consists of acts aimed at physically hurting the victim and include, but are not limited to, pushing, grabbing, twisting the arm, pulling the hair, slapping, kicking, biting or hitting with the fist or object, trying to strangle or suffocate, burning or scalding on purpose, or threatening or attacking with some sort of weapon, gun or knife. </p><p>2. Sexual violence is defined as any sort of harmful or unwanted sexual behaviour that is imposed on someone. It includes acts of abusive sexual contact, forced engagement in sexual acts, attempted or completed sexual acts without consent, incest, sexual harassment, etc. In intimate partner relationships, experiencing sexual violence is commonly defined as being forced to have sexual intercourse, having sexual intercourse out of fear for what the partner might do, and/or being forced to so something sexual that the woman considers humiliating or degrading. </p><p>3. Psychological violence includes a range of behaviours that encompass acts of emotional abuse and controlling behaviour. These often coexist with acts of physical and sexual violence by intimate partners and are acts of violence in themselves. For a more detailed definition of physical, sexual and psychological violence against women see Guidelines for Producing Statistics on Violence against Women- Statistical Surveys (UN, 2014).</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="UNIT_MEASURE">
+          <com:Text xml:lang="en"><![CDATA[<p>Percentage (%)</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CLASS_SYSTEM">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SRC_TYPE_COLL_METHOD">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COLL_METHOD">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="FREQ_COLL">
+          <com:Text xml:lang="en"><![CDATA[<p>3-5 Years</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="REL_CAL_POLICY">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="DATA_SOURCE">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="INST_MANDATE">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="OTHER_METHOD">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="RATIONALE">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="DATA_COMP">
+          <com:Text xml:lang="en"><![CDATA[<p>This indicator calls for breakdown by form of violence and by age group and yields the following for each form of violence or forms of violence: </p><p>1. Physical violence: Number of ever-partnered women and girls (aged 15 years and above) who experience physical violence by a current or former intimate partner in the previous 12 months divided by the number of ever-partnered women and girls (aged 15 years and above) in the population multiplied by 100</p><p>2. Sexual violence: Number of ever-partnered women and girls (aged 15 years and above) who experience sexual violence by a current or former intimate partner in the previous 12 months divided by the number of ever-partnered women and girls (aged 15 years and above) in the population multiplied by 100 3 </p><p>3. Psychological violence: Number of ever-partnered women and girls (aged 15 years and above) who experience psychological violence by a current or former intimate partner in the previous 12 months divided by the number of ever-partnered women and girls (aged 15 years and above) multiplied by 100 </p><p>4. Any form of physical and/or sexual violence: Number of ever-partnered women and girls (aged 15 years and above) who experience physical and/or sexual violence by a current or former intimate partner in the previous 12 months divided by the number of ever-partnered women and girls (aged 15 years and above) multiplied by 100 </p><p>5. Any form of physical, sexual and/or psychological violence: Number of ever-partnered women and girls (aged 15 years and above) who experience physical, sexual and/or psychological violence by a current or former intimate partner in the previous 12 months divided by the number of ever-partnered women and girls (aged 15 years and above) multiplied by 100</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="DATA_VALIDATION">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="ADJUSTMENT">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="IMPUTATION">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="REG_AGG">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="DOC_METHOD">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="QUALITY_MGMNT">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="QUALITY_ASSMNT">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COVERAGE">
+          <com:Text xml:lang="en"><![CDATA[<h2>Earliest available data</h2>
+            <p>Rwanda Demographic Health Survey (RDHS) 1992</p>
+            
+
+            
+            <h2>Geographical coverage</h2>
+             <p>National</p>
+            
+
+            
+            <h2>Disaggregation</h2>
+            <ul><li>Geographical: National, Province, Residence (Urban &amp; Rural)</li><li>Age</li><li>Maternity status</li><li>Number of living children</li><li>Employment</li><li>Education</li><li>Wealth quintile </li><li>By frequency of violence in the past 12 months preceding the survey (Often, Sometimes, Often or sometimes)</li><li>Religion</li></ul>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COMPARABILITY">
+          <com:Text xml:lang="en"><![CDATA[<h2>Indicator available</h2>
+            
+            <p>Percentage of ever-married women age 15-49 years who have experienced various forms of violence ever or in the 12 months preceding the survey committed by their husband/partner</p>
+            
+
+            
+            <h2>Global indicator description</h2>
+            <p>Proportion of ever-partnered women and girls aged 15 years and older subjected to physical, sexual or psychological violence by a current or former intimate partner in the previous 12 months, by form of violence and by age</p>
+            
+
+            
+            <h2>Link to UN Metadata</h2>
+            <p><a href="https://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-5.pdf" target="_blank">United Nations Sustainable Development Goals Metadata (PDF 518 KB)</a></p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="OTHER_DOC">
+          <com:Text xml:lang="en"><![CDATA[<h2>UN designated tier</h2>
+            <p>2</p>]]></com:Text>
+        </gen:ReportedAttribute>
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+</mes:GenericMetadata>
