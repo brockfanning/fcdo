@@ -6,6 +6,7 @@ install:
 build:
 	cd web && bundle exec jekyll build
 	python scripts/sdg-build.py
+	node scripts/rwanda-metadata-templates.js
 
 serve: build
 	cd web && bundle exec jekyll serve --skip-initial-build

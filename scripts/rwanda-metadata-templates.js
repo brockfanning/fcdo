@@ -1,10 +1,11 @@
 const path = require('path')
 const mammoth = require('mammoth')
 const cheerio = require('cheerio')
-const { Metadata, WordTemplateOutput } = require('sdg-metadata-convert')
+const { Metadata, WordTemplateOutput, SdmxOutput, descriptorStore } = require('sdg-metadata-convert')
 const wordTemplateOutput = new WordTemplateOutput({
     template: path.join('scripts', 'templates', 'SDG_Metadata_Template_Rwanda.docm'),
 })
+const sdmxOutput = new SdmxOutput()
 const nunjucks = require('nunjucks')
 nunjucks.configure({ autoescape: false });
 
@@ -169,6 +170,18 @@ function getConceptTemplates() {
 
 const originalFields = {}
 
+function prepareOutput(text) {
+    return text
+        .replace(/'/g, '&#39;')
+}
+
+function getSeriesFromIndicatorId(indicatorId) {
+    indicatorId = indicatorId.replace(/-/g, '.')
+    const series = descriptorStore.getDescriptor('SERIES')
+    const matches = series.options.filter(item => item.indicatorIds.includes(indicatorId))
+    return (matches.length === 0) ? false : matches.map(match => match.key)
+}
+
 mammoth.convertToHtml({path: 'web/_data/countries/rwanda/77 Metadata document.docx'})
     .then(async function(result) {
         const html = result.value
@@ -206,9 +219,18 @@ mammoth.convertToHtml({path: 'web/_data/countries/rwanda/77 Metadata document.do
             const newMetadata = {}
             for (const key of Object.keys(templates)) {
                 const rendered = nunjucks.renderString(templates[key], oldMetadata).trim()
-                newMetadata[key] = rendered
+                newMetadata[key] = prepareOutput(rendered)
             }
-            const metadata = new Metadata(newMetadata)
+
+            const series = getSeriesFromIndicatorId(indicatorId)
+            const descriptors = {
+                'LANGUAGE': 'en',
+                'REPORTING_TYPE': 'N',
+                'REF_AREA': 'RW',
+                'SERIES': series,
+            }
+
+            const metadata = new Metadata(newMetadata, descriptors)
 
             const folder = path.join('web', '_data', 'countries', 'rwanda', 'metadata-templates')
             const filename = indicatorId.replace(/\./g, '-') + '.docm'
@@ -216,6 +238,17 @@ mammoth.convertToHtml({path: 'web/_data/countries/rwanda/77 Metadata document.do
             await wordTemplateOutput.write(metadata, filepath)
                 .then(() => console.log(`Created ${filepath}.`))
                 .catch(err => console.log(err))
+
+            if (!series) {
+                console.log('Unable to produce SDMX for ' + indicatorId + '. SERIES could not be identified.')
+            }
+            else {
+                const sdmxPath = path.join(folder, filename.replace('.docm', '.xml'))
+                await sdmxOutput.write(metadata, sdmxPath)
+                    .then(() => console.log(`Created ${sdmxPath}.`))
+                    .catch(err => console.log(err))
+            }
+
         }
         //console.log(originalFields)
     })

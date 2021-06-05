@@ -7,7 +7,7 @@
     "cheerio": "^1.0.0-rc.5",
     "mammoth": "^1.4.16",
     "nunjucks": "^3.2.3",
-    "sdg-metadata-convert": "github:brockfanning/sdg-metadata-convert#word-output-templates"
+    "sdg-metadata-convert": "github:worldbank/sdg-metadata-convert#master"
   },
   "devDependencies": {},
   "scripts": {
