@@ -11,6 +11,7 @@ platform:
 
 data:
   status: SDMX published
+  sdg_build: true
 metadata:
   status: Trainings upcoming
 

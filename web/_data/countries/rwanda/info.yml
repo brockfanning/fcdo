@@ -13,6 +13,7 @@ platform:
 data:
   status: SDMX published
   details: ''
+  sdg_build: true
 metadata:
   status: Needs SDMX mapping
 

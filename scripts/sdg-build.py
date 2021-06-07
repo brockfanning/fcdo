@@ -182,6 +182,21 @@ def alter_data_zimbabwe(df, context):
     return drop_columns(df, 'zimbabwe')
 
 
+def alter_data_lao(df, context):
+    df = common_alterations(df)
+    return drop_columns(df, 'lao')
+
+
+def alter_data_cambodia(df, context):
+    df = common_alterations(df)
+    return drop_columns(df, 'cambodia')
+
+
+def alter_data_rwanda(df, context):
+    df = common_alterations(df)
+    return drop_columns(df, 'rwanda')
+
+
 def alter_data_by_country(country):
     if country == 'jordan':
         return alter_data_jordan
@@ -199,6 +214,12 @@ def alter_data_by_country(country):
         return alter_data_zambia
     elif country == 'zimbabwe':
         return alter_data_zimbabwe
+    elif country == 'lao':
+        return alter_data_lao
+    elif country == 'cambodia':
+        return alter_data_cambodia
+    elif country == 'rwanda':
+        return alter_data_rwanda
 
 
 def alter_indicator_id(indicator_id):
@@ -214,10 +235,14 @@ countries = [
     'uganda',
     'zambia',
     'zimbabwe',
+    'cambodia',
+    'lao',
+    'rwanda',
 ]
 for country in countries:
     config_path = os.path.join('scripts', 'sdg-build-config', country + '.yml')
     alter_data = alter_data_by_country(country)
+    print('******* ' + country + ' *******')
     open_sdg_build(config=config_path, alter_data=alter_data, alter_indicator_id=alter_indicator_id)
     source = os.path.join('_build', country)
     destination = os.path.join('web', '_site', country, 'sdg-build')

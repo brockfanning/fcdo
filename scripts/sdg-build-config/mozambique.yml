@@ -2,8 +2,11 @@ docs_baseurl: /fcdo/mozambique/sdg-build
 languages:
   - en
 site_dir: _build/mozambique
-schema_file: _prose.yml
 src_dir: 'scripts/sdg-build-config'
+
+schema:
+  - class: SchemaInputSdmxMsd
+    schema_path: SDG_MSD.xml
 
 docs_branding: Mozambique SDG data summary
 docs_intro: This summary uses code from the Open SDG project to
@@ -19,6 +22,9 @@ inputs:
     indicator_key: indicador
     column_map: scripts/sdg-build-config/sdmx-mappings/columns-mozambique.csv
     code_map: scripts/sdg-build-config/sdmx-mappings/codes-afdb.csv
+  - class: InputSdgMetadata
+    source: https://github.com/brockfanning/sdg-metadata-mz
+    branch: main
 
 translations:
   - class: TranslationInputSdgTranslations
@@ -31,6 +37,7 @@ reporting_status_extra_fields: []
 
 sdmx_output:
   constrain_data: true
+  constrain_meta: true
   dsd: https://registry.sdmx.org/ws/public/sdmxapi/rest/datastructure/IAEG-SDGs/SDG/latest/?format=sdmx-2.1&detail=full&references=children
 
 logging:
