@@ -1,0 +1,3 @@
+Year,OBS_STATUS,NATURE,COMMENT_OBS,UNIT_MULT,SOURCE_DETAIL,FREQ,REPORTING_TYPE,SERIES,REF_AREA,UNIT_MEASURE,Value
+2017,A,_X,Percentage of households with internet access,0,"EICV, NISR",A,N,_L_RW_170801_1,RW,PT,17.2
+2020,A,_X,Percentage of households with internet access,0,"EICV, NISR",A,N,_L_RW_170801_1,RW,PT,23.8

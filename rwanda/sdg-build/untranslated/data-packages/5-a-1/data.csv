@@ -1,0 +1,5 @@
+Year,OBS_STATUS,NATURE,COMMENT_OBS,UNIT_MULT,SOURCE_DETAIL,FREQ,REPORTING_TYPE,SERIES,REF_AREA,SEX,UNIT_MEASURE,Value
+2019,A,_X,"Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex; and (b) share of women among owners or rights-bearers of agricultural land, by type of tenure",0,RLMUA,A,N,_L_RW_050A01_1,RW,,PT,38
+2019,A,_X,Only Women own agriculture,0,RLMUA,A,N,_L_RW_050A01_1,RW,F,PT,25
+2019,A,_X,Only Men own agriculture,0,RLMUA,A,N,_L_RW_050A01_1,RW,M,PT,13
+2019,A,_X,Both male and female for married couples own agriculture,0,RLMUA,A,N,_L_RW_050A01_2,RW,,PT,62

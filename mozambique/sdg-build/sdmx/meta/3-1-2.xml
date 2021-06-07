@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
   <mes:Header>
-    <mes:ID>IREF1623036954</mes:ID>
+    <mes:ID>IREF1623075715</mes:ID>
     <mes:Test>True</mes:Test>
-    <mes:Prepared>2021-06-07T03:35:54</mes:Prepared>
+    <mes:Prepared>2021-06-07T14:21:55</mes:Prepared>
     <mes:Sender id="open-sdg_sdg-build@1-3-0"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -12,7 +12,7 @@
     </mes:Structure>
   </mes:Header>
   
-  <mes:MetadataSet structureRef="MDS1" setID="99979b45-aa25-4391-8838-a8ea9522d110">
+  <mes:MetadataSet structureRef="MDS1" setID="372958ea-3fb2-4682-a346-c3ee21d43b18">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -37,51 +37,210 @@
       </gen:Target>
       <gen:AttributeSet>
         
-        <gen:ReportedAttribute id="target_id">
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
           
-          <com:Text xml:lang="en"><![CDATA[3.1]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="sdg_goal">
-          
-          <com:Text xml:lang="en"><![CDATA[3]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> Directorate of Demographic, Vital and Social Statistics </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
-        <gen:ReportedAttribute id="reporting_status">
+        <gen:ReportedAttribute id="SDG_GOAL">
           
-          <com:Text xml:lang="en"><![CDATA[complete]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="data_non_statistical">
-          
-          <com:Text xml:lang="en"><![CDATA[False]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> 3 GUARANTEE ACCESS TO QUALITY HEALTH AND PROMOTE WELFARE FOR ALL </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
-        <gen:ReportedAttribute id="graph_type">
+        <gen:ReportedAttribute id="SDG_TARGET">
           
-          <com:Text xml:lang="en"><![CDATA[line]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="indicator_sort_order">
-          
-          <com:Text xml:lang="en"><![CDATA[03-01-02]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> 3.1 By 2030, reduce the global maternal mortality rate to less than 70 deaths per 100,000 live births </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
-        <gen:ReportedAttribute id="indicator_name">
+        <gen:ReportedAttribute id="SDG_INDICATOR">
           
-          <com:Text xml:lang="en"><![CDATA[Investimento directo estrangeiro (IDE), em percentagem do PIB]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> 3.1.2 Percentage of births attended by qualified health personnel </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
-        <gen:ReportedAttribute id="graph_title">
+        <gen:ReportedAttribute id="SDG_SERIES_DESCR">
           
-          <com:Text xml:lang="en"><![CDATA[Investimento directo estrangeiro (IDE), em percentagem do PIB]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> Births attended by qualified health personnel as a percentage </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="META_LAST_UPDATE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> 10/9/2020 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_ORGANISATION">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> NATIONAL INSTITUTE OF STATISTICS </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Teixeira Mandlate, Maria Alfeu and João Mangue </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_FUNCT">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Technicians </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> +258 844386629; +258 823032619; +258 827679480 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_MAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> www.ine.gov.mz </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> <a href="mailto:Teixeira.mandlate@ine.gov.mz"> Teixeira.mandlate@ine.gov.mz </a>; <a href="mailto:maria.alfeu@ine.gov.mz"> maria.alfeu@ine.gov.mz </a>; <a href="mailto:joao.mangue@ine.gov.mz"> joao.mangue@ine.gov.mz </a> </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Percentage of births attended by qualified health personnel is defined as the percentage of births attended by health personnel trained to provide obstetric care </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="UNIT_MEASURE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Percentage </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Statistics Portugal, Demographic and health survey (IDS) </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COLL_METHOD">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The recommended data sources for calculating this indicator are Household Surveys. The Demographic and Health Survey data collection questionnaire was designed and subsequently tested in the field during the training of interviewers. </p>
+ <p> For data collection, the methodology of interviews was applied face to face to the households, applying three types of questionnaires: </p>
+ <p> • Household Questionnaire </p>
+ <p> • Women's Questionnaire </p>
+ <p> • Men's Questionnaire. </p>
+ <p> The Sample Design </p>
+ <p> The Demographic and Health Survey comprises a probabilistic, stratified and multi-stage sample, selected from the Data and Cartography of the III General Census of Population and Housing, carried out by INE in 2007. </p>
+ <p> The data collection lasted for five months starting in June 2011, ending in November 2011. </p>
+ <p> Response rate </p>
+ <p> Of the 13.964 households interviewed in the survey, a total of 13.871 eligible women were identified. Interviews were conducted with 13,718 of these women, which resulted in a response rate of 99%. Introduction • 13 In one third of the IDS household sample, interviews were also conducted with all eligible men found. Thus, of the 4,130 eligible men identified in the subsample of households selected for the men survey, 4,027 were successfully interviewed, giving a response rate of 98% </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="FREQ_COLL">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> 2021 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REL_CAL_POLICY">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> 2022 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_SOURCE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> National Institute of Statistics </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> National Institute of Statistics </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="INST_MANDATE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Law 7/96 of 5 July </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Having a qualified assistant at the time of delivery is an important life-saving intervention for both mothers and babies. Not having access to this key assistance is detrimental to women's health and gender empowerment, as it can cause the mother's death or lasting disability, especially in marginalized settings. </p>
+ <p> The result of this indicator shows the proportion of births attended by health personnel trained to provide obstetric care </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Having a qualified assistant at the time of delivery is an important life-saving intervention for both mothers and babies. Not having access to this key assistance is detrimental to women's health and gender empowerment, as it can cause the mother's death or lasting disability, especially in marginalized settings. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> This indicator is calculated by dividing the number of women aged 15 to 49 with births attended by qualified health personnel (usually doctors, nurses or midwives) over the total number of women aged 15 to 49 with live births during the same period expressed as a percentage </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_VALIDATION">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The field work had close supervision and quality control by the central and provincial technicians, both from INE, MISAU and ICF International staff. In addition, during the data collection, a strict control was established at the level of each team over the collection process, by detecting errors by the field critics, which allowed for immediate correction still on the ground. At the level of central coordination, the data critics carried out a further review of the base data and the problems encountered were communicated to the respective teams. </p>
+ <p> The interactive and batch processing of information through the CSPro program also allowed, at central level, the periodic obtaining of partial results, for analysis of the data collected until a given moment, through the production of tables for monitoring and quality control. The results of these tabulations were reported in feedback to the interviewers, ensuring data quality. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DOC_METHOD">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The Demographic and Health Survey (IDS) in Mozambique is part of an international survey program (MEASURE DHS) developed by ICF International through a contract with USAID, with the purpose of supporting governments and private institutions in developing countries in conducting national surveys by sampling, in the areas of population and health. The MEASURE DHS Program aims to: </p>
+ <p> • Support the formulation of policies and implementation of programs in the areas of population and health; </p>
+ <p> • Increase the international population and health data base for monitoring and evaluation; </p>
+ <p> • Improve the survey methodology by sampling, and </p>
+ <p> • Consolidate, in the survey area, the technical capacity of the executing institution in the country participating in the Program. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_MGMNT">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Quality Management Instrument still to be approved </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The interactive and batch processing of information through the CSPro program also allowed, at central level, the periodic obtaining of partial results, for analysis of the data collected until a given moment, through the production of tables for monitoring and quality control. The results of these tabulations were reported in feedback to the interviewers, ensuring data quality. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSMNT">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Quality Assessment Instrument still to be approved </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Data are available every 5 years and are disaggregated by rural and urban area of residence and by province </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Survey estimates are based on standardized methodology, using the WHO Child Growth Standards, as described in (Ref: Anthro software manual). Global and regional estimates are based on the methodology described at UNICEF-WHO, World Bank: Joint estimates of child malnutrition - Levels and trends (UNICEF / WHO / BM) </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Ministry of Health (MISAU), <a href="http://www.misau.gov.mz"> www.misau.gov.mz </a>; National Statistics Institute (INE), <a href="http://www.misau.gov.mz"> www.misau.gov.mz </a>; ICF International (ICFI), <a href="http://www.measuredhs.com"> www.measuredhs.com </a> </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         

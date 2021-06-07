@@ -1,0 +1,5 @@
+Year,OBS_STATUS,NATURE,COMMENT_OBS,UNIT_MULT,SOURCE_DETAIL,FREQ,REPORTING_TYPE,SERIES,REF_AREA,UNIT_MEASURE,Value
+2016,A,_X,Proportion of population that feel safe walking alone around the area they live in,0,"MINIJUST, GALLUP WORLD POLL",A,N,VC_SNS_WALN,RW,PT,79
+2017,A,_X,Proportion of population that feel safe walking alone around the area they live in,0,"MINIJUST, GALLUP WORLD POLL",A,N,VC_SNS_WALN,RW,PT,87
+2018,A,_X,Proportion of population that feel safe walking alone around the area they live in,0,"MINIJUST, GALLUP WORLD POLL",A,N,VC_SNS_WALN,RW,PT,88
+2019,A,_X,Proportion of population that feel safe walking alone around the area they live in,0,"MINIJUST, GALLUP WORLD POLL",A,N,VC_SNS_WALN,RW,PT,84

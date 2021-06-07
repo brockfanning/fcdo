@@ -1,0 +1,5 @@
+Year,OBS_STATUS,NATURE,COMMENT_OBS,UNIT_MULT,SOURCE_DETAIL,FREQ,REPORTING_TYPE,SERIES,REF_AREA,UNIT_MEASURE,Value
+2015,A,_X,Moderately food insecure based on CARI Method,0,"CFSVA, NISR, MINAGRI",A,N,_L_RW_020102_1,RW,PT,16.8
+2018,A,_X,Moderately food insecure based on CARI Method,0,"CFSVA, NISR, MINAGRI",A,N,_L_RW_020102_1,RW,PT,17.0
+2015,A,_X,Severely food insecure based on CARI Method,0,"CFSVA, NISR, MINAGRI",A,N,_L_RW_020102_2,RW,PT,2.6
+2018,A,_X,Severely food insecure based on CARI Method,0,"CFSVA, NISR, MINAGRI",A,N,_L_RW_020102_2,RW,PT,1.7

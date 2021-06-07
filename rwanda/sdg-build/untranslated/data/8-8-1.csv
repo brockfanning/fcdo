@@ -1,0 +1,13 @@
+Year,OBS_STATUS,NATURE,COMMENT_OBS,UNIT_MULT,SOURCE_DETAIL,FREQ,REPORTING_TYPE,SERIES,REF_AREA,SEX,UNIT_MEASURE,Value
+2018,A,_X,Fatal occupational injuries among employees (rate),0,RSSB,A,N,SL_EMP_FTLINJUR,RW,,PT,6
+2019,A,_X,Fatal occupational injuries among employees (rate),0,RSSB,A,N,SL_EMP_FTLINJUR,RW,,PT,5
+2018,A,_X,Fatal occupational injuries among employees (rate),0,RSSB,A,N,SL_EMP_FTLINJUR,RW,M,PT,7
+2019,A,_X,Fatal occupational injuries among employees (rate),0,RSSB,A,N,SL_EMP_FTLINJUR,RW,M,PT,5
+2018,A,_X,Fatal occupational injuries among employees (rate),0,RSSB,A,N,SL_EMP_FTLINJUR,RW,F,PT,0
+2019,A,_X,Fatal occupational injuries among employees (rate),0,RSSB,A,N,SL_EMP_FTLINJUR,RW,F,PT,4
+2018,A,_X,Non-fatal occupational injuries among employees (rate),0,RSSB,A,N,SL_EMP_INJUR,RW,,PT,94
+2019,A,_X,Non-fatal occupational injuries among employees (rate),0,RSSB,A,N,SL_EMP_INJUR,RW,,PT,95
+2018,A,_X,Non-fatal occupational injuries among employees (rate),0,RSSB,A,N,SL_EMP_INJUR,RW,M,PT,93
+2019,A,_X,Non-fatal occupational injuries among employees (rate),0,RSSB,A,N,SL_EMP_INJUR,RW,M,PT,95
+2018,A,_X,Non-fatal occupational injuries among employees (rate),0,RSSB,A,N,SL_EMP_INJUR,RW,F,PT,100
+2019,A,_X,Non-fatal occupational injuries among employees (rate),0,RSSB,A,N,SL_EMP_INJUR,RW,F,PT,96

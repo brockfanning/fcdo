@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
   <mes:Header>
-    <mes:ID>IREF1623036954</mes:ID>
+    <mes:ID>IREF1623075715</mes:ID>
     <mes:Test>True</mes:Test>
-    <mes:Prepared>2021-06-07T03:35:54</mes:Prepared>
+    <mes:Prepared>2021-06-07T14:21:55</mes:Prepared>
     <mes:Sender id="open-sdg_sdg-build@1-3-0"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -12,7 +12,7 @@
     </mes:Structure>
   </mes:Header>
   
-  <mes:MetadataSet structureRef="MDS1" setID="dc855b7e-6a07-4966-b256-1788dc1f9d1c">
+  <mes:MetadataSet structureRef="MDS1" setID="ae7ab256-d947-4282-8ff2-7a1bdcb88170">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -37,51 +37,220 @@
       </gen:Target>
       <gen:AttributeSet>
         
-        <gen:ReportedAttribute id="target_id">
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
           
-          <com:Text xml:lang="en"><![CDATA[8.1]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="sdg_goal">
-          
-          <com:Text xml:lang="en"><![CDATA[8]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> Directorate of National Accounts and Global Indicators </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
-        <gen:ReportedAttribute id="reporting_status">
+        <gen:ReportedAttribute id="SDG_GOAL">
           
-          <com:Text xml:lang="en"><![CDATA[complete]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="data_non_statistical">
-          
-          <com:Text xml:lang="en"><![CDATA[False]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> 8 Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
-        <gen:ReportedAttribute id="graph_type">
+        <gen:ReportedAttribute id="SDG_TARGET">
           
-          <com:Text xml:lang="en"><![CDATA[line]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="indicator_sort_order">
-          
-          <com:Text xml:lang="en"><![CDATA[08-01-01]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> 8.1 Sustaining economic growth per capita according to national circumstances and, in particular, an annual growth of at least 7% of the gross domestic product [GDP] in the least developed countries </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
-        <gen:ReportedAttribute id="indicator_name">
+        <gen:ReportedAttribute id="SDG_INDICATOR">
           
-          <com:Text xml:lang="en"><![CDATA[Investimento directo estrangeiro (IDE), em percentagem do PIB]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <h1> 8.1.1 Annual growth rate of real GDP per capita </h1>]]></com:Text>
           
         </gen:ReportedAttribute>
         
-        <gen:ReportedAttribute id="graph_title">
+        <gen:ReportedAttribute id="SDG_SERIES_DESCR">
           
-          <com:Text xml:lang="en"><![CDATA[Investimento directo estrangeiro (IDE), em percentagem do PIB]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> 8.1.1 Annual growth rate of real GDP per capita </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="META_LAST_UPDATE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> 10/6/2020 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_ORGANISATION">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> National Institute of Statistics </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Perpetua Mendonça; Simão Saturday; Cipriano Claudio </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_FUNCT">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Technician, Head of Department and Director </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Perpetual: + 258-823810450 / + 258-873810450; </p>
+ <p> Saturday: + 258-827027780 / + 258-868001057; </p>
+ <p> Cláudio: + 258-824261470 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> <a href="mailto:perpetua.mendoca@ine.gov.mz"> perpetua.mendoca@ine.gov.mz </a>; simao.sabado@ine.gov.mz; claudio.cipriano@ine.gov.mz </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The annual growth rate of real gross domestic product (GDP) per capita is calculated as the percentage change in real GDP per capita between two consecutive years. Real GDP per capita is calculated by dividing GDP at constant prices by the population of a country or region. Real GDP data is measured in constant US dollars to facilitate the calculation of the country's growth rates, their respective aggregation and comparability between countries or regions. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="UNIT_MEASURE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Percentage </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CLASS_SYSTEM">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Classification of economic activities (CAE), National Classification of Goods and Services (CNBS); Classification of Non-Profit Institutions to Family Services (COPNI); Classification of Government Functions (COFOG), Classification Individual Consumption by Purpose (COICOP) Balance of Payment Manual, Version 6 (MBOP6) </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Monthly surveys, Annual surveys, Administrative data </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COLL_METHOD">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Monthly and annual business surveys are current, probabilistic surveys. Physical or electronic questionnaires are sent to companies for completion and return. They have as key variables: the main and secondary activity, the volume of business, expenses detailed by type of expenditure, No. of workers, remuneration and hours worked. They have their own computer applications with validation rules. </p>
+ <p> Administrative data is received on models used by the sources. When they are received, an assessment is made of their quality. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="FREQ_COLL">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> From January to December of each year </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REL_CAL_POLICY">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> May of each year: Preliminary GDP for year n-1 and Definitive GDP for n-2; October of each year: Provisional GDP of the year n-1 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_SOURCE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Ministries, Bank of Mozambique, state institutions </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> National Institute of Statistics </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="INST_MANDATE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> According to article 19, of Law 7/96 of July 5th: </p>
+ <ol>
+   <li> The National Statistics Institute (INE) is the central executive body of the National Statistical System (SEN) whose objective is the notation, calculation, coordination and dissemination of the country's official statistical information and is subordinate to the Minister Council. </li>
+   <li> INE is responsible for carrying out the country's official statistical activity. </li>
+ </ol>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The Real Gross Domestic Product (GDP) per capita is a proxy for the average standard of living of residents in a country or area. A positive percentage change in real annual GDP per capita can be interpreted as an increase in the average standard of living of residents in a country or area </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Lack of strict compliance with statistical legislation; </p>
+ <p> Late reception of data from sources; </p>
+ <p> Lack or insufficient resources to carry out surveys at regular intervals can lead to skewed production and transaction estimates. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The annual growth rate of real gross domestic product (GDP) per capita is calculated as follows: </p>
+ <ol>
+   <li> Convert the annual real GDP (constant prices) into the national currency of a country or region in US dollars using the base year exchange rate. </li>
+   <li> Divide the result by the population of the country or region to obtain the annual real GDP per capita in US dollars. </li>
+   <li> Calculate the annual growth rate of real GDP per capita in year t <sub> +1 </sub>, using the following formula: [(G (t <sub> +1 </sub>) - G (t) G (t <sub> +1 </sub>) is the real GDP per capita in dollars in year t <sub> +1 </sub> and G (t) is the real GDP per capita in dollars of the year t. A0f84d72dce6e5
+ </ol>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_VALIDATION">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Crossing survey data with audited accounts. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DOC_METHOD">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The annual growth rate of real gross domestic product (GDP) per capita is calculated as follows: </p>
+ <ol>
+   <li> Convert the annual real GDP (constant prices) into the national currency of a country or region in US dollars using the base year exchange rate. </li>
+   <li> Divide the result by the population of the country or region to obtain the annual real GDP per capita in US dollars. </li>
+   <li> Calculate the annual growth rate of real GDP per capita in year t <sub> +1 </sub>, using the following formula: [(G (t <sub> +1 </sub>) - G (t) G (t <sub> +1 </sub>) is the real GDP per capita in dollars in year t <sub> +1 </sub> and G (t) is the real GDP per capita in dollars of the year t .. a0f84d72dce6e5
+ </ol>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_MGMNT">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The data compiled and verified by the technicians are reconciled by the heads and submitted to the directors for recheck. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Use of United Nations manuals for National Accounts, SNA 2008; compliance with the reviews recommended by the United Nations. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSMNT">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Sharing with international publications institutions. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> May of each year: GDP Preliminaries for the year <sub> </sub> n; </p>
+ <p> May of each year: Definitive GDP for year n-1; </p>
+ <p> October of each year: Provisional GDP of year n. </p>
+ <p> Data disaggregated by country and by province </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Calculation of this indicator does not differ from calculations made internationally, because United Nations manuals are used for National Accounts, SNA 2008; compliance with the reviews recommended by the United Nations. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> SNA 2008, from the United Nations; </p>
+ <p> National and international classifications; </p>
+ <p> MBOP6 (Mozambique, Balance of Payment Manual, Version 6) </p>
+ <p> http://www.ine.gov.mz/estatisticas/estatisticas-economicas/contas-nacionais </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         

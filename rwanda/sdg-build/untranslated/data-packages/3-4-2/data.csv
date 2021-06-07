@@ -1,0 +1,11 @@
+Year,OBS_STATUS,NATURE,COMMENT_OBS,UNIT_MULT,SOURCE_DETAIL,FREQ,REPORTING_TYPE,SERIES,REF_AREA,UNIT_MEASURE,Value
+2015,A,_X,Suicide mortality rate,0,RIB,A,N,SH_STA_SCIDE,RW,PER_100000_POP,1.39
+2016,A,_X,Suicide mortality rate,0,RIB,A,N,SH_STA_SCIDE,RW,PER_100000_POP,1.56
+2017,A,_X,Suicide mortality rate,0,RIB,A,N,SH_STA_SCIDE,RW,PER_100000_POP,1.63
+2018,A,_X,Suicide mortality rate,0,RIB,A,N,SH_STA_SCIDE,RW,PER_100000_POP,1.88
+2019,A,_X,Suicide mortality rate,0,RIB,A,N,SH_STA_SCIDE,RW,PER_100000_POP,1.93
+2015,A,_X,Number of deaths attributed to suicide,0,RIB,A,N,SH_STA_SCIDEN,RW,NUMBER,157.0
+2016,A,_X,Number of deaths attributed to suicide,0,RIB,A,N,SH_STA_SCIDEN,RW,NUMBER,181.0
+2017,A,_X,Number of deaths attributed to suicide,0,RIB,A,N,SH_STA_SCIDEN,RW,NUMBER,193.0
+2018,A,_X,Number of deaths attributed to suicide,0,RIB,A,N,SH_STA_SCIDEN,RW,NUMBER,228.0
+2019,A,_X,Number of deaths attributed to suicide,0,RIB,A,N,SH_STA_SCIDEN,RW,NUMBER,239.0

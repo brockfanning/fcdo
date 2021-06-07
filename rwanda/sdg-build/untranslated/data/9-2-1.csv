@@ -1,0 +1,41 @@
+Year,OBS_STATUS,NATURE,COMMENT_OBS,UNIT_MULT,SOURCE_DETAIL,FREQ,REPORTING_TYPE,SERIES,REF_AREA,UNIT_MEASURE,Value
+2000,A,_X,Manufacturing value added as a proportion of GDP (%),0,"National Accounts, NISR",A,N,NV_IND_MANF,RW,PT,12.0
+2001,A,_X,Manufacturing value added as a proportion of GDP (%),0,"National Accounts, NISR",A,N,NV_IND_MANF,RW,PT,11.0
+2002,A,_X,Manufacturing value added as a proportion of GDP (%),0,"National Accounts, NISR",A,N,NV_IND_MANF,RW,PT,12.0
+2003,A,_X,Manufacturing value added as a proportion of GDP (%),0,"National Accounts, NISR",A,N,NV_IND_MANF,RW,PT,10.0
+2004,A,_X,Manufacturing value added as a proportion of GDP (%),0,"National Accounts, NISR",A,N,NV_IND_MANF,RW,PT,10.0
+2005,A,_X,Manufacturing value added as a proportion of GDP (%),0,"National Accounts, NISR",A,N,NV_IND_MANF,RW,PT,10.0
+2006,A,_X,Manufacturing value added as a proportion of GDP (%),0,"National Accounts, NISR",A,N,NV_IND_MANF,RW,PT,9.0
+2007,A,_X,Manufacturing value added as a proportion of GDP (%),0,"National Accounts, NISR",A,N,NV_IND_MANF,RW,PT,8.0
+2008,A,_X,Manufacturing value added as a proportion of GDP (%),0,"National Accounts, NISR",A,N,NV_IND_MANF,RW,PT,8.0
+2009,A,_X,Manufacturing value added as a proportion of GDP (%),0,"National Accounts, NISR",A,N,NV_IND_MANF,RW,PT,8.0
+2010,A,_X,Manufacturing value added as a proportion of GDP (%),0,"National Accounts, NISR",A,N,NV_IND_MANF,RW,PT,8.0
+2011,A,_X,Manufacturing value added as a proportion of GDP (%),0,"National Accounts, NISR",A,N,NV_IND_MANF,RW,PT,8.0
+2012,A,_X,Manufacturing value added as a proportion of GDP (%),0,"National Accounts, NISR",A,N,NV_IND_MANF,RW,PT,8.0
+2013,A,_X,Manufacturing value added as a proportion of GDP (%),0,"National Accounts, NISR",A,N,NV_IND_MANF,RW,PT,7.0
+2014,A,_X,Manufacturing value added as a proportion of GDP (%),0,"National Accounts, NISR",A,N,NV_IND_MANF,RW,PT,7.0
+2015,A,_X,Manufacturing value added as a proportion of GDP (%),0,"National Accounts, NISR",A,N,NV_IND_MANF,RW,PT,7.0
+2016,A,_X,Manufacturing value added as a proportion of GDP (%),0,"National Accounts, NISR",A,N,NV_IND_MANF,RW,PT,7.0
+2017,A,_X,Manufacturing value added as a proportion of GDP (%),0,"National Accounts, NISR",A,N,NV_IND_MANF,RW,PT,8.0
+2018,A,_X,Manufacturing value added as a proportion of GDP (%),0,"National Accounts, NISR",A,N,NV_IND_MANF,RW,PT,8.0
+2019,A,_X,Manufacturing value added as a proportion of GDP (%),0,"National Accounts, NISR",A,N,NV_IND_MANF,RW,PT,8.0
+2000,A,_X,Manufacturing value added per capita (USD),0,"National Accounts, NISR",A,N,NV_IND_MANFPC,RW,USD,26.307026
+2001,A,_X,Manufacturing value added per capita (USD),0,"National Accounts, NISR",A,N,NV_IND_MANFPC,RW,USD,22.859102
+2002,A,_X,Manufacturing value added per capita (USD),0,"National Accounts, NISR",A,N,NV_IND_MANFPC,RW,USD,23.911631
+2003,A,_X,Manufacturing value added per capita (USD),0,"National Accounts, NISR",A,N,NV_IND_MANFPC,RW,USD,23.066243
+2004,A,_X,Manufacturing value added per capita (USD),0,"National Accounts, NISR",A,N,NV_IND_MANFPC,RW,USD,24.87361
+2005,A,_X,Manufacturing value added per capita (USD),0,"National Accounts, NISR",A,N,NV_IND_MANFPC,RW,USD,29.378162
+2006,A,_X,Manufacturing value added per capita (USD),0,"National Accounts, NISR",A,N,NV_IND_MANFPC,RW,USD,33.413849
+2007,A,_X,Manufacturing value added per capita (USD),0,"National Accounts, NISR",A,N,NV_IND_MANFPC,RW,USD,36.364359
+2008,A,_X,Manufacturing value added per capita (USD),0,"National Accounts, NISR",A,N,NV_IND_MANFPC,RW,USD,43.683248
+2009,A,_X,Manufacturing value added per capita (USD),0,"National Accounts, NISR",A,N,NV_IND_MANFPC,RW,USD,47.190359
+2010,A,_X,Manufacturing value added per capita (USD),0,"National Accounts, NISR",A,N,NV_IND_MANFPC,RW,USD,51.114923
+2011,A,_X,Manufacturing value added per capita (USD),0,"National Accounts, NISR",A,N,NV_IND_MANFPC,RW,USD,57.189542
+2012,A,_X,Manufacturing value added per capita (USD),0,"National Accounts, NISR",A,N,NV_IND_MANFPC,RW,USD,61.268807
+2013,A,_X,Manufacturing value added per capita (USD),0,"National Accounts, NISR",A,N,NV_IND_MANFPC,RW,USD,50.556848
+2014,A,_X,Manufacturing value added per capita (USD),0,"National Accounts, NISR",A,N,NV_IND_MANFPC,RW,USD,51.77692
+2015,A,_X,Manufacturing value added per capita (USD),0,"National Accounts, NISR",A,N,NV_IND_MANFPC,RW,USD,52.728614
+2016,A,_X,Manufacturing value added per capita (USD),0,"National Accounts, NISR",A,N,NV_IND_MANFPC,RW,USD,51.820341
+2017,A,_X,Manufacturing value added per capita (USD),0,"National Accounts, NISR",A,N,NV_IND_MANFPC,RW,USD,60.198012
+2018,A,_X,Manufacturing value added per capita (USD),0,"National Accounts, NISR",A,N,NV_IND_MANFPC,RW,USD,60.087732
+2019,A,_X,Manufacturing value added per capita (USD),0,"National Accounts, NISR",A,N,NV_IND_MANFPC,RW,USD,66.920234

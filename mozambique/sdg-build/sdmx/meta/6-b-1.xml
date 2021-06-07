@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
   <mes:Header>
-    <mes:ID>IREF1623036954</mes:ID>
+    <mes:ID>IREF1623075715</mes:ID>
     <mes:Test>True</mes:Test>
-    <mes:Prepared>2021-06-07T03:35:54</mes:Prepared>
+    <mes:Prepared>2021-06-07T14:21:55</mes:Prepared>
     <mes:Sender id="open-sdg_sdg-build@1-3-0"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -12,7 +12,7 @@
     </mes:Structure>
   </mes:Header>
   
-  <mes:MetadataSet structureRef="MDS1" setID="4bfa89bd-c883-47ed-8b77-b27cb4f019dc">
+  <mes:MetadataSet structureRef="MDS1" setID="d361141c-f326-4aae-9acf-3c0ed193d05b">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -37,51 +37,189 @@
       </gen:Target>
       <gen:AttributeSet>
         
-        <gen:ReportedAttribute id="target_id">
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
           
-          <com:Text xml:lang="en"><![CDATA[6.b]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="sdg_goal">
-          
-          <com:Text xml:lang="en"><![CDATA[6]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> National Directorate of Water Supply and Sanitation </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
-        <gen:ReportedAttribute id="reporting_status">
+        <gen:ReportedAttribute id="SDG_GOAL">
           
-          <com:Text xml:lang="en"><![CDATA[complete]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="data_non_statistical">
-          
-          <com:Text xml:lang="en"><![CDATA[False]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> 6 Ensuring the availability and sustainable management of drinking water and sanitation for all </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
-        <gen:ReportedAttribute id="graph_type">
+        <gen:ReportedAttribute id="SDG_TARGET">
           
-          <com:Text xml:lang="en"><![CDATA[line]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="indicator_sort_order">
-          
-          <com:Text xml:lang="en"><![CDATA[06-0b-01]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> 6.b Support and strengthen the participation of local communities to improve water and sanitation management </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
-        <gen:ReportedAttribute id="indicator_name">
+        <gen:ReportedAttribute id="SDG_INDICATOR">
           
-          <com:Text xml:lang="en"><![CDATA[Investimento directo estrangeiro (IDE), em percentagem do PIB]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> 6.b.1 Percentage of municipalities with established and operational policies and procedures for the participation of local communities in water and sanitation management </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
-        <gen:ReportedAttribute id="graph_title">
+        <gen:ReportedAttribute id="SDG_SERIES_DESCR">
           
-          <com:Text xml:lang="en"><![CDATA[Investimento directo estrangeiro (IDE), em percentagem do PIB]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> Municipalities with established and operational policies and procedures for the participation of local communities in water and sanitation management </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="META_LAST_UPDATE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> 10/9/2020 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_ORGANISATION">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Ministry of Public Works, Housing and Water Resources </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Alcino Nhacume; Amélia Mabota; Marlene Maciel </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_FUNCT">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Alcino Nhacume - Head of Department; Amélia Mabota - Technician; Marlene Maciel - Technique </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Alcino Nhacume - 846463364; Amélia Mabota - 823817060 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_MAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> <a href="mailto:anhacume@dnaas.gov.mz"> anhacume@dnaas.gov.mz </a>; <a href="mailto:ameliamabota@dnaas.gov.mz"> ameliamabota@dnaas.gov.mz </a>; <a href="mailto:mmaciel@dnaas.gov.mz"> mmaciel@dnaas.gov.mz </a> </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> <a href="mailto:anhacume@yahoo.com.br"> anhacume@yahoo.com.br </a>; <a href="mailto:ameliamabota@gmail.com"> ameliamabota@gmail.com </a>; <a href="mailto:marlenmaciel89@gmail.com"> marlenmaciel89@gmail.com </a> </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The indicator assesses the percentage of local administrative units that have an established and operational mechanism for decisions and guidelines on water and sanitation management. Local administrative units refer to districts, municipalities or other local units of the community that cover urban and rural areas to be defined by the Government </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="UNIT_MEASURE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Percentage </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Ministry of Public Works, Housing and Water Resources (National Directorate of Water Supply and Sanitation): Administrative data. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COLL_METHOD">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Data are collected through Meetings and, or institutional work meetings of the technical planning teams </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="FREQ_COLL">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The next data collection is expected to take place by December 2020 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REL_CAL_POLICY">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> January 2021 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_SOURCE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Ministry of Public Works, Housing and Water Resources </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Ministry of Public Works, Housing and Water Resources </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="INST_MANDATE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> In accordance with Ministerial Diploma No. 72/2012, INE delegated powers of notation and calculation of statistical data to the MOPH, through the Bakery and Cooperation Directorate which has the following duties: (i) to prepare and coordinate the planning process of the area Aguaz and Sanitation; (ii) preparing medium and long-term plans for the water sector and monitoring its implementation; (iii) monitor the execution of investment plans and propose corrective measures; and, (iv) assess and monitor the activities in the area </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Defining the procedures in the policy or law for the participation of local communities is vital to ensure that the needs of the entire community are met, including the most vulnerable, and also encourages the appropriation of schemes that, in turn, contribute to their sustainability . A low value for this indicator suggests that the participation of local communities in water and sanitation management is low, while a high value indicates high levels of participation, indicating greater ownership and greater likelihood of sustainable delivery and management of water and sanitation services. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The country has a legal framework of policies and standards that assign competences at local levels to the participation of communities in the management of water supply and sanitation services. Although such a situation exists, there are problems in the operationality of the committees due to the fact that their members do not have the necessary technical expertise in this area. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The value of the indicator is obtained by the quotient between the number of local administrative units with policies and operating procedures for local participation and the total number of local administrative units in the country. All administrative units in the country, in terms of both District and Municipal Governments, have an established and operational mechanism by which individuals and communities contribute significantly to decisions and guidelines on water and sanitation management. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_VALIDATION">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Monitoring of the results of data compilation is carried out by technicians from the Ministry of Public Works, Housing and Water Resources </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_MGMNT">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> In the process of creating the Quality Management System at the level of the National Statistical System. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Meetings with the main players in the integrated water resources management process for data collection and analysis of its consistency. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSMNT">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The instruments for assessing the quality of statistical processes and products at the level of the National Statistical System are still being developed based on the 19 quality principles established by the United Nations Statistical Commission. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Data are made available annually and have no breakdown. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Uses the calculation methodology defined by the United Nations. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Water Law (Law No. 16/91 of August 3; Action Plan for the Implementation of the Water Supply and Sanitation Development Goals 2015-2030, <em> Resolution Nr. 40/2018, of October 24, 2018 </em>; PRONASAR </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -89,7 +227,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="6a9e7ced-de27-4c76-8cd1-6f8b69f87db2">
+  <mes:MetadataSet structureRef="MDS1" setID="dedd787f-5dc1-4355-bc17-f0ebcd577b28">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -114,51 +252,189 @@
       </gen:Target>
       <gen:AttributeSet>
         
-        <gen:ReportedAttribute id="target_id">
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
           
-          <com:Text xml:lang="en"><![CDATA[6.b]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="sdg_goal">
-          
-          <com:Text xml:lang="en"><![CDATA[6]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> National Directorate of Water Supply and Sanitation </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
-        <gen:ReportedAttribute id="reporting_status">
+        <gen:ReportedAttribute id="SDG_GOAL">
           
-          <com:Text xml:lang="en"><![CDATA[complete]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="data_non_statistical">
-          
-          <com:Text xml:lang="en"><![CDATA[False]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> 6 Ensuring the availability and sustainable management of drinking water and sanitation for all </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
-        <gen:ReportedAttribute id="graph_type">
+        <gen:ReportedAttribute id="SDG_TARGET">
           
-          <com:Text xml:lang="en"><![CDATA[line]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="indicator_sort_order">
-          
-          <com:Text xml:lang="en"><![CDATA[06-0b-01]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> 6.b Support and strengthen the participation of local communities to improve water and sanitation management </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
-        <gen:ReportedAttribute id="indicator_name">
+        <gen:ReportedAttribute id="SDG_INDICATOR">
           
-          <com:Text xml:lang="en"><![CDATA[Investimento directo estrangeiro (IDE), em percentagem do PIB]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> 6.b.1 Percentage of municipalities with established and operational policies and procedures for the participation of local communities in water and sanitation management </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
-        <gen:ReportedAttribute id="graph_title">
+        <gen:ReportedAttribute id="SDG_SERIES_DESCR">
           
-          <com:Text xml:lang="en"><![CDATA[Investimento directo estrangeiro (IDE), em percentagem do PIB]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> Municipalities with established and operational policies and procedures for the participation of local communities in water and sanitation management </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="META_LAST_UPDATE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> 10/9/2020 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_ORGANISATION">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Ministry of Public Works, Housing and Water Resources </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Alcino Nhacume; Amélia Mabota; Marlene Maciel </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_FUNCT">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Alcino Nhacume - Head of Department; Amélia Mabota - Technician; Marlene Maciel - Technique </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Alcino Nhacume - 846463364; Amélia Mabota - 823817060 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_MAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> <a href="mailto:anhacume@dnaas.gov.mz"> anhacume@dnaas.gov.mz </a>; <a href="mailto:ameliamabota@dnaas.gov.mz"> ameliamabota@dnaas.gov.mz </a>; <a href="mailto:mmaciel@dnaas.gov.mz"> mmaciel@dnaas.gov.mz </a> </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> <a href="mailto:anhacume@yahoo.com.br"> anhacume@yahoo.com.br </a>; <a href="mailto:ameliamabota@gmail.com"> ameliamabota@gmail.com </a>; <a href="mailto:marlenmaciel89@gmail.com"> marlenmaciel89@gmail.com </a> </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The indicator assesses the percentage of local administrative units that have an established and operational mechanism for decisions and guidelines on water and sanitation management. Local administrative units refer to districts, municipalities or other local units of the community that cover urban and rural areas to be defined by the Government </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="UNIT_MEASURE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Percentage </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Ministry of Public Works, Housing and Water Resources (National Directorate of Water Supply and Sanitation): Administrative data. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COLL_METHOD">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Data are collected through Meetings and, or institutional work meetings of the technical planning teams </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="FREQ_COLL">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The next data collection is expected to take place by December 2020 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REL_CAL_POLICY">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> January 2021 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_SOURCE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Ministry of Public Works, Housing and Water Resources </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Ministry of Public Works, Housing and Water Resources </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="INST_MANDATE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> In accordance with Ministerial Diploma No. 72/2012, INE delegated powers of notation and calculation of statistical data to the MOPH, through the Bakery and Cooperation Directorate which has the following duties: (i) to prepare and coordinate the planning process of the area Aguaz and Sanitation; (ii) preparing medium and long-term plans for the water sector and monitoring its implementation; (iii) monitor the execution of investment plans and propose corrective measures; and, (iv) assess and monitor the activities in the area </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Defining the procedures in the policy or law for the participation of local communities is vital to ensure that the needs of the entire community are met, including the most vulnerable, and also encourages the appropriation of schemes that, in turn, contribute to their sustainability . A low value for this indicator suggests that the participation of local communities in water and sanitation management is low, while a high value indicates high levels of participation, indicating greater ownership and greater likelihood of sustainable delivery and management of water and sanitation services. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The country has a legal framework of policies and standards that assign competences at local levels to the participation of communities in the management of water supply and sanitation services. Although such a situation exists, there are problems in the operationality of the committees due to the fact that their members do not have the necessary technical expertise in this area. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The value of the indicator is obtained by the quotient between the number of local administrative units with policies and operating procedures for local participation and the total number of local administrative units in the country. All administrative units in the country, in terms of both District and Municipal Governments, have an established and operational mechanism by which individuals and communities contribute significantly to decisions and guidelines on water and sanitation management. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_VALIDATION">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Monitoring of the results of data compilation is carried out by technicians from the Ministry of Public Works, Housing and Water Resources </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_MGMNT">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> In the process of creating the Quality Management System at the level of the National Statistical System. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Meetings with the main players in the integrated water resources management process for data collection and analysis of its consistency. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSMNT">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The instruments for assessing the quality of statistical processes and products at the level of the National Statistical System are still being developed based on the 19 quality principles established by the United Nations Statistical Commission. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Data are made available annually and have no breakdown. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Uses the calculation methodology defined by the United Nations. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Water Law (Law No. 16/91 of August 3; Action Plan for the Implementation of the Water Supply and Sanitation Development Goals 2015-2030, <em> Resolution Nr. 40/2018, of October 24, 2018 </em>; PRONASAR </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -166,7 +442,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="fc32adce-7249-4254-8303-5a77667f6091">
+  <mes:MetadataSet structureRef="MDS1" setID="0d28e947-4993-4452-b5f4-aa20493f4063">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -191,51 +467,189 @@
       </gen:Target>
       <gen:AttributeSet>
         
-        <gen:ReportedAttribute id="target_id">
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
           
-          <com:Text xml:lang="en"><![CDATA[6.b]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="sdg_goal">
-          
-          <com:Text xml:lang="en"><![CDATA[6]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> National Directorate of Water Supply and Sanitation </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
-        <gen:ReportedAttribute id="reporting_status">
+        <gen:ReportedAttribute id="SDG_GOAL">
           
-          <com:Text xml:lang="en"><![CDATA[complete]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="data_non_statistical">
-          
-          <com:Text xml:lang="en"><![CDATA[False]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> 6 Ensuring the availability and sustainable management of drinking water and sanitation for all </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
-        <gen:ReportedAttribute id="graph_type">
+        <gen:ReportedAttribute id="SDG_TARGET">
           
-          <com:Text xml:lang="en"><![CDATA[line]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="indicator_sort_order">
-          
-          <com:Text xml:lang="en"><![CDATA[06-0b-01]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> 6.b Support and strengthen the participation of local communities to improve water and sanitation management </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
-        <gen:ReportedAttribute id="indicator_name">
+        <gen:ReportedAttribute id="SDG_INDICATOR">
           
-          <com:Text xml:lang="en"><![CDATA[Investimento directo estrangeiro (IDE), em percentagem do PIB]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> 6.b.1 Percentage of municipalities with established and operational policies and procedures for the participation of local communities in water and sanitation management </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
-        <gen:ReportedAttribute id="graph_title">
+        <gen:ReportedAttribute id="SDG_SERIES_DESCR">
           
-          <com:Text xml:lang="en"><![CDATA[Investimento directo estrangeiro (IDE), em percentagem do PIB]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> Municipalities with established and operational policies and procedures for the participation of local communities in water and sanitation management </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="META_LAST_UPDATE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> 10/9/2020 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_ORGANISATION">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Ministry of Public Works, Housing and Water Resources </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Alcino Nhacume; Amélia Mabota; Marlene Maciel </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_FUNCT">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Alcino Nhacume - Head of Department; Amélia Mabota - Technician; Marlene Maciel - Technique </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Alcino Nhacume - 846463364; Amélia Mabota - 823817060 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_MAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> <a href="mailto:anhacume@dnaas.gov.mz"> anhacume@dnaas.gov.mz </a>; <a href="mailto:ameliamabota@dnaas.gov.mz"> ameliamabota@dnaas.gov.mz </a>; <a href="mailto:mmaciel@dnaas.gov.mz"> mmaciel@dnaas.gov.mz </a> </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> <a href="mailto:anhacume@yahoo.com.br"> anhacume@yahoo.com.br </a>; <a href="mailto:ameliamabota@gmail.com"> ameliamabota@gmail.com </a>; <a href="mailto:marlenmaciel89@gmail.com"> marlenmaciel89@gmail.com </a> </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The indicator assesses the percentage of local administrative units that have an established and operational mechanism for decisions and guidelines on water and sanitation management. Local administrative units refer to districts, municipalities or other local units of the community that cover urban and rural areas to be defined by the Government </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="UNIT_MEASURE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Percentage </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Ministry of Public Works, Housing and Water Resources (National Directorate of Water Supply and Sanitation): Administrative data. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COLL_METHOD">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Data are collected through Meetings and, or institutional work meetings of the technical planning teams </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="FREQ_COLL">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The next data collection is expected to take place by December 2020 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REL_CAL_POLICY">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> January 2021 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_SOURCE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Ministry of Public Works, Housing and Water Resources </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Ministry of Public Works, Housing and Water Resources </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="INST_MANDATE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> In accordance with Ministerial Diploma No. 72/2012, INE delegated powers of notation and calculation of statistical data to the MOPH, through the Bakery and Cooperation Directorate which has the following duties: (i) to prepare and coordinate the planning process of the area Aguaz and Sanitation; (ii) preparing medium and long-term plans for the water sector and monitoring its implementation; (iii) monitor the execution of investment plans and propose corrective measures; and, (iv) assess and monitor the activities in the area </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Defining the procedures in the policy or law for the participation of local communities is vital to ensure that the needs of the entire community are met, including the most vulnerable, and also encourages the appropriation of schemes that, in turn, contribute to their sustainability . A low value for this indicator suggests that the participation of local communities in water and sanitation management is low, while a high value indicates high levels of participation, indicating greater ownership and greater likelihood of sustainable delivery and management of water and sanitation services. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The country has a legal framework of policies and standards that assign competences at local levels to the participation of communities in the management of water supply and sanitation services. Although such a situation exists, there are problems in the operationality of the committees due to the fact that their members do not have the necessary technical expertise in this area. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The value of the indicator is obtained by the quotient between the number of local administrative units with policies and operating procedures for local participation and the total number of local administrative units in the country. All administrative units in the country, in terms of both District and Municipal Governments, have an established and operational mechanism by which individuals and communities contribute significantly to decisions and guidelines on water and sanitation management. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_VALIDATION">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Monitoring of the results of data compilation is carried out by technicians from the Ministry of Public Works, Housing and Water Resources </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_MGMNT">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> In the process of creating the Quality Management System at the level of the National Statistical System. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Meetings with the main players in the integrated water resources management process for data collection and analysis of its consistency. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSMNT">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The instruments for assessing the quality of statistical processes and products at the level of the National Statistical System are still being developed based on the 19 quality principles established by the United Nations Statistical Commission. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Data are made available annually and have no breakdown. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Uses the calculation methodology defined by the United Nations. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Water Law (Law No. 16/91 of August 3; Action Plan for the Implementation of the Water Supply and Sanitation Development Goals 2015-2030, <em> Resolution Nr. 40/2018, of October 24, 2018 </em>; PRONASAR </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -243,7 +657,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="b43731e0-ddd8-427e-8cbd-8d236bef1691">
+  <mes:MetadataSet structureRef="MDS1" setID="a2c7b8d1-24c4-4ede-89ed-354e6da7ad1e">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -268,51 +682,189 @@
       </gen:Target>
       <gen:AttributeSet>
         
-        <gen:ReportedAttribute id="target_id">
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
           
-          <com:Text xml:lang="en"><![CDATA[6.b]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="sdg_goal">
-          
-          <com:Text xml:lang="en"><![CDATA[6]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> National Directorate of Water Supply and Sanitation </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
-        <gen:ReportedAttribute id="reporting_status">
+        <gen:ReportedAttribute id="SDG_GOAL">
           
-          <com:Text xml:lang="en"><![CDATA[complete]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="data_non_statistical">
-          
-          <com:Text xml:lang="en"><![CDATA[False]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> 6 Ensuring the availability and sustainable management of drinking water and sanitation for all </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
-        <gen:ReportedAttribute id="graph_type">
+        <gen:ReportedAttribute id="SDG_TARGET">
           
-          <com:Text xml:lang="en"><![CDATA[line]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="indicator_sort_order">
-          
-          <com:Text xml:lang="en"><![CDATA[06-0b-01]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> 6.b Support and strengthen the participation of local communities to improve water and sanitation management </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
-        <gen:ReportedAttribute id="indicator_name">
+        <gen:ReportedAttribute id="SDG_INDICATOR">
           
-          <com:Text xml:lang="en"><![CDATA[Investimento directo estrangeiro (IDE), em percentagem do PIB]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> 6.b.1 Percentage of municipalities with established and operational policies and procedures for the participation of local communities in water and sanitation management </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
-        <gen:ReportedAttribute id="graph_title">
+        <gen:ReportedAttribute id="SDG_SERIES_DESCR">
           
-          <com:Text xml:lang="en"><![CDATA[Investimento directo estrangeiro (IDE), em percentagem do PIB]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> Municipalities with established and operational policies and procedures for the participation of local communities in water and sanitation management </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="META_LAST_UPDATE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> 10/9/2020 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_ORGANISATION">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Ministry of Public Works, Housing and Water Resources </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Alcino Nhacume; Amélia Mabota; Marlene Maciel </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_FUNCT">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Alcino Nhacume - Head of Department; Amélia Mabota - Technician; Marlene Maciel - Technique </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Alcino Nhacume - 846463364; Amélia Mabota - 823817060 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_MAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> <a href="mailto:anhacume@dnaas.gov.mz"> anhacume@dnaas.gov.mz </a>; <a href="mailto:ameliamabota@dnaas.gov.mz"> ameliamabota@dnaas.gov.mz </a>; <a href="mailto:mmaciel@dnaas.gov.mz"> mmaciel@dnaas.gov.mz </a> </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> <a href="mailto:anhacume@yahoo.com.br"> anhacume@yahoo.com.br </a>; <a href="mailto:ameliamabota@gmail.com"> ameliamabota@gmail.com </a>; <a href="mailto:marlenmaciel89@gmail.com"> marlenmaciel89@gmail.com </a> </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The indicator assesses the percentage of local administrative units that have an established and operational mechanism for decisions and guidelines on water and sanitation management. Local administrative units refer to districts, municipalities or other local units of the community that cover urban and rural areas to be defined by the Government </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="UNIT_MEASURE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Percentage </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Ministry of Public Works, Housing and Water Resources (National Directorate of Water Supply and Sanitation): Administrative data. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COLL_METHOD">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Data are collected through Meetings and, or institutional work meetings of the technical planning teams </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="FREQ_COLL">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The next data collection is expected to take place by December 2020 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REL_CAL_POLICY">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> January 2021 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_SOURCE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Ministry of Public Works, Housing and Water Resources </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Ministry of Public Works, Housing and Water Resources </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="INST_MANDATE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> In accordance with Ministerial Diploma No. 72/2012, INE delegated powers of notation and calculation of statistical data to the MOPH, through the Bakery and Cooperation Directorate which has the following duties: (i) to prepare and coordinate the planning process of the area Aguaz and Sanitation; (ii) preparing medium and long-term plans for the water sector and monitoring its implementation; (iii) monitor the execution of investment plans and propose corrective measures; and, (iv) assess and monitor the activities in the area </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Defining the procedures in the policy or law for the participation of local communities is vital to ensure that the needs of the entire community are met, including the most vulnerable, and also encourages the appropriation of schemes that, in turn, contribute to their sustainability . A low value for this indicator suggests that the participation of local communities in water and sanitation management is low, while a high value indicates high levels of participation, indicating greater ownership and greater likelihood of sustainable delivery and management of water and sanitation services. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The country has a legal framework of policies and standards that assign competences at local levels to the participation of communities in the management of water supply and sanitation services. Although such a situation exists, there are problems in the operationality of the committees due to the fact that their members do not have the necessary technical expertise in this area. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The value of the indicator is obtained by the quotient between the number of local administrative units with policies and operating procedures for local participation and the total number of local administrative units in the country. All administrative units in the country, in terms of both District and Municipal Governments, have an established and operational mechanism by which individuals and communities contribute significantly to decisions and guidelines on water and sanitation management. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_VALIDATION">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Monitoring of the results of data compilation is carried out by technicians from the Ministry of Public Works, Housing and Water Resources </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_MGMNT">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> In the process of creating the Quality Management System at the level of the National Statistical System. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Meetings with the main players in the integrated water resources management process for data collection and analysis of its consistency. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSMNT">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The instruments for assessing the quality of statistical processes and products at the level of the National Statistical System are still being developed based on the 19 quality principles established by the United Nations Statistical Commission. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Data are made available annually and have no breakdown. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Uses the calculation methodology defined by the United Nations. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Water Law (Law No. 16/91 of August 3; Action Plan for the Implementation of the Water Supply and Sanitation Development Goals 2015-2030, <em> Resolution Nr. 40/2018, of October 24, 2018 </em>; PRONASAR </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -320,7 +872,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="e0160c3e-4662-4aa0-b777-fa78bc056d60">
+  <mes:MetadataSet structureRef="MDS1" setID="024e4061-067e-433a-8ab1-d0fefb63d422">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -345,51 +897,189 @@
       </gen:Target>
       <gen:AttributeSet>
         
-        <gen:ReportedAttribute id="target_id">
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
           
-          <com:Text xml:lang="en"><![CDATA[6.b]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="sdg_goal">
-          
-          <com:Text xml:lang="en"><![CDATA[6]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> National Directorate of Water Supply and Sanitation </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
-        <gen:ReportedAttribute id="reporting_status">
+        <gen:ReportedAttribute id="SDG_GOAL">
           
-          <com:Text xml:lang="en"><![CDATA[complete]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="data_non_statistical">
-          
-          <com:Text xml:lang="en"><![CDATA[False]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> 6 Ensuring the availability and sustainable management of drinking water and sanitation for all </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
-        <gen:ReportedAttribute id="graph_type">
+        <gen:ReportedAttribute id="SDG_TARGET">
           
-          <com:Text xml:lang="en"><![CDATA[line]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="indicator_sort_order">
-          
-          <com:Text xml:lang="en"><![CDATA[06-0b-01]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> 6.b Support and strengthen the participation of local communities to improve water and sanitation management </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
-        <gen:ReportedAttribute id="indicator_name">
+        <gen:ReportedAttribute id="SDG_INDICATOR">
           
-          <com:Text xml:lang="en"><![CDATA[Investimento directo estrangeiro (IDE), em percentagem do PIB]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> 6.b.1 Percentage of municipalities with established and operational policies and procedures for the participation of local communities in water and sanitation management </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
-        <gen:ReportedAttribute id="graph_title">
+        <gen:ReportedAttribute id="SDG_SERIES_DESCR">
           
-          <com:Text xml:lang="en"><![CDATA[Investimento directo estrangeiro (IDE), em percentagem do PIB]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> Municipalities with established and operational policies and procedures for the participation of local communities in water and sanitation management </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="META_LAST_UPDATE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> 10/9/2020 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_ORGANISATION">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Ministry of Public Works, Housing and Water Resources </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Alcino Nhacume; Amélia Mabota; Marlene Maciel </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_FUNCT">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Alcino Nhacume - Head of Department; Amélia Mabota - Technician; Marlene Maciel - Technique </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Alcino Nhacume - 846463364; Amélia Mabota - 823817060 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_MAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> <a href="mailto:anhacume@dnaas.gov.mz"> anhacume@dnaas.gov.mz </a>; <a href="mailto:ameliamabota@dnaas.gov.mz"> ameliamabota@dnaas.gov.mz </a>; <a href="mailto:mmaciel@dnaas.gov.mz"> mmaciel@dnaas.gov.mz </a> </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> <a href="mailto:anhacume@yahoo.com.br"> anhacume@yahoo.com.br </a>; <a href="mailto:ameliamabota@gmail.com"> ameliamabota@gmail.com </a>; <a href="mailto:marlenmaciel89@gmail.com"> marlenmaciel89@gmail.com </a> </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The indicator assesses the percentage of local administrative units that have an established and operational mechanism for decisions and guidelines on water and sanitation management. Local administrative units refer to districts, municipalities or other local units of the community that cover urban and rural areas to be defined by the Government </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="UNIT_MEASURE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Percentage </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Ministry of Public Works, Housing and Water Resources (National Directorate of Water Supply and Sanitation): Administrative data. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COLL_METHOD">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Data are collected through Meetings and, or institutional work meetings of the technical planning teams </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="FREQ_COLL">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The next data collection is expected to take place by December 2020 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REL_CAL_POLICY">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> January 2021 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_SOURCE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Ministry of Public Works, Housing and Water Resources </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Ministry of Public Works, Housing and Water Resources </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="INST_MANDATE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> In accordance with Ministerial Diploma No. 72/2012, INE delegated powers of notation and calculation of statistical data to the MOPH, through the Bakery and Cooperation Directorate which has the following duties: (i) to prepare and coordinate the planning process of the area Aguaz and Sanitation; (ii) preparing medium and long-term plans for the water sector and monitoring its implementation; (iii) monitor the execution of investment plans and propose corrective measures; and, (iv) assess and monitor the activities in the area </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Defining the procedures in the policy or law for the participation of local communities is vital to ensure that the needs of the entire community are met, including the most vulnerable, and also encourages the appropriation of schemes that, in turn, contribute to their sustainability . A low value for this indicator suggests that the participation of local communities in water and sanitation management is low, while a high value indicates high levels of participation, indicating greater ownership and greater likelihood of sustainable delivery and management of water and sanitation services. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The country has a legal framework of policies and standards that assign competences at local levels to the participation of communities in the management of water supply and sanitation services. Although such a situation exists, there are problems in the operationality of the committees due to the fact that their members do not have the necessary technical expertise in this area. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The value of the indicator is obtained by the quotient between the number of local administrative units with policies and operating procedures for local participation and the total number of local administrative units in the country. All administrative units in the country, in terms of both District and Municipal Governments, have an established and operational mechanism by which individuals and communities contribute significantly to decisions and guidelines on water and sanitation management. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_VALIDATION">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Monitoring of the results of data compilation is carried out by technicians from the Ministry of Public Works, Housing and Water Resources </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_MGMNT">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> In the process of creating the Quality Management System at the level of the National Statistical System. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Meetings with the main players in the integrated water resources management process for data collection and analysis of its consistency. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSMNT">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The instruments for assessing the quality of statistical processes and products at the level of the National Statistical System are still being developed based on the 19 quality principles established by the United Nations Statistical Commission. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Data are made available annually and have no breakdown. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Uses the calculation methodology defined by the United Nations. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Water Law (Law No. 16/91 of August 3; Action Plan for the Implementation of the Water Supply and Sanitation Development Goals 2015-2030, <em> Resolution Nr. 40/2018, of October 24, 2018 </em>; PRONASAR </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -397,7 +1087,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="daa6d8a7-370e-41e9-8ffd-75234f51bf67">
+  <mes:MetadataSet structureRef="MDS1" setID="6319bd84-3404-46b0-918e-c0280da83604">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -422,51 +1112,189 @@
       </gen:Target>
       <gen:AttributeSet>
         
-        <gen:ReportedAttribute id="target_id">
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
           
-          <com:Text xml:lang="en"><![CDATA[6.b]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="sdg_goal">
-          
-          <com:Text xml:lang="en"><![CDATA[6]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> National Directorate of Water Supply and Sanitation </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
-        <gen:ReportedAttribute id="reporting_status">
+        <gen:ReportedAttribute id="SDG_GOAL">
           
-          <com:Text xml:lang="en"><![CDATA[complete]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="data_non_statistical">
-          
-          <com:Text xml:lang="en"><![CDATA[False]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> 6 Ensuring the availability and sustainable management of drinking water and sanitation for all </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
-        <gen:ReportedAttribute id="graph_type">
+        <gen:ReportedAttribute id="SDG_TARGET">
           
-          <com:Text xml:lang="en"><![CDATA[line]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="indicator_sort_order">
-          
-          <com:Text xml:lang="en"><![CDATA[06-0b-01]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> 6.b Support and strengthen the participation of local communities to improve water and sanitation management </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
-        <gen:ReportedAttribute id="indicator_name">
+        <gen:ReportedAttribute id="SDG_INDICATOR">
           
-          <com:Text xml:lang="en"><![CDATA[Investimento directo estrangeiro (IDE), em percentagem do PIB]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> 6.b.1 Percentage of municipalities with established and operational policies and procedures for the participation of local communities in water and sanitation management </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
-        <gen:ReportedAttribute id="graph_title">
+        <gen:ReportedAttribute id="SDG_SERIES_DESCR">
           
-          <com:Text xml:lang="en"><![CDATA[Investimento directo estrangeiro (IDE), em percentagem do PIB]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> Municipalities with established and operational policies and procedures for the participation of local communities in water and sanitation management </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="META_LAST_UPDATE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> 10/9/2020 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_ORGANISATION">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Ministry of Public Works, Housing and Water Resources </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Alcino Nhacume; Amélia Mabota; Marlene Maciel </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_FUNCT">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Alcino Nhacume - Head of Department; Amélia Mabota - Technician; Marlene Maciel - Technique </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Alcino Nhacume - 846463364; Amélia Mabota - 823817060 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_MAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> <a href="mailto:anhacume@dnaas.gov.mz"> anhacume@dnaas.gov.mz </a>; <a href="mailto:ameliamabota@dnaas.gov.mz"> ameliamabota@dnaas.gov.mz </a>; <a href="mailto:mmaciel@dnaas.gov.mz"> mmaciel@dnaas.gov.mz </a> </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> <a href="mailto:anhacume@yahoo.com.br"> anhacume@yahoo.com.br </a>; <a href="mailto:ameliamabota@gmail.com"> ameliamabota@gmail.com </a>; <a href="mailto:marlenmaciel89@gmail.com"> marlenmaciel89@gmail.com </a> </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The indicator assesses the percentage of local administrative units that have an established and operational mechanism for decisions and guidelines on water and sanitation management. Local administrative units refer to districts, municipalities or other local units of the community that cover urban and rural areas to be defined by the Government </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="UNIT_MEASURE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Percentage </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Ministry of Public Works, Housing and Water Resources (National Directorate of Water Supply and Sanitation): Administrative data. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COLL_METHOD">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Data are collected through Meetings and, or institutional work meetings of the technical planning teams </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="FREQ_COLL">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The next data collection is expected to take place by December 2020 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REL_CAL_POLICY">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> January 2021 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_SOURCE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Ministry of Public Works, Housing and Water Resources </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Ministry of Public Works, Housing and Water Resources </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="INST_MANDATE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> In accordance with Ministerial Diploma No. 72/2012, INE delegated powers of notation and calculation of statistical data to the MOPH, through the Bakery and Cooperation Directorate which has the following duties: (i) to prepare and coordinate the planning process of the area Aguaz and Sanitation; (ii) preparing medium and long-term plans for the water sector and monitoring its implementation; (iii) monitor the execution of investment plans and propose corrective measures; and, (iv) assess and monitor the activities in the area </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Defining the procedures in the policy or law for the participation of local communities is vital to ensure that the needs of the entire community are met, including the most vulnerable, and also encourages the appropriation of schemes that, in turn, contribute to their sustainability . A low value for this indicator suggests that the participation of local communities in water and sanitation management is low, while a high value indicates high levels of participation, indicating greater ownership and greater likelihood of sustainable delivery and management of water and sanitation services. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The country has a legal framework of policies and standards that assign competences at local levels to the participation of communities in the management of water supply and sanitation services. Although such a situation exists, there are problems in the operationality of the committees due to the fact that their members do not have the necessary technical expertise in this area. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The value of the indicator is obtained by the quotient between the number of local administrative units with policies and operating procedures for local participation and the total number of local administrative units in the country. All administrative units in the country, in terms of both District and Municipal Governments, have an established and operational mechanism by which individuals and communities contribute significantly to decisions and guidelines on water and sanitation management. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_VALIDATION">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Monitoring of the results of data compilation is carried out by technicians from the Ministry of Public Works, Housing and Water Resources </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_MGMNT">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> In the process of creating the Quality Management System at the level of the National Statistical System. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Meetings with the main players in the integrated water resources management process for data collection and analysis of its consistency. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSMNT">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The instruments for assessing the quality of statistical processes and products at the level of the National Statistical System are still being developed based on the 19 quality principles established by the United Nations Statistical Commission. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Data are made available annually and have no breakdown. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Uses the calculation methodology defined by the United Nations. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Water Law (Law No. 16/91 of August 3; Action Plan for the Implementation of the Water Supply and Sanitation Development Goals 2015-2030, <em> Resolution Nr. 40/2018, of October 24, 2018 </em>; PRONASAR </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -474,7 +1302,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="eb66fcbe-9e65-4fb9-bdbc-2bba5fce8000">
+  <mes:MetadataSet structureRef="MDS1" setID="19517527-f914-45a4-ad8e-4e590bdbf87c">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -499,51 +1327,189 @@
       </gen:Target>
       <gen:AttributeSet>
         
-        <gen:ReportedAttribute id="target_id">
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
           
-          <com:Text xml:lang="en"><![CDATA[6.b]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="sdg_goal">
-          
-          <com:Text xml:lang="en"><![CDATA[6]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> National Directorate of Water Supply and Sanitation </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
-        <gen:ReportedAttribute id="reporting_status">
+        <gen:ReportedAttribute id="SDG_GOAL">
           
-          <com:Text xml:lang="en"><![CDATA[complete]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="data_non_statistical">
-          
-          <com:Text xml:lang="en"><![CDATA[False]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> 6 Ensuring the availability and sustainable management of drinking water and sanitation for all </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
-        <gen:ReportedAttribute id="graph_type">
+        <gen:ReportedAttribute id="SDG_TARGET">
           
-          <com:Text xml:lang="en"><![CDATA[line]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="indicator_sort_order">
-          
-          <com:Text xml:lang="en"><![CDATA[06-0b-01]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> 6.b Support and strengthen the participation of local communities to improve water and sanitation management </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
-        <gen:ReportedAttribute id="indicator_name">
+        <gen:ReportedAttribute id="SDG_INDICATOR">
           
-          <com:Text xml:lang="en"><![CDATA[Investimento directo estrangeiro (IDE), em percentagem do PIB]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> 6.b.1 Percentage of municipalities with established and operational policies and procedures for the participation of local communities in water and sanitation management </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
-        <gen:ReportedAttribute id="graph_title">
+        <gen:ReportedAttribute id="SDG_SERIES_DESCR">
           
-          <com:Text xml:lang="en"><![CDATA[Investimento directo estrangeiro (IDE), em percentagem do PIB]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> Municipalities with established and operational policies and procedures for the participation of local communities in water and sanitation management </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="META_LAST_UPDATE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> 10/9/2020 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_ORGANISATION">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Ministry of Public Works, Housing and Water Resources </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Alcino Nhacume; Amélia Mabota; Marlene Maciel </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_FUNCT">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Alcino Nhacume - Head of Department; Amélia Mabota - Technician; Marlene Maciel - Technique </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Alcino Nhacume - 846463364; Amélia Mabota - 823817060 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_MAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> <a href="mailto:anhacume@dnaas.gov.mz"> anhacume@dnaas.gov.mz </a>; <a href="mailto:ameliamabota@dnaas.gov.mz"> ameliamabota@dnaas.gov.mz </a>; <a href="mailto:mmaciel@dnaas.gov.mz"> mmaciel@dnaas.gov.mz </a> </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> <a href="mailto:anhacume@yahoo.com.br"> anhacume@yahoo.com.br </a>; <a href="mailto:ameliamabota@gmail.com"> ameliamabota@gmail.com </a>; <a href="mailto:marlenmaciel89@gmail.com"> marlenmaciel89@gmail.com </a> </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The indicator assesses the percentage of local administrative units that have an established and operational mechanism for decisions and guidelines on water and sanitation management. Local administrative units refer to districts, municipalities or other local units of the community that cover urban and rural areas to be defined by the Government </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="UNIT_MEASURE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Percentage </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Ministry of Public Works, Housing and Water Resources (National Directorate of Water Supply and Sanitation): Administrative data. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COLL_METHOD">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Data are collected through Meetings and, or institutional work meetings of the technical planning teams </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="FREQ_COLL">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The next data collection is expected to take place by December 2020 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REL_CAL_POLICY">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> January 2021 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_SOURCE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Ministry of Public Works, Housing and Water Resources </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Ministry of Public Works, Housing and Water Resources </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="INST_MANDATE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> In accordance with Ministerial Diploma No. 72/2012, INE delegated powers of notation and calculation of statistical data to the MOPH, through the Bakery and Cooperation Directorate which has the following duties: (i) to prepare and coordinate the planning process of the area Aguaz and Sanitation; (ii) preparing medium and long-term plans for the water sector and monitoring its implementation; (iii) monitor the execution of investment plans and propose corrective measures; and, (iv) assess and monitor the activities in the area </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Defining the procedures in the policy or law for the participation of local communities is vital to ensure that the needs of the entire community are met, including the most vulnerable, and also encourages the appropriation of schemes that, in turn, contribute to their sustainability . A low value for this indicator suggests that the participation of local communities in water and sanitation management is low, while a high value indicates high levels of participation, indicating greater ownership and greater likelihood of sustainable delivery and management of water and sanitation services. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The country has a legal framework of policies and standards that assign competences at local levels to the participation of communities in the management of water supply and sanitation services. Although such a situation exists, there are problems in the operationality of the committees due to the fact that their members do not have the necessary technical expertise in this area. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The value of the indicator is obtained by the quotient between the number of local administrative units with policies and operating procedures for local participation and the total number of local administrative units in the country. All administrative units in the country, in terms of both District and Municipal Governments, have an established and operational mechanism by which individuals and communities contribute significantly to decisions and guidelines on water and sanitation management. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_VALIDATION">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Monitoring of the results of data compilation is carried out by technicians from the Ministry of Public Works, Housing and Water Resources </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_MGMNT">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> In the process of creating the Quality Management System at the level of the National Statistical System. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Meetings with the main players in the integrated water resources management process for data collection and analysis of its consistency. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSMNT">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The instruments for assessing the quality of statistical processes and products at the level of the National Statistical System are still being developed based on the 19 quality principles established by the United Nations Statistical Commission. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Data are made available annually and have no breakdown. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Uses the calculation methodology defined by the United Nations. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Water Law (Law No. 16/91 of August 3; Action Plan for the Implementation of the Water Supply and Sanitation Development Goals 2015-2030, <em> Resolution Nr. 40/2018, of October 24, 2018 </em>; PRONASAR </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -551,7 +1517,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="ce77d653-17a6-4dd1-9642-d846fb4d7a0b">
+  <mes:MetadataSet structureRef="MDS1" setID="5bbc42b9-fafd-45bd-9726-9c62f8af0a70">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -576,51 +1542,189 @@
       </gen:Target>
       <gen:AttributeSet>
         
-        <gen:ReportedAttribute id="target_id">
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
           
-          <com:Text xml:lang="en"><![CDATA[6.b]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="sdg_goal">
-          
-          <com:Text xml:lang="en"><![CDATA[6]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> National Directorate of Water Supply and Sanitation </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
-        <gen:ReportedAttribute id="reporting_status">
+        <gen:ReportedAttribute id="SDG_GOAL">
           
-          <com:Text xml:lang="en"><![CDATA[complete]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="data_non_statistical">
-          
-          <com:Text xml:lang="en"><![CDATA[False]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> 6 Ensuring the availability and sustainable management of drinking water and sanitation for all </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
-        <gen:ReportedAttribute id="graph_type">
+        <gen:ReportedAttribute id="SDG_TARGET">
           
-          <com:Text xml:lang="en"><![CDATA[line]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="indicator_sort_order">
-          
-          <com:Text xml:lang="en"><![CDATA[06-0b-01]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> 6.b Support and strengthen the participation of local communities to improve water and sanitation management </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
-        <gen:ReportedAttribute id="indicator_name">
+        <gen:ReportedAttribute id="SDG_INDICATOR">
           
-          <com:Text xml:lang="en"><![CDATA[Investimento directo estrangeiro (IDE), em percentagem do PIB]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> 6.b.1 Percentage of municipalities with established and operational policies and procedures for the participation of local communities in water and sanitation management </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
-        <gen:ReportedAttribute id="graph_title">
+        <gen:ReportedAttribute id="SDG_SERIES_DESCR">
           
-          <com:Text xml:lang="en"><![CDATA[Investimento directo estrangeiro (IDE), em percentagem do PIB]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> Municipalities with established and operational policies and procedures for the participation of local communities in water and sanitation management </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="META_LAST_UPDATE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> 10/9/2020 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_ORGANISATION">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Ministry of Public Works, Housing and Water Resources </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Alcino Nhacume; Amélia Mabota; Marlene Maciel </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_FUNCT">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Alcino Nhacume - Head of Department; Amélia Mabota - Technician; Marlene Maciel - Technique </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Alcino Nhacume - 846463364; Amélia Mabota - 823817060 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_MAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> <a href="mailto:anhacume@dnaas.gov.mz"> anhacume@dnaas.gov.mz </a>; <a href="mailto:ameliamabota@dnaas.gov.mz"> ameliamabota@dnaas.gov.mz </a>; <a href="mailto:mmaciel@dnaas.gov.mz"> mmaciel@dnaas.gov.mz </a> </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> <a href="mailto:anhacume@yahoo.com.br"> anhacume@yahoo.com.br </a>; <a href="mailto:ameliamabota@gmail.com"> ameliamabota@gmail.com </a>; <a href="mailto:marlenmaciel89@gmail.com"> marlenmaciel89@gmail.com </a> </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The indicator assesses the percentage of local administrative units that have an established and operational mechanism for decisions and guidelines on water and sanitation management. Local administrative units refer to districts, municipalities or other local units of the community that cover urban and rural areas to be defined by the Government </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="UNIT_MEASURE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Percentage </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Ministry of Public Works, Housing and Water Resources (National Directorate of Water Supply and Sanitation): Administrative data. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COLL_METHOD">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Data are collected through Meetings and, or institutional work meetings of the technical planning teams </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="FREQ_COLL">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The next data collection is expected to take place by December 2020 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REL_CAL_POLICY">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> January 2021 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_SOURCE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Ministry of Public Works, Housing and Water Resources </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Ministry of Public Works, Housing and Water Resources </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="INST_MANDATE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> In accordance with Ministerial Diploma No. 72/2012, INE delegated powers of notation and calculation of statistical data to the MOPH, through the Bakery and Cooperation Directorate which has the following duties: (i) to prepare and coordinate the planning process of the area Aguaz and Sanitation; (ii) preparing medium and long-term plans for the water sector and monitoring its implementation; (iii) monitor the execution of investment plans and propose corrective measures; and, (iv) assess and monitor the activities in the area </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Defining the procedures in the policy or law for the participation of local communities is vital to ensure that the needs of the entire community are met, including the most vulnerable, and also encourages the appropriation of schemes that, in turn, contribute to their sustainability . A low value for this indicator suggests that the participation of local communities in water and sanitation management is low, while a high value indicates high levels of participation, indicating greater ownership and greater likelihood of sustainable delivery and management of water and sanitation services. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The country has a legal framework of policies and standards that assign competences at local levels to the participation of communities in the management of water supply and sanitation services. Although such a situation exists, there are problems in the operationality of the committees due to the fact that their members do not have the necessary technical expertise in this area. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The value of the indicator is obtained by the quotient between the number of local administrative units with policies and operating procedures for local participation and the total number of local administrative units in the country. All administrative units in the country, in terms of both District and Municipal Governments, have an established and operational mechanism by which individuals and communities contribute significantly to decisions and guidelines on water and sanitation management. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_VALIDATION">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Monitoring of the results of data compilation is carried out by technicians from the Ministry of Public Works, Housing and Water Resources </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_MGMNT">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> In the process of creating the Quality Management System at the level of the National Statistical System. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Meetings with the main players in the integrated water resources management process for data collection and analysis of its consistency. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSMNT">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The instruments for assessing the quality of statistical processes and products at the level of the National Statistical System are still being developed based on the 19 quality principles established by the United Nations Statistical Commission. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Data are made available annually and have no breakdown. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Uses the calculation methodology defined by the United Nations. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Water Law (Law No. 16/91 of August 3; Action Plan for the Implementation of the Water Supply and Sanitation Development Goals 2015-2030, <em> Resolution Nr. 40/2018, of October 24, 2018 </em>; PRONASAR </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -628,7 +1732,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="21837392-101a-4191-ac07-db9079e12d03">
+  <mes:MetadataSet structureRef="MDS1" setID="616c2c07-0c91-45e2-b983-28f332a397a1">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -653,51 +1757,189 @@
       </gen:Target>
       <gen:AttributeSet>
         
-        <gen:ReportedAttribute id="target_id">
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
           
-          <com:Text xml:lang="en"><![CDATA[6.b]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="sdg_goal">
-          
-          <com:Text xml:lang="en"><![CDATA[6]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> National Directorate of Water Supply and Sanitation </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
-        <gen:ReportedAttribute id="reporting_status">
+        <gen:ReportedAttribute id="SDG_GOAL">
           
-          <com:Text xml:lang="en"><![CDATA[complete]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="data_non_statistical">
-          
-          <com:Text xml:lang="en"><![CDATA[False]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> 6 Ensuring the availability and sustainable management of drinking water and sanitation for all </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
-        <gen:ReportedAttribute id="graph_type">
+        <gen:ReportedAttribute id="SDG_TARGET">
           
-          <com:Text xml:lang="en"><![CDATA[line]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="indicator_sort_order">
-          
-          <com:Text xml:lang="en"><![CDATA[06-0b-01]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> 6.b Support and strengthen the participation of local communities to improve water and sanitation management </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
-        <gen:ReportedAttribute id="indicator_name">
+        <gen:ReportedAttribute id="SDG_INDICATOR">
           
-          <com:Text xml:lang="en"><![CDATA[Investimento directo estrangeiro (IDE), em percentagem do PIB]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> 6.b.1 Percentage of municipalities with established and operational policies and procedures for the participation of local communities in water and sanitation management </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
-        <gen:ReportedAttribute id="graph_title">
+        <gen:ReportedAttribute id="SDG_SERIES_DESCR">
           
-          <com:Text xml:lang="en"><![CDATA[Investimento directo estrangeiro (IDE), em percentagem do PIB]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> Municipalities with established and operational policies and procedures for the participation of local communities in water and sanitation management </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="META_LAST_UPDATE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> 10/9/2020 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_ORGANISATION">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Ministry of Public Works, Housing and Water Resources </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Alcino Nhacume; Amélia Mabota; Marlene Maciel </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_FUNCT">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Alcino Nhacume - Head of Department; Amélia Mabota - Technician; Marlene Maciel - Technique </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Alcino Nhacume - 846463364; Amélia Mabota - 823817060 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_MAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> <a href="mailto:anhacume@dnaas.gov.mz"> anhacume@dnaas.gov.mz </a>; <a href="mailto:ameliamabota@dnaas.gov.mz"> ameliamabota@dnaas.gov.mz </a>; <a href="mailto:mmaciel@dnaas.gov.mz"> mmaciel@dnaas.gov.mz </a> </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> <a href="mailto:anhacume@yahoo.com.br"> anhacume@yahoo.com.br </a>; <a href="mailto:ameliamabota@gmail.com"> ameliamabota@gmail.com </a>; <a href="mailto:marlenmaciel89@gmail.com"> marlenmaciel89@gmail.com </a> </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The indicator assesses the percentage of local administrative units that have an established and operational mechanism for decisions and guidelines on water and sanitation management. Local administrative units refer to districts, municipalities or other local units of the community that cover urban and rural areas to be defined by the Government </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="UNIT_MEASURE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Percentage </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Ministry of Public Works, Housing and Water Resources (National Directorate of Water Supply and Sanitation): Administrative data. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COLL_METHOD">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Data are collected through Meetings and, or institutional work meetings of the technical planning teams </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="FREQ_COLL">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The next data collection is expected to take place by December 2020 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REL_CAL_POLICY">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> January 2021 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_SOURCE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Ministry of Public Works, Housing and Water Resources </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Ministry of Public Works, Housing and Water Resources </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="INST_MANDATE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> In accordance with Ministerial Diploma No. 72/2012, INE delegated powers of notation and calculation of statistical data to the MOPH, through the Bakery and Cooperation Directorate which has the following duties: (i) to prepare and coordinate the planning process of the area Aguaz and Sanitation; (ii) preparing medium and long-term plans for the water sector and monitoring its implementation; (iii) monitor the execution of investment plans and propose corrective measures; and, (iv) assess and monitor the activities in the area </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Defining the procedures in the policy or law for the participation of local communities is vital to ensure that the needs of the entire community are met, including the most vulnerable, and also encourages the appropriation of schemes that, in turn, contribute to their sustainability . A low value for this indicator suggests that the participation of local communities in water and sanitation management is low, while a high value indicates high levels of participation, indicating greater ownership and greater likelihood of sustainable delivery and management of water and sanitation services. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The country has a legal framework of policies and standards that assign competences at local levels to the participation of communities in the management of water supply and sanitation services. Although such a situation exists, there are problems in the operationality of the committees due to the fact that their members do not have the necessary technical expertise in this area. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The value of the indicator is obtained by the quotient between the number of local administrative units with policies and operating procedures for local participation and the total number of local administrative units in the country. All administrative units in the country, in terms of both District and Municipal Governments, have an established and operational mechanism by which individuals and communities contribute significantly to decisions and guidelines on water and sanitation management. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_VALIDATION">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Monitoring of the results of data compilation is carried out by technicians from the Ministry of Public Works, Housing and Water Resources </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_MGMNT">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> In the process of creating the Quality Management System at the level of the National Statistical System. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Meetings with the main players in the integrated water resources management process for data collection and analysis of its consistency. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSMNT">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The instruments for assessing the quality of statistical processes and products at the level of the National Statistical System are still being developed based on the 19 quality principles established by the United Nations Statistical Commission. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Data are made available annually and have no breakdown. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Uses the calculation methodology defined by the United Nations. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Water Law (Law No. 16/91 of August 3; Action Plan for the Implementation of the Water Supply and Sanitation Development Goals 2015-2030, <em> Resolution Nr. 40/2018, of October 24, 2018 </em>; PRONASAR </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         

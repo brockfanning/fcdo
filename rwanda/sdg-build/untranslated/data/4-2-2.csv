@@ -1,0 +1,4 @@
+Year,OBS_STATUS,NATURE,COMMENT_OBS,UNIT_MULT,SOURCE_DETAIL,FREQ,REPORTING_TYPE,SERIES,REF_AREA,SEX,EDUCATION_LEV,UNIT_MEASURE,Value
+2017,A,_X,Participation rate in organized learning (one year before the official primary entry age),0,MINEDUC,A,N,SE_PRE_PARTN,RW,,ISCED97_0,PT,47.0
+2017,A,_X,Participation rate in organized learning (one year before the official primary entry age),0,MINEDUC,A,N,SE_PRE_PARTN,RW,M,ISCED97_0,PT,46.8
+2017,A,_X,Participation rate in organized learning (one year before the official primary entry age),0,MINEDUC,A,N,SE_PRE_PARTN,RW,F,ISCED97_0,PT,47.4

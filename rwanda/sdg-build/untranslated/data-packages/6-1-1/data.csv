@@ -1,0 +1,5 @@
+Year,OBS_STATUS,NATURE,COMMENT_OBS,UNIT_MULT,SOURCE_DETAIL,FREQ,REPORTING_TYPE,SERIES,REF_AREA,UNIT_MEASURE,Value
+2020,A,_X,Proportion (%) of population using basic drinking water services,0,"EICV, NISR",A,N,_L_RW_060101_1,RW,PT,68.0
+2020,A,_X,Proportion (%) of population using limited drinking water services,0,"EICV, NISR",A,N,_L_RW_060101_2,RW,PT,20.9
+2020,A,_X,Proportion (%) of population using unimproved drinking water services,0,"EICV, NISR",A,N,_L_RW_060101_3,RW,PT,6.4
+2020,A,_X,Proportion (%) of population using surface drinking water services,0,"EICV, NISR",A,N,_L_RW_060101_4,RW,PT,4.8

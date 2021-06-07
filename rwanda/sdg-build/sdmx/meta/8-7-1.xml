@@ -1,0 +1,492 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
+  <mes:Header>
+    <mes:ID>IREF1623076420</mes:ID>
+    <mes:Test>True</mes:Test>
+    <mes:Prepared>2021-06-07T14:33:40</mes:Prepared>
+    <mes:Sender id="open-sdg_sdg-build@1-3-0"/>
+    <mes:Structure structureID="MDS1">
+      <com:Structure>
+        <URN>urn:sdmx:org.sdmx.infomodel.metadatastructure.MetadataStructure=IAEG-SDGs:SDG_MSD(0.3)</URN>
+      </com:Structure>
+    </mes:Structure>
+  </mes:Header>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="5f1e65bc-4bf4-47fd-b02c-cb23ad56e5d8">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>SL_TLF_CHLDEC</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>RW</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>8.7</p><p>Take immediate and effective measures to eradicate forced labour, end modern slavery and human trafficking and secure the prohibition and elimination of the worst forms of child labour, including recruitment and use of child soldiers, and by 2025 end child labour in all its forms</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>8.7.1</p><p>Proportion and number of children aged 5â€‘17 years engaged in child labour, by sex and age</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_CUSTODIAN_AGENCIES">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>UNICEF and ILO</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_ORGANISATION">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>NISR</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[<p><a href="mailto:info@statistics.gov.rw">info@statistics.gov.rw</a></p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Is the number of children reported to be in child labour during the reference period (usually the week prior to the survey)</p><p>The term <strong>child labour</strong> refers to the subset of childrenâ€™s activities that is injurious, negative or undesirable to children and that should be targeted for elimination. Child labour is a legal concept rather than a statistical one, and the international legal standards that define it are therefore the necessary frame of reference for child labour statistics. The three principal international conventions on child labour â€“ ILO Convention No. 138 (Minimum Age) (C138), ILO Convention No. 182 (Worst Forms) (C182), and the United Nations Convention on the Rights of the Child (CRC), together set the legal boundaries for child labour, and provide the legal basis for national and international actions against it.</p><p>In accordance with the Resolution, and on the basis of the production boundary set by the United Nations System of National Accounts (SNA), child labour is defined for measurement purposes to include all persons aged 5 to 17 years who are engaged in one or more of the following activities during a specified time period: â€¢ hazardous work (18th ICLS, paragraphs 21 to 32); â€¢ worst forms of child labour other than hazardous work (18th ICLS, paragraphs 33 to 34); and â€¢ employment below the minimum working age, excluding, where applicable, â€œlight workâ€, performed by children aged not less than 12 or 13 years (18th ICLS, paragraphs 35 to 37).</p><p>If, depending upon national policies and circumstances, the general production boundary rather than the SNA production boundary is used for measuring productive activities by children, child labour will include, in addition to these three categories, hazardous unpaid household services. For the sake of clarity, child labour estimated on this basis should be called â€œchild labour (general production boundary basis)â€. The measurement methodology used by the ILO in its global estimates on child labour, 1 building on the ICLS statistical definition, classifies child labour on the basis of the following criteria: </p><p>â€¢ Ages 5 to 11: at least 1 hour of economic activity per week; </p><p>â€¢ Ages 12 to 14: at least 14 hour of economic activity per week in all forms of economic activity except permissible â€œlightâ€ work, where light work is operationally defined as economic activity that (i) does not exceed 14 hours per week and that (ii) is not hazardous in nature; and </p><p>â€¢ Ages 15 to 17: work in designated hazardous industries, or in designated hazardous occupations, or for long hours. Long hours are defined as 43 or more hours during the reference week.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="UNIT_MEASURE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Percent (%)</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CLASS_SYSTEM">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>International Conference of Labour Statisticians (ICLS)</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="FREQ_COLL">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>3 years</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_SOURCE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>EICV Thematic Report â€“ Economic Activity</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>In Rwanda, child labour is defined according to the Ministerial guidelines N<sup>o</sup> 02 of 10<sup>th</sup> May 2016 and it includes:</p><ul><li>All children in age group 6-12 years old who were engaged in economic activity for 20 hours or more; </li><li>All children in age group 6-12 years old who worked in paid activities regardless of the number of worked hours per week; </li><li>All children in age group 6-12 years old who were engaged in the following occupations: Fishery, hunters, trappers, garment related works, hairdressers, beauticians, building related works, and handcraft works regardless of the number of hours; </li><li>All children in age group 6-12 years old engaged as contributing family worker in the family business; </li><li>All children in age group 13-15 years old worked more than 20 hours per week in any economic activity;</li><li>All children in age group 13-15 years old who worked less than 20 hours per week in hazardous economic activities (Mining and construction) and in hazardous occupations such as Fishing, hunting and domestic works;</li><li>All children in age 16-17 who worked more than 45 hours per week;</li><li>All children in age 16-17 who worked less than 46 hours per week in hazardous economic activities or occupations. </li></ul>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Nc denotes the number of children aged 5-17 reported in child labour during the week prior to the survey, and N denotes the number of children aged 5-17 in the population.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[<h2>Earliest available data</h2><p>2014</p><h2>Geographical coverage</h2><p>National</p><h2>Disaggregation</h2><ul><li>Sex </li><li>Age group</li></ul>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[<h2>Link to UN Metadata</h2><p><a href="https://unstats.un.org/sdgs/metadata/files/Metadata-08-07-01.pdf" target="_blank">United Nations Sustainable Development Goals Metadata (pdf 525kB)</a></p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[<h2>UN designated tier</h2><p>2</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="846000cb-517a-4d2d-919c-a41d5f5be143">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>SL_TLF_CHLDECN</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>RW</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>8.7</p><p>Take immediate and effective measures to eradicate forced labour, end modern slavery and human trafficking and secure the prohibition and elimination of the worst forms of child labour, including recruitment and use of child soldiers, and by 2025 end child labour in all its forms</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>8.7.1</p><p>Proportion and number of children aged 5â€‘17 years engaged in child labour, by sex and age</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_CUSTODIAN_AGENCIES">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>UNICEF and ILO</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_ORGANISATION">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>NISR</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[<p><a href="mailto:info@statistics.gov.rw">info@statistics.gov.rw</a></p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Is the number of children reported to be in child labour during the reference period (usually the week prior to the survey)</p><p>The term <strong>child labour</strong> refers to the subset of childrenâ€™s activities that is injurious, negative or undesirable to children and that should be targeted for elimination. Child labour is a legal concept rather than a statistical one, and the international legal standards that define it are therefore the necessary frame of reference for child labour statistics. The three principal international conventions on child labour â€“ ILO Convention No. 138 (Minimum Age) (C138), ILO Convention No. 182 (Worst Forms) (C182), and the United Nations Convention on the Rights of the Child (CRC), together set the legal boundaries for child labour, and provide the legal basis for national and international actions against it.</p><p>In accordance with the Resolution, and on the basis of the production boundary set by the United Nations System of National Accounts (SNA), child labour is defined for measurement purposes to include all persons aged 5 to 17 years who are engaged in one or more of the following activities during a specified time period: â€¢ hazardous work (18th ICLS, paragraphs 21 to 32); â€¢ worst forms of child labour other than hazardous work (18th ICLS, paragraphs 33 to 34); and â€¢ employment below the minimum working age, excluding, where applicable, â€œlight workâ€, performed by children aged not less than 12 or 13 years (18th ICLS, paragraphs 35 to 37).</p><p>If, depending upon national policies and circumstances, the general production boundary rather than the SNA production boundary is used for measuring productive activities by children, child labour will include, in addition to these three categories, hazardous unpaid household services. For the sake of clarity, child labour estimated on this basis should be called â€œchild labour (general production boundary basis)â€. The measurement methodology used by the ILO in its global estimates on child labour, 1 building on the ICLS statistical definition, classifies child labour on the basis of the following criteria: </p><p>â€¢ Ages 5 to 11: at least 1 hour of economic activity per week; </p><p>â€¢ Ages 12 to 14: at least 14 hour of economic activity per week in all forms of economic activity except permissible â€œlightâ€ work, where light work is operationally defined as economic activity that (i) does not exceed 14 hours per week and that (ii) is not hazardous in nature; and </p><p>â€¢ Ages 15 to 17: work in designated hazardous industries, or in designated hazardous occupations, or for long hours. Long hours are defined as 43 or more hours during the reference week.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="UNIT_MEASURE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Percent (%)</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CLASS_SYSTEM">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>International Conference of Labour Statisticians (ICLS)</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="FREQ_COLL">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>3 years</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_SOURCE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>EICV Thematic Report â€“ Economic Activity</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>In Rwanda, child labour is defined according to the Ministerial guidelines N<sup>o</sup> 02 of 10<sup>th</sup> May 2016 and it includes:</p><ul><li>All children in age group 6-12 years old who were engaged in economic activity for 20 hours or more; </li><li>All children in age group 6-12 years old who worked in paid activities regardless of the number of worked hours per week; </li><li>All children in age group 6-12 years old who were engaged in the following occupations: Fishery, hunters, trappers, garment related works, hairdressers, beauticians, building related works, and handcraft works regardless of the number of hours; </li><li>All children in age group 6-12 years old engaged as contributing family worker in the family business; </li><li>All children in age group 13-15 years old worked more than 20 hours per week in any economic activity;</li><li>All children in age group 13-15 years old who worked less than 20 hours per week in hazardous economic activities (Mining and construction) and in hazardous occupations such as Fishing, hunting and domestic works;</li><li>All children in age 16-17 who worked more than 45 hours per week;</li><li>All children in age 16-17 who worked less than 46 hours per week in hazardous economic activities or occupations. </li></ul>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Nc denotes the number of children aged 5-17 reported in child labour during the week prior to the survey, and N denotes the number of children aged 5-17 in the population.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[<h2>Earliest available data</h2><p>2014</p><h2>Geographical coverage</h2><p>National</p><h2>Disaggregation</h2><ul><li>Sex </li><li>Age group</li></ul>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[<h2>Link to UN Metadata</h2><p><a href="https://unstats.un.org/sdgs/metadata/files/Metadata-08-07-01.pdf" target="_blank">United Nations Sustainable Development Goals Metadata (pdf 525kB)</a></p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[<h2>UN designated tier</h2><p>2</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="7b367ac2-715f-4f55-8be2-7fb1e8b16d8f">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>SL_TLF_CHLDEA</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>RW</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>8.7</p><p>Take immediate and effective measures to eradicate forced labour, end modern slavery and human trafficking and secure the prohibition and elimination of the worst forms of child labour, including recruitment and use of child soldiers, and by 2025 end child labour in all its forms</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>8.7.1</p><p>Proportion and number of children aged 5â€‘17 years engaged in child labour, by sex and age</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_CUSTODIAN_AGENCIES">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>UNICEF and ILO</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_ORGANISATION">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>NISR</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[<p><a href="mailto:info@statistics.gov.rw">info@statistics.gov.rw</a></p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Is the number of children reported to be in child labour during the reference period (usually the week prior to the survey)</p><p>The term <strong>child labour</strong> refers to the subset of childrenâ€™s activities that is injurious, negative or undesirable to children and that should be targeted for elimination. Child labour is a legal concept rather than a statistical one, and the international legal standards that define it are therefore the necessary frame of reference for child labour statistics. The three principal international conventions on child labour â€“ ILO Convention No. 138 (Minimum Age) (C138), ILO Convention No. 182 (Worst Forms) (C182), and the United Nations Convention on the Rights of the Child (CRC), together set the legal boundaries for child labour, and provide the legal basis for national and international actions against it.</p><p>In accordance with the Resolution, and on the basis of the production boundary set by the United Nations System of National Accounts (SNA), child labour is defined for measurement purposes to include all persons aged 5 to 17 years who are engaged in one or more of the following activities during a specified time period: â€¢ hazardous work (18th ICLS, paragraphs 21 to 32); â€¢ worst forms of child labour other than hazardous work (18th ICLS, paragraphs 33 to 34); and â€¢ employment below the minimum working age, excluding, where applicable, â€œlight workâ€, performed by children aged not less than 12 or 13 years (18th ICLS, paragraphs 35 to 37).</p><p>If, depending upon national policies and circumstances, the general production boundary rather than the SNA production boundary is used for measuring productive activities by children, child labour will include, in addition to these three categories, hazardous unpaid household services. For the sake of clarity, child labour estimated on this basis should be called â€œchild labour (general production boundary basis)â€. The measurement methodology used by the ILO in its global estimates on child labour, 1 building on the ICLS statistical definition, classifies child labour on the basis of the following criteria: </p><p>â€¢ Ages 5 to 11: at least 1 hour of economic activity per week; </p><p>â€¢ Ages 12 to 14: at least 14 hour of economic activity per week in all forms of economic activity except permissible â€œlightâ€ work, where light work is operationally defined as economic activity that (i) does not exceed 14 hours per week and that (ii) is not hazardous in nature; and </p><p>â€¢ Ages 15 to 17: work in designated hazardous industries, or in designated hazardous occupations, or for long hours. Long hours are defined as 43 or more hours during the reference week.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="UNIT_MEASURE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Percent (%)</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CLASS_SYSTEM">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>International Conference of Labour Statisticians (ICLS)</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="FREQ_COLL">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>3 years</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_SOURCE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>EICV Thematic Report â€“ Economic Activity</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>In Rwanda, child labour is defined according to the Ministerial guidelines N<sup>o</sup> 02 of 10<sup>th</sup> May 2016 and it includes:</p><ul><li>All children in age group 6-12 years old who were engaged in economic activity for 20 hours or more; </li><li>All children in age group 6-12 years old who worked in paid activities regardless of the number of worked hours per week; </li><li>All children in age group 6-12 years old who were engaged in the following occupations: Fishery, hunters, trappers, garment related works, hairdressers, beauticians, building related works, and handcraft works regardless of the number of hours; </li><li>All children in age group 6-12 years old engaged as contributing family worker in the family business; </li><li>All children in age group 13-15 years old worked more than 20 hours per week in any economic activity;</li><li>All children in age group 13-15 years old who worked less than 20 hours per week in hazardous economic activities (Mining and construction) and in hazardous occupations such as Fishing, hunting and domestic works;</li><li>All children in age 16-17 who worked more than 45 hours per week;</li><li>All children in age 16-17 who worked less than 46 hours per week in hazardous economic activities or occupations. </li></ul>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Nc denotes the number of children aged 5-17 reported in child labour during the week prior to the survey, and N denotes the number of children aged 5-17 in the population.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[<h2>Earliest available data</h2><p>2014</p><h2>Geographical coverage</h2><p>National</p><h2>Disaggregation</h2><ul><li>Sex </li><li>Age group</li></ul>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[<h2>Link to UN Metadata</h2><p><a href="https://unstats.un.org/sdgs/metadata/files/Metadata-08-07-01.pdf" target="_blank">United Nations Sustainable Development Goals Metadata (pdf 525kB)</a></p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[<h2>UN designated tier</h2><p>2</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="f18fff62-d0ed-4174-bcf4-1a3c1e2d1b53">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>SL_TLF_CHLDEAN</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>RW</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>8.7</p><p>Take immediate and effective measures to eradicate forced labour, end modern slavery and human trafficking and secure the prohibition and elimination of the worst forms of child labour, including recruitment and use of child soldiers, and by 2025 end child labour in all its forms</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>8.7.1</p><p>Proportion and number of children aged 5â€‘17 years engaged in child labour, by sex and age</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_CUSTODIAN_AGENCIES">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>UNICEF and ILO</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_ORGANISATION">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>NISR</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[<p><a href="mailto:info@statistics.gov.rw">info@statistics.gov.rw</a></p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Is the number of children reported to be in child labour during the reference period (usually the week prior to the survey)</p><p>The term <strong>child labour</strong> refers to the subset of childrenâ€™s activities that is injurious, negative or undesirable to children and that should be targeted for elimination. Child labour is a legal concept rather than a statistical one, and the international legal standards that define it are therefore the necessary frame of reference for child labour statistics. The three principal international conventions on child labour â€“ ILO Convention No. 138 (Minimum Age) (C138), ILO Convention No. 182 (Worst Forms) (C182), and the United Nations Convention on the Rights of the Child (CRC), together set the legal boundaries for child labour, and provide the legal basis for national and international actions against it.</p><p>In accordance with the Resolution, and on the basis of the production boundary set by the United Nations System of National Accounts (SNA), child labour is defined for measurement purposes to include all persons aged 5 to 17 years who are engaged in one or more of the following activities during a specified time period: â€¢ hazardous work (18th ICLS, paragraphs 21 to 32); â€¢ worst forms of child labour other than hazardous work (18th ICLS, paragraphs 33 to 34); and â€¢ employment below the minimum working age, excluding, where applicable, â€œlight workâ€, performed by children aged not less than 12 or 13 years (18th ICLS, paragraphs 35 to 37).</p><p>If, depending upon national policies and circumstances, the general production boundary rather than the SNA production boundary is used for measuring productive activities by children, child labour will include, in addition to these three categories, hazardous unpaid household services. For the sake of clarity, child labour estimated on this basis should be called â€œchild labour (general production boundary basis)â€. The measurement methodology used by the ILO in its global estimates on child labour, 1 building on the ICLS statistical definition, classifies child labour on the basis of the following criteria: </p><p>â€¢ Ages 5 to 11: at least 1 hour of economic activity per week; </p><p>â€¢ Ages 12 to 14: at least 14 hour of economic activity per week in all forms of economic activity except permissible â€œlightâ€ work, where light work is operationally defined as economic activity that (i) does not exceed 14 hours per week and that (ii) is not hazardous in nature; and </p><p>â€¢ Ages 15 to 17: work in designated hazardous industries, or in designated hazardous occupations, or for long hours. Long hours are defined as 43 or more hours during the reference week.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="UNIT_MEASURE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Percent (%)</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CLASS_SYSTEM">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>International Conference of Labour Statisticians (ICLS)</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="FREQ_COLL">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>3 years</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_SOURCE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>EICV Thematic Report â€“ Economic Activity</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>In Rwanda, child labour is defined according to the Ministerial guidelines N<sup>o</sup> 02 of 10<sup>th</sup> May 2016 and it includes:</p><ul><li>All children in age group 6-12 years old who were engaged in economic activity for 20 hours or more; </li><li>All children in age group 6-12 years old who worked in paid activities regardless of the number of worked hours per week; </li><li>All children in age group 6-12 years old who were engaged in the following occupations: Fishery, hunters, trappers, garment related works, hairdressers, beauticians, building related works, and handcraft works regardless of the number of hours; </li><li>All children in age group 6-12 years old engaged as contributing family worker in the family business; </li><li>All children in age group 13-15 years old worked more than 20 hours per week in any economic activity;</li><li>All children in age group 13-15 years old who worked less than 20 hours per week in hazardous economic activities (Mining and construction) and in hazardous occupations such as Fishing, hunting and domestic works;</li><li>All children in age 16-17 who worked more than 45 hours per week;</li><li>All children in age 16-17 who worked less than 46 hours per week in hazardous economic activities or occupations. </li></ul>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Nc denotes the number of children aged 5-17 reported in child labour during the week prior to the survey, and N denotes the number of children aged 5-17 in the population.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[<h2>Earliest available data</h2><p>2014</p><h2>Geographical coverage</h2><p>National</p><h2>Disaggregation</h2><ul><li>Sex </li><li>Age group</li></ul>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[<h2>Link to UN Metadata</h2><p><a href="https://unstats.un.org/sdgs/metadata/files/Metadata-08-07-01.pdf" target="_blank">United Nations Sustainable Development Goals Metadata (pdf 525kB)</a></p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[<h2>UN designated tier</h2><p>2</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+</mes:GenericMetadata>
+        

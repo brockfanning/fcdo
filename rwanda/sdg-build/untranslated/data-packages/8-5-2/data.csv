@@ -1,0 +1,17 @@
+Year,OBS_STATUS,NATURE,COMMENT_OBS,UNIT_MULT,SOURCE_DETAIL,FREQ,REPORTING_TYPE,SERIES,REF_AREA,SEX,UNIT_MEASURE,Value
+2016,A,_X,Unemployment rate,0,"LFS, NISR",A,N,SL_TLF_UEM,RW,,PT,18.8
+2017,A,_X,Unemployment rate,0,"LFS, NISR",A,N,SL_TLF_UEM,RW,,PT,17.3
+2018,A,_X,Unemployment rate,0,"LFS, NISR",A,N,SL_TLF_UEM,RW,,PT,15.1
+2019,A,_X,Unemployment rate,0,"LFS, NISR",A,N,SL_TLF_UEM,RW,,PT,15.2
+2016,A,_X,Unemployment rate,0,"LFS, NISR",A,N,SL_TLF_UEM,RW,M,PT,15.7
+2017,A,_X,Unemployment rate,0,"LFS, NISR",A,N,SL_TLF_UEM,RW,M,PT,15.6
+2018,A,_X,Unemployment rate,0,"LFS, NISR",A,N,SL_TLF_UEM,RW,M,PT,13.5
+2019,A,_X,Unemployment rate,0,"LFS, NISR",A,N,SL_TLF_UEM,RW,M,PT,13.8
+2016,A,_X,Unemployment rate,0,"LFS, NISR",A,N,SL_TLF_UEM,RW,F,PT,22.7
+2017,A,_X,Unemployment rate,0,"LFS, NISR",A,N,SL_TLF_UEM,RW,F,PT,19.2
+2018,A,_X,Unemployment rate,0,"LFS, NISR",A,N,SL_TLF_UEM,RW,F,PT,17.1
+2019,A,_X,Unemployment rate,0,"LFS, NISR",A,N,SL_TLF_UEM,RW,F,PT,17.0
+2016,A,_X,"Unemployment rate, by disability",0,"LFS, NISR",A,N,SL_TLF_UEMDIS,RW,,PT,20.8
+2017,A,_X,"Unemployment rate, by disability",0,"LFS, NISR",A,N,SL_TLF_UEMDIS,RW,,PT,17.4
+2018,A,_X,"Unemployment rate, by disability",0,"LFS, NISR",A,N,SL_TLF_UEMDIS,RW,,PT,14.1
+2019,A,_X,"Unemployment rate, by disability",0,"LFS, NISR",A,N,SL_TLF_UEMDIS,RW,,PT,14.3

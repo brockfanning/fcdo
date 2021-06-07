@@ -1,0 +1,5 @@
+Year,OBS_STATUS,NATURE,COMMENT_OBS,UNIT_MULT,SOURCE_DETAIL,FREQ,REPORTING_TYPE,SERIES,REF_AREA,UNIT_MEASURE,Value
+2020,A,_X,Proportion (%) of population with basic handwashing facilities on premises,0,"EICV, NISR",A,N,SH_SAN_HNDWSH,RW,PT,77.8
+2020,A,_X,Proportion (%) of population using limited sanitation services,0,"EICV, NISR",A,N,_L_RW_060201_1,RW,PT,13.7
+2020,A,_X,Proportion (%) of population using unimproved sanitation services,0,"EICV, NISR",A,N,_L_RW_060201_2,RW,PT,7.3
+2020,A,_X,Proportion (%) of population practicing open defecation,0,"EICV, NISR",A,N,SH_SAN_DEFECT,RW,PT,1.2

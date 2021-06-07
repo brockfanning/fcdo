@@ -1,0 +1,3 @@
+Year,OBS_STATUS,NATURE,COMMENT_OBS,UNIT_MULT,SOURCE_DETAIL,FREQ,REPORTING_TYPE,SERIES,REF_AREA,UNIT_MEASURE,Value
+2018,A,_X,"Existance of legal frameworks to promote, enforce and monitor equality and non-discrimination on the basis of sex (1 = Yes or 0 = No)",0,MINIJUST,A,N,_L_RW_050101_1,RW,BOOL,1
+2019,A,_X,"Existance of legal frameworks to promote, enforce and monitor equality and non-discrimination on the basis of sex (1 = Yes or 0 = No)",0,MINIJUST,A,N,_L_RW_050101_1,RW,BOOL,1

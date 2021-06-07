@@ -1,0 +1,7 @@
+Year,OBS_STATUS,NATURE,COMMENT_OBS,UNIT_MULT,SOURCE_DETAIL,FREQ,REPORTING_TYPE,SERIES,REF_AREA,UNIT_MEASURE,Value
+2015,A,_X,"Proportion of total government spending on essential services, education",0,Ministry of Finance and Economic Planning (MINECOFIN),A,N,SD_XPD_ESED,RW,USD,306461030.270833
+2017,A,_X,"Proportion of total government spending on essential services, education",0,Ministry of Finance and Economic Planning (MINECOFIN),A,N,SD_XPD_ESED,RW,USD,289046729.199519
+2015,A,_X,Proportion of total government spending on health,0,Ministry of Finance and Economic Planning (MINECOFIN),A,N,SG_XPD_HLTH,RW,USD,283367184.086111
+2017,A,_X,Proportion of total government spending on health,0,Ministry of Finance and Economic Planning (MINECOFIN),A,N,SG_XPD_HLTH,RW,USD,237201290.832933
+2015,A,_X,Proportion of total government spending on social protection,0,Ministry of Finance and Economic Planning (MINECOFIN),A,N,SG_XPD_PROT,RW,USD,103794273.852778
+2017,A,_X,Proportion of total government spending on social protection,0,Ministry of Finance and Economic Planning (MINECOFIN),A,N,SG_XPD_PROT,RW,USD,109465948.668269

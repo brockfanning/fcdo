@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
   <mes:Header>
-    <mes:ID>IREF1623036954</mes:ID>
+    <mes:ID>IREF1623075715</mes:ID>
     <mes:Test>True</mes:Test>
-    <mes:Prepared>2021-06-07T03:35:54</mes:Prepared>
+    <mes:Prepared>2021-06-07T14:21:55</mes:Prepared>
     <mes:Sender id="open-sdg_sdg-build@1-3-0"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -12,7 +12,7 @@
     </mes:Structure>
   </mes:Header>
   
-  <mes:MetadataSet structureRef="MDS1" setID="2a2b1a2d-41a1-47aa-b4d7-4ea16262d816">
+  <mes:MetadataSet structureRef="MDS1" setID="c9044bea-c328-487e-8347-20ed80feaed0">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -37,51 +37,193 @@
       </gen:Target>
       <gen:AttributeSet>
         
-        <gen:ReportedAttribute id="target_id">
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
           
-          <com:Text xml:lang="en"><![CDATA[1.1]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="sdg_goal">
-          
-          <com:Text xml:lang="en"><![CDATA[1]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> National Directorate for Economic Policies and Development </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
-        <gen:ReportedAttribute id="reporting_status">
+        <gen:ReportedAttribute id="SDG_GOAL">
           
-          <com:Text xml:lang="en"><![CDATA[complete]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="data_non_statistical">
-          
-          <com:Text xml:lang="en"><![CDATA[False]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> 1 ERADICATE POVERTY IN ALL ITS FORMS, EVERYWHERE </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
-        <gen:ReportedAttribute id="graph_type">
+        <gen:ReportedAttribute id="SDG_TARGET">
           
-          <com:Text xml:lang="en"><![CDATA[line]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="indicator_sort_order">
-          
-          <com:Text xml:lang="en"><![CDATA[01-01-01]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> 1.1. By 2030, eradicate extreme poverty for all people everywhere, currently measured as people living on less than $ 1.25 a day </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
-        <gen:ReportedAttribute id="indicator_name">
+        <gen:ReportedAttribute id="SDG_INDICATOR">
           
-          <com:Text xml:lang="en"><![CDATA[Investimento directo estrangeiro (IDE), em percentagem do PIB]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> 1.1.1 Proportion of the population below the international poverty line, disaggregated by sex and age </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
-        <gen:ReportedAttribute id="graph_title">
+        <gen:ReportedAttribute id="SDG_SERIES_DESCR">
           
-          <com:Text xml:lang="en"><![CDATA[Investimento directo estrangeiro (IDE), em percentagem do PIB]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> Population below the international poverty line, disaggregated by sex and age </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="META_LAST_UPDATE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> 9/10/2020 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_ORGANISATION">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Ministry of Economy and Finance (MEF) </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> José Domingos Madeira Cardoso </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_FUNCT">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Senior Technician N1 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> +258 84 229 5957 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> <a href="mailto:jsm.cardoso7@gmail.com"> jsm.cardoso7@gmail.com </a> </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> It is the percentage of the population that lives on less than $ 1.90 dollars a day, at international prices in 2011. </p>
+ <p> The international poverty line $ 1.90 is used for this concept, which takes into account the purchasing power parity </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="UNIT_MEASURE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Percentage </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> National Institute of Statistics, Household Budget Survey </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COLL_METHOD">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The IOF 2014/15 was a panel survey, which ran from August 7, 2014 to August 15, 2015. 11,628 households were interviewed, 6,380 from urban areas and the remaining 5,248 from rural areas. Each household would be surveyed 4 times during the complete cycle (1 cycle = 12 months) and for 4 weeks of the month. Coverage rate 98.7%, 89.1% and 91.3% for the 1st, 2nd and 4th quarter respectively. For several reasons, we did not have the 3rd quarter. </p>
+ <p> <a href="http://www.ine.gov.mz/operacoes-estatisticas/inqueritos/inquerito-sobre-orcamento-familiar/relatorio-final-do-inquerito-ao-orcamento-familiar-iof-2014-15"> http://www.ine.gov.mz/operacoes-estatisticas/inqueritos/inquerito-sobre-orcamento-familiar/relatorio-final-do-inquerito-ao-orcamento-familiar-iof-2014-15 a0e40dc65006409a6a0a0c4a6aa]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="FREQ_COLL">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> 1st semester of 2021 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REL_CAL_POLICY">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> December 2021 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_SOURCE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> National Institute of Statistics (INE) </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Ministry of Economy and Finance (MEF) </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="INST_MANDATE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> By joint order number <strong> 112 / DEAE-MF / 2012 of 8 June </strong>, the National Statistics Institute delegated powers of notation and clearance of statistical data from administrative acts and inquiries to the Ministry of Finance through the Directorate of Studies and Economic Analysis . </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Percentage of the population that consumes less than $ 1.90 dollars a day. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The assessment of consumption poverty in Mozambique is based on the Basic Needs Cost approach, in which a poverty line is derived that includes food and non-food consumption. To calculate poverty we use the Foster, Greer and Thorbecke (FGT) indices, so for this indicator, we use the following Poverty Incidence Index: </p>
+ <p> Where: </p>
+ <p> Specifically for this indicator, we use the international poverty line of $ 1.90 dollars a day, at international prices in 2011, and we adjust it taking into account the GDP in Mozambique PPP in the years of the Survey (2014 and 2015). Then we calculated the Poverty Index taking into account the international poverty line. </p>
+ <p> <a href="https://databank.worldbank.org/source/world-development-indicators" target="_blank"> https://databank.worldbank.org/source/world-development-indicators </a>. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_VALIDATION">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> 1. The data used are reliable at national, rural, urban and provincial levels; </p>
+ <p> 2. Internal discussion at the level of the National Directorate for Economic Policy and Development, the Ministry of Economy and Finance, at the Government level and the discussion with partners and civil society. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_MGMNT">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> In the process of creating the Quality Management System at the level of the National Statistical System. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> There is a team composed of the Ministry of Economy and Finance, the National Institute of Statistics and the World Bank that collaborates from the moment of the formulation of IOF surveys, data collection, and dissemination of results. </p>
+ <p> Regarding the question of the poverty line used and GDP at par of purchases for Mozambique, the World Bank website <a href="https://databank.worldbank.org/source/world-development-indicators" target="_blank"> is used https://databank.worldbank.org/source/world-development-indicators </a>. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSMNT">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The instruments for assessing the quality of statistical processes and products at the level of the National Statistical System are still being developed based on the 19 quality principles established by the United Nations Statistical Commission. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Information available every six years. Data disaggregated by area of residence (rural and urban), sex, age group and status (type) of occupation. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The assessment of monetary poverty in Mozambique is based on consumption, although we use the international poverty line in this indicator, taking into account purchasing power parity, the indicator may not be comparable with other countries </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[ <ul>
+   <li> DEEF (2016). Poverty and Well-Being in Mozambique: Fourth National Assessment. Maputo: Ministry of Economy and Finance. Available at <a href="https://www.wider.unu.edu/sites/default/files/Final_QUARTA%20AVALIA%C3%87AO%20NACIONAL%20DA%20POBREZA_2016-10-26_2.pdf"> https://www.wider.unu.edu/sites/default/files/Final_QUARTA%20AVALIA%C3%87AO%20NACIONAL%20DA%20POBREZA_2016-10-26_2.pdf </a>; </li>
+   <li> DNEAP (2010). <em> Poverty and Wellbeing in Mozambique </em>: <em> Third National Poverty Assessment </em>. Maputo: Ministry of Planning and Development. Available at <a href="https://www.preventionweb.net/files/16411_thirdnationalpovertyassessment.pdf"> https://www.preventionweb.net/files/16411_thirdnationalpovertyassessment.pdf </a>; </li>
+   <li> DNPO (1998). <em> Poverty and Well-Being in Mozambique: The First National Assessment </em>. Maputo: <em> The First National Assessment </em>. Maputo: Ministry of Planning and Finance; </li>
+   <li> DNPO (2004). <em> Poverty and Well-Being in Mozambique </em>: <em> The Second National Assessment </em>. Maputo: Ministry of Planning and Development; </li>
+   <li> INE (2004). Final Report of the Household Survey on the Family Budget, 2002/3. Maputo: National Statistics Institute. </li>
+   <li> INE (2010). Final Report of the Family Budget Survey - IOF 2008/9. Maputo: National Statistics Institute. Available at <a href="http://www.ine.gov.mz/operacoes-estatisticas/inqueritos/inquerito-sobre-orcamento-familiar/relatorio-final-do-inquerito-ao-orcamento-familiar-iof-200809.pdf"> http://www.ine.gov.mz/operacoes-estatisticas/inqueritos/inquerito-sobre-orcamento-familiar/relatorio-final-do-inquerito-ao-orcamento-familiar-iof-200809.pdf </a>; </li>
+   <li> INE (2015). Final Report of the Family Budget Survey - IOF 2014/15. Maputo: National Statistics Institute; available at <a href="http://www.ine.gov.mz/operacoes-estatisticas/inqueritos/inquerito-sobre-orcamento-familiar/relatorio-final-do-inquerito-ao-orcamento-familiar-iof-2014-15"> http://www.ine.gov.mz/operacoes-estatisticas/inqueritos/inquerito-sobre-orcamento-familiar/relatorio-final-do-inquerito-ao-orcamento-familiar-iof-2014-15 </a>; </li>
+   <li> <a href="https://databank.worldbank.org/source/world-development-indicators" target="_blank"> https://databank.worldbank.org/source/world-development-indicators </a>. </li>
+ </ul>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -89,7 +231,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="994a23ce-ec84-4676-9929-af2561d2ac63">
+  <mes:MetadataSet structureRef="MDS1" setID="f72df678-9b51-4c5e-a739-9e0d12e710a4">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -114,51 +256,193 @@
       </gen:Target>
       <gen:AttributeSet>
         
-        <gen:ReportedAttribute id="target_id">
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
           
-          <com:Text xml:lang="en"><![CDATA[1.1]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="sdg_goal">
-          
-          <com:Text xml:lang="en"><![CDATA[1]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> National Directorate for Economic Policies and Development </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
-        <gen:ReportedAttribute id="reporting_status">
+        <gen:ReportedAttribute id="SDG_GOAL">
           
-          <com:Text xml:lang="en"><![CDATA[complete]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="data_non_statistical">
-          
-          <com:Text xml:lang="en"><![CDATA[False]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> 1 ERADICATE POVERTY IN ALL ITS FORMS, EVERYWHERE </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
-        <gen:ReportedAttribute id="graph_type">
+        <gen:ReportedAttribute id="SDG_TARGET">
           
-          <com:Text xml:lang="en"><![CDATA[line]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="indicator_sort_order">
-          
-          <com:Text xml:lang="en"><![CDATA[01-01-01]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> 1.1. By 2030, eradicate extreme poverty for all people everywhere, currently measured as people living on less than $ 1.25 a day </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
-        <gen:ReportedAttribute id="indicator_name">
+        <gen:ReportedAttribute id="SDG_INDICATOR">
           
-          <com:Text xml:lang="en"><![CDATA[Investimento directo estrangeiro (IDE), em percentagem do PIB]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> 1.1.1 Proportion of the population below the international poverty line, disaggregated by sex and age </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
-        <gen:ReportedAttribute id="graph_title">
+        <gen:ReportedAttribute id="SDG_SERIES_DESCR">
           
-          <com:Text xml:lang="en"><![CDATA[Investimento directo estrangeiro (IDE), em percentagem do PIB]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> Population below the international poverty line, disaggregated by sex and age </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="META_LAST_UPDATE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> 9/10/2020 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_ORGANISATION">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Ministry of Economy and Finance (MEF) </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> José Domingos Madeira Cardoso </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_FUNCT">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Senior Technician N1 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> +258 84 229 5957 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> <a href="mailto:jsm.cardoso7@gmail.com"> jsm.cardoso7@gmail.com </a> </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> It is the percentage of the population that lives on less than $ 1.90 dollars a day, at international prices in 2011. </p>
+ <p> The international poverty line $ 1.90 is used for this concept, which takes into account the purchasing power parity </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="UNIT_MEASURE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Percentage </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> National Institute of Statistics, Household Budget Survey </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COLL_METHOD">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The IOF 2014/15 was a panel survey, which ran from August 7, 2014 to August 15, 2015. 11,628 households were interviewed, 6,380 from urban areas and the remaining 5,248 from rural areas. Each household would be surveyed 4 times during the complete cycle (1 cycle = 12 months) and for 4 weeks of the month. Coverage rate 98.7%, 89.1% and 91.3% for the 1st, 2nd and 4th quarter respectively. For several reasons, we did not have the 3rd quarter. </p>
+ <p> <a href="http://www.ine.gov.mz/operacoes-estatisticas/inqueritos/inquerito-sobre-orcamento-familiar/relatorio-final-do-inquerito-ao-orcamento-familiar-iof-2014-15"> http://www.ine.gov.mz/operacoes-estatisticas/inqueritos/inquerito-sobre-orcamento-familiar/relatorio-final-do-inquerito-ao-orcamento-familiar-iof-2014-15 a0e40dc65006409a6a0a0c4a6aa]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="FREQ_COLL">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> 1st semester of 2021 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REL_CAL_POLICY">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> December 2021 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_SOURCE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> National Institute of Statistics (INE) </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Ministry of Economy and Finance (MEF) </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="INST_MANDATE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> By joint order number <strong> 112 / DEAE-MF / 2012 of 8 June </strong>, the National Statistics Institute delegated powers of notation and clearance of statistical data from administrative acts and inquiries to the Ministry of Finance through the Directorate of Studies and Economic Analysis . </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Percentage of the population that consumes less than $ 1.90 dollars a day. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The assessment of consumption poverty in Mozambique is based on the Basic Needs Cost approach, in which a poverty line is derived that includes food and non-food consumption. To calculate poverty we use the Foster, Greer and Thorbecke (FGT) indices, so for this indicator, we use the following Poverty Incidence Index: </p>
+ <p> Where: </p>
+ <p> Specifically for this indicator, we use the international poverty line of $ 1.90 dollars a day, at international prices in 2011, and we adjust it taking into account the GDP in Mozambique PPP in the years of the Survey (2014 and 2015). Then we calculated the Poverty Index taking into account the international poverty line. </p>
+ <p> <a href="https://databank.worldbank.org/source/world-development-indicators" target="_blank"> https://databank.worldbank.org/source/world-development-indicators </a>. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_VALIDATION">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> 1. The data used are reliable at national, rural, urban and provincial levels; </p>
+ <p> 2. Internal discussion at the level of the National Directorate for Economic Policy and Development, the Ministry of Economy and Finance, at the Government level and the discussion with partners and civil society. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_MGMNT">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> In the process of creating the Quality Management System at the level of the National Statistical System. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> There is a team composed of the Ministry of Economy and Finance, the National Institute of Statistics and the World Bank that collaborates from the moment of the formulation of IOF surveys, data collection, and dissemination of results. </p>
+ <p> Regarding the question of the poverty line used and GDP at par of purchases for Mozambique, the World Bank website <a href="https://databank.worldbank.org/source/world-development-indicators" target="_blank"> is used https://databank.worldbank.org/source/world-development-indicators </a>. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSMNT">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The instruments for assessing the quality of statistical processes and products at the level of the National Statistical System are still being developed based on the 19 quality principles established by the United Nations Statistical Commission. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Information available every six years. Data disaggregated by area of residence (rural and urban), sex, age group and status (type) of occupation. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The assessment of monetary poverty in Mozambique is based on consumption, although we use the international poverty line in this indicator, taking into account purchasing power parity, the indicator may not be comparable with other countries </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[ <ul>
+   <li> DEEF (2016). Poverty and Well-Being in Mozambique: Fourth National Assessment. Maputo: Ministry of Economy and Finance. Available at <a href="https://www.wider.unu.edu/sites/default/files/Final_QUARTA%20AVALIA%C3%87AO%20NACIONAL%20DA%20POBREZA_2016-10-26_2.pdf"> https://www.wider.unu.edu/sites/default/files/Final_QUARTA%20AVALIA%C3%87AO%20NACIONAL%20DA%20POBREZA_2016-10-26_2.pdf </a>; </li>
+   <li> DNEAP (2010). <em> Poverty and Wellbeing in Mozambique </em>: <em> Third National Poverty Assessment </em>. Maputo: Ministry of Planning and Development. Available at <a href="https://www.preventionweb.net/files/16411_thirdnationalpovertyassessment.pdf"> https://www.preventionweb.net/files/16411_thirdnationalpovertyassessment.pdf </a>; </li>
+   <li> DNPO (1998). <em> Poverty and Well-Being in Mozambique: The First National Assessment </em>. Maputo: <em> The First National Assessment </em>. Maputo: Ministry of Planning and Finance; </li>
+   <li> DNPO (2004). <em> Poverty and Well-Being in Mozambique </em>: <em> The Second National Assessment </em>. Maputo: Ministry of Planning and Development; </li>
+   <li> INE (2004). Final Report of the Household Survey on the Family Budget, 2002/3. Maputo: National Statistics Institute. </li>
+   <li> INE (2010). Final Report of the Family Budget Survey - IOF 2008/9. Maputo: National Statistics Institute. Available at <a href="http://www.ine.gov.mz/operacoes-estatisticas/inqueritos/inquerito-sobre-orcamento-familiar/relatorio-final-do-inquerito-ao-orcamento-familiar-iof-200809.pdf"> http://www.ine.gov.mz/operacoes-estatisticas/inqueritos/inquerito-sobre-orcamento-familiar/relatorio-final-do-inquerito-ao-orcamento-familiar-iof-200809.pdf </a>; </li>
+   <li> INE (2015). Final Report of the Family Budget Survey - IOF 2014/15. Maputo: National Statistics Institute; available at <a href="http://www.ine.gov.mz/operacoes-estatisticas/inqueritos/inquerito-sobre-orcamento-familiar/relatorio-final-do-inquerito-ao-orcamento-familiar-iof-2014-15"> http://www.ine.gov.mz/operacoes-estatisticas/inqueritos/inquerito-sobre-orcamento-familiar/relatorio-final-do-inquerito-ao-orcamento-familiar-iof-2014-15 </a>; </li>
+   <li> <a href="https://databank.worldbank.org/source/world-development-indicators" target="_blank"> https://databank.worldbank.org/source/world-development-indicators </a>. </li>
+ </ul>]]></com:Text>
           
         </gen:ReportedAttribute>
         

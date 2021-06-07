@@ -1,0 +1,7 @@
+Year,OBS_STATUS,NATURE,COMMENT_OBS,UNIT_MULT,SOURCE_DETAIL,FREQ,REPORTING_TYPE,SERIES,REF_AREA,SEX,UNIT_MEASURE,Value
+2015,A,_X,Percentage of men subjected to physical violence by a current or former intimate partner in the previous 12 months,0,"DHS, NISR",A,N,_L_RW_050201_1,RW,M,PT,6.5
+2015,A,_X,Percentage of ever-partnered women and girls subjected to physical violence by a current or former intimate partner in the previous 12 months,0,"DHS, NISR",A,N,VC_VAW_PHYV,RW,F,PT,17.6
+2015,A,_X,Percentage of men subjected to sexual violence by a current or former intimate partner in the previous 12 months,0,"DHS, NISR",A,N,_L_RW_050201_2,RW,M,PT,1.2
+2015,A,_X,Percentage of ever-partnered women and girls subjected to sexual violence by a current or former intimate partner in the previous 12 months,0,"DHS, NISR",A,N,VC_VAW_SEXV,RW,F,PT,8.3
+2015,A,_X,Percentage of men to emotional violence by a current or former intimate partner in the previous 12 months,0,"DHS, NISR",A,N,_L_RW_050201_3,RW,M,PT,14.0
+2015,A,_X,Percentage of ever-partnered women and girls subjected to psychological violence by a current or former intimate partner in the previous 12 months,0,"DHS, NISR",A,N,VC_VAW_PSYV,RW,F,PT,18.5

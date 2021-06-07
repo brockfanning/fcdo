@@ -1,0 +1,4 @@
+Year,OBS_STATUS,NATURE,COMMENT_OBS,UNIT_MULT,SOURCE_DETAIL,FREQ,REPORTING_TYPE,SERIES,REF_AREA,UNIT_MEASURE,Value
+2017,A,_X,Annual growth rate of real GDP per employed person,0,"NISR, National Accounts & LFS",A,N,SL_EMP_PCAP,RW,PT,-5.05
+2018,A,_X,Annual growth rate of real GDP per employed person,0,"NISR, National Accounts & LFS",A,N,SL_EMP_PCAP,RW,PT,0.2
+2019,A,_X,Annual growth rate of real GDP per employed person,0,"NISR, National Accounts & LFS",A,N,SL_EMP_PCAP,RW,PT,7.21

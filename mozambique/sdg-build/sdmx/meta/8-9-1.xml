@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
   <mes:Header>
-    <mes:ID>IREF1623036954</mes:ID>
+    <mes:ID>IREF1623075715</mes:ID>
     <mes:Test>True</mes:Test>
-    <mes:Prepared>2021-06-07T03:35:54</mes:Prepared>
+    <mes:Prepared>2021-06-07T14:21:55</mes:Prepared>
     <mes:Sender id="open-sdg_sdg-build@1-3-0"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -12,7 +12,7 @@
     </mes:Structure>
   </mes:Header>
   
-  <mes:MetadataSet structureRef="MDS1" setID="c406a806-dee2-403e-91ca-1f01943bbddb">
+  <mes:MetadataSet structureRef="MDS1" setID="9adb8014-0c1e-441c-8be1-41f9aec85a87">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -37,51 +37,216 @@
       </gen:Target>
       <gen:AttributeSet>
         
-        <gen:ReportedAttribute id="target_id">
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
           
-          <com:Text xml:lang="en"><![CDATA[8.9]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="sdg_goal">
-          
-          <com:Text xml:lang="en"><![CDATA[8]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> Directorate of National Accounts and Global Indicators </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
-        <gen:ReportedAttribute id="reporting_status">
+        <gen:ReportedAttribute id="SDG_GOAL">
           
-          <com:Text xml:lang="en"><![CDATA[complete]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="data_non_statistical">
-          
-          <com:Text xml:lang="en"><![CDATA[False]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> <strong> 8 </strong>. Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
-        <gen:ReportedAttribute id="graph_type">
+        <gen:ReportedAttribute id="SDG_TARGET">
           
-          <com:Text xml:lang="en"><![CDATA[line]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="indicator_sort_order">
-          
-          <com:Text xml:lang="en"><![CDATA[08-09-01]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> <strong> 8.9 </strong> By 2030, develop and implement policies to promote sustainable tourism, which creates jobs and promotes local culture and products </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
-        <gen:ReportedAttribute id="indicator_name">
+        <gen:ReportedAttribute id="SDG_INDICATOR">
           
-          <com:Text xml:lang="en"><![CDATA[Investimento directo estrangeiro (IDE), em percentagem do PIB]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> <strong> 8.9.1 </strong> Direct Gross Value Added by Tourism (VABDT) as a percentage of total GDP and the growth rate </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
-        <gen:ReportedAttribute id="graph_title">
+        <gen:ReportedAttribute id="SDG_SERIES_DESCR">
           
-          <com:Text xml:lang="en"><![CDATA[Investimento directo estrangeiro (IDE), em percentagem do PIB]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> Direct Gross Value Added of Tourism (VABDT) as a percentage of total GDP and the growth rate </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="META_LAST_UPDATE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> 10/20/2020 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_ORGANISATION">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> National Institute of Statistics </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Perpetua Mendonça; Simão Saturday; Cipriano Cláudio </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_FUNCT">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Technician, Head of Department and Director </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Perpetual: + 258-823810450 / + 258-873810450; </p>
+ <p> Saturday: + 258-827027780 / + 258-868001057; </p>
+ <p> Cláudio: + 258-824261470 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_MAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> info@ine.gov.mz </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> <a href="mailto:perpetua.mendoca@ine.gov.mz"> perpetua.mendoca@ine.gov.mz </a>; simao.sabado@ine.gov.mz; claudio.cipriano@ine.gov.mz </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The Direct Gross Value Added of Tourism (VABDT) is defined as the sum of the part of the Gross Value Added (at basic prices) generated by all activities in response to domestic tourism consumption plus the value of net taxes on products and imports included in the amount of this expense at purchase prices. </p>
+ <p> The annual growth rate of real direct gross value added (VABDT) represents the percentage change in real VABDT between two consecutive years </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="UNIT_MEASURE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Percentage </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CLASS_SYSTEM">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Classification of economic activities (CAE), National Classification of Goods and Services (CNBS); COPNI; COFOG, Classification Individual Consumption by Purpose (COICOP) Balance of Payment Manual, Version 6 (MBOP6) </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The indicator comes from the countries' Tourism Satellite Account, which is a satellite account for National Accounts </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COLL_METHOD">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Monthly and annual business surveys are current, probabilistic surveys. Physical or electronic questionnaires are sent to companies for completion and return. They have as key variables: the main and secondary activity, the volume of business, expenses detailed by type of expenditure, No. of workers, remuneration and hours worked. They have their own computer applications with validation rules. </p>
+ <p> Administrative data is received on models used by the sources. When they are received, an assessment is made of their quality. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="FREQ_COLL">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> From January to December of each year </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REL_CAL_POLICY">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> September of each year: VABDT Preliminaries of year n-1; and Definitive VABDT for year n-2; </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_SOURCE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> National Institute of Statistics </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> National Institute of Statistics </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="INST_MANDATE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> According to article 19, of Law 7/96 of July 5th: </p>
+ <ol>
+   <li> The National Statistics Institute (INE) is the central executive body of the National Statistical System (SEN) whose objective is the notation, calculation, coordination and dissemination of the country's official statistical information and is subordinate to the Minister Council. </li>
+   <li> INE is responsible for carrying out the country's official statistical activity. </li>
+ </ol>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The indicator is defined in the target <strong> 8.9 </strong> By 2030, develop and implement policies to promote sustainable tourism, which generates jobs and promotes local culture and products. </p>
+ <p> The indicator has several dimensions, as well as meeting the dimension of tourism as well as promoting tourism itself. The value of the economic contribution of tourism captured by this indicator, and its (relative) increases or decreases, may indicate the degree to which tourism is being successfully promoted. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Given that this indicator is produced as the sum of the various activities that make up the domestic consumption of tourism, the late reception of data from sources; lack or insufficiency of resources to carry out surveys at regular intervals may lead to skewed production estimates from the Tourism Satellite Account (CST). </p>
+ <p> The VABDT / GDP tends not to show great variations from one year to the next and the variations may be due to the numerator and / or denominator, this means that the true dimension of the indicator does not have variation. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Direct Gross Value Added by Tourism VABDT as a share of GDP in% </p>
+ <p> Growth Rate of VABDT </p>
+ <p> ((VABDT <sub> t </sub> / VABDT <sub> t-1 </sub>) -1) * 100 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_VALIDATION">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The VABDT is derived from the GVA of productive activities that directly serve tourism and, therefore, it may be possible to break down by tourism industries (for example, accommodation for visitors, different types of passenger transport, etc.). </p>
+ <p> The indicator is based on the Tourism Satellite Account (CST): Recommended Methodological Framework SNA 2008, an international standard adopted by the UN Statistical Commission and developed by the World Tourism Organization (WTO), Organization for Economic Cooperation and Development (OECD) ) European Union Statistics Office and EUROSTAT. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_MGMNT">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The data compiled and verified by the technicians are reconciled by the heads and submitted to the directors for recheck. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Use of United Nations manuals and compliance with the United Nations recommended reviews: </p>
+ <p> - National Accounts (SNA 2008); </p>
+ <p> -World Tourism Organization (WTO), </p>
+ <p> -Organization for Cooperation and Economic Development (OECD) </p>
+ <p> -European Union and EUROSTAT Statistics Office. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSMNT">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Sharing with international publications institutions. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Data are made available annually and have no desegregation </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Calculation of this indicator does not differ from calculations made internationally, because United Nations manuals are used for National Accounts, SNA 2008; compliance with the reviews recommended by the United Nations. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> National Accounts (SNA 2008); </p>
+ <p> -World Tourism Organization (WTO), </p>
+ <p> -Organization for Cooperation and Economic Development (OECD) </p>
+ <p> -European Union and EUROSTAT Statistics Office. </p>
+ <p> http://www.ine.gov.mz/estatisticas/estatisticas-economicas/contas-nacionais </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         

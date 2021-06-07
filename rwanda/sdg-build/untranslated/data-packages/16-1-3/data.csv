@@ -1,0 +1,5 @@
+Year,OBS_STATUS,NATURE,COMMENT_OBS,UNIT_MULT,SOURCE_DETAIL,FREQ,REPORTING_TYPE,SERIES,REF_AREA,SEX,UNIT_MEASURE,Value
+2015,A,_X,"Percent of women and  men, age 15-49 have experienced physical violence within the 12 months preceding the survey",0,"DHS, NISR",A,N,_L_RW_160103_1,RW,M,PT,11
+2015,A,_X,"Percent of women and  men, age 15-49 have experienced physical violence within the 12 months preceding the survey",0,"DHS, NISR",A,N,_L_RW_160103_1,RW,F,PT,14
+2015,A,_X,Percent of women and  men age 15-49 report having experienced sexual violence at least once in the past 12 months,0,"DHS, NISR",A,N,_L_RW_160103_2,RW,M,PT,1
+2015,A,_X,Percent of women and  men age 15-49 report having experienced sexual violence at least once in the past 12 months,0,"DHS, NISR",A,N,_L_RW_160103_2,RW,F,PT,8

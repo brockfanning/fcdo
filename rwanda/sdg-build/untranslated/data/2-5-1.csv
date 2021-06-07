@@ -1,0 +1,7 @@
+Year,OBS_STATUS,NATURE,COMMENT_OBS,UNIT_MULT,SOURCE_DETAIL,FREQ,REPORTING_TYPE,SERIES,REF_AREA,UNIT_MEASURE,Value
+2019,A,_X,Plant Genetic Resources,0,MINAGRI (Rwanda National Gene Bank-RNGB),A,N,_L_RW_020501_1,RW,NUMBER,1335
+2020,A,_X,Plant Genetic Resources,0,MINAGRI (Rwanda National Gene Bank-RNGB),A,N,_L_RW_020501_1,RW,NUMBER,1363
+2019,A,_X,Forest Genetic Resources,0,MINAGRI (Rwanda National Gene Bank-RNGB),A,N,_L_RW_020501_2,RW,NUMBER,58
+2020,A,_X,Forest Genetic Resources,0,MINAGRI (Rwanda National Gene Bank-RNGB),A,N,_L_RW_020501_2,RW,NUMBER,62
+2019,A,_X,Animal Genetic Resources,0,MINAGRI (Rwanda National Gene Bank-RNGB),A,N,_L_RW_020501_3,RW,NUMBER,173
+2020,A,_X,Animal Genetic Resources,0,MINAGRI (Rwanda National Gene Bank-RNGB),A,N,_L_RW_020501_3,RW,NUMBER,192

@@ -1,0 +1,23 @@
+Year,OBS_STATUS,UNIT_MULT,NATURE,SOURCE_DETAIL,FREQ,REPORTING_TYPE,SERIES,REF_AREA,SEX,URBANISATION,INCOME_WEALTH_QUANTILE,UNIT_MEASURE,Value
+2015,A,0,_X,"Lao Statistics Bureau, Survey-(LSIS), https://www.lsb.gov.la/",A,N,SH_STA_STNT,LA,,,,PT,35.5
+2018,A,0,_X,"Lao Statistics Bureau, Survey-(LSIS), https://www.lsb.gov.la/",A,N,SH_STA_STNT,LA,,,,PT,33.0
+2018,A,0,_X,"Lao Statistics Bureau, Survey-(LSIS), https://www.lsb.gov.la/",A,N,SH_STA_STNT,LA,,U,,PT,21.5
+2018,A,0,_X,"Lao Statistics Bureau, Survey-(LSIS), https://www.lsb.gov.la/",A,N,SH_STA_STNT,LA,,R,,PT,37.2
+2018,A,0,_X,"Lao Statistics Bureau, Survey-(LSIS), https://www.lsb.gov.la/",A,N,SH_STA_STNT,LA,M,,,PT,34.0
+2018,A,0,_X,"Lao Statistics Bureau, Survey-(LSIS), https://www.lsb.gov.la/",A,N,SH_STA_STNT,LA,F,,,PT,32.0
+2018,A,0,_X,"Lao Statistics Bureau, Survey-(LSIS), https://www.lsb.gov.la/",A,N,SH_STA_STNT,LA,,,Q1,PT,48.0
+2018,A,0,_X,"Lao Statistics Bureau, Survey-(LSIS), https://www.lsb.gov.la/",A,N,SH_STA_STNT,LA,,,Q2,PT,40.5
+2018,A,0,_X,"Lao Statistics Bureau, Survey-(LSIS), https://www.lsb.gov.la/",A,N,SH_STA_STNT,LA,,,Q3,PT,30.0
+2018,A,0,_X,"Lao Statistics Bureau, Survey-(LSIS), https://www.lsb.gov.la/",A,N,SH_STA_STNT,LA,,,Q4,PT,22.8
+2018,A,0,_X,"Lao Statistics Bureau, Survey-(LSIS), https://www.lsb.gov.la/",A,N,SH_STA_STNT,LA,,,Q5,PT,13.9
+2012,A,0,_X,"Lao Statistics Bureau, Survey-(LSIS), https://www.lsb.gov.la/",A,N,_L_LA_020201_01,LA,,,,PT,42.0
+2018,A,0,_X,"Lao Statistics Bureau, Survey-(LSIS), https://www.lsb.gov.la/",A,N,_L_LA_020201_01,LA,,,,PT,25.4
+2018,A,0,_X,"Lao Statistics Bureau, Survey-(LSIS), https://www.lsb.gov.la/",A,N,_L_LA_020201_01,LA,,U,,PT,16.8
+2018,A,0,_X,"Lao Statistics Bureau, Survey-(LSIS), https://www.lsb.gov.la/",A,N,_L_LA_020201_01,LA,,R,,PT,28.6
+2018,A,0,_X,"Lao Statistics Bureau, Survey-(LSIS), https://www.lsb.gov.la/",A,N,_L_LA_020201_01,LA,M,,,PT,27.7
+2018,A,0,_X,"Lao Statistics Bureau, Survey-(LSIS), https://www.lsb.gov.la/",A,N,_L_LA_020201_01,LA,F,,,PT,22.8
+2018,A,0,_X,"Lao Statistics Bureau, Survey-(LSIS), https://www.lsb.gov.la/",A,N,_L_LA_020201_01,LA,,,Q1,PT,36.2
+2018,A,0,_X,"Lao Statistics Bureau, Survey-(LSIS), https://www.lsb.gov.la/",A,N,_L_LA_020201_01,LA,,,Q2,PT,31.9
+2018,A,0,_X,"Lao Statistics Bureau, Survey-(LSIS), https://www.lsb.gov.la/",A,N,_L_LA_020201_01,LA,,,Q3,PT,22.2
+2018,A,0,_X,"Lao Statistics Bureau, Survey-(LSIS), https://www.lsb.gov.la/",A,N,_L_LA_020201_01,LA,,,Q4,PT,18.0
+2018,A,0,_X,"Lao Statistics Bureau, Survey-(LSIS), https://www.lsb.gov.la/",A,N,_L_LA_020201_01,LA,,,Q5,PT,12.3

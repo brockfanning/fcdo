@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
+  <mes:Header>
+    <mes:ID>IREF1623075946</mes:ID>
+    <mes:Test>True</mes:Test>
+    <mes:Prepared>2021-06-07T14:25:46</mes:Prepared>
+    <mes:Sender id="open-sdg_sdg-build@1-3-0"/>
+    <mes:Structure structureID="MDS1">
+      <com:Structure>
+        <URN>urn:sdmx:org.sdmx.infomodel.metadatastructure.MetadataStructure=IAEG-SDGs:SDG_MSD(0.3)</URN>
+      </com:Structure>
+    </mes:Structure>
+  </mes:Header>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="5b3c51c2-00e2-42b8-90fc-4c07d62768fd">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>SI_POV_NAHC</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KH</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="CLASS_SYSTEM">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>N/A</p>]]></com:Text>
+          
+          <com:Text xml:lang="km"><![CDATA[<p>N/A</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COLL_METHOD">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>The most recent Expenditure and Consumption Survey (LECS VI) is the sixth LECS survey conducted in Lao PDR. It is a survey in terms of socio-economy at the household echelon. This survey is a sample survey which is carried out in every province and district over the whole country. The survey was undertaken from June 2018 and June 2019 (for a period of 12 months) in order to be able to provide data on expenditure and consumption covering all seasons and relating to aspects of every area and region in the Lao PDR.</p><p>In this survey, data on expenditure and income was collected from households. Data was collected during one month using the daily recording principle. All transactions were captured in a diary and classified by kind of consumption, or by result of agricultural production and business of the household. Data on purchase of goods with long life-time (durables) such as furniture, television, automobile, motorcycle and others were also recorded for the period of the past 12 months.<br/><br/>Data on time use was captured in the middle of the month for all household members aged 10 years and higher.</p><p><strong>Data Collection Mode:</strong> Face-to-face</p><p><strong>Supervision</strong></p><p>Each team comprised 1 supervisor and 2 enumerators for each village. </p><p><strong>Data Collection Notes</strong></p><p>The training for trainers and supervisors was conducted for 5 days at the Department of Statistics, Vientiane Capital, with the participation of all staff from the Statistics Section from 17 provinces.<br/><br/>The training for enumerators lasted 11 days and was held at 4 points:<br/>- first point at …………. province from 8 provinces<br/>- second point at Vientiane Capital for 2 provinces from center<br/>- third point at …………province from…………….</p><h2><strong>Sampling</strong></h2><p># Sampling Procedure: Sample Design and Selection </p><p>First Step: Description of Sample Village</p><p>Second Step: Selection of Sample Household</p><h2><strong>Questionnaires</strong></h2><p>Four questionnaires were used to collect the LECS VI :<br/>- Household Questionnaire<br/>- Dairy Sheet<br/>- Time Use Questionnaire<br/>- Village Questionnaire<br/>- Price Questionnaire</p>]]></com:Text>
+          
+          <com:Text xml:lang="km"><![CDATA[<p>The most recent Expenditure and Consumption Survey (LECS VI) is the sixth LECS survey conducted in Lao PDR. It is a survey in terms of socio-economy at the household echelon. This survey is a sample survey which is carried out in every province and district over the whole country. The survey was undertaken from June 2018 and June 2019 (for a period of 12 months) in order to be able to provide data on expenditure and consumption covering all seasons and relating to aspects of every area and region in the Lao PDR.</p><p>In this survey, data on expenditure and income was collected from households. Data was collected during one month using the daily recording principle. All transactions were captured in a diary and classified by kind of consumption, or by result of agricultural production and business of the household. Data on purchase of goods with long life-time (durables) such as furniture, television, automobile, motorcycle and others were also recorded for the period of the past 12 months.<br/><br/>Data on time use was captured in the middle of the month for all household members aged 10 years and higher.</p><p><strong>Data Collection Mode:</strong> Face-to-face</p><p><strong>Supervision</strong></p><p>Each team comprised 1 supervisor and 2 enumerators for each village. </p><p><strong>Data Collection Notes</strong></p><p>The training for trainers and supervisors was conducted for 5 days at the Department of Statistics, Vientiane Capital, with the participation of all staff from the Statistics Section from 17 provinces.<br/><br/>The training for enumerators lasted 11 days and was held at 4 points:<br/>- first point at …………. province from 8 provinces<br/>- second point at Vientiane Capital for 2 provinces from center<br/>- third point at …………province from…………….</p><h2><strong>Sampling</strong></h2><p># Sampling Procedure: Sample Design and Selection </p><p>First Step: Description of Sample Village</p><p>Second Step: Selection of Sample Household</p><h2><strong>Questionnaires</strong></h2><p>Four questionnaires were used to collect the LECS VI :<br/>- Household Questionnaire<br/>- Dairy Sheet<br/>- Time Use Questionnaire<br/>- Village Questionnaire<br/>- Price Questionnaire</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Lao Statistics Bureau</p>]]></com:Text>
+          
+          <com:Text xml:lang="km"><![CDATA[<p>Lao Statistics Bureau</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[<p><a href="mailto:vilaysooks@gmail.com">vilaysooks@gmail.com</a></p><p><a href="mailto:lstats@lsb.gov.la">lstats@lsb.gov.la</a></p><p>https://www.lsb.gov.la</p>]]></com:Text>
+          
+          <com:Text xml:lang="km"><![CDATA[<p><a href="mailto:vilaysooks@gmail.com">vilaysooks@gmail.com</a></p><p><a href="mailto:lstats@lsb.gov.la">lstats@lsb.gov.la</a></p><p>https://www.lsb.gov.la</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_FUNCT">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Deputy Director General</p>]]></com:Text>
+          
+          <com:Text xml:lang="km"><![CDATA[<p>Deputy Director General</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_MAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>N/A</p>]]></com:Text>
+          
+          <com:Text xml:lang="km"><![CDATA[<p>N/A</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Mr.Vilaysook SISOULATH</p>]]></com:Text>
+          
+          <com:Text xml:lang="km"><![CDATA[<p>Mr.Vilaysook SISOULATH</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_ORGANISATION">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Lao Statistics Bureau</p>]]></com:Text>
+          
+          <com:Text xml:lang="km"><![CDATA[<p>Lao Statistics Bureau</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>+856 20 55 795 043</p><p>+856 21 214 740</p>]]></com:Text>
+          
+          <com:Text xml:lang="km"><![CDATA[<p>+856 20 55 795 043</p><p>+856 21 214 740</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>The Lao Expenditure and Consumption Survey (LECS) have been conducted at five-year intervals since 1992/1993</p><p>Disaggregated by Location (U/R), sex and age group</p>]]></com:Text>
+          
+          <com:Text xml:lang="km"><![CDATA[<p>The Lao Expenditure and Consumption Survey (LECS) have been conducted at five-year intervals since 1992/1993</p><p>Disaggregated by Location (U/R), sex and age group</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[<p><img src="data:image/png;base64,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"/></p><p>Where  is an indicator function that takes on a value of 1 if the bracketed expression is true, and 0 otherwise. If individual consumption or income  is less than the national poverty line (for example, in absolute terms the line could be the price of a consumption bundle or in relative terms a percentage of the income distribution), then  is equal to 1 and the individual is counted as poor.  is the total, urban or rural number of poor. is the total, urban or rural population. </p><p>National poverty rates use a country specific poverty line, reflecting the country’s economic and social circumstances.</p>]]></com:Text>
+          
+          <com:Text xml:lang="km"><![CDATA[<p><img src="data:image/png;base64,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"/></p><p>Where  is an indicator function that takes on a value of 1 if the bracketed expression is true, and 0 otherwise. If individual consumption or income  is less than the national poverty line (for example, in absolute terms the line could be the price of a consumption bundle or in relative terms a percentage of the income distribution), then  is equal to 1 and the individual is counted as poor.  is the total, urban or rural number of poor. is the total, urban or rural population. </p><p>National poverty rates use a country specific poverty line, reflecting the country’s economic and social circumstances.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_SOURCE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Lao Statistics Bureau</p>]]></com:Text>
+          
+          <com:Text xml:lang="km"><![CDATA[<p>Lao Statistics Bureau</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_VALIDATION">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>consultation process with line ministries on the national data submitted to the SDGs Indicators</p>]]></com:Text>
+          
+          <com:Text xml:lang="km"><![CDATA[<p>consultation process with line ministries on the national data submitted to the SDGs Indicators</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="FREQ_COLL">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Start: June 2018</p><p>End: June 2019</p>]]></com:Text>
+          
+          <com:Text xml:lang="km"><![CDATA[<p>Start: June 2018</p><p>End: June 2019</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="INST_MANDATE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Article 19. Survey executing agencies in Statistics Law Number Order 03, Vientiane Municipality 30June 2010 said that Lao Statistics Bureau executes census and national sample surveys and other specific surveys that are defined in the SDNSS in each period of time</p>]]></com:Text>
+          
+          <com:Text xml:lang="km"><![CDATA[<p>Article 19. Survey executing agencies in Statistics Law Number Order 03, Vientiane Municipality 30June 2010 said that Lao Statistics Bureau executes census and national sample surveys and other specific surveys that are defined in the SDNSS in each period of time</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="META_LAST_UPDATE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>22 April 2021</p>]]></com:Text>
+          
+          <com:Text xml:lang="km"><![CDATA[<p>22 April 2021</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Department of Social Statistics</p>]]></com:Text>
+          
+          <com:Text xml:lang="km"><![CDATA[<p>Department of Social Statistics</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>https://unstats.un.org/sdgs/metadata/</p>]]></com:Text>
+          
+          <com:Text xml:lang="km"><![CDATA[<p>https://unstats.un.org/sdgs/metadata/</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>To be useful for poverty estimates, surveys must be nationally representative. They must also include enough information to compute a comprehensive estimate of total household consumption or income (including consumption or income from own production) and to construct a correctly weighted distribution of consumption or income per person.</p>]]></com:Text>
+          
+          <com:Text xml:lang="km"><![CDATA[<p>To be useful for poverty estimates, surveys must be nationally representative. They must also include enough information to compute a comprehensive estimate of total household consumption or income (including consumption or income from own production) and to construct a correctly weighted distribution of consumption or income per person.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REL_CAL_POLICY">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>2026</p>]]></com:Text>
+          
+          <com:Text xml:lang="km"><![CDATA[<p>2026</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_CUSTODIAN_AGENCIES">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>World Bank</p>]]></com:Text>
+          
+          <com:Text xml:lang="km"><![CDATA[<p>World Bank</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Goal 1. End poverty in all its forms everywhere</p>]]></com:Text>
+          
+          <com:Text xml:lang="km"><![CDATA[<p>Goal 1. End poverty in all its forms everywhere</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>1.2.1 Percentage of population living below the national poverty line</p>]]></com:Text>
+          
+          <com:Text xml:lang="km"><![CDATA[<p>1.2.1 Percentage of population living below the national poverty line</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_RELATED_INDICATORS">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Linkage to Goal 1: End poverty in all its forms everywhere</p>]]></com:Text>
+          
+          <com:Text xml:lang="km"><![CDATA[<p>Linkage to Goal 1: End poverty in all its forms everywhere</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_SERIES_DESCR">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Proportion of population living below the national poverty line</p>]]></com:Text>
+          
+          <com:Text xml:lang="km"><![CDATA[<p>Proportion of population living below the national poverty line</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>1.2 By 2030, reduce at least by half the proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions</p>]]></com:Text>
+          
+          <com:Text xml:lang="km"><![CDATA[<p>1.2 By 2030, reduce at least by half the proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Survey: Lao Expenditure and Consumption Survey (LECS)</p>]]></com:Text>
+          
+          <com:Text xml:lang="km"><![CDATA[<p>Survey: Lao Expenditure and Consumption Survey (LECS)</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[<p><strong>Definition:</strong></p><p>The national poverty rate is the percentage of the total population living below the national poverty line. The rural poverty rate is the percentage of the rural population living below the national poverty line (or in cases where a separate, rural poverty line is used, the rural poverty line). Urban poverty rate is the percentage of the urban population living below the national poverty line (or in cases where a separate, urban poverty line is used, the urban poverty line). </p><p><strong>Concepts:</strong></p><p>In assessing poverty in a given country, and how best to reduce poverty according to national definitions, one naturally focuses on a poverty line that is considered appropriate for that country. Poverty lines across countries vary in terms of their purchasing power, and they have a strong economic gradient, such that richer countries tend to adopt higher standards of living in defining poverty. Within a country, the cost of living is typically higher in urban areas than in rural areas. Some countries may have separate urban and rural poverty lines to represent different purchasing powers. </p>]]></com:Text>
+          
+          <com:Text xml:lang="km"><![CDATA[<p><strong>Definition:</strong></p><p>The national poverty rate is the percentage of the total population living below the national poverty line. The rural poverty rate is the percentage of the rural population living below the national poverty line (or in cases where a separate, rural poverty line is used, the rural poverty line). Urban poverty rate is the percentage of the urban population living below the national poverty line (or in cases where a separate, urban poverty line is used, the urban poverty line). </p><p><strong>Concepts:</strong></p><p>In assessing poverty in a given country, and how best to reduce poverty according to national definitions, one naturally focuses on a poverty line that is considered appropriate for that country. Poverty lines across countries vary in terms of their purchasing power, and they have a strong economic gradient, such that richer countries tend to adopt higher standards of living in defining poverty. Within a country, the cost of living is typically higher in urban areas than in rural areas. Some countries may have separate urban and rural poverty lines to represent different purchasing powers. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+</mes:GenericMetadata>
+        

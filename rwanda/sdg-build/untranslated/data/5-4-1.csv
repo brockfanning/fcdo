@@ -1,0 +1,10 @@
+Year,OBS_STATUS,NATURE,COMMENT_OBS,UNIT_MULT,SOURCE_DETAIL,FREQ,REPORTING_TYPE,SERIES,REF_AREA,SEX,UNIT_MEASURE,Value
+2017,A,_X,Proportion of time spent on unpaid care work -  (in hours per week),0,"LFS, NISR",A,N,SL_DOM_TSPDCW,RW,,PT,21.4
+2018,A,_X,Proportion of time spent on unpaid care work -  (in hours per week),0,"LFS, NISR",A,N,SL_DOM_TSPDCW,RW,,PT,20.6
+2019,A,_X,Proportion of time spent on unpaid care work -  (in hours per week),0,"LFS, NISR",A,N,SL_DOM_TSPDCW,RW,,PT,17.9
+2017,A,_X,Proportion of time spent on unpaid care work -  (in hours per week),0,"LFS, NISR",A,N,SL_DOM_TSPDCW,RW,M,PT,14.6
+2018,A,_X,Proportion of time spent on unpaid care work -  (in hours per week),0,"LFS, NISR",A,N,SL_DOM_TSPDCW,RW,M,PT,13.5
+2019,A,_X,Proportion of time spent on unpaid care work -  (in hours per week),0,"LFS, NISR",A,N,SL_DOM_TSPDCW,RW,M,PT,12.1
+2017,A,_X,Proportion of time spent on unpaid care work -  (in hours per week),0,"LFS, NISR",A,N,SL_DOM_TSPDCW,RW,F,PT,26.0
+2018,A,_X,Proportion of time spent on unpaid care work -  (in hours per week),0,"LFS, NISR",A,N,SL_DOM_TSPDCW,RW,F,PT,25.3
+2019,A,_X,Proportion of time spent on unpaid care work -  (in hours per week),0,"LFS, NISR",A,N,SL_DOM_TSPDCW,RW,F,PT,22.3

@@ -1,0 +1,16 @@
+Year,OBS_STATUS,NATURE,COMMENT_OBS,UNIT_MULT,SOURCE_DETAIL,FREQ,REPORTING_TYPE,SERIES,REF_AREA,UNIT_MEASURE,Value
+2015,A,_X,Mail volume (tonne kilometres),0,Rwanda Aviation Company (RAC),A,N,IS_TRP_MAILTKM,RW,T,304.96
+2016,A,_X,Mail volume (tonne kilometres),0,Rwanda Aviation Company (RAC),A,N,IS_TRP_MAILTKM,RW,T,249.86
+2017,A,_X,Mail volume (tonne kilometres),0,Rwanda Aviation Company (RAC),A,N,IS_TRP_MAILTKM,RW,T,266.55
+2018,A,_X,Mail volume (tonne kilometres),0,Rwanda Aviation Company (RAC),A,N,IS_TRP_MAILTKM,RW,T,339.7
+2019,A,_X,Mail volume (tonne kilometres),0,Rwanda Aviation Company (RAC),A,N,IS_TRP_MAILTKM,RW,T,254.87
+2015,A,_X,Freight volume (tonne kilometres),0,Rwanda Aviation Company (RAC),A,N,IS_RDP_FRGVOL,RW,T,7577.46
+2016,A,_X,Freight volume (tonne kilometres),0,Rwanda Aviation Company (RAC),A,N,IS_RDP_FRGVOL,RW,T,6660.87
+2017,A,_X,Freight volume (tonne kilometres),0,Rwanda Aviation Company (RAC),A,N,IS_RDP_FRGVOL,RW,T,8226.09
+2018,A,_X,Freight volume (tonne kilometres),0,Rwanda Aviation Company (RAC),A,N,IS_RDP_FRGVOL,RW,T,10732.41
+2019,A,_X,Freight volume (tonne kilometres),0,Rwanda Aviation Company (RAC),A,N,IS_RDP_FRGVOL,RW,T,12094.79
+2015,A,_X,Passenger volume (passenger kilometres),0,Rwanda Aviation Company (RAC),A,N,IS_RDP_PFVOL,RW,NUMBER,641817.0
+2016,A,_X,Passenger volume (passenger kilometres),0,Rwanda Aviation Company (RAC),A,N,IS_RDP_PFVOL,RW,NUMBER,706075.0
+2017,A,_X,Passenger volume (passenger kilometres),0,Rwanda Aviation Company (RAC),A,N,IS_RDP_PFVOL,RW,NUMBER,825585.0
+2018,A,_X,Passenger volume (passenger kilometres),0,Rwanda Aviation Company (RAC),A,N,IS_RDP_PFVOL,RW,NUMBER,977631.0
+2019,A,_X,Passenger volume (passenger kilometres),0,Rwanda Aviation Company (RAC),A,N,IS_RDP_PFVOL,RW,NUMBER,1145867.0

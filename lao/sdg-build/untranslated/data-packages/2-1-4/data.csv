@@ -1,0 +1,26 @@
+Year,OBS_STATUS,UNIT_MULT,NATURE,SOURCE_DETAIL,FREQ,REPORTING_TYPE,SERIES,REF_AREA,PRODUCT,UNIT_MEASURE,Value
+2015,A,0,_X,"Ministry of Agriculture and Forestry, http://www.maf.gov.la",A,N,_L_LA_020104_01,LA,,T,4102000
+2016,A,0,_X,"Ministry of Agriculture and Forestry, http://www.maf.gov.la",A,N,_L_LA_020104_01,LA,,T,4148800
+2017,A,0,_X,"Ministry of Agriculture and Forestry, http://www.maf.gov.la",A,N,_L_LA_020104_01,LA,,T,4055409
+2018,A,0,_X,"Ministry of Agriculture and Forestry, http://www.maf.gov.la",A,N,_L_LA_020104_01,LA,,T,3279110
+2019,A,0,_X,"Ministry of Agriculture and Forestry, http://www.maf.gov.la",A,N,_L_LA_020104_01,LA,,T,3534499
+2015,A,0,_X,"Ministry of Agriculture and Forestry, http://www.maf.gov.la",A,N,_L_LA_020104_01,LA,CPC2_1_113,T,282185
+2016,A,0,_X,"Ministry of Agriculture and Forestry, http://www.maf.gov.la",A,N,_L_LA_020104_01,LA,CPC2_1_113,T,284500
+2017,A,0,_X,"Ministry of Agriculture and Forestry, http://www.maf.gov.la",A,N,_L_LA_020104_01,LA,CPC2_1_113,T,236825
+2018,A,0,_X,"Ministry of Agriculture and Forestry, http://www.maf.gov.la",A,N,_L_LA_020104_01,LA,CPC2_1_113,T,168875
+2019,A,0,_X,"Ministry of Agriculture and Forestry, http://www.maf.gov.la",A,N,_L_LA_020104_01,LA,CPC2_1_113,T,277450
+2015,A,0,_X,"Ministry of Agriculture and Forestry, http://www.maf.gov.la",A,N,_L_LA_020104_01,LA,CPC2_1_112,T,384712
+2016,A,0,_X,"Ministry of Agriculture and Forestry, http://www.maf.gov.la",A,N,_L_LA_020104_01,LA,CPC2_1_112,T,387185
+2017,A,0,_X,"Ministry of Agriculture and Forestry, http://www.maf.gov.la",A,N,_L_LA_020104_01,LA,CPC2_1_112,T,264245
+2018,A,0,_X,"Ministry of Agriculture and Forestry, http://www.maf.gov.la",A,N,_L_LA_020104_01,LA,CPC2_1_112,T,185665
+2019,A,0,_X,"Ministry of Agriculture and Forestry, http://www.maf.gov.la",A,N,_L_LA_020104_01,LA,CPC2_1_112,T,289190
+2015,A,0,_X,"Ministry of Agriculture and Forestry, http://www.maf.gov.la",A,N,_L_LA_020104_01,LA,_L_LA_VEG,T,1683405
+2016,A,0,_X,"Ministry of Agriculture and Forestry, http://www.maf.gov.la",A,N,_L_LA_020104_01,LA,_L_LA_VEG,T,1690900
+2017,A,0,_X,"Ministry of Agriculture and Forestry, http://www.maf.gov.la",A,N,_L_LA_020104_01,LA,_L_LA_VEG,T,1436545
+2018,A,0,_X,"Ministry of Agriculture and Forestry, http://www.maf.gov.la",A,N,_L_LA_020104_01,LA,_L_LA_VEG,T,1310035
+2019,A,0,_X,"Ministry of Agriculture and Forestry, http://www.maf.gov.la",A,N,_L_LA_020104_01,LA,_L_LA_VEG,T,1862290
+2015,A,0,_X,"Ministry of Agriculture and Forestry, http://www.maf.gov.la",A,N,_L_LA_020104_01,LA,_L_LA_MEAT,T,1361065
+2016,A,0,_X,"Ministry of Agriculture and Forestry, http://www.maf.gov.la",A,N,_L_LA_020104_01,LA,_L_LA_MEAT,T,1383455
+2017,A,0,_X,"Ministry of Agriculture and Forestry, http://www.maf.gov.la",A,N,_L_LA_020104_01,LA,_L_LA_MEAT,T,1537735
+2018,A,0,_X,"Ministry of Agriculture and Forestry, http://www.maf.gov.la",A,N,_L_LA_020104_01,LA,_L_LA_MEAT,T,1145690
+2019,A,0,_X,"Ministry of Agriculture and Forestry, http://www.maf.gov.la",A,N,_L_LA_020104_01,LA,_L_LA_MEAT,T,1323185

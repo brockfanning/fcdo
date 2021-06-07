@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
   <mes:Header>
-    <mes:ID>IREF1623036954</mes:ID>
+    <mes:ID>IREF1623075715</mes:ID>
     <mes:Test>True</mes:Test>
-    <mes:Prepared>2021-06-07T03:35:54</mes:Prepared>
+    <mes:Prepared>2021-06-07T14:21:55</mes:Prepared>
     <mes:Sender id="open-sdg_sdg-build@1-3-0"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -12,7 +12,7 @@
     </mes:Structure>
   </mes:Header>
   
-  <mes:MetadataSet structureRef="MDS1" setID="68c0fb61-e46b-4536-86ef-eea2135a4d54">
+  <mes:MetadataSet structureRef="MDS1" setID="9b506132-9f2a-42ee-ae13-ce2e7920b4d1">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -37,51 +37,210 @@
       </gen:Target>
       <gen:AttributeSet>
         
-        <gen:ReportedAttribute id="target_id">
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
           
-          <com:Text xml:lang="en"><![CDATA[6.2]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="sdg_goal">
-          
-          <com:Text xml:lang="en"><![CDATA[6]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> Directorate of Demographic, Vital and Social Statistics </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
-        <gen:ReportedAttribute id="reporting_status">
+        <gen:ReportedAttribute id="SDG_GOAL">
           
-          <com:Text xml:lang="en"><![CDATA[complete]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="data_non_statistical">
-          
-          <com:Text xml:lang="en"><![CDATA[False]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> 6. ENSURE THE AVAILABILITY AND SUSTAINABLE MANAGEMENT OF DRINKING WATER AND SANITATION FOR ALL. </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
-        <gen:ReportedAttribute id="graph_type">
+        <gen:ReportedAttribute id="SDG_TARGET">
           
-          <com:Text xml:lang="en"><![CDATA[line]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="indicator_sort_order">
-          
-          <com:Text xml:lang="en"><![CDATA[06-02-01]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> 6.2 By 2030, achieve access to adequate and equitable sanitation and hygiene for all, and end open defecation, with special attention to the needs of women and girls and those in situations of vulnerability </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
-        <gen:ReportedAttribute id="indicator_name">
+        <gen:ReportedAttribute id="SDG_INDICATOR">
           
-          <com:Text xml:lang="en"><![CDATA[Investimento directo estrangeiro (IDE), em percentagem do PIB]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> 6.2.1 Proportion of the population using safely managed sanitation services, by area of residence and provinces </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
-        <gen:ReportedAttribute id="graph_title">
+        <gen:ReportedAttribute id="SDG_SERIES_DESCR">
           
-          <com:Text xml:lang="en"><![CDATA[Investimento directo estrangeiro (IDE), em percentagem do PIB]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> Proportion of the population using safely managed sanitation services, by area of residence and provinces </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="META_LAST_UPDATE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> 10/8/2020 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_ORGANISATION">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> NATIONAL INSTITUTE OF STATISTICS </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Teixeira Mandlate, Maria Alfeu and João Mangue </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_FUNCT">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Technicians </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> +258 844386629; +258 823032619; +258 827679480 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_MAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> www.ine.gov.mz </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> <a href="mailto:Teixeira.mandlate@ine.gov.mz"> Teixeira.mandlate@ine.gov.mz </a>; <a href="mailto:maria.alfeu@ine.gov.mz"> maria.alfeu@ine.gov.mz </a>; <a href="mailto:joao.mangue@ine.gov.mz"> joao.mangue@ine.gov.mz </a> </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Proportion of the population using safe managed sanitation services. </p>
+ <p> It is considered safe sanitation, basic sanitation facilities that are not shared with other families and where excreta are safely discarded on the spot or treated outside the place, such as: flush toilets inside the house, flush toilet outside the house, toilet without flush toilet, improved latrine, improved traditional latrine. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="UNIT_MEASURE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Percentage </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> General Population and Housing Census and Household Surveys </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COLL_METHOD">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The recommended data source to calculate this indicator is the Census and Household Surveys. The data collection questionnaire is designed and subsequently tested in the field in the course of training the interviewers. </p>
+ <p> For data collection, we applied the methodology of interviews face to face with households, where respondents were asked if the house has: flush toilets inside the house, flush toilet outside the home, toilet without flush toilet, latrine improved, improved traditional latrine. </p>
+ <p> The field work lasted 15 days in the case of the Censuses and the Surveys depending on the type and purpose of the Survey. </p>
+ <p> Cases of non-response, after all efforts to obtain funds are exhausted, are treated as unknown cases. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="FREQ_COLL">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> 2027 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REL_CAL_POLICY">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> 2029 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_SOURCE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> INE </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> INE </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="INST_MANDATE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Law 7/96 of 5 July </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> International consultations since 2011 have established consensus on the need to develop and address the shortcomings of this indicator; specifically, to address normative criteria for the human right to water, including accessibility, acceptability and security. In addition, safe management of faecal waste must be considered, as discharges of untreated wastewater into the environment create risks to public health. These consultations concluded that the post-2015 targets, applicable to all countries, must go beyond the basic level of access and address indicators of safe management of sanitation services, including dimensions of accessibility, acceptability and security. </p>
+ <p> The Expert Working Group requested analysis of faecal waste management along the sanitation chain, including containment, emptying of latrines and septic tanks and safe disposal at the site or transport and treatment of waste at a designated treatment site. The treatment classification will be based on the categories defined by the SEEA and the International Recommendations for Water Statistics and following a ladder approach (primary, secondary and tertiary treatment). </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Data on the flow, disposal and safe treatment of faecal waste is increasingly available through a combination of household surveys and administrative sources, including regulators, but definitions still need to be standardized. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The percentage of the population using safe sanitation management services is calculated by combining data on the proportion of the population using different types of basic sanitation facilities with estimates of the proportion of faecal waste that is safely discarded on site or treated off-site . </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_VALIDATION">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The fieldwork had the supervision and quality control by the technicians of INE Central as well as the Provincial Delegations. In addition, during the data collection, a strict control was established at the level of each team over the collection process, by detecting errors by the critics in the field, which allowed for immediate correction even on the ground. </p>
+ <p> At the level of central coordination, the data critics made a further review of the base data and the problems encountered were reported to the respective teams for correction. </p>
+ <p> Interactive and batch processing of information also allowed, at central level, the periodic obtaining of partial results, for analysis of the data collected until a given moment, through the production of tables for monitoring and quality control. The results of these tabulations were reported in feedback to the inquirers, ensuring the quality of the data. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DOC_METHOD">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> In the production and compilation of data, methodologies recommended by the United Nations were used in <strong> <em> Principles and Recommendations of the Population and Housing Censuses (ST / ESA / STAT / SER.M / 67 / Rer.3)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_MGMNT">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Still in development and to be approved by the quality management instrument </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> For the collection of data, the methodology of interviews was applied face to face to the households filling out the Bulletin of Households and Bulletin of collective accommodations. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSMNT">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Still in development and for approval of the instrument for quality assessment </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Rural and urban, provincial residence area </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Data production allows comparability with no differences, as the internationally defined recommendations in <strong> <em> Principles and Recommendations for Civil Statistics - UN follow (ST / ESA / STAT / SER.M / 19 / Rev.3 New York, 2014 ) </em> </strong> </p>
+ <p> Estimates of Demographic and Health Surveys are based on standardized methodologies and developed by WHO and UNICEF. </p>
+ <p> The Demographic and Health Survey (IDS) in Mozambique is part of an international survey program (MEASURE DHS) developed by ICF International through a contract with USAID, with the purpose of supporting governments and private institutions in developing countries in conducting national surveys by sampling, in the areas of population and health. The MEASURE DHS Program aims to: </p>
+ <p> • Support the formulation of policies and implementation of programs in the areas of population and health; </p>
+ <p> • Increase the international population and health data base for monitoring and evaluation; </p>
+ <p> • Improve the survey methodology by sampling, and </p>
+ <p> • Consolidate, in the survey area, the technical capacity of the executing institution in the country participating in the Program. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Ministry of Health (MISAU), <a href="http://www.misau.gov.mz"> www.misau.gov.mz </a>; </p>
+ <p> National Statistics Institute (INE), <a href="http://www.misau.gov.mz"> www.misau.gov.mz </a>; </p>
+ <p> ICF International (ICFI), <a href="http://www.measuredhs.com"> www.measuredhs.com </a> </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -89,7 +248,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="ca2831ce-6fe9-4a65-b5cf-35f7d121915b">
+  <mes:MetadataSet structureRef="MDS1" setID="429832c0-10ac-4d3f-aaf4-995b9e6d5b6e">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -114,51 +273,210 @@
       </gen:Target>
       <gen:AttributeSet>
         
-        <gen:ReportedAttribute id="target_id">
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
           
-          <com:Text xml:lang="en"><![CDATA[6.2]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="sdg_goal">
-          
-          <com:Text xml:lang="en"><![CDATA[6]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> Directorate of Demographic, Vital and Social Statistics </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
-        <gen:ReportedAttribute id="reporting_status">
+        <gen:ReportedAttribute id="SDG_GOAL">
           
-          <com:Text xml:lang="en"><![CDATA[complete]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="data_non_statistical">
-          
-          <com:Text xml:lang="en"><![CDATA[False]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> 6. ENSURE THE AVAILABILITY AND SUSTAINABLE MANAGEMENT OF DRINKING WATER AND SANITATION FOR ALL. </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
-        <gen:ReportedAttribute id="graph_type">
+        <gen:ReportedAttribute id="SDG_TARGET">
           
-          <com:Text xml:lang="en"><![CDATA[line]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="indicator_sort_order">
-          
-          <com:Text xml:lang="en"><![CDATA[06-02-01]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> 6.2 By 2030, achieve access to adequate and equitable sanitation and hygiene for all, and end open defecation, with special attention to the needs of women and girls and those in situations of vulnerability </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
-        <gen:ReportedAttribute id="indicator_name">
+        <gen:ReportedAttribute id="SDG_INDICATOR">
           
-          <com:Text xml:lang="en"><![CDATA[Investimento directo estrangeiro (IDE), em percentagem do PIB]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> 6.2.1 Proportion of the population using safely managed sanitation services, by area of residence and provinces </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
-        <gen:ReportedAttribute id="graph_title">
+        <gen:ReportedAttribute id="SDG_SERIES_DESCR">
           
-          <com:Text xml:lang="en"><![CDATA[Investimento directo estrangeiro (IDE), em percentagem do PIB]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> Proportion of the population using safely managed sanitation services, by area of residence and provinces </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="META_LAST_UPDATE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> 10/8/2020 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_ORGANISATION">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> NATIONAL INSTITUTE OF STATISTICS </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Teixeira Mandlate, Maria Alfeu and João Mangue </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_FUNCT">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Technicians </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> +258 844386629; +258 823032619; +258 827679480 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_MAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> www.ine.gov.mz </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> <a href="mailto:Teixeira.mandlate@ine.gov.mz"> Teixeira.mandlate@ine.gov.mz </a>; <a href="mailto:maria.alfeu@ine.gov.mz"> maria.alfeu@ine.gov.mz </a>; <a href="mailto:joao.mangue@ine.gov.mz"> joao.mangue@ine.gov.mz </a> </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Proportion of the population using safe managed sanitation services. </p>
+ <p> It is considered safe sanitation, basic sanitation facilities that are not shared with other families and where excreta are safely discarded on the spot or treated outside the place, such as: flush toilets inside the house, flush toilet outside the house, toilet without flush toilet, improved latrine, improved traditional latrine. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="UNIT_MEASURE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Percentage </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> General Population and Housing Census and Household Surveys </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COLL_METHOD">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The recommended data source to calculate this indicator is the Census and Household Surveys. The data collection questionnaire is designed and subsequently tested in the field in the course of training the interviewers. </p>
+ <p> For data collection, we applied the methodology of interviews face to face with households, where respondents were asked if the house has: flush toilets inside the house, flush toilet outside the home, toilet without flush toilet, latrine improved, improved traditional latrine. </p>
+ <p> The field work lasted 15 days in the case of the Censuses and the Surveys depending on the type and purpose of the Survey. </p>
+ <p> Cases of non-response, after all efforts to obtain funds are exhausted, are treated as unknown cases. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="FREQ_COLL">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> 2027 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REL_CAL_POLICY">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> 2029 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_SOURCE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> INE </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> INE </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="INST_MANDATE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Law 7/96 of 5 July </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> International consultations since 2011 have established consensus on the need to develop and address the shortcomings of this indicator; specifically, to address normative criteria for the human right to water, including accessibility, acceptability and security. In addition, safe management of faecal waste must be considered, as discharges of untreated wastewater into the environment create risks to public health. These consultations concluded that the post-2015 targets, applicable to all countries, must go beyond the basic level of access and address indicators of safe management of sanitation services, including dimensions of accessibility, acceptability and security. </p>
+ <p> The Expert Working Group requested analysis of faecal waste management along the sanitation chain, including containment, emptying of latrines and septic tanks and safe disposal at the site or transport and treatment of waste at a designated treatment site. The treatment classification will be based on the categories defined by the SEEA and the International Recommendations for Water Statistics and following a ladder approach (primary, secondary and tertiary treatment). </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Data on the flow, disposal and safe treatment of faecal waste is increasingly available through a combination of household surveys and administrative sources, including regulators, but definitions still need to be standardized. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The percentage of the population using safe sanitation management services is calculated by combining data on the proportion of the population using different types of basic sanitation facilities with estimates of the proportion of faecal waste that is safely discarded on site or treated off-site . </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_VALIDATION">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The fieldwork had the supervision and quality control by the technicians of INE Central as well as the Provincial Delegations. In addition, during the data collection, a strict control was established at the level of each team over the collection process, by detecting errors by the critics in the field, which allowed for immediate correction even on the ground. </p>
+ <p> At the level of central coordination, the data critics made a further review of the base data and the problems encountered were reported to the respective teams for correction. </p>
+ <p> Interactive and batch processing of information also allowed, at central level, the periodic obtaining of partial results, for analysis of the data collected until a given moment, through the production of tables for monitoring and quality control. The results of these tabulations were reported in feedback to the inquirers, ensuring the quality of the data. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DOC_METHOD">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> In the production and compilation of data, methodologies recommended by the United Nations were used in <strong> <em> Principles and Recommendations of the Population and Housing Censuses (ST / ESA / STAT / SER.M / 67 / Rer.3)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_MGMNT">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Still in development and to be approved by the quality management instrument </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> For the collection of data, the methodology of interviews was applied face to face to the households filling out the Bulletin of Households and Bulletin of collective accommodations. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSMNT">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Still in development and for approval of the instrument for quality assessment </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Rural and urban, provincial residence area </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Data production allows comparability with no differences, as the internationally defined recommendations in <strong> <em> Principles and Recommendations for Civil Statistics - UN follow (ST / ESA / STAT / SER.M / 19 / Rev.3 New York, 2014 ) </em> </strong> </p>
+ <p> Estimates of Demographic and Health Surveys are based on standardized methodologies and developed by WHO and UNICEF. </p>
+ <p> The Demographic and Health Survey (IDS) in Mozambique is part of an international survey program (MEASURE DHS) developed by ICF International through a contract with USAID, with the purpose of supporting governments and private institutions in developing countries in conducting national surveys by sampling, in the areas of population and health. The MEASURE DHS Program aims to: </p>
+ <p> • Support the formulation of policies and implementation of programs in the areas of population and health; </p>
+ <p> • Increase the international population and health data base for monitoring and evaluation; </p>
+ <p> • Improve the survey methodology by sampling, and </p>
+ <p> • Consolidate, in the survey area, the technical capacity of the executing institution in the country participating in the Program. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Ministry of Health (MISAU), <a href="http://www.misau.gov.mz"> www.misau.gov.mz </a>; </p>
+ <p> National Statistics Institute (INE), <a href="http://www.misau.gov.mz"> www.misau.gov.mz </a>; </p>
+ <p> ICF International (ICFI), <a href="http://www.measuredhs.com"> www.measuredhs.com </a> </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -166,7 +484,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="f0bdd871-7f07-4d8c-a8b7-63cdb56c12b7">
+  <mes:MetadataSet structureRef="MDS1" setID="73877353-d171-4f49-b53b-dacc2f7fc8a1">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -191,51 +509,210 @@
       </gen:Target>
       <gen:AttributeSet>
         
-        <gen:ReportedAttribute id="target_id">
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
           
-          <com:Text xml:lang="en"><![CDATA[6.2]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="sdg_goal">
-          
-          <com:Text xml:lang="en"><![CDATA[6]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> Directorate of Demographic, Vital and Social Statistics </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
-        <gen:ReportedAttribute id="reporting_status">
+        <gen:ReportedAttribute id="SDG_GOAL">
           
-          <com:Text xml:lang="en"><![CDATA[complete]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="data_non_statistical">
-          
-          <com:Text xml:lang="en"><![CDATA[False]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> 6. ENSURE THE AVAILABILITY AND SUSTAINABLE MANAGEMENT OF DRINKING WATER AND SANITATION FOR ALL. </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
-        <gen:ReportedAttribute id="graph_type">
+        <gen:ReportedAttribute id="SDG_TARGET">
           
-          <com:Text xml:lang="en"><![CDATA[line]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="indicator_sort_order">
-          
-          <com:Text xml:lang="en"><![CDATA[06-02-01]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> 6.2 By 2030, achieve access to adequate and equitable sanitation and hygiene for all, and end open defecation, with special attention to the needs of women and girls and those in situations of vulnerability </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
-        <gen:ReportedAttribute id="indicator_name">
+        <gen:ReportedAttribute id="SDG_INDICATOR">
           
-          <com:Text xml:lang="en"><![CDATA[Investimento directo estrangeiro (IDE), em percentagem do PIB]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> 6.2.1 Proportion of the population using safely managed sanitation services, by area of residence and provinces </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
-        <gen:ReportedAttribute id="graph_title">
+        <gen:ReportedAttribute id="SDG_SERIES_DESCR">
           
-          <com:Text xml:lang="en"><![CDATA[Investimento directo estrangeiro (IDE), em percentagem do PIB]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> Proportion of the population using safely managed sanitation services, by area of residence and provinces </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="META_LAST_UPDATE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> 10/8/2020 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_ORGANISATION">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> NATIONAL INSTITUTE OF STATISTICS </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Teixeira Mandlate, Maria Alfeu and João Mangue </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_FUNCT">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Technicians </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> +258 844386629; +258 823032619; +258 827679480 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_MAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> www.ine.gov.mz </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> <a href="mailto:Teixeira.mandlate@ine.gov.mz"> Teixeira.mandlate@ine.gov.mz </a>; <a href="mailto:maria.alfeu@ine.gov.mz"> maria.alfeu@ine.gov.mz </a>; <a href="mailto:joao.mangue@ine.gov.mz"> joao.mangue@ine.gov.mz </a> </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Proportion of the population using safe managed sanitation services. </p>
+ <p> It is considered safe sanitation, basic sanitation facilities that are not shared with other families and where excreta are safely discarded on the spot or treated outside the place, such as: flush toilets inside the house, flush toilet outside the house, toilet without flush toilet, improved latrine, improved traditional latrine. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="UNIT_MEASURE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Percentage </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> General Population and Housing Census and Household Surveys </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COLL_METHOD">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The recommended data source to calculate this indicator is the Census and Household Surveys. The data collection questionnaire is designed and subsequently tested in the field in the course of training the interviewers. </p>
+ <p> For data collection, we applied the methodology of interviews face to face with households, where respondents were asked if the house has: flush toilets inside the house, flush toilet outside the home, toilet without flush toilet, latrine improved, improved traditional latrine. </p>
+ <p> The field work lasted 15 days in the case of the Censuses and the Surveys depending on the type and purpose of the Survey. </p>
+ <p> Cases of non-response, after all efforts to obtain funds are exhausted, are treated as unknown cases. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="FREQ_COLL">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> 2027 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REL_CAL_POLICY">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> 2029 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_SOURCE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> INE </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> INE </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="INST_MANDATE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Law 7/96 of 5 July </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> International consultations since 2011 have established consensus on the need to develop and address the shortcomings of this indicator; specifically, to address normative criteria for the human right to water, including accessibility, acceptability and security. In addition, safe management of faecal waste must be considered, as discharges of untreated wastewater into the environment create risks to public health. These consultations concluded that the post-2015 targets, applicable to all countries, must go beyond the basic level of access and address indicators of safe management of sanitation services, including dimensions of accessibility, acceptability and security. </p>
+ <p> The Expert Working Group requested analysis of faecal waste management along the sanitation chain, including containment, emptying of latrines and septic tanks and safe disposal at the site or transport and treatment of waste at a designated treatment site. The treatment classification will be based on the categories defined by the SEEA and the International Recommendations for Water Statistics and following a ladder approach (primary, secondary and tertiary treatment). </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Data on the flow, disposal and safe treatment of faecal waste is increasingly available through a combination of household surveys and administrative sources, including regulators, but definitions still need to be standardized. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The percentage of the population using safe sanitation management services is calculated by combining data on the proportion of the population using different types of basic sanitation facilities with estimates of the proportion of faecal waste that is safely discarded on site or treated off-site . </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_VALIDATION">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The fieldwork had the supervision and quality control by the technicians of INE Central as well as the Provincial Delegations. In addition, during the data collection, a strict control was established at the level of each team over the collection process, by detecting errors by the critics in the field, which allowed for immediate correction even on the ground. </p>
+ <p> At the level of central coordination, the data critics made a further review of the base data and the problems encountered were reported to the respective teams for correction. </p>
+ <p> Interactive and batch processing of information also allowed, at central level, the periodic obtaining of partial results, for analysis of the data collected until a given moment, through the production of tables for monitoring and quality control. The results of these tabulations were reported in feedback to the inquirers, ensuring the quality of the data. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DOC_METHOD">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> In the production and compilation of data, methodologies recommended by the United Nations were used in <strong> <em> Principles and Recommendations of the Population and Housing Censuses (ST / ESA / STAT / SER.M / 67 / Rer.3)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_MGMNT">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Still in development and to be approved by the quality management instrument </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> For the collection of data, the methodology of interviews was applied face to face to the households filling out the Bulletin of Households and Bulletin of collective accommodations. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSMNT">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Still in development and for approval of the instrument for quality assessment </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Rural and urban, provincial residence area </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Data production allows comparability with no differences, as the internationally defined recommendations in <strong> <em> Principles and Recommendations for Civil Statistics - UN follow (ST / ESA / STAT / SER.M / 19 / Rev.3 New York, 2014 ) </em> </strong> </p>
+ <p> Estimates of Demographic and Health Surveys are based on standardized methodologies and developed by WHO and UNICEF. </p>
+ <p> The Demographic and Health Survey (IDS) in Mozambique is part of an international survey program (MEASURE DHS) developed by ICF International through a contract with USAID, with the purpose of supporting governments and private institutions in developing countries in conducting national surveys by sampling, in the areas of population and health. The MEASURE DHS Program aims to: </p>
+ <p> • Support the formulation of policies and implementation of programs in the areas of population and health; </p>
+ <p> • Increase the international population and health data base for monitoring and evaluation; </p>
+ <p> • Improve the survey methodology by sampling, and </p>
+ <p> • Consolidate, in the survey area, the technical capacity of the executing institution in the country participating in the Program. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Ministry of Health (MISAU), <a href="http://www.misau.gov.mz"> www.misau.gov.mz </a>; </p>
+ <p> National Statistics Institute (INE), <a href="http://www.misau.gov.mz"> www.misau.gov.mz </a>; </p>
+ <p> ICF International (ICFI), <a href="http://www.measuredhs.com"> www.measuredhs.com </a> </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         

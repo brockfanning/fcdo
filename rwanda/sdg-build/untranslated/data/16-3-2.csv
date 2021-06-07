@@ -1,0 +1,11 @@
+Year,OBS_STATUS,NATURE,COMMENT_OBS,UNIT_MULT,SOURCE_DETAIL,FREQ,REPORTING_TYPE,SERIES,REF_AREA,UNIT_MEASURE,Value
+2015,A,_X,Unsentenced detainees as a proportion of overall prison population,0,"MINIJUST, JRLOS",A,N,VC_PRS_UNSNT,RW,PT,5
+2016,A,_X,Unsentenced detainees as a proportion of overall prison population,0,"MINIJUST, JRLOS",A,N,VC_PRS_UNSNT,RW,PT,6
+2017,A,_X,Unsentenced detainees as a proportion of overall prison population,0,"MINIJUST, JRLOS",A,N,VC_PRS_UNSNT,RW,PT,6
+2018,A,_X,Unsentenced detainees as a proportion of overall prison population,0,"MINIJUST, JRLOS",A,N,VC_PRS_UNSNT,RW,PT,9
+2019,A,_X,Unsentenced detainees as a proportion of overall prison population,0,"MINIJUST, JRLOS",A,N,VC_PRS_UNSNT,RW,PT,14
+2015,A,_X,Unsentenced detainees (number),0,"MINIJUST, JRLOS",A,N,VC_PRS_UNSNTN,RW,NUMBER,2543
+2016,A,_X,Unsentenced detainees (number),0,"MINIJUST, JRLOS",A,N,VC_PRS_UNSNTN,RW,NUMBER,3275
+2017,A,_X,Unsentenced detainees (number),0,"MINIJUST, JRLOS",A,N,VC_PRS_UNSNTN,RW,NUMBER,3715
+2018,A,_X,Unsentenced detainees (number),0,"MINIJUST, JRLOS",A,N,VC_PRS_UNSNTN,RW,NUMBER,6373
+2019,A,_X,Unsentenced detainees (number),0,"MINIJUST, JRLOS",A,N,VC_PRS_UNSNTN,RW,NUMBER,10291

@@ -1,0 +1,6 @@
+Year,OBS_STATUS,NATURE,COMMENT_OBS,UNIT_MULT,SOURCE_DETAIL,FREQ,REPORTING_TYPE,SERIES,REF_AREA,UNIT_MEASURE,Value
+2005,A,_X,Proportion of population with access to electricity,0,"EICV, NISR",A,N,EG_ACS_ELEC,RW,PT,4.3
+2011,A,_X,Proportion of population with access to electricity,0,"EICV, NISR",A,N,EG_ACS_ELEC,RW,PT,11.1
+2014,A,_X,Proportion of population with access to electricity,0,"EICV, NISR",A,N,EG_ACS_ELEC,RW,PT,21.5
+2017,A,_X,Proportion of population with access to electricity,0,"EICV, NISR",A,N,EG_ACS_ELEC,RW,PT,34.4
+2020,A,_X,Proportion of population with access to electricity,0,"EICV, NISR",A,N,EG_ACS_ELEC,RW,PT,57.3

@@ -1,0 +1,4 @@
+Year,OBS_STATUS,NATURE,COMMENT_OBS,UNIT_MULT,SOURCE_DETAIL,FREQ,REPORTING_TYPE,SERIES,REF_AREA,UNIT_MEASURE,Value
+2018,A,_X,Number of deaths due to disaster,0,Ministry in Charge of Emergency Management (MINEMA),A,N,VC_DSR_MORT,RW,NUMBER,254
+2019,A,_X,Number of deaths due to disaster,0,Ministry in Charge of Emergency Management (MINEMA),A,N,VC_DSR_MORT,RW,NUMBER,134
+2018,A,_X,Number of people affected by disaster,0,Ministry in Charge of Emergency Management (MINEMA),A,N,VC_DSR_AFFCT,RW,NUMBER,80164

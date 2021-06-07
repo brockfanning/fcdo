@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
   <mes:Header>
-    <mes:ID>IREF1623036954</mes:ID>
+    <mes:ID>IREF1623075715</mes:ID>
     <mes:Test>True</mes:Test>
-    <mes:Prepared>2021-06-07T03:35:54</mes:Prepared>
+    <mes:Prepared>2021-06-07T14:21:55</mes:Prepared>
     <mes:Sender id="open-sdg_sdg-build@1-3-0"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -12,7 +12,7 @@
     </mes:Structure>
   </mes:Header>
   
-  <mes:MetadataSet structureRef="MDS1" setID="c02a8a93-80fc-4af7-bcfc-0ee1624c11dc">
+  <mes:MetadataSet structureRef="MDS1" setID="358af50d-7f67-432a-84b7-b369940b703f">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -37,51 +37,201 @@
       </gen:Target>
       <gen:AttributeSet>
         
-        <gen:ReportedAttribute id="target_id">
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
           
-          <com:Text xml:lang="en"><![CDATA[3.a]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="sdg_goal">
-          
-          <com:Text xml:lang="en"><![CDATA[3]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> Monitoring and Evaluation Department </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
-        <gen:ReportedAttribute id="reporting_status">
+        <gen:ReportedAttribute id="SDG_GOAL">
           
-          <com:Text xml:lang="en"><![CDATA[complete]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="data_non_statistical">
-          
-          <com:Text xml:lang="en"><![CDATA[False]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> 3 GUARANTEE ACCESS TO QUALITY HEALTH AND PROMOTE WELFARE FOR ALL </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
-        <gen:ReportedAttribute id="graph_type">
+        <gen:ReportedAttribute id="SDG_TARGET">
           
-          <com:Text xml:lang="en"><![CDATA[line]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="indicator_sort_order">
-          
-          <com:Text xml:lang="en"><![CDATA[03-0a-01]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> 3.a Strengthen the implementation of the Framework Convention on Tobacco Control in all countries, as appropriate by 2030, ensure that all girls and boys complete free, equitable and quality primary and secondary education that leads to results relevant and effective learning processes </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
-        <gen:ReportedAttribute id="indicator_name">
+        <gen:ReportedAttribute id="SDG_INDICATOR">
           
-          <com:Text xml:lang="en"><![CDATA[Investimento directo estrangeiro (IDE), em percentagem do PIB]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> 3.a.1 Age-standardized prevalence of current tobacco use among people aged 15 and over </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
-        <gen:ReportedAttribute id="graph_title">
+        <gen:ReportedAttribute id="SDG_SERIES_DESCR">
           
-          <com:Text xml:lang="en"><![CDATA[Investimento directo estrangeiro (IDE), em percentagem do PIB]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> Age-standardized prevalence of current tobacco use among people aged 15 and over as a percentage </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="META_LAST_UPDATE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> 10/9/2020 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_RELATED_INDICATORS">
+          
+          <com:Text xml:lang="en"><![CDATA[ <h1> 3.4.1 Mortality rate attributed to cardiovascular diseases, cancer, diabetes and chronic respiratory diseases </h1>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_ORGANISATION">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Ministry of Health </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Cesarino Tivane and Nelita Nassone </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_FUNCT">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Monitoring and Evaluation Technicians </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> +258 849007628; +258 846630589; +258847144676 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_MAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> <a href="mailto:tivanecesarino@gmail.com"> <u> tivanecesarino@gmail.com </u> </a>; <a href="mailto:nelianasson@gmail.com"> <u> nelianasson@gmail.com </u> </a>; muluana2002 <a href="mailto:tivanecesarino@gmail.com"> <u> @ </u> </a> gmail.com </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> <a href="mailto:tivanecesarino@gmail.com"> <u> tivanecesarino@gmail.com </u> </a>; <a href="mailto:nelianasson@gmail.com"> <u> nelianasson@gmail.com </u> </a>; muluana2002 <a href="mailto:tivanecesarino@gmail.com"> <u> @ </u> </a> gmail.com </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The indicator is defined as the percentage of the population aged 15 and over who currently use any tobacco product (smoked and / or smoked tobacco) daily or not daily </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="UNIT_MEASURE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Percentage </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Final STEPS Report - Mozambique 2014/2015 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COLL_METHOD">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Made a cross-sectional study conducted between 15 December 2014 and 3 February 2015 with a representative sample of the Mozambican population between 15 and 64 years old, with more than 20000 households and assessed 3119 (95.2%) individuals were evaluated . </p>
+ <p> The collection of information was carried out by eleven teams, one per Province, including three interviewers, responsible for the evaluation by questionnaire, and one meter, responsible for the physical and biochemical evaluations, in addition to elements responsible for the coordination and supervision and quality control of the fieldwork. </p>
+ <p> The training took place from 20 to 31 October 2014, in Maputo, with a total of 55 candidate candidates and 11 meters, the training lasted for 144 hours. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="FREQ_COLL">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Not yet defined </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REL_CAL_POLICY">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Not yet defined </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_SOURCE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Ministry of Health </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Ministry of Health </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="INST_MANDATE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Under Law 7/96, which defines the general bases of the National Statistical System, the National Statistics Institute (INE), according to the Order published in the Boletim da República No. 39/2000, Series I, of 27 September 2000, officially delegates the Directorate of Planning and Cooperation (DPC), of the Ministry of Health, the publication and dissemination of the official statistical information of the Health Sector, in Mozambique. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Tobacco use is a major contributor to disease and death from noncommunicable diseases (NCDs). There is no proven level of safety in the use of tobacco or passive exposure to smoke. All daily and non-daily tobacco users are at risk for a variety of poor health outcomes throughout their lives, including NCDs. Reducing the prevalence of current tobacco use will make a major contribution to reducing premature mortality from NCDs (target 3.4). </p>
+ <p> In addition to contributing to a detailed knowledge of the frequency of exposure to the main risk factors for NCDs in Mozambique, the information produced should allow to quantify the variation in these exposures in the last decade, through comparison with that observed in the first STEPS study, carried out in 2005. </p>
+ <p> The results obtained in this study, allow a better knowledge of the Mozambican reality in relation to exposures associated with DNT, with potential interest for health planning, constituting itself as a baseline to evaluate the evolution of these risk factors with based on STEPS studies to be carried out in the future. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The results obtained based on these elements of the data collection instrument allow a better knowledge of the Mozambican reality in relation to exposures that are associated with DNT, with potential interest for health planning, constituting itself as a baseline to evaluate the evolution of these risk factors based on STEPS studies to be carried out in the future. </p>
+ <p> Monitoring the incidence and mortality due to NCD, as well as the levels of exposure to its main risk factors, is of great importance to define research and intervention priorities, as well as to assess the impact of health policies and to forecast the resources needed to address prevention and control needs. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Percentage of the population aged 15 and over who currently use any tobacco product (smoked and / or non-smoked tobacco) daily or not daily. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_VALIDATION">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The interactive software Census and Survey Processing System (CSPRO) allowed to interactively check the intervals of the variables, detect inconsistencies and control the internal flow of data during the double entry of the questionnaires. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DOC_METHOD">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The World Health Organization (WHO) encouraged all low and middle income countries to use the STEPwise approach to Surveillance (STEPS) methodology as a way to promote the standardization of the assessment of the main risk factors of NCDs, in order to facilitate the comparison of results between populations and over time (http: // <a href="http://www.who.int/chp/steps/en"> www.who.int/chp/steps/en </a>) </p>
+ <p> The STEPS methodology proposed by WHO (http: // <a href="http://www.who.int/chp/steps/en"> www.who.int/chp/steps/en </a>) was followed, with the collection of information by questionnaire, physical measurements and biochemical measurements. The study was approved by the National Committee on Bioethics for Health (Ref. 98 / CNBS / 14). </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The evaluation of the participants was recorded on forms in physical support and the computerization of the data was performed centrally, at INE, between February and April 2016, using the interactive software Census and Survey Processing System (CSPRO), for microcomputers . This program allows you to interactively check the intervals of the variables, detect inconsistencies and control the internal flow of data during double entry of the questionnaires. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSMNT">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The inconsistencies and inaccuracies detected during the preparation of this report were corrected, whenever possible, after verifying the information present in the forms used for the evaluation of the participants. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Data available in 2017. Disaggregated by Place of residence, province, Sex, Age and Education </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The STEPS methodology proposed by WHO was followed (http: // <a href="http://www.who.int/chp/steps/en"> www.who.int/chp/steps/en </a>), </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Final STEPS Report - Mozambique 2014/2015 </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         

@@ -1,0 +1,5 @@
+Year,OBS_STATUS,NATURE,COMMENT_OBS,UNIT_MULT,SOURCE_DETAIL,FREQ,REPORTING_TYPE,SERIES,REF_AREA,UNIT_MEASURE,Value
+2005,A,_X,Proportion of children moderately or severely stunted,0,"DHS, NISR",A,N,SH_STA_STNT,RW,PT,51
+2010,A,_X,Proportion of children moderately or severely stunted,0,"DHS, NISR",A,N,SH_STA_STNT,RW,PT,44
+2015,A,_X,Proportion of children moderately or severely stunted,0,"DHS, NISR",A,N,SH_STA_STNT,RW,PT,38
+2020,A,_X,Proportion of children moderately or severely stunted,0,"DHS, NISR",A,N,SH_STA_STNT,RW,PT,33

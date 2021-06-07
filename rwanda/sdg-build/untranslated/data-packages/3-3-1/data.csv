@@ -1,0 +1,12 @@
+Year,OBS_STATUS,NATURE,COMMENT_OBS,UNIT_MULT,SOURCE_DETAIL,FREQ,REPORTING_TYPE,SERIES,REF_AREA,UNIT_MEASURE,Value
+2000,A,_X,"Number of new HIV infections per 1,000 uninfected population",0,Ministry of Health (MoH),A,N,SH_HIV_INCD,RW,PER_1000_UNINFECTED_POP,3.8
+2001,A,_X,"Number of new HIV infections per 1,000 uninfected population",0,Ministry of Health (MoH),A,N,SH_HIV_INCD,RW,PER_1000_UNINFECTED_POP,3.7
+2002,A,_X,"Number of new HIV infections per 1,000 uninfected population",0,Ministry of Health (MoH),A,N,SH_HIV_INCD,RW,PER_1000_UNINFECTED_POP,3.6
+2003,A,_X,"Number of new HIV infections per 1,000 uninfected population",0,Ministry of Health (MoH),A,N,SH_HIV_INCD,RW,PER_1000_UNINFECTED_POP,3.4
+2004,A,_X,"Number of new HIV infections per 1,000 uninfected population",0,Ministry of Health (MoH),A,N,SH_HIV_INCD,RW,PER_1000_UNINFECTED_POP,3.2
+2005,A,_X,"Number of new HIV infections per 1,000 uninfected population",0,Ministry of Health (MoH),A,N,SH_HIV_INCD,RW,PER_1000_UNINFECTED_POP,3.1
+2006,A,_X,"Number of new HIV infections per 1,000 uninfected population",0,Ministry of Health (MoH),A,N,SH_HIV_INCD,RW,PER_1000_UNINFECTED_POP,3.0
+2007,A,_X,"Number of new HIV infections per 1,000 uninfected population",0,Ministry of Health (MoH),A,N,SH_HIV_INCD,RW,PER_1000_UNINFECTED_POP,2.9
+2008,A,_X,"Number of new HIV infections per 1,000 uninfected population",0,Ministry of Health (MoH),A,N,SH_HIV_INCD,RW,PER_1000_UNINFECTED_POP,2.9
+2009,A,_X,"Number of new HIV infections per 1,000 uninfected population",0,Ministry of Health (MoH),A,N,SH_HIV_INCD,RW,PER_1000_UNINFECTED_POP,2.9
+2017,A,_X,"Number of new HIV infections per 1,000 uninfected population",0,Ministry of Health (MoH),A,N,SH_HIV_INCD,RW,PER_1000_UNINFECTED_POP,2.7

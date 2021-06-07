@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
   <mes:Header>
-    <mes:ID>IREF1623036954</mes:ID>
+    <mes:ID>IREF1623075715</mes:ID>
     <mes:Test>True</mes:Test>
-    <mes:Prepared>2021-06-07T03:35:54</mes:Prepared>
+    <mes:Prepared>2021-06-07T14:21:55</mes:Prepared>
     <mes:Sender id="open-sdg_sdg-build@1-3-0"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -12,7 +12,7 @@
     </mes:Structure>
   </mes:Header>
   
-  <mes:MetadataSet structureRef="MDS1" setID="bf5e2606-79a6-4bee-986b-7d67220f878e">
+  <mes:MetadataSet structureRef="MDS1" setID="1233a3f0-2bb0-41b4-ba20-087e07ed8aac">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -37,51 +37,191 @@
       </gen:Target>
       <gen:AttributeSet>
         
-        <gen:ReportedAttribute id="target_id">
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
           
-          <com:Text xml:lang="en"><![CDATA[6.4]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="sdg_goal">
-          
-          <com:Text xml:lang="en"><![CDATA[6]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> National Directorate of Water Supply and Sanitation </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
-        <gen:ReportedAttribute id="reporting_status">
+        <gen:ReportedAttribute id="SDG_GOAL">
           
-          <com:Text xml:lang="en"><![CDATA[complete]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="data_non_statistical">
-          
-          <com:Text xml:lang="en"><![CDATA[False]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> 6 Ensuring the availability and sustainable management of drinking water and sanitation for all </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
-        <gen:ReportedAttribute id="graph_type">
+        <gen:ReportedAttribute id="SDG_TARGET">
           
-          <com:Text xml:lang="en"><![CDATA[line]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="indicator_sort_order">
-          
-          <com:Text xml:lang="en"><![CDATA[06-04-01]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> 6.4 By 2030, substantially increase the efficiency of water use in all sectors and ensure sustainable withdrawals and fresh water supply to address water scarcity, and substantially reduce the number of people suffering from water scarcity </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
-        <gen:ReportedAttribute id="indicator_name">
+        <gen:ReportedAttribute id="SDG_INDICATOR">
           
-          <com:Text xml:lang="en"><![CDATA[Investimento directo estrangeiro (IDE), em percentagem do PIB]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> 6.4.1 Changing the efficiency of water use over time </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
-        <gen:ReportedAttribute id="graph_title">
+        <gen:ReportedAttribute id="SDG_SERIES_DESCR">
           
-          <com:Text xml:lang="en"><![CDATA[Investimento directo estrangeiro (IDE), em percentagem do PIB]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> Efficiency in the use of water over time </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="META_LAST_UPDATE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> 10/9/2020 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_ORGANISATION">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Ministry of Public Works, Housing and Water Resources </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Alcino Nhacume; Amélia Mabota; Marlene Maciel </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_FUNCT">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Alcino Nhacume - Head of Department; Amélia Mabota - Technician; Marlene Maciel - Technique </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Alcino Nhacume - 846463364; Amélia Mabota - 823817060 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_MAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> <a href="mailto:anhacume@dnaas.gov.mz"> anhacume@dnaas.gov.mz </a>; <a href="mailto:ameliamabota@dnaas.gov.mz"> ameliamabota@dnaas.gov.mz </a>; <a href="mailto:mmaciel@dnaas.gov.mz"> mmaciel@dnaas.gov.mz </a> </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> <a href="mailto:anhacume@yahoo.com.br"> anhacume@yahoo.com.br </a>; <a href="mailto:ameliamabota@gmail.com"> ameliamabota@gmail.com </a>; <a href="mailto:marlenmaciel89@gmail.com"> marlenmaciel89@gmail.com </a> </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The change in the efficiency of water use is defined as the change in the ratio of value added to the volume of water use over time. Efficiency in the use of water is defined as the added value of a given sector divided by the volume of water used. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="UNIT_MEASURE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Dollars per cubic meter (usd / m ^ 3) </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Ministry of Public Works, Housing and Water Resources (National Directorate of Water Supply and Sanitation): Administrative data. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COLL_METHOD">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Data are collected through Meetings and, or institutional work meetings of the technical planning teams </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="FREQ_COLL">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The next data collection is expected to take place by December 2020 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REL_CAL_POLICY">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> January 2021 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_SOURCE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Ministry of Public Works, Housing and Water Resources and other Government organizations: Agriculture, Industry and Services. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Ministry of Public Works, Housing and Water Resources National Directorate of Water Supply and Sanitation </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="INST_MANDATE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> In accordance with Ministerial Diploma No. 72/2012, INE delegated powers of notation and calculation of statistical data to the MOPH, through the Bakery and Cooperation Directorate which has the following duties: (i) to prepare and coordinate the planning process of the area Aguaz and Sanitation; (ii) preparing medium and long-term plans for the water sector and monitoring its implementation; (iii) monitor the execution of investment plans and propose corrective measures; and, (iv) assess and monitor the activities in the area </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The logic behind this indicator consists of providing information on the efficiency of the economic and social use of water resources, that is, the added value generated by the use of water in the main sectors of the economy and losses in the distribution network. The baseline value for changing water use efficiency is 6.45 USD / m3 and is expected to reach 9.4 usd / m3 in 2030 which would be optimal since the average global investment at a considerable level is 9.4 usd / m3 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Water bodies still face, to a limited extent, some water quality challenges, mostly related to pollution due to returns from irrigation and urban effluents upstream in neighboring countries (in some of the shared basins) and due to mining activity, unregulated land uses in some watercourses and saline intrusion. </p>
+ <p> Mozambique is located downstream from all basins shared with other countries, except for the Rovuma basin. In some of these basins there is already an intensive use of water in the upstream countries, especially in agriculture </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Water use efficiency is calculated as the sum of the three sectors listed above, weighted according to the proportion of water used by each sector over total use. Formally: </p>
+ <p> WUE = A_we × P_A + M_we × P_M + S_we × P_S </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_VALIDATION">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Monitoring of the results of data compilation is carried out by technicians from the Ministry of Public Works, Housing and Water Resources </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_MGMNT">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> In the process of creating the Quality Management System at the level of the National Statistical System. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Meetings with the main players in the integrated water resources management process for data collection and analysis of its consistency. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSMNT">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The instruments for assessing the quality of statistical processes and products at the level of the National Statistical System are still being developed based on the 19 quality principles established by the United Nations Statistical Commission. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Data are available annually and have no breakdown. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Uses the calculation methodology defined by the United Nations. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Water Law (Law No. 16/91 of August 3; Action Plan for the Implementation of the Water Supply and Sanitation Development Goals 2015-2030, <em> Resolution Nr. 40/2018, of October 24, 2018 </em>; PRONASAR </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         

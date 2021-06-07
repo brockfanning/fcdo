@@ -1,0 +1,3 @@
+Year,OBS_STATUS,NATURE,COMMENT_OBS,UNIT_MULT,SOURCE_DETAIL,FREQ,REPORTING_TYPE,SERIES,REF_AREA,UNIT_MEASURE,Value
+2017,A,_X,Proportion of domestic budget funded by domestic taxes,0,MINECOFIN,A,N,GC_GOB_TAXD,RW,PT,62.4
+2019,A,_X,Proportion of domestic budget funded by domestic taxes,0,MINECOFIN,A,N,GC_GOB_TAXD,RW,PT,67.0

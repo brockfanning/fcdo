@@ -1,0 +1,15 @@
+Year,OBS_STATUS,NATURE,COMMENT_OBS,UNIT_MULT,SOURCE_DETAIL,FREQ,REPORTING_TYPE,SERIES,REF_AREA,UNIT_MEASURE,Value
+2015,A,_X,Proportion of population covered by at least a 2G mobile network,0,"Statistics report for telecom, media and postal services, RURA",A,N,IT_MOB_2GNTWK,RW,PT,99.91
+2016,A,_X,Proportion of population covered by at least a 2G mobile network,0,"Statistics report for telecom, media and postal services, RURA",A,N,IT_MOB_2GNTWK,RW,PT,99.92
+2017,A,_X,Proportion of population covered by at least a 2G mobile network,0,"Statistics report for telecom, media and postal services, RURA",A,N,IT_MOB_2GNTWK,RW,PT,99.92
+2018,A,_X,Proportion of population covered by at least a 2G mobile network,0,"Statistics report for telecom, media and postal services, RURA",A,N,IT_MOB_2GNTWK,RW,PT,99.92
+2019,A,_X,Proportion of population covered by at least a 2G mobile network,0,"Statistics report for telecom, media and postal services, RURA",A,N,IT_MOB_2GNTWK,RW,PT,99.94
+2015,A,_X,Proportion of population covered by at least a 3G mobile network,0,"Statistics report for telecom, media and postal services, RURA",A,N,IT_MOB_3GNTWK,RW,PT,88.01
+2016,A,_X,Proportion of population covered by at least a 3G mobile network,0,"Statistics report for telecom, media and postal services, RURA",A,N,IT_MOB_3GNTWK,RW,PT,92.08
+2017,A,_X,Proportion of population covered by at least a 3G mobile network,0,"Statistics report for telecom, media and postal services, RURA",A,N,IT_MOB_3GNTWK,RW,PT,93.37
+2018,A,_X,Proportion of population covered by at least a 3G mobile network,0,"Statistics report for telecom, media and postal services, RURA",A,N,IT_MOB_3GNTWK,RW,PT,93.37
+2019,A,_X,Proportion of population covered by at least a 3G mobile network,0,"Statistics report for telecom, media and postal services, RURA",A,N,IT_MOB_3GNTWK,RW,PT,97.44
+2016,A,_X,Proportion of population covered by at least a 4G mobile network,0,"Statistics report for telecom, media and postal services, RURA",A,N,IT_MOB_4GNTWK,RW,PT,62.0
+2017,A,_X,Proportion of population covered by at least a 4G mobile network,0,"Statistics report for telecom, media and postal services, RURA",A,N,IT_MOB_4GNTWK,RW,PT,89.0
+2018,A,_X,Proportion of population covered by at least a 4G mobile network,0,"Statistics report for telecom, media and postal services, RURA",A,N,IT_MOB_4GNTWK,RW,PT,96.6
+2019,A,_X,Proportion of population covered by at least a 4G mobile network,0,"Statistics report for telecom, media and postal services, RURA",A,N,IT_MOB_4GNTWK,RW,PT,98.9

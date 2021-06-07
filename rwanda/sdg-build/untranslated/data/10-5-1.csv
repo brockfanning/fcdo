@@ -1,0 +1,15 @@
+Year,OBS_STATUS,NATURE,COMMENT_OBS,UNIT_MULT,SOURCE_DETAIL,FREQ,REPORTING_TYPE,SERIES,REF_AREA,UNIT_MEASURE,Value
+2016,A,_X,Regulatory capital to assets (%) - CAR,0,"BNR, Annual Financial Stability Report",A,N,FI_FSI_FSKA,RW,PT,23.34
+2018,A,_X,Regulatory capital to assets (%) - CAR,0,"BNR, Annual Financial Stability Report",A,N,FI_FSI_FSKA,RW,PT,25.5
+2016,A,_X,Regulatory Tier 1 capital to risk-weighted assets (%) - CAR Tier I,0,"BNR, Annual Financial Stability Report",A,N,FI_FSI_FSKRTC,RW,PT,20.68
+2018,A,_X,Regulatory Tier 1 capital to risk-weighted assets (%) - CAR Tier I,0,"BNR, Annual Financial Stability Report",A,N,FI_FSI_FSKRTC,RW,PT,20.84
+2016,A,_X,Non-performing loans net of provisions to capital (%),0,"BNR, Annual Financial Stability Report",A,N,FI_FSI_FSKNL,RW,PT,17.05
+2018,A,_X,Non-performing loans net of provisions to capital (%),0,"BNR, Annual Financial Stability Report",A,N,FI_FSI_FSKNL,RW,PT,10.97
+2016,A,_X,Non-performing loans to total gross loans (%),0,"BNR, Annual Financial Stability Report",A,N,FI_FSI_FSANL,RW,PT,7.56
+2018,A,_X,Non-performing loans to total gross loans (%),0,"BNR, Annual Financial Stability Report",A,N,FI_FSI_FSANL,RW,PT,6.4
+2016,A,_X,Return on assets (%),0,"BNR, Annual Financial Stability Report",A,N,FI_FSI_FSERA,RW,PT,2.62
+2018,A,_X,Return on assets (%),0,"BNR, Annual Financial Stability Report",A,N,FI_FSI_FSERA,RW,PT,2.8
+2016,A,_X,Liquid assets to short term liabilities (%),0,"BNR, Annual Financial Stability Report",A,N,FI_FSI_FSLS,RW,PT,111.87
+2018,A,_X,Liquid assets to short term liabilities (%),0,"BNR, Annual Financial Stability Report",A,N,FI_FSI_FSLS,RW,PT,129.55
+2016,A,_X,Net open position in foreign exchange to capital (%),0,"BNR, Annual Financial Stability Report",A,N,FI_FSI_FSSNO,RW,PT,-1.61
+2018,A,_X,Net open position in foreign exchange to capital (%),0,"BNR, Annual Financial Stability Report",A,N,FI_FSI_FSSNO,RW,PT,-9.09

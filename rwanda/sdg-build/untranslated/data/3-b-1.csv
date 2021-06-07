@@ -1,0 +1,8 @@
+Year,OBS_STATUS,NATURE,COMMENT_OBS,UNIT_MULT,SOURCE_DETAIL,FREQ,REPORTING_TYPE,SERIES,REF_AREA,AGE,UNIT_MEASURE,Value
+2015,A,_X,Children 12-23 months fully immunized,0,"DHS, NISR",A,N,_L_RW_030B01_1,RW,M12T23,PT,93
+2018,A,_X,Proportion of the target population with access to 3 doses of diphtheria-tetanus-pertussis (DTP3),0,RBC,A,N,SH_ACS_DTP3,RW,,PT,97
+2019,A,_X,Proportion of the target population with access to 3 doses of diphtheria-tetanus-pertussis (DTP3),0,RBC,A,N,SH_ACS_DTP3,RW,,PT,98
+2018,A,_X,Proportion of the target population with access to measles-containing-vaccine second-dose (MCV2),0,RBC,A,N,SH_ACS_MCV2,RW,,PT,92
+2019,A,_X,Proportion of the target population with access to measles-containing-vaccine second-dose (MCV2),0,RBC,A,N,SH_ACS_MCV2,RW,,PT,92
+2018,A,_X,Proportion of the target population with access to pneumococcal conjugate 3rd dose (PCV3),0,RBC,A,N,SH_ACS_PCV3,RW,,PT,97
+2019,A,_X,Proportion of the target population with access to pneumococcal conjugate 3rd dose (PCV3),0,RBC,A,N,SH_ACS_PCV3,RW,,PT,98

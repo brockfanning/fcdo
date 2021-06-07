@@ -1,0 +1,3 @@
+Year,OBS_STATUS,NATURE,COMMENT_OBS,UNIT_MULT,SOURCE_DETAIL,FREQ,REPORTING_TYPE,SERIES,REF_AREA,SEX,AGE,UNIT_MEASURE,Value
+2015,A,_X,Proportion of women aged 20-24 years who were married or in a union before age 15,0,"DHS, NISR",A,N,SP_DYN_MRBF15,RW,F,Y0T14,PT,0.4
+2015,A,_X,Proportion of women aged 20-24 years who were married or in a union before age 18,0,"DHS, NISR",A,N,SP_DYN_MRBF18,RW,F,Y0T17,PT,6.8

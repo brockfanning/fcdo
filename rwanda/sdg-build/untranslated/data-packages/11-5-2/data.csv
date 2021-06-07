@@ -1,0 +1,10 @@
+Year,OBS_STATUS,NATURE,COMMENT_OBS,UNIT_MULT,SOURCE_DETAIL,FREQ,REPORTING_TYPE,SERIES,REF_AREA,UNIT_MEASURE,Value
+2018,A,_X,Direct economic loss attributed to disasters relative to GDP,0,Ministry in Charge of Emergency Management (MINEMA),A,N,VC_DSR_LSGP,RW,RO,0.02
+2016,A,_X,Number of destroyed or damaged health facilities attributed to disasters,0,"MINEMA, Annual Disaster Effects Report",A,N,VC_DSR_HFDN,RW,NUMBER,2.0
+2017,A,_X,Number of destroyed or damaged health facilities attributed to disasters,0,"MINEMA, Annual Disaster Effects Report",A,N,VC_DSR_HFDN,RW,NUMBER,3.0
+2018,A,_X,Number of destroyed or damaged health facilities attributed to disasters,0,"MINEMA, Annual Disaster Effects Report",A,N,VC_DSR_HFDN,RW,NUMBER,3.0
+2019,A,_X,Number of destroyed or damaged health facilities attributed to disasters,0,"MINEMA, Annual Disaster Effects Report",A,N,VC_DSR_HFDN,RW,NUMBER,1.0
+2016,A,_X,Number of destroyed or damaged educational facilities attributed to disasters,0,"MINEMA, Annual Disaster Effects Report",A,N,VC_DSR_EFDN,RW,NUMBER,82.0
+2017,A,_X,Number of destroyed or damaged educational facilities attributed to disasters,0,"MINEMA, Annual Disaster Effects Report",A,N,VC_DSR_EFDN,RW,NUMBER,203.0
+2018,A,_X,Number of destroyed or damaged educational facilities attributed to disasters,0,"MINEMA, Annual Disaster Effects Report",A,N,VC_DSR_EFDN,RW,NUMBER,73.0
+2019,A,_X,Number of destroyed or damaged educational facilities attributed to disasters,0,"MINEMA, Annual Disaster Effects Report",A,N,VC_DSR_EFDN,RW,NUMBER,203.0

@@ -1,0 +1,5 @@
+Year,Observation status,Nature of data points,Observation-level footnotes,Unit multiplier,Source details,Frequency of observation,Reporting type,SERIES,Reference area,Occupation,UNIT_MEASURE,Value
+2017,Normal value,Not Available,"Health workder density, Doctors",Units,Ministry of Health,Annual,National,Health workder density [3.c.1],Rwanda,Medical doctors,"Per 1,000 population",0.1
+2017,Normal value,Not Available,"Health workder density, Nurses",Units,Ministry of Health,Annual,National,"Health workder density, Nurses",Rwanda,Nurse,"Per 1,000 population",0.9
+2017,Normal value,Not Available,"Health workder density, Midwives",Units,Ministry of Health,Annual,National,"Health workder density, Midwives",Rwanda,Midwives,"Per 1,000 population",0.25
+2017,Normal value,Not Available,"Health workder density, Pharmacists",Units,Ministry of Health,Annual,National,Health workder density [3.c.1],Rwanda,Pharmacists,"Per 1,000 population",0.06

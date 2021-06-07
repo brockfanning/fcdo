@@ -1,0 +1,7 @@
+Year,OBS_STATUS,NATURE,COMMENT_OBS,UNIT_MULT,SOURCE_DETAIL,FREQ,REPORTING_TYPE,SERIES,REF_AREA,SEX,AGE,UNIT_MEASURE,Value
+2014,A,_X,Proportion of children engaged in economic activity,0,"EICV, NISR",A,N,SL_TLF_CHLDEA,RW,,Y5T17,PT,5.5
+2017,A,_X,Proportion of children engaged in economic activity,0,"EICV, NISR",A,N,SL_TLF_CHLDEA,RW,,Y5T17,PT,3.6
+2014,A,_X,Proportion of children engaged in economic activity,0,"EICV, NISR",A,N,SL_TLF_CHLDEA,RW,M,Y5T17,PT,6.4
+2017,A,_X,Proportion of children engaged in economic activity,0,"EICV, NISR",A,N,SL_TLF_CHLDEA,RW,M,Y5T17,PT,4.0
+2014,A,_X,Proportion of children engaged in economic activity,0,"EICV, NISR",A,N,SL_TLF_CHLDEA,RW,F,Y5T17,PT,4.7
+2017,A,_X,Proportion of children engaged in economic activity,0,"EICV, NISR",A,N,SL_TLF_CHLDEA,RW,F,Y5T17,PT,3.2

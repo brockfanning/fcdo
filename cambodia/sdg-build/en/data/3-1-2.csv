@@ -1,0 +1,105 @@
+Year,Observation status,Unit multiplier,Nature of data points,Source details,Frequency of observation,Reporting type,SERIES,Reference area,Degree of urbanisation,UNIT_MEASURE,Time period details,Value
+1998,Normal value,Units,Country Data,"MoP, NIS_General Population Census of Cambodia",Annual,National,3.1.2 Total fertility rate,Cambodia,,Live births per woman,2019,5.3
+2000,Normal value,Units,Country Data,"MoP, NIS_General Population Census of Cambodia",Annual,National,3.1.2 Total fertility rate,Cambodia,,Live births per woman,2019,4.0
+2004,Normal value,Units,Country Data,"MoP, NIS_General Population Census of Cambodia",Annual,National,3.1.2 Total fertility rate,Cambodia,,Live births per woman,2019,3.34
+2005,Normal value,Units,Country Data,"MoP, NIS_General Population Census of Cambodia",Annual,National,3.1.2 Total fertility rate,Cambodia,,Live births per woman,2019,3.4
+2008,Normal value,Units,Country Data,"MoP, NIS_General Population Census of Cambodia",Annual,National,3.1.2 Total fertility rate,Cambodia,,Live births per woman,2019,3.1
+2010,Normal value,Units,Country Data,"MoP, NIS_General Population Census of Cambodia",Annual,National,3.1.2 Total fertility rate,Cambodia,,Live births per woman,2019,3.0
+2013,Normal value,Units,Country Data,"MoP, NIS_General Population Census of Cambodia",Annual,National,3.1.2 Total fertility rate,Cambodia,,Live births per woman,2019,2.37
+2014,Normal value,Units,Country Data,"MoP, NIS_General Population Census of Cambodia",Annual,National,3.1.2 Total fertility rate,Cambodia,,Live births per woman,2019,2.7
+2019,Normal value,Units,Country Data,"MoP, NIS_General Population Census of Cambodia",Annual,National,3.1.2 Total fertility rate,Cambodia,,Live births per woman,2019,2.51
+1998,Normal value,Units,Country Data,"MoP, NIS_General Population Census of Cambodia",Annual,National,3.1.2 Total fertility rate,Cambodia,Urban,Live births per woman,2019,4.4
+2000,Normal value,Units,Country Data,"MoP, NIS_General Population Census of Cambodia",Annual,National,3.1.2 Total fertility rate,Cambodia,Urban,Live births per woman,2019,3.1
+2005,Normal value,Units,Country Data,"MoP, NIS_General Population Census of Cambodia",Annual,National,3.1.2 Total fertility rate,Cambodia,Urban,Live births per woman,2019,2.8
+2008,Normal value,Units,Country Data,"MoP, NIS_General Population Census of Cambodia",Annual,National,3.1.2 Total fertility rate,Cambodia,Urban,Live births per woman,2019,2.1
+2010,Normal value,Units,Country Data,"MoP, NIS_General Population Census of Cambodia",Annual,National,3.1.2 Total fertility rate,Cambodia,Urban,Live births per woman,2019,2.2
+2013,Normal value,Units,Country Data,"MoP, NIS_General Population Census of Cambodia",Annual,National,3.1.2 Total fertility rate,Cambodia,Urban,Live births per woman,2019,2.15
+2014,Normal value,Units,Country Data,"MoP, NIS_General Population Census of Cambodia",Annual,National,3.1.2 Total fertility rate,Cambodia,Urban,Live births per woman,2019,2.1
+2019,Normal value,Units,Country Data,"MoP, NIS_General Population Census of Cambodia",Annual,National,3.1.2 Total fertility rate,Cambodia,Urban,Live births per woman,2019,2.22
+1998,Normal value,Units,Country Data,"MoP, NIS_General Population Census of Cambodia",Annual,National,3.1.2 Total fertility rate,Cambodia,Rural,Live births per woman,2019,5.5
+2000,Normal value,Units,Country Data,"MoP, NIS_General Population Census of Cambodia",Annual,National,3.1.2 Total fertility rate,Cambodia,Rural,Live births per woman,2019,4.2
+2005,Normal value,Units,Country Data,"MoP, NIS_General Population Census of Cambodia",Annual,National,3.1.2 Total fertility rate,Cambodia,Rural,Live births per woman,2019,3.5
+2008,Normal value,Units,Country Data,"MoP, NIS_General Population Census of Cambodia",Annual,National,3.1.2 Total fertility rate,Cambodia,Rural,Live births per woman,2019,3.3
+2010,Normal value,Units,Country Data,"MoP, NIS_General Population Census of Cambodia",Annual,National,3.1.2 Total fertility rate,Cambodia,Rural,Live births per woman,2019,3.3
+2013,Normal value,Units,Country Data,"MoP, NIS_General Population Census of Cambodia",Annual,National,3.1.2 Total fertility rate,Cambodia,Rural,Live births per woman,2019,3.05
+2014,Normal value,Units,Country Data,"MoP, NIS_General Population Census of Cambodia",Annual,National,3.1.2 Total fertility rate,Cambodia,Rural,Live births per woman,2019,2.9
+2019,Normal value,Units,Country Data,"MoP, NIS_General Population Census of Cambodia",Annual,National,3.1.2 Total fertility rate,Cambodia,Rural,Live births per woman,2019,2.81
+2000,Normal value,Units,Country Data,"MoP, NIS & MoH_Cambodia Demographic and Health Survey",Annual,National,3.1.2 Total fertility rate,Banteay Meanchey,,Live births per woman,2010,4.3
+2005,Normal value,Units,Country Data,"MoP, NIS & MoH_Cambodia Demographic and Health Survey",Annual,National,3.1.2 Total fertility rate,Banteay Meanchey,,Live births per woman,2010,3.8
+2008,Normal value,Units,Country Data,"MoP, NIS & MoH_Cambodia Demographic and Health Survey",Annual,National,3.1.2 Total fertility rate,Banteay Meanchey,,Live births per woman,2010,2.7
+2010,Normal value,Units,Country Data,"MoP, NIS & MoH_Cambodia Demographic and Health Survey",Annual,National,3.1.2 Total fertility rate,Banteay Meanchey,,Live births per woman,2010,3.2
+2008,Normal value,Units,Country Data,"MoP, NIS_General Population Census of Cambodia",Annual,National,3.1.2 Total fertility rate,Battambang,,Live births per woman,2008,3.2
+2000,Normal value,Units,Country Data,"MoP, NIS & MoH_Cambodia Demographic and Health Survey",Annual,National,3.1.2 Total fertility rate,Kampong Cham,,Live births per woman,2010,4.2
+2005,Normal value,Units,Country Data,"MoP, NIS & MoH_Cambodia Demographic and Health Survey",Annual,National,3.1.2 Total fertility rate,Kampong Cham,,Live births per woman,2010,3.2
+2008,Normal value,Units,Country Data,"MoP, NIS & MoH_Cambodia Demographic and Health Survey",Annual,National,3.1.2 Total fertility rate,Kampong Cham,,Live births per woman,2010,3.1
+2010,Normal value,Units,Country Data,"MoP, NIS & MoH_Cambodia Demographic and Health Survey",Annual,National,3.1.2 Total fertility rate,Kampong Cham,,Live births per woman,2010,3.4
+2000,Normal value,Units,Country Data,"MoP, NIS & MoH_Cambodia Demographic and Health Survey",Annual,National,3.1.2 Total fertility rate,Kampong Chhnang,,Live births per woman,2010,5.2
+2005,Normal value,Units,Country Data,"MoP, NIS & MoH_Cambodia Demographic and Health Survey",Annual,National,3.1.2 Total fertility rate,Kampong Chhnang,,Live births per woman,2010,4.3
+2008,Normal value,Units,Country Data,"MoP, NIS & MoH_Cambodia Demographic and Health Survey",Annual,National,3.1.2 Total fertility rate,Kampong Chhnang,,Live births per woman,2010,3.6
+2010,Normal value,Units,Country Data,"MoP, NIS & MoH_Cambodia Demographic and Health Survey",Annual,National,3.1.2 Total fertility rate,Kampong Chhnang,,Live births per woman,2010,3.6
+2000,Normal value,Units,Country Data,"MoP, NIS & MoH_Cambodia Demographic and Health Survey",Annual,National,3.1.2 Total fertility rate,Kampong Speu,,Live births per woman,2010,4.6
+2005,Normal value,Units,Country Data,"MoP, NIS & MoH_Cambodia Demographic and Health Survey",Annual,National,3.1.2 Total fertility rate,Kampong Speu,,Live births per woman,2010,3.7
+2008,Normal value,Units,Country Data,"MoP, NIS & MoH_Cambodia Demographic and Health Survey",Annual,National,3.1.2 Total fertility rate,Kampong Speu,,Live births per woman,2010,3.4
+2010,Normal value,Units,Country Data,"MoP, NIS & MoH_Cambodia Demographic and Health Survey",Annual,National,3.1.2 Total fertility rate,Kampong Speu,,Live births per woman,2010,3.1
+2000,Normal value,Units,Country Data,"MoP, NIS & MoH_Cambodia Demographic and Health Survey",Annual,National,3.1.2 Total fertility rate,Kampong Thom,,Live births per woman,2010,4.3
+2005,Normal value,Units,Country Data,"MoP, NIS & MoH_Cambodia Demographic and Health Survey",Annual,National,3.1.2 Total fertility rate,Kampong Thom,,Live births per woman,2010,3.7
+2008,Normal value,Units,Country Data,"MoP, NIS & MoH_Cambodia Demographic and Health Survey",Annual,National,3.1.2 Total fertility rate,Kampong Thom,,Live births per woman,2010,3.3
+2010,Normal value,Units,Country Data,"MoP, NIS & MoH_Cambodia Demographic and Health Survey",Annual,National,3.1.2 Total fertility rate,Kampong Thom,,Live births per woman,2010,3.2
+2008,Normal value,Units,Country Data,"MoP, NIS_General Population Census of Cambodia",Annual,National,3.1.2 Total fertility rate,Kampot,,Live births per woman,2008,3.1
+2000,Normal value,Units,Country Data,"MoP, NIS & MoH_Cambodia Demographic and Health Survey",Annual,National,3.1.2 Total fertility rate,Kandal,,Live births per woman,2010,3.8
+2005,Normal value,Units,Country Data,"MoP, NIS & MoH_Cambodia Demographic and Health Survey",Annual,National,3.1.2 Total fertility rate,Kandal,,Live births per woman,2010,3.1
+2008,Normal value,Units,Country Data,"MoP, NIS & MoH_Cambodia Demographic and Health Survey",Annual,National,3.1.2 Total fertility rate,Kandal,,Live births per woman,2010,2.8
+2010,Normal value,Units,Country Data,"MoP, NIS & MoH_Cambodia Demographic and Health Survey",Annual,National,3.1.2 Total fertility rate,Kandal,,Live births per woman,2010,2.9
+2008,Normal value,Units,Country Data,"MoP, NIS_General Population Census of Cambodia",Annual,National,3.1.2 Total fertility rate,Kep,,Live births per woman,2008,3.3
+2000,Normal value,Units,Country Data,"MoP, NIS_General Population Census of Cambodia",Annual,National,3.1.2 Total fertility rate,Koh Kong,,Live births per woman,2008,4.3
+2008,Normal value,Units,Country Data,"MoP, NIS_General Population Census of Cambodia",Annual,National,3.1.2 Total fertility rate,Koh Kong,,Live births per woman,2008,3.6
+2005,Normal value,Units,Country Data,"MoP, NIS & MoH_Cambodia Demographic and Health Survey",Annual,National,3.1.2 Total fertility rate,Kratie,,Live births per woman,2010,4.2
+2008,Normal value,Units,Country Data,"MoP, NIS & MoH_Cambodia Demographic and Health Survey",Annual,National,3.1.2 Total fertility rate,Kratie,,Live births per woman,2010,3.7
+2010,Normal value,Units,Country Data,"MoP, NIS & MoH_Cambodia Demographic and Health Survey",Annual,National,3.1.2 Total fertility rate,Kratie,,Live births per woman,2010,3.9
+2008,Normal value,Units,Country Data,"MoP, NIS_General Population Census of Cambodia",Annual,National,3.1.2 Total fertility rate,Mondul Kiri,,Live births per woman,2008,4.5
+2005,Normal value,Units,Country Data,"MoP, NIS & MoH_Cambodia Demographic and Health Survey",Annual,National,3.1.2 Total fertility rate,Oddar Meanchey,,Live births per woman,2010,4.2
+2008,Normal value,Units,Country Data,"MoP, NIS & MoH_Cambodia Demographic and Health Survey",Annual,National,3.1.2 Total fertility rate,Oddar Meanchey,,Live births per woman,2010,3.3
+2010,Normal value,Units,Country Data,"MoP, NIS & MoH_Cambodia Demographic and Health Survey",Annual,National,3.1.2 Total fertility rate,Oddar Meanchey,,Live births per woman,2010,3.2
+2008,Normal value,Units,Country Data,"MoP, NIS_General Population Census of Cambodia",Annual,National,3.1.2 Total fertility rate,Pailin,,Live births per woman,2008,3.6
+2000,Normal value,Units,Country Data,"MoP, NIS & MoH_Cambodia Demographic and Health Survey",Annual,National,3.1.2 Total fertility rate,Phnom Penh,,Live births per woman,2010,2.1
+2005,Normal value,Units,Country Data,"MoP, NIS & MoH_Cambodia Demographic and Health Survey",Annual,National,3.1.2 Total fertility rate,Phnom Penh,,Live births per woman,2010,2.5
+2008,Normal value,Units,Country Data,"MoP, NIS & MoH_Cambodia Demographic and Health Survey",Annual,National,3.1.2 Total fertility rate,Phnom Penh,,Live births per woman,2010,2.0
+2010,Normal value,Units,Country Data,"MoP, NIS & MoH_Cambodia Demographic and Health Survey",Annual,National,3.1.2 Total fertility rate,Phnom Penh,,Live births per woman,2010,2.0
+2008,Normal value,Units,Country Data,"MoP, NIS_General Population Census of Cambodia",Annual,National,3.1.2 Total fertility rate,Preah Sihanouk,,Live births per woman,2008,3.1
+2008,Normal value,Units,Country Data,"MoP, NIS_General Population Census of Cambodia",Annual,National,3.1.2 Total fertility rate,Preah Vihear,,Live births per woman,2008,4.0
+2000,Normal value,Units,Country Data,"MoP, NIS & MoH_Cambodia Demographic and Health Survey",Annual,National,3.1.2 Total fertility rate,Prey Veng,,Live births per woman,2010,3.5
+2005,Normal value,Units,Country Data,"MoP, NIS & MoH_Cambodia Demographic and Health Survey",Annual,National,3.1.2 Total fertility rate,Prey Veng,,Live births per woman,2010,3.0
+2008,Normal value,Units,Country Data,"MoP, NIS & MoH_Cambodia Demographic and Health Survey",Annual,National,3.1.2 Total fertility rate,Prey Veng,,Live births per woman,2010,2.9
+2010,Normal value,Units,Country Data,"MoP, NIS & MoH_Cambodia Demographic and Health Survey",Annual,National,3.1.2 Total fertility rate,Prey Veng,,Live births per woman,2010,3.3
+2000,Normal value,Units,Country Data,"MoP, NIS & MoH_Cambodia Demographic and Health Survey",Annual,National,3.1.2 Total fertility rate,Pursat,,Live births per woman,2010,4.9
+2005,Normal value,Units,Country Data,"MoP, NIS & MoH_Cambodia Demographic and Health Survey",Annual,National,3.1.2 Total fertility rate,Pursat,,Live births per woman,2010,3.9
+2008,Normal value,Units,Country Data,"MoP, NIS & MoH_Cambodia Demographic and Health Survey",Annual,National,3.1.2 Total fertility rate,Pursat,,Live births per woman,2010,3.6
+2010,Normal value,Units,Country Data,"MoP, NIS & MoH_Cambodia Demographic and Health Survey",Annual,National,3.1.2 Total fertility rate,Pursat,,Live births per woman,2010,3.4
+2008,Normal value,Units,Country Data,"MoP, NIS_General Population Census of Cambodia",Annual,National,3.1.2 Total fertility rate,Ratanak Kiri,,Live births per woman,2008,4.9
+2005,Normal value,Units,Country Data,"MoP, NIS & MoH_Cambodia Demographic and Health Survey",Annual,National,3.1.2 Total fertility rate,Siemreap,,Live births per woman,2010,4.2
+2008,Normal value,Units,Country Data,"MoP, NIS & MoH_Cambodia Demographic and Health Survey",Annual,National,3.1.2 Total fertility rate,Siemreap,,Live births per woman,2010,3.2
+2010,Normal value,Units,Country Data,"MoP, NIS & MoH_Cambodia Demographic and Health Survey",Annual,National,3.1.2 Total fertility rate,Siemreap,,Live births per woman,2010,3.4
+2008,Normal value,Units,Country Data,"MoP, NIS_General Population Census of Cambodia",Annual,National,3.1.2 Total fertility rate,Stung Treng,,Live births per woman,2008,4.2
+2000,Normal value,Units,Country Data,"MoP, NIS & MoH_Cambodia Demographic and Health Survey",Annual,National,3.1.2 Total fertility rate,Svay Rieng,,Live births per woman,2010,3.5
+2005,Normal value,Units,Country Data,"MoP, NIS & MoH_Cambodia Demographic and Health Survey",Annual,National,3.1.2 Total fertility rate,Svay Rieng,,Live births per woman,2010,3.0
+2008,Normal value,Units,Country Data,"MoP, NIS & MoH_Cambodia Demographic and Health Survey",Annual,National,3.1.2 Total fertility rate,Svay Rieng,,Live births per woman,2010,2.8
+2010,Normal value,Units,Country Data,"MoP, NIS & MoH_Cambodia Demographic and Health Survey",Annual,National,3.1.2 Total fertility rate,Svay Rieng,,Live births per woman,2010,2.6
+2000,Normal value,Units,Country Data,"MoP, NIS & MoH_Cambodia Demographic and Health Survey",Annual,National,3.1.2 Total fertility rate,Takeo,,Live births per woman,2010,4.1
+2005,Normal value,Units,Country Data,"MoP, NIS & MoH_Cambodia Demographic and Health Survey",Annual,National,3.1.2 Total fertility rate,Takeo,,Live births per woman,2010,3.2
+2008,Normal value,Units,Country Data,"MoP, NIS & MoH_Cambodia Demographic and Health Survey",Annual,National,3.1.2 Total fertility rate,Takeo,,Live births per woman,2010,3.0
+2010,Normal value,Units,Country Data,"MoP, NIS & MoH_Cambodia Demographic and Health Survey",Annual,National,3.1.2 Total fertility rate,Takeo,,Live births per woman,2010,3.1
+2000,Normal value,Units,Country Data,"MoP, NIS & MoH_Cambodia Demographic and Health Survey",Annual,National,3.1.2 Total fertility rate,Battambang and Pailin,,Live births per woman,2010,4.5
+2005,Normal value,Units,Country Data,"MoP, NIS & MoH_Cambodia Demographic and Health Survey",Annual,National,3.1.2 Total fertility rate,Battambang and Pailin,,Live births per woman,2010,3.5
+2010,Normal value,Units,Country Data,"MoP, NIS & MoH_Cambodia Demographic and Health Survey",Annual,National,3.1.2 Total fertility rate,Battambang and Pailin,,Live births per woman,2010,3.2
+2000,Normal value,Units,Country Data,"MoP, NIS & MoH_Cambodia Demographic and Health Survey",Annual,National,3.1.2 Total fertility rate,"Kampot, Preah Sihanouk and Kep",,Live births per woman,2000,4.1
+2000,Normal value,Units,Country Data,"MoP, NIS & MoH_Cambodia Demographic and Health Survey",Annual,National,3.1.2 Total fertility rate,"Kratie, Preah Vihear and Stung Treng",,Live births per woman,2000,4.6
+2000,Normal value,Units,Country Data,"MoP, NIS & MoH_Cambodia Demographic and Health Survey",Annual,National,3.1.2 Total fertility rate,Mondul Kiri and Ratanak Kiri,,Live births per woman,2010,6.3
+2005,Normal value,Units,Country Data,"MoP, NIS & MoH_Cambodia Demographic and Health Survey",Annual,National,3.1.2 Total fertility rate,Mondul Kiri and Ratanak Kiri,,Live births per woman,2010,5.2
+2010,Normal value,Units,Country Data,"MoP, NIS & MoH_Cambodia Demographic and Health Survey",Annual,National,3.1.2 Total fertility rate,Mondul Kiri and Ratanak Kiri,,Live births per woman,2010,4.5
+2000,Normal value,Units,Country Data,"MoP, NIS & MoH_Cambodia Demographic and Health Survey",Annual,National,3.1.2 Total fertility rate,Otdar Meanchey and Siem Reap,,Live births per woman,2000,4.6
+2005,Normal value,Units,Country Data,"MoP, NIS & MoH_Cambodia Demographic and Health Survey",Annual,National,3.1.2 Total fertility rate,Kampot and Kep,,Live births per woman,2010,3.2
+2010,Normal value,Units,Country Data,"MoP, NIS & MoH_Cambodia Demographic and Health Survey",Annual,National,3.1.2 Total fertility rate,Kampot and Kep,,Live births per woman,2010,2.8
+2005,Normal value,Units,Country Data,"MoP, NIS & MoH_Cambodia Demographic and Health Survey",Annual,National,3.1.2 Total fertility rate,Koh Kong and Preah Sihanouk,,Live births per woman,2010,3.9
+2010,Normal value,Units,Country Data,"MoP, NIS & MoH_Cambodia Demographic and Health Survey",Annual,National,3.1.2 Total fertility rate,Koh Kong and Preah Sihanouk,,Live births per woman,2010,2.9
+2005,Normal value,Units,Country Data,"MoP, NIS & MoH_Cambodia Demographic and Health Survey",Annual,National,3.1.2 Total fertility rate,Preah Vihear and Stung Treng,,Live births per woman,2010,4.9
+2010,Normal value,Units,Country Data,"MoP, NIS & MoH_Cambodia Demographic and Health Survey",Annual,National,3.1.2 Total fertility rate,Preah Vihear and Stung Treng,,Live births per woman,2010,3.5

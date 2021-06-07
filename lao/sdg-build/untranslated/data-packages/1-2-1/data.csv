@@ -1,0 +1,23 @@
+Year,OBS_STATUS,UNIT_MULT,NATURE,SOURCE_DETAIL,FREQ,REPORTING_TYPE,SERIES,REF_AREA,SEX,AGE,URBANISATION,UNIT_MEASURE,Value
+1993,A,0,_X,"Lao Statistics Bureau, Survey-(LECS), https://www.lsb.gov.la/",A,N,SI_POV_NAHC,LA,,,,PT,46.0
+1998,A,0,_X,"Lao Statistics Bureau, Survey-(LECS), https://www.lsb.gov.la/",A,N,SI_POV_NAHC,LA,,,,PT,39.0
+2003,A,0,_X,"Lao Statistics Bureau, Survey-(LECS), https://www.lsb.gov.la/",A,N,SI_POV_NAHC,LA,,,,PT,33.5
+2008,A,0,_X,"Lao Statistics Bureau, Survey-(LECS), https://www.lsb.gov.la/",A,N,SI_POV_NAHC,LA,,,,PT,27.6
+2013,A,0,_X,"Lao Statistics Bureau, Survey-(LECS), https://www.lsb.gov.la/",A,N,SI_POV_NAHC,LA,,,,PT,24.6
+2018,A,0,_X,"Lao Statistics Bureau, Survey-(LECS), https://www.lsb.gov.la/",A,N,SI_POV_NAHC,LA,,,,PT,18.3
+2013,A,0,_X,"Lao Statistics Bureau, Survey-(LECS), https://www.lsb.gov.la/",A,N,SI_POV_NAHC,LA,,,U,PT,7.9
+2018,A,0,_X,"Lao Statistics Bureau, Survey-(LECS), https://www.lsb.gov.la/",A,N,SI_POV_NAHC,LA,,,U,PT,7.0
+2013,A,0,_X,"Lao Statistics Bureau, Survey-(LECS), https://www.lsb.gov.la/",A,N,SI_POV_NAHC,LA,,,R,PT,31.4
+2018,A,0,_X,"Lao Statistics Bureau, Survey-(LECS), https://www.lsb.gov.la/",A,N,SI_POV_NAHC,LA,,,R,PT,23.8
+2013,A,0,_X,"Lao Statistics Bureau, Survey-(LECS), https://www.lsb.gov.la/",A,N,SI_POV_NAHC,LA,M,,,PT,24.7
+2018,A,0,_X,"Lao Statistics Bureau, Survey-(LECS), https://www.lsb.gov.la/",A,N,SI_POV_NAHC,LA,M,,,PT,18.5
+2013,A,0,_X,"Lao Statistics Bureau, Survey-(LECS), https://www.lsb.gov.la/",A,N,SI_POV_NAHC,LA,F,,,PT,24.6
+2018,A,0,_X,"Lao Statistics Bureau, Survey-(LECS), https://www.lsb.gov.la/",A,N,SI_POV_NAHC,LA,F,,,PT,18.2
+2013,A,0,_X,"Lao Statistics Bureau, Survey-(LECS), https://www.lsb.gov.la/",A,N,SI_POV_NAHC,LA,,Y0T14,,PT,32.6
+2013,A,0,_X,"Lao Statistics Bureau, Survey-(LECS), https://www.lsb.gov.la/",A,N,SI_POV_NAHC,LA,,Y15T24,,PT,22.7
+2013,A,0,_X,"Lao Statistics Bureau, Survey-(LECS), https://www.lsb.gov.la/",A,N,SI_POV_NAHC,LA,,Y55T64,,PT,18.0
+2013,A,0,_X,"Lao Statistics Bureau, Survey-(LECS), https://www.lsb.gov.la/",A,N,SI_POV_NAHC,LA,,Y_GE65,,PT,22.1
+2018,A,0,_X,"Lao Statistics Bureau, Survey-(LECS), https://www.lsb.gov.la/",A,N,SI_POV_NAHC,LA,,Y0T14,,PT,24.3
+2018,A,0,_X,"Lao Statistics Bureau, Survey-(LECS), https://www.lsb.gov.la/",A,N,SI_POV_NAHC,LA,,Y15T24,,PT,19.7
+2018,A,0,_X,"Lao Statistics Bureau, Survey-(LECS), https://www.lsb.gov.la/",A,N,SI_POV_NAHC,LA,,Y55T64,,PT,12.4
+2018,A,0,_X,"Lao Statistics Bureau, Survey-(LECS), https://www.lsb.gov.la/",A,N,SI_POV_NAHC,LA,,Y_GE65,,PT,15.1

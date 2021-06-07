@@ -1,0 +1,20 @@
+Year,OBS_STATUS,NATURE,COMMENT_OBS,UNIT_MULT,SOURCE_DETAIL,FREQ,REPORTING_TYPE,SERIES,REF_AREA,SEX,URBANISATION,UNIT_MEASURE,Value
+2017,A,_X,Proportion of population covered by core Social Protection programs,0,"MINALOC, RSSB, MIGEPROF, MOH, MINAGRI, MINEDUC",A,N,_L_RW_010301_1,RW,,,PT,6.5
+2018,A,_X,Proportion of population covered by core Social Protection programs,0,"MINALOC, RSSB, MIGEPROF, MOH, MINAGRI, MINEDUC",A,N,_L_RW_010301_1,RW,,,PT,6.5
+2017,A,_X,Number of members of Pension and occupational Hazards,0,"MINALOC, RSSB, MIGEPROF, MOH, MINAGRI, MINEDUC",A,N,_L_RW_010301_2,RW,,,NUMBER,484435.0
+2018,A,_X,Number of members of Pension and occupational Hazards,0,"MINALOC, RSSB, MIGEPROF, MOH, MINAGRI, MINEDUC",A,N,_L_RW_010301_2,RW,,,NUMBER,560769.0
+2017,A,_X,Number of population covered by Medical scheme,0,"MINALOC, RSSB, MIGEPROF, MOH, MINAGRI, MINEDUC",A,N,_L_RW_010301_3,RW,,,NUMBER,376836.0
+2018,A,_X,Number of population covered by Medical scheme,0,"MINALOC, RSSB, MIGEPROF, MOH, MINAGRI, MINEDUC",A,N,_L_RW_010301_3,RW,,,NUMBER,432450.0
+2017,A,_X,Proportion of population covered by Community-Based Health Insurance (Coverage rate),0,"MINALOC, RSSB, MIGEPROF, MOH, MINAGRI, MINEDUC",A,N,_L_RW_010301_4,RW,,,PT,84.2
+2018,A,_X,Proportion of population covered by Community-Based Health Insurance (Coverage rate),0,"MINALOC, RSSB, MIGEPROF, MOH, MINAGRI, MINEDUC",A,N,_L_RW_010301_4,RW,,,PT,83.3
+2017,A,_X,Proportion of population covered by Health insurance,0,"MINALOC, RSSB, MIGEPROF, MOH, MINAGRI, MINEDUC",A,N,_L_RW_010301_5,RW,,,PT,70.0
+2018,A,_X,Proportion of population covered by Health insurance,0,"MINALOC, RSSB, MIGEPROF, MOH, MINAGRI, MINEDUC",A,N,_L_RW_010301_5,RW,,,PT,73.9
+2017,A,_X,Proportion of population covered by Health insurance,0,"MINALOC, RSSB, MIGEPROF, MOH, MINAGRI, MINEDUC",A,N,_L_RW_010301_5,RW,,U,PT,73.8
+2018,A,_X,Proportion of population covered by Health insurance,0,"MINALOC, RSSB, MIGEPROF, MOH, MINAGRI, MINEDUC",A,N,_L_RW_010301_5,RW,,U,PT,79.5
+2017,A,_X,Proportion of population covered by Health insurance,0,"MINALOC, RSSB, MIGEPROF, MOH, MINAGRI, MINEDUC",A,N,_L_RW_010301_5,RW,,R,PT,69.2
+2018,A,_X,Proportion of population covered by Health insurance,0,"MINALOC, RSSB, MIGEPROF, MOH, MINAGRI, MINEDUC",A,N,_L_RW_010301_5,RW,,R,PT,72.7
+2017,A,_X,Proportion of population covered by Health insurance,0,"MINALOC, RSSB, MIGEPROF, MOH, MINAGRI, MINEDUC",A,N,_L_RW_010301_5,RW,M,,PT,69.4
+2018,A,_X,Proportion of population covered by Health insurance,0,"MINALOC, RSSB, MIGEPROF, MOH, MINAGRI, MINEDUC",A,N,_L_RW_010301_5,RW,M,,PT,73.4
+2017,A,_X,Proportion of population covered by Health insurance,0,"MINALOC, RSSB, MIGEPROF, MOH, MINAGRI, MINEDUC",A,N,_L_RW_010301_5,RW,F,,PT,70.5
+2018,A,_X,Proportion of population covered by Health insurance,0,"MINALOC, RSSB, MIGEPROF, MOH, MINAGRI, MINEDUC",A,N,_L_RW_010301_5,RW,F,,PT,74.5
+2018,A,_X,Number of actively contributing women covered by Maternity Leave Benefits,0,"MINALOC, RSSB, MIGEPROF, MOH, MINAGRI, MINEDUC",A,N,_L_RW_010301_6,RW,,,NUMBER,164601.0

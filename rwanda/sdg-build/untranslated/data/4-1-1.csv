@@ -1,0 +1,11 @@
+Year,OBS_STATUS,NATURE,COMMENT_OBS,UNIT_MULT,SOURCE_DETAIL,FREQ,REPORTING_TYPE,SERIES,REF_AREA,SEX,EDUCATION_LEV,UNIT_MEASURE,Value
+2014,A,_X,Literacy rate of children in P2,0,"REB, Learning Achievement in Rwanda schools (2016 through LARS II and 2018)",A,N,_L_RW_040101_1,RW,,ISCED11A_0_G23,PT,45.3
+2014,A,_X,Numeracy rate of children in P2,0,"REB, Learning Achievement in Rwanda schools (2016 through LARS II and 2018)",A,N,_L_RW_040101_2,RW,,ISCED11A_0_G23,PT,32.9
+2018,A,_X,Literacy rate of children in P3,0,"REB, Learning Achievement in Rwanda schools (2016 through LARS II and 2018)",A,N,_L_RW_040101_3,RW,,ISCED11A_0_G23,PT,54.9
+2018,A,_X,Literacy rate of children in P3,0,"REB, Learning Achievement in Rwanda schools (2016 through LARS II and 2018)",A,N,_L_RW_040101_3,RW,M,ISCED11A_0_G23,PT,52.2
+2018,A,_X,Literacy rate of children in P3,0,"REB, Learning Achievement in Rwanda schools (2016 through LARS II and 2018)",A,N,_L_RW_040101_3,RW,F,ISCED11A_0_G23,PT,56.4
+2018,A,_X,Numeracy rate of children in P3,0,"REB, Learning Achievement in Rwanda schools (2016 through LARS II and 2018)",A,N,_L_RW_040101_4,RW,,ISCED11A_0_G23,PT,40.7
+2018,A,_X,Numeracy rate of children in P3,0,"REB, Learning Achievement in Rwanda schools (2016 through LARS II and 2018)",A,N,_L_RW_040101_4,RW,M,ISCED11A_0_G23,PT,40.3
+2018,A,_X,Numeracy rate of children in P3,0,"REB, Learning Achievement in Rwanda schools (2016 through LARS II and 2018)",A,N,_L_RW_040101_4,RW,F,ISCED11A_0_G23,PT,41.3
+2014,A,_X,Literacy rate of children in P5,0,"REB, Learning Achievement in Rwanda schools (2016 through LARS II and 2018)",A,N,_L_RW_040101_5,RW,,ISCED11_1,PT,44.1
+2014,A,_X,Numeracy rate of children in P5,0,"REB, Learning Achievement in Rwanda schools (2016 through LARS II and 2018)",A,N,_L_RW_040101_6,RW,,ISCED11_1,PT,38.3

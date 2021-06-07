@@ -1,0 +1,202 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          },
+          {
+            "name": "OBS_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "តម្លៃធម្មតា",
+                ""
+              ]
+            },
+            "title": "OBS_STATUS"
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ឯកតា",
+                ""
+              ]
+            },
+            "title": "UNIT_MULT"
+          },
+          {
+            "name": "NATURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ទិន្នន័យប្រទេស",
+                ""
+              ]
+            },
+            "title": "NATURE"
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "MoP, NIS & MoH_Cambodia Demographic and Health Survey",
+                ""
+              ]
+            },
+            "title": "SOURCE_DETAIL"
+          },
+          {
+            "name": "FREQ",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ប្រចាំឆ្នាំ",
+                ""
+              ]
+            },
+            "title": "FREQ"
+          },
+          {
+            "name": "REPORTING_TYPE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ជាតិ",
+                ""
+              ]
+            },
+            "title": "REPORTING_TYPE"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ប្រទេសកម្ពុជា",
+                "បន្ទាយមានជ័យ",
+                "កំពង់ចាម",
+                "កំពង់ឆ្នាំង",
+                "កំពង់ស្ពឺ",
+                "កំពង់ធំ",
+                "កណ្តាល",
+                "កោះកុង",
+                "ខេត្តក្រចេះ",
+                "ឧត្តរមានជ័យ",
+                "ភ្នំពេញ",
+                "ព្រៃវែង",
+                "ពោធិសាត់",
+                "សៀមរាប",
+                "ស្វាយរៀង",
+                "តាកែវ",
+                "ខេត្តបាត់ដំបងនិងប៉ៃលិន",
+                "កំពតព្រះសីហនុនិងកែប",
+                "ខេត្តក្រចេះព្រះវិហារនិងស្ទឹងត្រែង",
+                "មណ្ឌលគីរីនិងរតនគិរី",
+                "ឧត្តរមានជ័យនិងសៀមរាប",
+                "កំពតនិងកែប",
+                "កោះកុងនិងព្រះសីហនុ",
+                "ព្រះវិហារនិងស្ទឹងត្រែង",
+                ""
+              ]
+            },
+            "title": "REF_AREA"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ស្រី",
+                "ប្រុស",
+                ""
+              ]
+            },
+            "title": "SEX"
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "អាយុក្រោម ៥ ឆ្នាំ",
+                ""
+              ]
+            },
+            "title": "AGE"
+          },
+          {
+            "name": "URBANISATION",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ទីប្រជុំជន",
+                "ជនបទ",
+                ""
+              ]
+            },
+            "title": "URBANISATION"
+          },
+          {
+            "name": "INCOME_WEALTH_QUANTILE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ឃ្វីនទី ១ (ក្របំផុត)",
+                "ឃ្វីនទី ២",
+                "ឃ្វីនទី ៣",
+                "ឃ្វីនទី ៤",
+                "ឃ្វីនទី ៥ (មានជាងគេបំផុត)",
+                ""
+              ]
+            },
+            "title": "INCOME_WEALTH_QUANTILE"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2014",
+                "2000",
+                ""
+              ]
+            },
+            "title": "TIME_DETAIL"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "3-3-1",
+  "title": "3-3-1"
+}

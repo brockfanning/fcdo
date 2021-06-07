@@ -1,0 +1,37 @@
+Year,OBS_STATUS,NATURE,COMMENT_OBS,UNIT_MULT,SOURCE_DETAIL,FREQ,REPORTING_TYPE,SERIES,REF_AREA,AGE,URBANISATION,EDUCATION_LEV,UNIT_MEASURE,Value
+2017,A,_X,"Gender parity index for participation rate in formal and non-formal education and training - Primary, Net attendance rate",0,"EICV, NISR",A,N,_L_RW_040501_1,RW,,,ISCED11_1,IX,1.01
+2017,A,_X,"Gender parity index for participation rate in formal and non-formal education and training - Primary, Net attendance rate",0,"EICV, NISR",A,N,_L_RW_040501_1,RW,,U,ISCED11_1,IX,0.95
+2017,A,_X,"Gender parity index for participation rate in formal and non-formal education and training - Primary, Net attendance rate",0,"EICV, NISR",A,N,_L_RW_040501_1,RW,,R,ISCED11_1,IX,1.02
+2017,A,_X,"Gender parity index for participation rate in formal and non-formal education and training - Primary, Gross attendance rate",0,"EICV, NISR",A,N,_L_RW_040501_2,RW,,,ISCED11_1,IX,0.99
+2017,A,_X,"Gender parity index for participation rate in formal and non-formal education and training - Primary, Gross attendance rate",0,"EICV, NISR",A,N,_L_RW_040501_2,RW,,U,ISCED11_1,IX,0.92
+2017,A,_X,"Gender parity index for participation rate in formal and non-formal education and training - Primary, Gross attendance rate",0,"EICV, NISR",A,N,_L_RW_040501_2,RW,,R,ISCED11_1,IX,1.0
+2017,A,_X,"Gender parity index for participation rate in formal and non-formal education and training - Primary, Repetition rate",0,"EICV, NISR",A,N,_L_RW_040501_3,RW,,,ISCED11_1,IX,0.86
+2017,A,_X,"Gender parity index for participation rate in formal and non-formal education and training - Primary, Repetition rate",0,"EICV, NISR",A,N,_L_RW_040501_3,RW,,U,ISCED11_1,IX,0.95
+2017,A,_X,"Gender parity index for participation rate in formal and non-formal education and training - Primary, Repetition rate",0,"EICV, NISR",A,N,_L_RW_040501_3,RW,,R,ISCED11_1,IX,0.85
+2017,A,_X,"Gender parity index for participation rate in formal and non-formal education and training - Primary, Promotion rate",0,"EICV, NISR",A,N,_L_RW_040501_4,RW,,,ISCED11_1,IX,1.06
+2017,A,_X,"Gender parity index for participation rate in formal and non-formal education and training - Primary, Promotion rate",0,"EICV, NISR",A,N,_L_RW_040501_4,RW,,U,ISCED11_1,IX,1.0
+2017,A,_X,"Gender parity index for participation rate in formal and non-formal education and training - Primary, Promotion rate",0,"EICV, NISR",A,N,_L_RW_040501_4,RW,,R,ISCED11_1,IX,1.07
+2017,A,_X,"Gender parity index for participation rate in formal and non-formal education and training  - Secondary, Net attendance rate",0,"EICV, NISR",A,N,_L_RW_040501_5,RW,,,AGG_2_3,IX,1.18
+2017,A,_X,"Gender parity index for participation rate in formal and non-formal education and training  - Secondary, Net attendance rate",0,"EICV, NISR",A,N,_L_RW_040501_5,RW,,U,AGG_2_3,IX,0.99
+2017,A,_X,"Gender parity index for participation rate in formal and non-formal education and training  - Secondary, Net attendance rate",0,"EICV, NISR",A,N,_L_RW_040501_5,RW,,R,AGG_2_3,IX,1.23
+2017,A,_X,"Gender parity index for participation rate in formal and non-formal education and training  - Secondary, Gross attendance rate",0,"EICV, NISR",A,N,_L_RW_040501_6,RW,,,AGG_2_3,IX,1.08
+2017,A,_X,"Gender parity index for participation rate in formal and non-formal education and training  - Secondary, Gross attendance rate",0,"EICV, NISR",A,N,_L_RW_040501_6,RW,,U,AGG_2_3,IX,0.84
+2017,A,_X,"Gender parity index for participation rate in formal and non-formal education and training  - Secondary, Gross attendance rate",0,"EICV, NISR",A,N,_L_RW_040501_6,RW,,R,AGG_2_3,IX,1.17
+2017,A,_X,"Gender parity index for participation rate in formal and non-formal education and training  - Secondary, Repetition rate",0,"EICV, NISR",A,N,_L_RW_040501_7,RW,,,AGG_2_3,IX,1.32
+2017,A,_X,"Gender parity index for participation rate in formal and non-formal education and training  - Secondary, Repetition rate",0,"EICV, NISR",A,N,_L_RW_040501_7,RW,,U,AGG_2_3,IX,1.7
+2017,A,_X,"Gender parity index for participation rate in formal and non-formal education and training  - Secondary, Repetition rate",0,"EICV, NISR",A,N,_L_RW_040501_7,RW,,R,AGG_2_3,IX,1.19
+2017,A,_X,"Gender parity index for participation rate in formal and non-formal education and training  - Secondary, Promotion rate",0,"EICV, NISR",A,N,_L_RW_040501_8,RW,,,AGG_2_3,IX,0.95
+2017,A,_X,"Gender parity index for participation rate in formal and non-formal education and training  - Secondary, Promotion rate",0,"EICV, NISR",A,N,_L_RW_040501_8,RW,,U,AGG_2_3,IX,0.94
+2017,A,_X,"Gender parity index for participation rate in formal and non-formal education and training  - Secondary, Promotion rate",0,"EICV, NISR",A,N,_L_RW_040501_8,RW,,R,AGG_2_3,IX,0.95
+2017,A,_X,Gender parity index for participation rate in formal and non-formal education and training  - Literacy rate among the population aged 15 and above,0,"EICV, NISR",A,N,SE_GPI_PART,RW,Y_GE15,,,IX,0.89
+2017,A,_X,Gender parity index for participation rate in formal and non-formal education and training  - Literacy rate among the population aged 15 and above,0,"EICV, NISR",A,N,SE_GPI_PART,RW,Y_GE15,U,,IX,0.92
+2017,A,_X,Gender parity index for participation rate in formal and non-formal education and training  - Literacy rate among the population aged 15 and above,0,"EICV, NISR",A,N,SE_GPI_PART,RW,Y_GE15,R,,IX,0.89
+2017,A,_X,Gender parity index for participation rate in formal and non-formal education and training  - Literacy rate among the population between 15 and 24,0,"EICV, NISR",A,N,SE_GPI_PART,RW,Y15T24,,,IX,1.05
+2017,A,_X,Gender parity index for participation rate in formal and non-formal education and training  - Literacy rate among the population between 15 and 24,0,"EICV, NISR",A,N,SE_GPI_PART,RW,Y15T24,U,,IX,1.01
+2017,A,_X,Gender parity index for participation rate in formal and non-formal education and training  - Literacy rate among the population between 15 and 24,0,"EICV, NISR",A,N,SE_GPI_PART,RW,Y15T24,R,,IX,1.06
+2017,A,_X,Gender parity index for participation rate in formal and non-formal education and training  - Percentage of individuals (6 + years) that have ever attended school,0,"EICV, NISR",A,N,SE_GPI_PART,RW,Y_GE6,,,IX,0.95
+2017,A,_X,Gender parity index for participation rate in formal and non-formal education and training  - Percentage of individuals (6 + years) that have ever attended school,0,"EICV, NISR",A,N,SE_GPI_PART,RW,Y_GE6,U,,IX,0.96
+2017,A,_X,Gender parity index for participation rate in formal and non-formal education and training  - Percentage of individuals (6 + years) that have ever attended school,0,"EICV, NISR",A,N,SE_GPI_PART,RW,Y_GE6,R,,IX,0.95
+2017,A,_X,Gender parity index for participation rate in formal and non-formal education and training  - Participation rate in organized learning (one year before the official primary entry age) by sex,0,"EICV, NISR",A,N,SE_GPI_PART,RW,,,,IX,2.2
+2017,A,_X,Gender parity index for participation rate in formal and non-formal education and training  - Participation rate in organized learning (one year before the official primary entry age) by sex,0,"EICV, NISR",A,N,SE_GPI_PART,RW,,U,,IX,0.0
+2017,A,_X,Gender parity index for participation rate in formal and non-formal education and training  - Participation rate in organized learning (one year before the official primary entry age) by sex,0,"EICV, NISR",A,N,SE_GPI_PART,RW,,R,,IX,2.7

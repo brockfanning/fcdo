@@ -1,0 +1,4 @@
+Year,OBS_STATUS,NATURE,COMMENT_OBS,UNIT_MULT,SOURCE_DETAIL,FREQ,REPORTING_TYPE,SERIES,REF_AREA,UNIT_MEASURE,Value
+2017,A,_X,Manufacturing employment as a proportion of total employment,0,"LFS, NISR",A,N,SL_TLF_MANF,RW,PT,5.3
+2018,A,_X,Manufacturing employment as a proportion of total employment,0,"LFS, NISR",A,N,SL_TLF_MANF,RW,PT,6.4
+2019,A,_X,Manufacturing employment as a proportion of total employment,0,"LFS, NISR",A,N,SL_TLF_MANF,RW,PT,6.4

@@ -1,0 +1,33 @@
+Year,OBS_STATUS,NATURE,COMMENT_OBS,UNIT_MULT,SOURCE_DETAIL,FREQ,REPORTING_TYPE,SERIES,REF_AREA,SEX,UNIT_MEASURE,Value
+2014,A,_X,Proportion of Women deputies in national parliament,0,"National Electoral Commission (NEC), GMO",A,N,_L_RW_050501_1,RW,F,PT,56.4
+2016,A,_X,Proportion of Women deputies in national parliament,0,"National Electoral Commission (NEC), GMO",A,N,_L_RW_050501_1,RW,F,PT,64.0
+2018,A,_X,Proportion of Women deputies in national parliament,0,"National Electoral Commission (NEC), GMO",A,N,_L_RW_050501_1,RW,F,PT,61.0
+2014,A,_X,Proportion of Women senates in national parliament,0,"National Electoral Commission (NEC), GMO",A,N,_L_RW_050501_2,RW,F,PT,38.5
+2016,A,_X,Proportion of Women senates in national parliament,0,"National Electoral Commission (NEC), GMO",A,N,_L_RW_050501_2,RW,F,PT,38.0
+2018,A,_X,Proportion of Women senates in national parliament,0,"National Electoral Commission (NEC), GMO",A,N,_L_RW_050501_2,RW,F,PT,38.0
+2014,A,_X,Proportion of Women Governors and Mayor of Kigali City in local government,0,"National Electoral Commission (NEC), GMO",A,N,_L_RW_050501_3,RW,F,PT,25.0
+2016,A,_X,Proportion of Women Governors and Mayor of Kigali City in local government,0,"National Electoral Commission (NEC), GMO",A,N,_L_RW_050501_3,RW,F,PT,40.0
+2018,A,_X,Proportion of Women Governors and Mayor of Kigali City in local government,0,"National Electoral Commission (NEC), GMO",A,N,_L_RW_050501_3,RW,F,PT,40.0
+2014,A,_X,Proportion of Women District Mayors in local government,0,"National Electoral Commission (NEC), GMO",A,N,_L_RW_050501_4,RW,F,PT,6.6
+2016,A,_X,Proportion of Women District Mayors in local government,0,"National Electoral Commission (NEC), GMO",A,N,_L_RW_050501_4,RW,F,PT,16.7
+2018,A,_X,Proportion of Women District Mayors in local government,0,"National Electoral Commission (NEC), GMO",A,N,_L_RW_050501_4,RW,F,PT,26.7
+2016,A,_X,Proportion of Women District Vice Mayors in Charge of Economic Affairs in local government,0,"National Electoral Commission (NEC), GMO",A,N,_L_RW_050501_5,RW,F,PT,20.0
+2018,A,_X,Proportion of Women District Vice Mayors in Charge of Economic Affairs in local government,0,"National Electoral Commission (NEC), GMO",A,N,_L_RW_050501_5,RW,F,PT,16.7
+2016,A,_X,Proportion of Women District Vice Mayors in Charge of Social Affairs in local government,0,"National Electoral Commission (NEC), GMO",A,N,_L_RW_050501_6,RW,F,PT,76.7
+2018,A,_X,Proportion of Women District Vice Mayors in Charge of Social Affairs in local government,0,"National Electoral Commission (NEC), GMO",A,N,_L_RW_050501_6,RW,F,PT,66.7
+2014,A,_X,Proportion of Women Districts Consultative Council in local government,0,"National Electoral Commission (NEC), GMO",A,N,_L_RW_050501_7,RW,F,PT,44.8
+2016,A,_X,Proportion of Women Districts Consultative Council in local government,0,"National Electoral Commission (NEC), GMO",A,N,_L_RW_050501_7,RW,F,PT,45.2
+2018,A,_X,Proportion of Women Districts Consultative Council in local government,0,"National Electoral Commission (NEC), GMO",A,N,_L_RW_050501_7,RW,F,PT,45.2
+2016,A,_X,Proportion of Women Sectors Consultative Council in local government,0,"National Electoral Commission (NEC), GMO",A,N,_L_RW_050501_8,RW,F,PT,42.5
+2018,A,_X,Proportion of Women Sectors Consultative Council in local government,0,"National Electoral Commission (NEC), GMO",A,N,_L_RW_050501_8,RW,F,PT,42.7
+2016,A,_X,Proportion of Women Cells Consultative Council in local government,0,"National Electoral Commission (NEC), GMO",A,N,_L_RW_050501_9,RW,F,PT,34.5
+2018,A,_X,Proportion of Women Cells Consultative Council in local government,0,"National Electoral Commission (NEC), GMO",A,N,_L_RW_050501_9,RW,F,PT,41.6
+2014,A,_X,Proportion of Women District Executive Secretaries in local government,0,"National Electoral Commission (NEC), GMO",A,N,_L_RW_050501_10,RW,F,PT,6.7
+2016,A,_X,Proportion of Women District Executive Secretaries in local government,0,"National Electoral Commission (NEC), GMO",A,N,_L_RW_050501_10,RW,F,PT,7.0
+2018,A,_X,Proportion of Women District Executive Secretaries in local government,0,"National Electoral Commission (NEC), GMO",A,N,_L_RW_050501_10,RW,F,PT,10.0
+2014,A,_X,Proportion of Women Sector Executive Secretaries in local government,0,"National Electoral Commission (NEC), GMO",A,N,_L_RW_050501_11,RW,F,PT,9.1
+2016,A,_X,Proportion of Women Sector Executive Secretaries in local government,0,"National Electoral Commission (NEC), GMO",A,N,_L_RW_050501_11,RW,F,PT,11.0
+2018,A,_X,Proportion of Women Sector Executive Secretaries in local government,0,"National Electoral Commission (NEC), GMO",A,N,_L_RW_050501_11,RW,F,PT,17.0
+2014,A,_X,Proportion of Women Cell Executive Secretaries in local government,0,"National Electoral Commission (NEC), GMO",A,N,_L_RW_050501_12,RW,F,PT,37.7
+2016,A,_X,Proportion of Women Cell Executive Secretaries in local government,0,"National Electoral Commission (NEC), GMO",A,N,_L_RW_050501_12,RW,F,PT,35.0
+2018,A,_X,Proportion of Women Cell Executive Secretaries in local government,0,"National Electoral Commission (NEC), GMO",A,N,_L_RW_050501_12,RW,F,PT,36.0

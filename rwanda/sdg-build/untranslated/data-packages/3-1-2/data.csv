@@ -1,0 +1,20 @@
+Year,OBS_STATUS,NATURE,COMMENT_OBS,UNIT_MULT,SOURCE_DETAIL,FREQ,REPORTING_TYPE,SERIES,REF_AREA,URBANISATION,UNIT_MEASURE,Value
+2005,A,_X,Proportion of births attended by skilled health personnel,0,"DHS, NISR",A,N,SH_STA_BRTC,RW,,PT,38.6
+2008,A,_X,Proportion of births attended by skilled health personnel,0,"DHS, NISR",A,N,SH_STA_BRTC,RW,,PT,52.0
+2010,A,_X,Proportion of births attended by skilled health personnel,0,"DHS, NISR",A,N,SH_STA_BRTC,RW,,PT,69.0
+2015,A,_X,Proportion of births attended by skilled health personnel,0,"DHS, NISR",A,N,SH_STA_BRTC,RW,,PT,91.0
+2020,A,_X,Proportion of births attended by skilled health personnel,0,"DHS, NISR",A,N,SH_STA_BRTC,RW,,PT,94.3
+2015,A,_X,Proportion of births attended by skilled health personnel,0,"DHS, NISR",A,N,SH_STA_BRTC,RW,U,PT,96.9
+2020,A,_X,Proportion of births attended by skilled health personnel,0,"DHS, NISR",A,N,SH_STA_BRTC,RW,U,PT,98.1
+2015,A,_X,Proportion of births attended by skilled health personnel,0,"DHS, NISR",A,N,SH_STA_BRTC,RW,R,PT,89.4
+2020,A,_X,Proportion of births attended by skilled health personnel,0,"DHS, NISR",A,N,SH_STA_BRTC,RW,R,PT,93.5
+2015,A,_X,Proportion of births attended by skilled health personnel,0,"DHS, NISR",A,N,SH_STA_BRTC,1,,PT,94.5
+2020,A,_X,Proportion of births attended by skilled health personnel,0,"DHS, NISR",A,N,SH_STA_BRTC,1,,PT,97.3
+2015,A,_X,Proportion of births attended by skilled health personnel,0,"DHS, NISR",A,N,SH_STA_BRTC,2,,PT,90.1
+2020,A,_X,Proportion of births attended by skilled health personnel,0,"DHS, NISR",A,N,SH_STA_BRTC,2,,PT,92.9
+2015,A,_X,Proportion of births attended by skilled health personnel,0,"DHS, NISR",A,N,SH_STA_BRTC,3,,PT,90.5
+2020,A,_X,Proportion of births attended by skilled health personnel,0,"DHS, NISR",A,N,SH_STA_BRTC,3,,PT,93.8
+2015,A,_X,Proportion of births attended by skilled health personnel,0,"DHS, NISR",A,N,SH_STA_BRTC,4,,PT,92.2
+2020,A,_X,Proportion of births attended by skilled health personnel,0,"DHS, NISR",A,N,SH_STA_BRTC,4,,PT,96.7
+2015,A,_X,Proportion of births attended by skilled health personnel,0,"DHS, NISR",A,N,SH_STA_BRTC,5,,PT,88.9
+2020,A,_X,Proportion of births attended by skilled health personnel,0,"DHS, NISR",A,N,SH_STA_BRTC,5,,PT,93.0

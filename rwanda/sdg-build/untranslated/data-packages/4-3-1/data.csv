@@ -1,0 +1,7 @@
+Year,OBS_STATUS,NATURE,COMMENT_OBS,UNIT_MULT,SOURCE_DETAIL,FREQ,REPORTING_TYPE,SERIES,REF_AREA,SEX,AGE,UNIT_MEASURE,Value
+2017,A,_X,Participation rate in formal and non-formal education and training,0,MINEDUC,A,N,SE_ADT_EDUCTRN,RW,,Y_GE16,PT,42.7
+2018,A,_X,Participation rate in formal and non-formal education and training,0,MINEDUC,A,N,SE_ADT_EDUCTRN,RW,,Y_GE16,PT,32.3
+2017,A,_X,Participation rate in formal and non-formal education and training,0,MINEDUC,A,N,SE_ADT_EDUCTRN,RW,M,Y_GE16,PT,42.8
+2018,A,_X,Participation rate in formal and non-formal education and training,0,MINEDUC,A,N,SE_ADT_EDUCTRN,RW,M,Y_GE16,PT,32.6
+2017,A,_X,Participation rate in formal and non-formal education and training,0,MINEDUC,A,N,SE_ADT_EDUCTRN,RW,F,Y_GE16,PT,42.6
+2018,A,_X,Participation rate in formal and non-formal education and training,0,MINEDUC,A,N,SE_ADT_EDUCTRN,RW,F,Y_GE16,PT,32.0

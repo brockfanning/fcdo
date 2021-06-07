@@ -1,0 +1,5 @@
+Year,OBS_STATUS,NATURE,COMMENT_OBS,UNIT_MULT,SOURCE_DETAIL,FREQ,REPORTING_TYPE,SERIES,REF_AREA,URBANISATION,UNIT_MEASURE,Value
+2017,A,_X,Proportion of individuals who own a mobile telephone,0,"EICV, NISR",A,N,IT_MOB_OWN,RW,,PT,36.7
+2020,A,_X,Proportion of individuals who own a mobile telephone,0,"EICV, NISR",A,N,IT_MOB_OWN,RW,,PT,41.2
+2017,A,_X,Proportion of individuals who own a mobile telephone,0,"EICV, NISR",A,N,IT_MOB_OWN,RW,U,PT,63.0
+2017,A,_X,Proportion of individuals who own a mobile telephone,0,"EICV, NISR",A,N,IT_MOB_OWN,RW,R,PT,30.5

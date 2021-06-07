@@ -1,0 +1,6 @@
+Year,OBS_STATUS,NATURE,COMMENT_OBS,UNIT_MULT,SOURCE_DETAIL,FREQ,REPORTING_TYPE,SERIES,REF_AREA,UNIT_MEASURE,Value
+2000,A,_X,Proportion of population below international poverty line,0,World Bank,A,N,SI_POV_DAY1,RW,PT,77.2
+2005,A,_X,Proportion of population below international poverty line,0,World Bank,A,N,SI_POV_DAY1,RW,PT,68.3
+2010,A,_X,Proportion of population below international poverty line,0,World Bank,A,N,SI_POV_DAY1,RW,PT,62.3
+2013,A,_X,Proportion of population below international poverty line,0,World Bank,A,N,SI_POV_DAY1,RW,PT,56.8
+2016,A,_X,Proportion of population below international poverty line,0,World Bank,A,N,SI_POV_DAY1,RW,PT,55.5

@@ -1,0 +1,5 @@
+Year,OBS_STATUS,NATURE,COMMENT_OBS,UNIT_MULT,SOURCE_DETAIL,FREQ,REPORTING_TYPE,SERIES,REF_AREA,SEX,UNIT_MEASURE,Value
+2016,A,_X,Proportion of women in managerial positions,0,"LFS, NISR",A,N,IC_GEN_MGTL,RW,F,PT,26.9
+2017,A,_X,Proportion of women in managerial positions,0,"LFS, NISR",A,N,IC_GEN_MGTL,RW,F,PT,29.5
+2018,A,_X,Proportion of women in managerial positions,0,"LFS, NISR",A,N,IC_GEN_MGTL,RW,F,PT,34.1
+2019,A,_X,Proportion of women in managerial positions,0,"LFS, NISR",A,N,IC_GEN_MGTL,RW,F,PT,32.5

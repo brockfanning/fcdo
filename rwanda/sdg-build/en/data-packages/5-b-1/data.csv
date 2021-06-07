@@ -1,0 +1,5 @@
+Year,Observation status,Nature of data points,Observation-level footnotes,Unit multiplier,Source details,Frequency of observation,Reporting type,SERIES,Reference area,Degree of urbanisation,UNIT_MEASURE,Value
+2017,Normal value,Not Available,Proportion of individuals who own a mobile telephone,Units,"EICV, NISR",Annual,National,Proportion of individuals who own a mobile telephone [5.b.1],Rwanda,,Percent,36.7
+2020,Normal value,Not Available,Proportion of individuals who own a mobile telephone,Units,"EICV, NISR",Annual,National,Proportion of individuals who own a mobile telephone [5.b.1],Rwanda,,Percent,41.2
+2017,Normal value,Not Available,Proportion of individuals who own a mobile telephone,Units,"EICV, NISR",Annual,National,Proportion of individuals who own a mobile telephone [5.b.1],Rwanda,Urban,Percent,63.0
+2017,Normal value,Not Available,Proportion of individuals who own a mobile telephone,Units,"EICV, NISR",Annual,National,Proportion of individuals who own a mobile telephone [5.b.1],Rwanda,Rural,Percent,30.5

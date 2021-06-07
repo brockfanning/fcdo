@@ -1,0 +1,2 @@
+Year,OBS_STATUS,NATURE,COMMENT_OBS,UNIT_MULT,SOURCE_DETAIL,FREQ,REPORTING_TYPE,SERIES,REF_AREA,UNIT_MEASURE,Value
+2019,A,_X,Countries with legislative and/or regulatory provisions been made for managing disaster risk (1 = YES; 0 = NO),0,Ministry in Charge of Emergency Management (MINEMA),A,N,SG_DSR_LEGREG,RW,BOOL,1

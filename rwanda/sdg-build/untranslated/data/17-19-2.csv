@@ -1,0 +1,62 @@
+Year,OBS_STATUS,NATURE,COMMENT_OBS,UNIT_MULT,SOURCE_DETAIL,FREQ,REPORTING_TYPE,SERIES,REF_AREA,UNIT_MEASURE,Value
+2000,A,_X,Countries that have conducted at least one population and housing census in the last 10 years (1 = YES; 0 = NO),0,NISR,A,N,SG_REG_CENSUSN,RW,BOOL,1
+2001,A,_X,Countries that have conducted at least one population and housing census in the last 10 years (1 = YES; 0 = NO),0,NISR,A,N,SG_REG_CENSUSN,RW,BOOL,1
+2002,A,_X,Countries that have conducted at least one population and housing census in the last 10 years (1 = YES; 0 = NO),0,NISR,A,N,SG_REG_CENSUSN,RW,BOOL,1
+2003,A,_X,Countries that have conducted at least one population and housing census in the last 10 years (1 = YES; 0 = NO),0,NISR,A,N,SG_REG_CENSUSN,RW,BOOL,1
+2004,A,_X,Countries that have conducted at least one population and housing census in the last 10 years (1 = YES; 0 = NO),0,NISR,A,N,SG_REG_CENSUSN,RW,BOOL,1
+2005,A,_X,Countries that have conducted at least one population and housing census in the last 10 years (1 = YES; 0 = NO),0,NISR,A,N,SG_REG_CENSUSN,RW,BOOL,1
+2006,A,_X,Countries that have conducted at least one population and housing census in the last 10 years (1 = YES; 0 = NO),0,NISR,A,N,SG_REG_CENSUSN,RW,BOOL,1
+2007,A,_X,Countries that have conducted at least one population and housing census in the last 10 years (1 = YES; 0 = NO),0,NISR,A,N,SG_REG_CENSUSN,RW,BOOL,1
+2008,A,_X,Countries that have conducted at least one population and housing census in the last 10 years (1 = YES; 0 = NO),0,NISR,A,N,SG_REG_CENSUSN,RW,BOOL,1
+2009,A,_X,Countries that have conducted at least one population and housing census in the last 10 years (1 = YES; 0 = NO),0,NISR,A,N,SG_REG_CENSUSN,RW,BOOL,1
+2010,A,_X,Countries that have conducted at least one population and housing census in the last 10 years (1 = YES; 0 = NO),0,NISR,A,N,SG_REG_CENSUSN,RW,BOOL,1
+2011,A,_X,Countries that have conducted at least one population and housing census in the last 10 years (1 = YES; 0 = NO),0,NISR,A,N,SG_REG_CENSUSN,RW,BOOL,1
+2012,A,_X,Countries that have conducted at least one population and housing census in the last 10 years (1 = YES; 0 = NO),0,NISR,A,N,SG_REG_CENSUSN,RW,BOOL,1
+2013,A,_X,Countries that have conducted at least one population and housing census in the last 10 years (1 = YES; 0 = NO),0,NISR,A,N,SG_REG_CENSUSN,RW,BOOL,1
+2014,A,_X,Countries that have conducted at least one population and housing census in the last 10 years (1 = YES; 0 = NO),0,NISR,A,N,SG_REG_CENSUSN,RW,BOOL,1
+2015,A,_X,Countries that have conducted at least one population and housing census in the last 10 years (1 = YES; 0 = NO),0,NISR,A,N,SG_REG_CENSUSN,RW,BOOL,1
+2016,A,_X,Countries that have conducted at least one population and housing census in the last 10 years (1 = YES; 0 = NO),0,NISR,A,N,SG_REG_CENSUSN,RW,BOOL,1
+2017,A,_X,Countries that have conducted at least one population and housing census in the last 10 years (1 = YES; 0 = NO),0,NISR,A,N,SG_REG_CENSUSN,RW,BOOL,1
+2018,A,_X,Countries that have conducted at least one population and housing census in the last 10 years (1 = YES; 0 = NO),0,NISR,A,N,SG_REG_CENSUSN,RW,BOOL,1
+2019,A,_X,Countries that have conducted at least one population and housing census in the last 10 years (1 = YES; 0 = NO),0,NISR,A,N,SG_REG_CENSUSN,RW,BOOL,1
+2020,A,_X,Countries that have conducted at least one population and housing census in the last 10 years (1 = YES; 0 = NO),0,NISR,A,N,SG_REG_CENSUSN,RW,BOOL,1
+2000,A,_X,Countries with birth registration data that are at least 90 percent complete (1 = YES; 0 = NO),0,"NISR, CRVS",A,N,SG_REG_BRTH90N,RW,BOOL,0
+2001,A,_X,Countries with birth registration data that are at least 90 percent complete (1 = YES; 0 = NO),0,"NISR, CRVS",A,N,SG_REG_BRTH90N,RW,BOOL,0
+2002,A,_X,Countries with birth registration data that are at least 90 percent complete (1 = YES; 0 = NO),0,"NISR, CRVS",A,N,SG_REG_BRTH90N,RW,BOOL,0
+2003,A,_X,Countries with birth registration data that are at least 90 percent complete (1 = YES; 0 = NO),0,"NISR, CRVS",A,N,SG_REG_BRTH90N,RW,BOOL,0
+2004,A,_X,Countries with birth registration data that are at least 90 percent complete (1 = YES; 0 = NO),0,"NISR, CRVS",A,N,SG_REG_BRTH90N,RW,BOOL,0
+2005,A,_X,Countries with birth registration data that are at least 90 percent complete (1 = YES; 0 = NO),0,"NISR, CRVS",A,N,SG_REG_BRTH90N,RW,BOOL,0
+2006,A,_X,Countries with birth registration data that are at least 90 percent complete (1 = YES; 0 = NO),0,"NISR, CRVS",A,N,SG_REG_BRTH90N,RW,BOOL,0
+2007,A,_X,Countries with birth registration data that are at least 90 percent complete (1 = YES; 0 = NO),0,"NISR, CRVS",A,N,SG_REG_BRTH90N,RW,BOOL,0
+2008,A,_X,Countries with birth registration data that are at least 90 percent complete (1 = YES; 0 = NO),0,"NISR, CRVS",A,N,SG_REG_BRTH90N,RW,BOOL,0
+2009,A,_X,Countries with birth registration data that are at least 90 percent complete (1 = YES; 0 = NO),0,"NISR, CRVS",A,N,SG_REG_BRTH90N,RW,BOOL,0
+2010,A,_X,Countries with birth registration data that are at least 90 percent complete (1 = YES; 0 = NO),0,"NISR, CRVS",A,N,SG_REG_BRTH90N,RW,BOOL,0
+2011,A,_X,Countries with birth registration data that are at least 90 percent complete (1 = YES; 0 = NO),0,"NISR, CRVS",A,N,SG_REG_BRTH90N,RW,BOOL,0
+2012,A,_X,Countries with birth registration data that are at least 90 percent complete (1 = YES; 0 = NO),0,"NISR, CRVS",A,N,SG_REG_BRTH90N,RW,BOOL,0
+2013,A,_X,Countries with birth registration data that are at least 90 percent complete (1 = YES; 0 = NO),0,"NISR, CRVS",A,N,SG_REG_BRTH90N,RW,BOOL,0
+2014,A,_X,Countries with birth registration data that are at least 90 percent complete (1 = YES; 0 = NO),0,"NISR, CRVS",A,N,SG_REG_BRTH90N,RW,BOOL,0
+2015,A,_X,Countries with birth registration data that are at least 90 percent complete (1 = YES; 0 = NO),0,"NISR, CRVS",A,N,SG_REG_BRTH90N,RW,BOOL,0
+2016,A,_X,Countries with birth registration data that are at least 90 percent complete (1 = YES; 0 = NO),0,"NISR, CRVS",A,N,SG_REG_BRTH90N,RW,BOOL,0
+2017,A,_X,Countries with birth registration data that are at least 90 percent complete (1 = YES; 0 = NO),0,"NISR, CRVS",A,N,SG_REG_BRTH90N,RW,BOOL,0
+2018,A,_X,Countries with birth registration data that are at least 90 percent complete (1 = YES; 0 = NO),0,"NISR, CRVS",A,N,SG_REG_BRTH90N,RW,BOOL,0
+2019,A,_X,Countries with birth registration data that are at least 90 percent complete (1 = YES; 0 = NO),0,"NISR, CRVS",A,N,SG_REG_BRTH90N,RW,BOOL,0
+2000,A,_X,Countries with death registration data that are at least 75 percent complete (1 = YES; 0 = NO),0,"NISR, CRVS",A,N,SG_REG_DETH75N,RW,BOOL,0
+2001,A,_X,Countries with death registration data that are at least 75 percent complete (1 = YES; 0 = NO),0,"NISR, CRVS",A,N,SG_REG_DETH75N,RW,BOOL,0
+2002,A,_X,Countries with death registration data that are at least 75 percent complete (1 = YES; 0 = NO),0,"NISR, CRVS",A,N,SG_REG_DETH75N,RW,BOOL,0
+2003,A,_X,Countries with death registration data that are at least 75 percent complete (1 = YES; 0 = NO),0,"NISR, CRVS",A,N,SG_REG_DETH75N,RW,BOOL,0
+2004,A,_X,Countries with death registration data that are at least 75 percent complete (1 = YES; 0 = NO),0,"NISR, CRVS",A,N,SG_REG_DETH75N,RW,BOOL,0
+2005,A,_X,Countries with death registration data that are at least 75 percent complete (1 = YES; 0 = NO),0,"NISR, CRVS",A,N,SG_REG_DETH75N,RW,BOOL,0
+2006,A,_X,Countries with death registration data that are at least 75 percent complete (1 = YES; 0 = NO),0,"NISR, CRVS",A,N,SG_REG_DETH75N,RW,BOOL,0
+2007,A,_X,Countries with death registration data that are at least 75 percent complete (1 = YES; 0 = NO),0,"NISR, CRVS",A,N,SG_REG_DETH75N,RW,BOOL,0
+2008,A,_X,Countries with death registration data that are at least 75 percent complete (1 = YES; 0 = NO),0,"NISR, CRVS",A,N,SG_REG_DETH75N,RW,BOOL,0
+2009,A,_X,Countries with death registration data that are at least 75 percent complete (1 = YES; 0 = NO),0,"NISR, CRVS",A,N,SG_REG_DETH75N,RW,BOOL,0
+2010,A,_X,Countries with death registration data that are at least 75 percent complete (1 = YES; 0 = NO),0,"NISR, CRVS",A,N,SG_REG_DETH75N,RW,BOOL,0
+2011,A,_X,Countries with death registration data that are at least 75 percent complete (1 = YES; 0 = NO),0,"NISR, CRVS",A,N,SG_REG_DETH75N,RW,BOOL,0
+2012,A,_X,Countries with death registration data that are at least 75 percent complete (1 = YES; 0 = NO),0,"NISR, CRVS",A,N,SG_REG_DETH75N,RW,BOOL,0
+2013,A,_X,Countries with death registration data that are at least 75 percent complete (1 = YES; 0 = NO),0,"NISR, CRVS",A,N,SG_REG_DETH75N,RW,BOOL,0
+2014,A,_X,Countries with death registration data that are at least 75 percent complete (1 = YES; 0 = NO),0,"NISR, CRVS",A,N,SG_REG_DETH75N,RW,BOOL,0
+2015,A,_X,Countries with death registration data that are at least 75 percent complete (1 = YES; 0 = NO),0,"NISR, CRVS",A,N,SG_REG_DETH75N,RW,BOOL,0
+2016,A,_X,Countries with death registration data that are at least 75 percent complete (1 = YES; 0 = NO),0,"NISR, CRVS",A,N,SG_REG_DETH75N,RW,BOOL,0
+2017,A,_X,Countries with death registration data that are at least 75 percent complete (1 = YES; 0 = NO),0,"NISR, CRVS",A,N,SG_REG_DETH75N,RW,BOOL,0
+2018,A,_X,Countries with death registration data that are at least 75 percent complete (1 = YES; 0 = NO),0,"NISR, CRVS",A,N,SG_REG_DETH75N,RW,BOOL,0
+2019,A,_X,Countries with death registration data that are at least 75 percent complete (1 = YES; 0 = NO),0,"NISR, CRVS",A,N,SG_REG_DETH75N,RW,BOOL,0

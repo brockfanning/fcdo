@@ -1,0 +1,8 @@
+Year,OBS_STATUS,NATURE,COMMENT_OBS,UNIT_MULT,SOURCE_DETAIL,FREQ,REPORTING_TYPE,SERIES,REF_AREA,SEX,AGE,UNIT_MEASURE,Value
+2005,A,_X,Proportion of children moderately or severely wasted,0,National Institute of Statistics of Rwanda (NISR)-DHS,A,N,SH_STA_WAST,RW,M,Y0T4,PT,5
+2010,A,_X,Proportion of children moderately or severely wasted,0,National Institute of Statistics of Rwanda (NISR)-DHS,A,N,SH_STA_WAST,RW,M,Y0T4,PT,3
+2015,A,_X,Proportion of children moderately or severely wasted,0,National Institute of Statistics of Rwanda (NISR)-DHS,A,N,SH_STA_WAST,RW,M,Y0T4,PT,2
+2020,A,_X,Proportion of children moderately or severely wasted,0,National Institute of Statistics of Rwanda (NISR)-DHS,A,N,SH_STA_WAST,RW,M,Y0T4,PT,1
+2010,A,_X,Proportion of children moderately or severely overweight,0,National Institute of Statistics of Rwanda (NISR)-DHS,A,N,SN_STA_OVWGT,RW,F,Y0T4,PT,7
+2015,A,_X,Proportion of children moderately or severely overweight,0,National Institute of Statistics of Rwanda (NISR)-DHS,A,N,SN_STA_OVWGT,RW,F,Y0T4,PT,8
+2020,A,_X,Proportion of children moderately or severely overweight,0,National Institute of Statistics of Rwanda (NISR)-DHS,A,N,SN_STA_OVWGT,RW,F,Y0T4,PT,6

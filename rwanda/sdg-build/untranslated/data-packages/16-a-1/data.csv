@@ -1,0 +1,7 @@
+Year,OBS_STATUS,NATURE,COMMENT_OBS,UNIT_MULT,SOURCE_DETAIL,FREQ,REPORTING_TYPE,SERIES,REF_AREA,UNIT_MEASURE,Value
+2015,A,_X,"Countries with National Human Rights Institutions in compliance with the Paris Principles, A status (1 = YES; 0 = NO)",0,National Commission for Human  Rights,A,N,SG_NHR_IMPLN,RW,BOOL,1
+2016,A,_X,"Countries with National Human Rights Institutions in compliance with the Paris Principles, A status (1 = YES; 0 = NO)",0,National Commission for Human  Rights,A,N,SG_NHR_IMPLN,RW,BOOL,1
+2017,A,_X,"Countries with National Human Rights Institutions in compliance with the Paris Principles, A status (1 = YES; 0 = NO)",0,National Commission for Human  Rights,A,N,SG_NHR_IMPLN,RW,BOOL,1
+2018,A,_X,"Countries with National Human Rights Institutions in compliance with the Paris Principles, A status (1 = YES; 0 = NO)",0,National Commission for Human  Rights,A,N,SG_NHR_IMPLN,RW,BOOL,1
+2019,A,_X,"Countries with National Human Rights Institutions in compliance with the Paris Principles, A status (1 = YES; 0 = NO)",0,National Commission for Human  Rights,A,N,SG_NHR_IMPLN,RW,BOOL,1
+2020,A,_X,"Countries with National Human Rights Institutions in compliance with the Paris Principles, A status (1 = YES; 0 = NO)",0,National Commission for Human  Rights,A,N,SG_NHR_IMPLN,RW,BOOL,1

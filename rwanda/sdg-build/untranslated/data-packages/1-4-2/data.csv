@@ -1,0 +1,3 @@
+Year,OBS_STATUS,NATURE,COMMENT_OBS,UNIT_MULT,SOURCE_DETAIL,FREQ,REPORTING_TYPE,SERIES,REF_AREA,SEX,UNIT_MEASURE,Value
+2018,A,_X,"Proportion of total adult population with secure tenure rights to land,  with legally recognized documentation",0,Rwanda Land Management and Use Authority (RLMUA),A,N,SP_LGL_LNDDOC,RW,M,NUMBER,2010860
+2018,A,_X,"Proportion of total adult population with secure tenure rights to land,  with legally recognized documentation",0,Rwanda Land Management and Use Authority (RLMUA),A,N,SP_LGL_LNDDOC,RW,F,NUMBER,2079909

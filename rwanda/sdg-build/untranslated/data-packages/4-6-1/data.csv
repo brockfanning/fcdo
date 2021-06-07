@@ -1,0 +1,7 @@
+Year,OBS_STATUS,NATURE,COMMENT_OBS,UNIT_MULT,SOURCE_DETAIL,FREQ,REPORTING_TYPE,SERIES,REF_AREA,SEX,UNIT_MEASURE,Value
+2017,A,_X,"Proportion of population achieving at least a fixed level of proficiency in functional skills - All levels, Literacy rate (%) among youth population",0,MINEDUC,A,N,_L_RW_040601_1,RW,,PT,84.6
+2017,A,_X,"Proportion of population achieving at least a fixed level of proficiency in functional skills - All levels, Literacy rate (%) among youth population",0,MINEDUC,A,N,_L_RW_040601_1,RW,M,PT,84.2
+2017,A,_X,"Proportion of population achieving at least a fixed level of proficiency in functional skills - All levels, Literacy rate (%) among youth population",0,MINEDUC,A,N,_L_RW_040601_1,RW,F,PT,85.0
+2017,A,_X,"Proportion of population achieving at least a fixed level of proficiency in functional skills  - All levels, Numeracy rate (%) among youth population",0,MINEDUC,A,N,_L_RW_040601_2,RW,,PT,84.8
+2017,A,_X,"Proportion of population achieving at least a fixed level of proficiency in functional skills  - All levels, Numeracy rate (%) among youth population",0,MINEDUC,A,N,_L_RW_040601_2,RW,M,PT,84.7
+2017,A,_X,"Proportion of population achieving at least a fixed level of proficiency in functional skills  - All levels, Numeracy rate (%) among youth population",0,MINEDUC,A,N,_L_RW_040601_2,RW,F,PT,84.9

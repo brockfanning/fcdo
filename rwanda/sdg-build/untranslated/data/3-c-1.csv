@@ -1,0 +1,5 @@
+Year,OBS_STATUS,NATURE,COMMENT_OBS,UNIT_MULT,SOURCE_DETAIL,FREQ,REPORTING_TYPE,SERIES,REF_AREA,OCCUPATION,UNIT_MEASURE,Value
+2017,A,_X,"Health workder density, Doctors",0,Ministry of Health,A,N,SH_MED_DEN,RW,ISCO08_221,PER_1000_POP,0.1
+2017,A,_X,"Health workder density, Nurses",0,Ministry of Health,A,N,_L_RW_030C01_1,RW,ISCO08_222_322_1,PER_1000_POP,0.9
+2017,A,_X,"Health workder density, Midwives",0,Ministry of Health,A,N,_L_RW_030C01_2,RW,ISCO08_222_322_2,PER_1000_POP,0.25
+2017,A,_X,"Health workder density, Pharmacists",0,Ministry of Health,A,N,SH_MED_DEN,RW,ISCO08_2262,PER_1000_POP,0.06

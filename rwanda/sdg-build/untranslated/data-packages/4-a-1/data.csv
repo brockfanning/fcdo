@@ -1,0 +1,42 @@
+Year,OBS_STATUS,NATURE,COMMENT_OBS,UNIT_MULT,SOURCE_DETAIL,FREQ,REPORTING_TYPE,SERIES,REF_AREA,EDUCATION_LEV,UNIT_MEASURE,Value
+2016,A,_X,Proportion of schools with access to electricity - Nursery,0,MINEDUC,A,N,SE_ACS_ELECT,RW,ISCED11_02,PT,13.1
+2017,A,_X,Proportion of schools with access to electricity - Nursery,0,MINEDUC,A,N,SE_ACS_ELECT,RW,ISCED11_02,PT,32.3
+2018,A,_X,Proportion of schools with access to electricity - Nursery,0,MINEDUC,A,N,SE_ACS_ELECT,RW,ISCED11_02,PT,39.8
+2016,A,_X,Proportion of schools with access to electricity - Primary,0,MINEDUC,A,N,SE_ACS_ELECT,RW,ISCED11_1,PT,30.0
+2017,A,_X,Proportion of schools with access to electricity - Primary,0,MINEDUC,A,N,SE_ACS_ELECT,RW,ISCED11_1,PT,55.8
+2018,A,_X,Proportion of schools with access to electricity - Primary,0,MINEDUC,A,N,SE_ACS_ELECT,RW,ISCED11_1,PT,58.2
+2016,A,_X,Proportion of schools with access to electricity - Secondary,0,MINEDUC,A,N,SE_ACS_ELECT,RW,AGG_2_3,PT,46.1
+2017,A,_X,Proportion of schools with access to electricity - Secondary,0,MINEDUC,A,N,SE_ACS_ELECT,RW,AGG_2_3,PT,71.2
+2018,A,_X,Proportion of schools with access to electricity - Secondary,0,MINEDUC,A,N,SE_ACS_ELECT,RW,AGG_2_3,PT,74.2
+2016,A,_X,Proportion of schools with access to the internet for pedagogical purposes - Primary,0,MINEDUC,A,N,SE_ACS_INTNT,RW,ISCED11_1,PT,9.8
+2017,A,_X,Proportion of schools with access to the internet for pedagogical purposes - Primary,0,MINEDUC,A,N,SE_ACS_INTNT,RW,ISCED11_1,PT,25.1
+2018,A,_X,Proportion of schools with access to the internet for pedagogical purposes - Primary,0,MINEDUC,A,N,SE_ACS_INTNT,RW,ISCED11_1,PT,30.0
+2016,A,_X,Proportion of schools with access to the internet for pedagogical purposes - Secondary,0,MINEDUC,A,N,SE_ACS_INTNT,RW,AGG_2_3,PT,35.4
+2017,A,_X,Proportion of schools with access to the internet for pedagogical purposes - Secondary,0,MINEDUC,A,N,SE_ACS_INTNT,RW,AGG_2_3,PT,41.3
+2018,A,_X,Proportion of schools with access to the internet for pedagogical purposes - Secondary,0,MINEDUC,A,N,SE_ACS_INTNT,RW,AGG_2_3,PT,52.9
+2016,A,_X,Proportion of schools with access to computers for pedagogical purposes - Primary,0,MINEDUC,A,N,SE_ACS_CMPTR,RW,ISCED11_1,PT,65.8
+2017,A,_X,Proportion of schools with access to computers for pedagogical purposes - Primary,0,MINEDUC,A,N,SE_ACS_CMPTR,RW,ISCED11_1,PT,69.2
+2018,A,_X,Proportion of schools with access to computers for pedagogical purposes - Primary,0,MINEDUC,A,N,SE_ACS_CMPTR,RW,ISCED11_1,PT,75.5
+2016,A,_X,Proportion of schools with access to computers for pedagogical purposes - Secondary,0,MINEDUC,A,N,SE_ACS_CMPTR,RW,AGG_2_3,PT,77.3
+2017,A,_X,Proportion of schools with access to computers for pedagogical purposes - Secondary,0,MINEDUC,A,N,SE_ACS_CMPTR,RW,AGG_2_3,PT,84.7
+2018,A,_X,Proportion of schools with access to computers for pedagogical purposes - Secondary,0,MINEDUC,A,N,SE_ACS_CMPTR,RW,AGG_2_3,PT,84.3
+2016,A,_X,Proportion of schools with basic handwashing facilities - Nursery,0,MINEDUC,A,N,SE_ACC_HNDWSH,RW,ISCED11_02,PT,19.9
+2017,A,_X,Proportion of schools with basic handwashing facilities - Nursery,0,MINEDUC,A,N,SE_ACC_HNDWSH,RW,ISCED11_02,PT,24.0
+2018,A,_X,Proportion of schools with basic handwashing facilities - Nursery,0,MINEDUC,A,N,SE_ACC_HNDWSH,RW,ISCED11_02,PT,28.6
+2016,A,_X,Proportion of schools with basic handwashing facilities - Primary,0,MINEDUC,A,N,SE_ACC_HNDWSH,RW,ISCED11_1,PT,45.2
+2017,A,_X,Proportion of schools with basic handwashing facilities - Primary,0,MINEDUC,A,N,SE_ACC_HNDWSH,RW,ISCED11_1,PT,64.5
+2018,A,_X,Proportion of schools with basic handwashing facilities - Primary,0,MINEDUC,A,N,SE_ACC_HNDWSH,RW,ISCED11_1,PT,66.0
+2017,A,_X,Proportion of schools with basic handwashing facilitiesr - Secondary,0,MINEDUC,A,N,SE_ACC_HNDWSH,RW,AGG_2_3,PT,70.6
+2018,A,_X,Proportion of schools with basic handwashing facilitiesr - Secondary,0,MINEDUC,A,N,SE_ACC_HNDWSH,RW,AGG_2_3,PT,76.9
+2017,A,_X,Proportion of schools with access to adapted infrastructure and materials for students with disabilities - Nursery,0,MINEDUC,A,N,SE_INF_DSBL,RW,ISCED11_02,PT,5.7
+2018,A,_X,Proportion of schools with access to adapted infrastructure and materials for students with disabilities - Nursery,0,MINEDUC,A,N,SE_INF_DSBL,RW,ISCED11_02,PT,8.2
+2017,A,_X,Proportion of schools with access to adapted infrastructure and materials for students with disabilities - Primary,0,MINEDUC,A,N,SE_INF_DSBL,RW,ISCED11_1,PT,18.0
+2018,A,_X,Proportion of schools with access to adapted infrastructure and materials for students with disabilities - Primary,0,MINEDUC,A,N,SE_INF_DSBL,RW,ISCED11_1,PT,24.0
+2017,A,_X,Proportion of schools with access to adapted infrastructure and materials for students with disabilities - Secondary,0,MINEDUC,A,N,SE_INF_DSBL,RW,AGG_2_3,PT,23.5
+2018,A,_X,Proportion of schools with access to adapted infrastructure and materials for students with disabilities - Secondary,0,MINEDUC,A,N,SE_INF_DSBL,RW,AGG_2_3,PT,28.6
+2017,A,_X,Proportion of schools with access to basic drinking water - Nursery,0,MINEDUC,A,N,SE_ACS_H2O,RW,ISCED11_02,PT,19.0
+2018,A,_X,Proportion of schools with access to basic drinking water - Nursery,0,MINEDUC,A,N,SE_ACS_H2O,RW,ISCED11_02,PT,27.5
+2017,A,_X,Proportion of schools with access to basic drinking water - Primary,0,MINEDUC,A,N,SE_ACS_H2O,RW,ISCED11_1,PT,45.5
+2018,A,_X,Proportion of schools with access to basic drinking water - Primary,0,MINEDUC,A,N,SE_ACS_H2O,RW,ISCED11_1,PT,53.6
+2017,A,_X,Proportion of schools with access to basic drinking water - Secondary,0,MINEDUC,A,N,SE_ACS_H2O,RW,AGG_2_3,PT,58.5
+2018,A,_X,Proportion of schools with access to basic drinking water - Secondary,0,MINEDUC,A,N,SE_ACS_H2O,RW,AGG_2_3,PT,71.9

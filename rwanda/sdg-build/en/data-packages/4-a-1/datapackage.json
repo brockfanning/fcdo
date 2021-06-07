@@ -1,0 +1,156 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Proportion of schools with access to adapted infrastructure and materials for students with disabilities - Nursery",
+                "Proportion of schools with access to adapted infrastructure and materials for students with disabilities - Primary",
+                "Proportion of schools with access to adapted infrastructure and materials for students with disabilities - Secondary",
+                "Proportion of schools with access to basic drinking water - Nursery",
+                "Proportion of schools with access to basic drinking water - Primary",
+                "Proportion of schools with access to basic drinking water - Secondary",
+                "Proportion of schools with access to computers for pedagogical purposes - Primary",
+                "Proportion of schools with access to computers for pedagogical purposes - Secondary",
+                "Proportion of schools with access to electricity - Nursery",
+                "Proportion of schools with access to electricity - Primary",
+                "Proportion of schools with access to electricity - Secondary",
+                "Proportion of schools with access to the internet for pedagogical purposes - Primary",
+                "Proportion of schools with access to the internet for pedagogical purposes - Secondary",
+                "Proportion of schools with basic handwashing facilities - Nursery",
+                "Proportion of schools with basic handwashing facilities - Primary",
+                "Proportion of schools with basic handwashing facilitiesr - Secondary"
+              ]
+            },
+            "title": "Observation-level footnotes"
+          },
+          {
+            "name": "EDUCATION_LEV",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Secondary education (lower and upper secondary education)",
+                "Pre-primary education",
+                "Primary education"
+              ]
+            },
+            "title": "Education level"
+          },
+          {
+            "name": "FREQ",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Annual"
+              ]
+            },
+            "title": "Frequency of observation"
+          },
+          {
+            "name": "NATURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Not Available"
+              ]
+            },
+            "title": "Nature of data points"
+          },
+          {
+            "name": "OBS_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Normal value"
+              ]
+            },
+            "title": "Observation status"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Rwanda"
+              ]
+            },
+            "title": "Reference area"
+          },
+          {
+            "name": "REPORTING_TYPE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "National"
+              ]
+            },
+            "title": "Reporting type"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Series"
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "MINEDUC"
+              ]
+            },
+            "title": "Source details"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Unit of measure"
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Units"
+              ]
+            },
+            "title": "Unit multiplier"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "4-a-1",
+  "title": "Proportion of schools offering basic services, by type of service"
+}

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
   <mes:Header>
-    <mes:ID>IREF1623036954</mes:ID>
+    <mes:ID>IREF1623075715</mes:ID>
     <mes:Test>True</mes:Test>
-    <mes:Prepared>2021-06-07T03:35:54</mes:Prepared>
+    <mes:Prepared>2021-06-07T14:21:55</mes:Prepared>
     <mes:Sender id="open-sdg_sdg-build@1-3-0"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -12,7 +12,7 @@
     </mes:Structure>
   </mes:Header>
   
-  <mes:MetadataSet structureRef="MDS1" setID="1e5cd23e-7884-4f96-b77b-38fefb348502">
+  <mes:MetadataSet structureRef="MDS1" setID="f1514398-a2a7-4fc0-9f94-373db3b3441c">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -37,51 +37,210 @@
       </gen:Target>
       <gen:AttributeSet>
         
-        <gen:ReportedAttribute id="target_id">
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
           
-          <com:Text xml:lang="en"><![CDATA[14.5]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="sdg_goal">
-          
-          <com:Text xml:lang="en"><![CDATA[14]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> Studies, Planning and Infrastructure Directorate </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
-        <gen:ReportedAttribute id="reporting_status">
+        <gen:ReportedAttribute id="SDG_GOAL">
           
-          <com:Text xml:lang="en"><![CDATA[complete]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="data_non_statistical">
-          
-          <com:Text xml:lang="en"><![CDATA[False]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> 14 CONSERVATION AND SUSTAINABLE USE OF OCEANS, SEAS AND MARINE RESOURCES FOR SUSTAINABLE DEVELOPMENT </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
-        <gen:ReportedAttribute id="graph_type">
+        <gen:ReportedAttribute id="SDG_TARGET">
           
-          <com:Text xml:lang="en"><![CDATA[line]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="indicator_sort_order">
-          
-          <com:Text xml:lang="en"><![CDATA[14-05-01]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> 14.5 Until 2020, conserve at least 10% of coastal and marine areas, in accordance with national and international legislation, and based on the best available scientific information </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
-        <gen:ReportedAttribute id="indicator_name">
+        <gen:ReportedAttribute id="SDG_INDICATOR">
           
-          <com:Text xml:lang="en"><![CDATA[Investimento directo estrangeiro (IDE), em percentagem do PIB]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> 14.5.1 Coverage of protected areas in relation to marine areas </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
-        <gen:ReportedAttribute id="graph_title">
+        <gen:ReportedAttribute id="SDG_SERIES_DESCR">
           
-          <com:Text xml:lang="en"><![CDATA[Investimento directo estrangeiro (IDE), em percentagem do PIB]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> Coverage of protected areas in relation to marine areas in percentage </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="META_LAST_UPDATE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> 10/20/2020 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_RELATED_INDICATORS">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> No Indicator related to0679c9a6a6d43z0]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_ORGANISATION">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Ministry of the Sea, Inland Waters and Fisheries </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Osvaldo Mário Gaspar & Emídio R. Andre </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_FUNCT">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Statistician & Oceanographer </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> +258 84 398 9574 & +258 84 535 7080 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> <a href="mailto:erandre01@hotmail.com"> <u> erandre01@hotmail.com </u> </a> & osgaspar_elsabors@yahoo.com.br </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Definition: The indicator “Coverage of protected areas in relation to marine areas” expresses the proportion of marine protected areas in relation to the total marine area, expressing the degree of protection of marine biodiversity and the contribution mediated the global persistence of biodiversity. </p>
+ <p> Concept: Protected areas, as defined by the International Union for Conservation of Nature (IUCN; Dudley 2008), are clearly defined geographical spaces, recognized, dedicated and managed, through legal or other effective means, to achieve nature conservation long-term relationship with ecosystem services and associated cultural values. It is important to note that several specific management objectives are recognized in this definition, covering conservation, restoration and sustainable use: </p>
+ <ul>
+   <li> Category Ia: strict nature reserve </li>
+   <li> Category Ib: wild area </li>
+   <li> Category II: National Park </li>
+   <li> Category III: Monument or natural feature </li>
+   <li> Category IV: habitat / species management area </li>
+   <li> Category V: Protected Landscape / Sea View </li>
+   <li> Category VI: Protected area with sustainable use of natural resources </li>
+ </ul>
+ <p> "Designated" status is assigned to a protected area when the corresponding authority, in accordance with national law or common practice (for example, by means of an executive decree or similar), officially endorses a designation document. The designation must be made for the purpose of biodiversity conservation, and not for de facto protection arising from some other activity (for example, military). </p>
+ <p> Locations that contribute significantly to the global persistence of biodiversity are identified following standard global criteria for the identification of Key Biodiversity Areas (IUCN 2016) applied at the national level. Two variants of these standard criteria have been applied in all countries to date. The first is for the identification of Important Birds and Biodiversity Areas, that is, places that contribute significantly to the global persistence of biodiversity, identified by means of data on birds, and more than 12,000 locations have been identified in all countries of the world ( BirdLife International 2014). The second is for the identification of sites of the Alliance for Zero Extinction (Ricketts et al. 2005), that is, sites that effectively maintain the entire population of at least one species assessed as Critically Endangered or Endangered on the Red List of Threatened Species IUCN. In total, 587 Alliance for Zero Extinction sites were identified for 920 species of mammals, birds, amphibians, reptiles, conifers and coral reef builders. A global standard for identifying key areas of biodiversity that unifies these approaches, along with other mechanisms for identifying important sites for other species and ecosystems, has been approved by IUCN (2016). </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="UNIT_MEASURE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Percentage (%) </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Ministry of the Sea, Inland Waters and Fisheries (National Institute for Fisheries Research) & National Authority for Conservation Areas (ANAC) </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COLL_METHOD">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Bibliographic review of documents </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="FREQ_COLL">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> February 2021 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REL_CAL_POLICY">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> III Quarter of 2021 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_SOURCE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> National Institute for Fisheries Research </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Ministry of the Sea, Inland Waters and Fisheries </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="INST_MANDATE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Joint Dispatch, of 4 December 2003, Boletim da República nº 16, of 21 April 2004 The National Statistics Institute, through the Minister of Protection, delegates powers to the National Directorate of Fisheries Economics of the Ministry of Fisheries, for the notation and collection of statistical data for all statistics in the sector, by taking advantage of administrative acts and inquiries. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The establishment of conservation areas is an important mechanism to combat the decline of marine biodiversity and guarantee the long-term sustainable use of marine resources </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The indicator does not measure the effectiveness of protected areas in reducing biodiversity loss, which ultimately depends on a series of management and inspection factors not covered by the </p> indicator]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Ratio between the sum of the geographical areas of marine conservation areas declared based on national legislation and the total marine area multiplied by 100 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_VALIDATION">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The processed information is screened and analyzed at a technical level where it is then submitted to the Institution's Technical Council for pre-approval, where after verifying the information it healthily goes to the Advisory Council for approval of the data or information produced at a later time dissemination </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DOC_METHOD">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Main differences lie in the source of calculation data for the indicator. In this case, the geographical areas declared in the decrees creating conservation areas were used and key biodiversity areas (KBAs) that are not within these areas are not included. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_MGMNT">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The processed information is screened and analyzed at a technical level where in turn it is submitted to the Institution's Technical Council these strata are composed of qualified scientists for the purpose of verification and validation </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The processed information is screened and analyzed at a technical level where in turn it is submitted to the Institution's Technical Council these strata are composed of qualified scientists for the purpose of verification and validation </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSMNT">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The instruments for assessing the quality of statistical processes and products at the level of the National Statistical System are being developed based on the 19 quality principles established by the United Nations Statistics Commission. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> These data are made available annually. </p>
+ <p> Data on current coverage of marine conservation areas are existing and held by the National Conservation Areas Authority (ANAC), which is the national entity responsible for managing the national network of conservation areas. However, the existing data, although they were not considered disaggregated in the calculation of the indicator, offer the possibility for this by categories of protection. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Main differences lie in the source of calculation data for the indicator. In this case, the geographical areas declared in the decrees creating conservation areas were used and key biodiversity areas (KBAs) that are not within these areas are not included. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Legislative Diploma 46/71 creation of the Bazaruto National Park </p>
+ <p> Decree 39/2001 extension of the limits of the Bazaruto Archipelago National Park </p>
+ <p> Decree 14/2002 creation of the Quirimbas national park </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -89,7 +248,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="d3d4c119-2dbc-4e1e-82a5-d1ec7b2ba6c1">
+  <mes:MetadataSet structureRef="MDS1" setID="254d42fd-8b28-4b9a-8f7a-27f7dbe97fe7">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -114,51 +273,210 @@
       </gen:Target>
       <gen:AttributeSet>
         
-        <gen:ReportedAttribute id="target_id">
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
           
-          <com:Text xml:lang="en"><![CDATA[14.5]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="sdg_goal">
-          
-          <com:Text xml:lang="en"><![CDATA[14]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> Studies, Planning and Infrastructure Directorate </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
-        <gen:ReportedAttribute id="reporting_status">
+        <gen:ReportedAttribute id="SDG_GOAL">
           
-          <com:Text xml:lang="en"><![CDATA[complete]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="data_non_statistical">
-          
-          <com:Text xml:lang="en"><![CDATA[False]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> 14 CONSERVATION AND SUSTAINABLE USE OF OCEANS, SEAS AND MARINE RESOURCES FOR SUSTAINABLE DEVELOPMENT </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
-        <gen:ReportedAttribute id="graph_type">
+        <gen:ReportedAttribute id="SDG_TARGET">
           
-          <com:Text xml:lang="en"><![CDATA[line]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="indicator_sort_order">
-          
-          <com:Text xml:lang="en"><![CDATA[14-05-01]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> 14.5 Until 2020, conserve at least 10% of coastal and marine areas, in accordance with national and international legislation, and based on the best available scientific information </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
-        <gen:ReportedAttribute id="indicator_name">
+        <gen:ReportedAttribute id="SDG_INDICATOR">
           
-          <com:Text xml:lang="en"><![CDATA[Investimento directo estrangeiro (IDE), em percentagem do PIB]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> 14.5.1 Coverage of protected areas in relation to marine areas </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
-        <gen:ReportedAttribute id="graph_title">
+        <gen:ReportedAttribute id="SDG_SERIES_DESCR">
           
-          <com:Text xml:lang="en"><![CDATA[Investimento directo estrangeiro (IDE), em percentagem do PIB]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> Coverage of protected areas in relation to marine areas in percentage </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="META_LAST_UPDATE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> 10/20/2020 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_RELATED_INDICATORS">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> No Indicator related to0679c9a6a6d43z0]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_ORGANISATION">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Ministry of the Sea, Inland Waters and Fisheries </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Osvaldo Mário Gaspar & Emídio R. Andre </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_FUNCT">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Statistician & Oceanographer </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> +258 84 398 9574 & +258 84 535 7080 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> <a href="mailto:erandre01@hotmail.com"> <u> erandre01@hotmail.com </u> </a> & osgaspar_elsabors@yahoo.com.br </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Definition: The indicator “Coverage of protected areas in relation to marine areas” expresses the proportion of marine protected areas in relation to the total marine area, expressing the degree of protection of marine biodiversity and the contribution mediated the global persistence of biodiversity. </p>
+ <p> Concept: Protected areas, as defined by the International Union for Conservation of Nature (IUCN; Dudley 2008), are clearly defined geographical spaces, recognized, dedicated and managed, through legal or other effective means, to achieve nature conservation long-term relationship with ecosystem services and associated cultural values. It is important to note that several specific management objectives are recognized in this definition, covering conservation, restoration and sustainable use: </p>
+ <ul>
+   <li> Category Ia: strict nature reserve </li>
+   <li> Category Ib: wild area </li>
+   <li> Category II: National Park </li>
+   <li> Category III: Monument or natural feature </li>
+   <li> Category IV: habitat / species management area </li>
+   <li> Category V: Protected Landscape / Sea View </li>
+   <li> Category VI: Protected area with sustainable use of natural resources </li>
+ </ul>
+ <p> "Designated" status is assigned to a protected area when the corresponding authority, in accordance with national law or common practice (for example, by means of an executive decree or similar), officially endorses a designation document. The designation must be made for the purpose of biodiversity conservation, and not for de facto protection arising from some other activity (for example, military). </p>
+ <p> Locations that contribute significantly to the global persistence of biodiversity are identified following standard global criteria for the identification of Key Biodiversity Areas (IUCN 2016) applied at the national level. Two variants of these standard criteria have been applied in all countries to date. The first is for the identification of Important Birds and Biodiversity Areas, that is, places that contribute significantly to the global persistence of biodiversity, identified by means of data on birds, and more than 12,000 locations have been identified in all countries of the world ( BirdLife International 2014). The second is for the identification of sites of the Alliance for Zero Extinction (Ricketts et al. 2005), that is, sites that effectively maintain the entire population of at least one species assessed as Critically Endangered or Endangered on the Red List of Threatened Species IUCN. In total, 587 Alliance for Zero Extinction sites were identified for 920 species of mammals, birds, amphibians, reptiles, conifers and coral reef builders. A global standard for identifying key areas of biodiversity that unifies these approaches, along with other mechanisms for identifying important sites for other species and ecosystems, has been approved by IUCN (2016). </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="UNIT_MEASURE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Percentage (%) </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Ministry of the Sea, Inland Waters and Fisheries (National Institute for Fisheries Research) & National Authority for Conservation Areas (ANAC) </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COLL_METHOD">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Bibliographic review of documents </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="FREQ_COLL">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> February 2021 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REL_CAL_POLICY">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> III Quarter of 2021 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_SOURCE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> National Institute for Fisheries Research </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Ministry of the Sea, Inland Waters and Fisheries </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="INST_MANDATE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Joint Dispatch, of 4 December 2003, Boletim da República nº 16, of 21 April 2004 The National Statistics Institute, through the Minister of Protection, delegates powers to the National Directorate of Fisheries Economics of the Ministry of Fisheries, for the notation and collection of statistical data for all statistics in the sector, by taking advantage of administrative acts and inquiries. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The establishment of conservation areas is an important mechanism to combat the decline of marine biodiversity and guarantee the long-term sustainable use of marine resources </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The indicator does not measure the effectiveness of protected areas in reducing biodiversity loss, which ultimately depends on a series of management and inspection factors not covered by the </p> indicator]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Ratio between the sum of the geographical areas of marine conservation areas declared based on national legislation and the total marine area multiplied by 100 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_VALIDATION">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The processed information is screened and analyzed at a technical level where it is then submitted to the Institution's Technical Council for pre-approval, where after verifying the information it healthily goes to the Advisory Council for approval of the data or information produced at a later time dissemination </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DOC_METHOD">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Main differences lie in the source of calculation data for the indicator. In this case, the geographical areas declared in the decrees creating conservation areas were used and key biodiversity areas (KBAs) that are not within these areas are not included. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_MGMNT">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The processed information is screened and analyzed at a technical level where in turn it is submitted to the Institution's Technical Council these strata are composed of qualified scientists for the purpose of verification and validation </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The processed information is screened and analyzed at a technical level where in turn it is submitted to the Institution's Technical Council these strata are composed of qualified scientists for the purpose of verification and validation </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSMNT">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The instruments for assessing the quality of statistical processes and products at the level of the National Statistical System are being developed based on the 19 quality principles established by the United Nations Statistics Commission. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> These data are made available annually. </p>
+ <p> Data on current coverage of marine conservation areas are existing and held by the National Conservation Areas Authority (ANAC), which is the national entity responsible for managing the national network of conservation areas. However, the existing data, although they were not considered disaggregated in the calculation of the indicator, offer the possibility for this by categories of protection. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Main differences lie in the source of calculation data for the indicator. In this case, the geographical areas declared in the decrees creating conservation areas were used and key biodiversity areas (KBAs) that are not within these areas are not included. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Legislative Diploma 46/71 creation of the Bazaruto National Park </p>
+ <p> Decree 39/2001 extension of the limits of the Bazaruto Archipelago National Park </p>
+ <p> Decree 14/2002 creation of the Quirimbas national park </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -166,7 +484,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="923a0576-4092-44f4-8da4-b4f5533ecbf7">
+  <mes:MetadataSet structureRef="MDS1" setID="3df14520-96f9-4c52-85f2-81f6d41e32ef">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -191,51 +509,210 @@
       </gen:Target>
       <gen:AttributeSet>
         
-        <gen:ReportedAttribute id="target_id">
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
           
-          <com:Text xml:lang="en"><![CDATA[14.5]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="sdg_goal">
-          
-          <com:Text xml:lang="en"><![CDATA[14]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> Studies, Planning and Infrastructure Directorate </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
-        <gen:ReportedAttribute id="reporting_status">
+        <gen:ReportedAttribute id="SDG_GOAL">
           
-          <com:Text xml:lang="en"><![CDATA[complete]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="data_non_statistical">
-          
-          <com:Text xml:lang="en"><![CDATA[False]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> 14 CONSERVATION AND SUSTAINABLE USE OF OCEANS, SEAS AND MARINE RESOURCES FOR SUSTAINABLE DEVELOPMENT </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
-        <gen:ReportedAttribute id="graph_type">
+        <gen:ReportedAttribute id="SDG_TARGET">
           
-          <com:Text xml:lang="en"><![CDATA[line]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="indicator_sort_order">
-          
-          <com:Text xml:lang="en"><![CDATA[14-05-01]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> 14.5 Until 2020, conserve at least 10% of coastal and marine areas, in accordance with national and international legislation, and based on the best available scientific information </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
-        <gen:ReportedAttribute id="indicator_name">
+        <gen:ReportedAttribute id="SDG_INDICATOR">
           
-          <com:Text xml:lang="en"><![CDATA[Investimento directo estrangeiro (IDE), em percentagem do PIB]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> 14.5.1 Coverage of protected areas in relation to marine areas </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
-        <gen:ReportedAttribute id="graph_title">
+        <gen:ReportedAttribute id="SDG_SERIES_DESCR">
           
-          <com:Text xml:lang="en"><![CDATA[Investimento directo estrangeiro (IDE), em percentagem do PIB]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> Coverage of protected areas in relation to marine areas in percentage </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="META_LAST_UPDATE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> 10/20/2020 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_RELATED_INDICATORS">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> No Indicator related to0679c9a6a6d43z0]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_ORGANISATION">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Ministry of the Sea, Inland Waters and Fisheries </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Osvaldo Mário Gaspar & Emídio R. Andre </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_FUNCT">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Statistician & Oceanographer </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> +258 84 398 9574 & +258 84 535 7080 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> <a href="mailto:erandre01@hotmail.com"> <u> erandre01@hotmail.com </u> </a> & osgaspar_elsabors@yahoo.com.br </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Definition: The indicator “Coverage of protected areas in relation to marine areas” expresses the proportion of marine protected areas in relation to the total marine area, expressing the degree of protection of marine biodiversity and the contribution mediated the global persistence of biodiversity. </p>
+ <p> Concept: Protected areas, as defined by the International Union for Conservation of Nature (IUCN; Dudley 2008), are clearly defined geographical spaces, recognized, dedicated and managed, through legal or other effective means, to achieve nature conservation long-term relationship with ecosystem services and associated cultural values. It is important to note that several specific management objectives are recognized in this definition, covering conservation, restoration and sustainable use: </p>
+ <ul>
+   <li> Category Ia: strict nature reserve </li>
+   <li> Category Ib: wild area </li>
+   <li> Category II: National Park </li>
+   <li> Category III: Monument or natural feature </li>
+   <li> Category IV: habitat / species management area </li>
+   <li> Category V: Protected Landscape / Sea View </li>
+   <li> Category VI: Protected area with sustainable use of natural resources </li>
+ </ul>
+ <p> "Designated" status is assigned to a protected area when the corresponding authority, in accordance with national law or common practice (for example, by means of an executive decree or similar), officially endorses a designation document. The designation must be made for the purpose of biodiversity conservation, and not for de facto protection arising from some other activity (for example, military). </p>
+ <p> Locations that contribute significantly to the global persistence of biodiversity are identified following standard global criteria for the identification of Key Biodiversity Areas (IUCN 2016) applied at the national level. Two variants of these standard criteria have been applied in all countries to date. The first is for the identification of Important Birds and Biodiversity Areas, that is, places that contribute significantly to the global persistence of biodiversity, identified by means of data on birds, and more than 12,000 locations have been identified in all countries of the world ( BirdLife International 2014). The second is for the identification of sites of the Alliance for Zero Extinction (Ricketts et al. 2005), that is, sites that effectively maintain the entire population of at least one species assessed as Critically Endangered or Endangered on the Red List of Threatened Species IUCN. In total, 587 Alliance for Zero Extinction sites were identified for 920 species of mammals, birds, amphibians, reptiles, conifers and coral reef builders. A global standard for identifying key areas of biodiversity that unifies these approaches, along with other mechanisms for identifying important sites for other species and ecosystems, has been approved by IUCN (2016). </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="UNIT_MEASURE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Percentage (%) </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Ministry of the Sea, Inland Waters and Fisheries (National Institute for Fisheries Research) & National Authority for Conservation Areas (ANAC) </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COLL_METHOD">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Bibliographic review of documents </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="FREQ_COLL">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> February 2021 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REL_CAL_POLICY">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> III Quarter of 2021 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_SOURCE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> National Institute for Fisheries Research </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Ministry of the Sea, Inland Waters and Fisheries </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="INST_MANDATE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Joint Dispatch, of 4 December 2003, Boletim da República nº 16, of 21 April 2004 The National Statistics Institute, through the Minister of Protection, delegates powers to the National Directorate of Fisheries Economics of the Ministry of Fisheries, for the notation and collection of statistical data for all statistics in the sector, by taking advantage of administrative acts and inquiries. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The establishment of conservation areas is an important mechanism to combat the decline of marine biodiversity and guarantee the long-term sustainable use of marine resources </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The indicator does not measure the effectiveness of protected areas in reducing biodiversity loss, which ultimately depends on a series of management and inspection factors not covered by the </p> indicator]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Ratio between the sum of the geographical areas of marine conservation areas declared based on national legislation and the total marine area multiplied by 100 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_VALIDATION">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The processed information is screened and analyzed at a technical level where it is then submitted to the Institution's Technical Council for pre-approval, where after verifying the information it healthily goes to the Advisory Council for approval of the data or information produced at a later time dissemination </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DOC_METHOD">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Main differences lie in the source of calculation data for the indicator. In this case, the geographical areas declared in the decrees creating conservation areas were used and key biodiversity areas (KBAs) that are not within these areas are not included. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_MGMNT">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The processed information is screened and analyzed at a technical level where in turn it is submitted to the Institution's Technical Council these strata are composed of qualified scientists for the purpose of verification and validation </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The processed information is screened and analyzed at a technical level where in turn it is submitted to the Institution's Technical Council these strata are composed of qualified scientists for the purpose of verification and validation </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSMNT">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The instruments for assessing the quality of statistical processes and products at the level of the National Statistical System are being developed based on the 19 quality principles established by the United Nations Statistics Commission. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> These data are made available annually. </p>
+ <p> Data on current coverage of marine conservation areas are existing and held by the National Conservation Areas Authority (ANAC), which is the national entity responsible for managing the national network of conservation areas. However, the existing data, although they were not considered disaggregated in the calculation of the indicator, offer the possibility for this by categories of protection. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Main differences lie in the source of calculation data for the indicator. In this case, the geographical areas declared in the decrees creating conservation areas were used and key biodiversity areas (KBAs) that are not within these areas are not included. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Legislative Diploma 46/71 creation of the Bazaruto National Park </p>
+ <p> Decree 39/2001 extension of the limits of the Bazaruto Archipelago National Park </p>
+ <p> Decree 14/2002 creation of the Quirimbas national park </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -243,7 +720,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="bfd7e28e-46da-48ad-b70b-4d477fca67e8">
+  <mes:MetadataSet structureRef="MDS1" setID="27c147d6-88a1-45a6-b134-2f18e579ebf5">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -268,51 +745,210 @@
       </gen:Target>
       <gen:AttributeSet>
         
-        <gen:ReportedAttribute id="target_id">
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
           
-          <com:Text xml:lang="en"><![CDATA[14.5]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="sdg_goal">
-          
-          <com:Text xml:lang="en"><![CDATA[14]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> Studies, Planning and Infrastructure Directorate </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
-        <gen:ReportedAttribute id="reporting_status">
+        <gen:ReportedAttribute id="SDG_GOAL">
           
-          <com:Text xml:lang="en"><![CDATA[complete]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="data_non_statistical">
-          
-          <com:Text xml:lang="en"><![CDATA[False]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> 14 CONSERVATION AND SUSTAINABLE USE OF OCEANS, SEAS AND MARINE RESOURCES FOR SUSTAINABLE DEVELOPMENT </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
-        <gen:ReportedAttribute id="graph_type">
+        <gen:ReportedAttribute id="SDG_TARGET">
           
-          <com:Text xml:lang="en"><![CDATA[line]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="indicator_sort_order">
-          
-          <com:Text xml:lang="en"><![CDATA[14-05-01]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> 14.5 Until 2020, conserve at least 10% of coastal and marine areas, in accordance with national and international legislation, and based on the best available scientific information </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
-        <gen:ReportedAttribute id="indicator_name">
+        <gen:ReportedAttribute id="SDG_INDICATOR">
           
-          <com:Text xml:lang="en"><![CDATA[Investimento directo estrangeiro (IDE), em percentagem do PIB]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> 14.5.1 Coverage of protected areas in relation to marine areas </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
-        <gen:ReportedAttribute id="graph_title">
+        <gen:ReportedAttribute id="SDG_SERIES_DESCR">
           
-          <com:Text xml:lang="en"><![CDATA[Investimento directo estrangeiro (IDE), em percentagem do PIB]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> Coverage of protected areas in relation to marine areas in percentage </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="META_LAST_UPDATE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> 10/20/2020 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_RELATED_INDICATORS">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> No Indicator related to0679c9a6a6d43z0]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_ORGANISATION">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Ministry of the Sea, Inland Waters and Fisheries </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Osvaldo Mário Gaspar & Emídio R. Andre </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_FUNCT">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Statistician & Oceanographer </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> +258 84 398 9574 & +258 84 535 7080 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> <a href="mailto:erandre01@hotmail.com"> <u> erandre01@hotmail.com </u> </a> & osgaspar_elsabors@yahoo.com.br </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Definition: The indicator “Coverage of protected areas in relation to marine areas” expresses the proportion of marine protected areas in relation to the total marine area, expressing the degree of protection of marine biodiversity and the contribution mediated the global persistence of biodiversity. </p>
+ <p> Concept: Protected areas, as defined by the International Union for Conservation of Nature (IUCN; Dudley 2008), are clearly defined geographical spaces, recognized, dedicated and managed, through legal or other effective means, to achieve nature conservation long-term relationship with ecosystem services and associated cultural values. It is important to note that several specific management objectives are recognized in this definition, covering conservation, restoration and sustainable use: </p>
+ <ul>
+   <li> Category Ia: strict nature reserve </li>
+   <li> Category Ib: wild area </li>
+   <li> Category II: National Park </li>
+   <li> Category III: Monument or natural feature </li>
+   <li> Category IV: habitat / species management area </li>
+   <li> Category V: Protected Landscape / Sea View </li>
+   <li> Category VI: Protected area with sustainable use of natural resources </li>
+ </ul>
+ <p> "Designated" status is assigned to a protected area when the corresponding authority, in accordance with national law or common practice (for example, by means of an executive decree or similar), officially endorses a designation document. The designation must be made for the purpose of biodiversity conservation, and not for de facto protection arising from some other activity (for example, military). </p>
+ <p> Locations that contribute significantly to the global persistence of biodiversity are identified following standard global criteria for the identification of Key Biodiversity Areas (IUCN 2016) applied at the national level. Two variants of these standard criteria have been applied in all countries to date. The first is for the identification of Important Birds and Biodiversity Areas, that is, places that contribute significantly to the global persistence of biodiversity, identified by means of data on birds, and more than 12,000 locations have been identified in all countries of the world ( BirdLife International 2014). The second is for the identification of sites of the Alliance for Zero Extinction (Ricketts et al. 2005), that is, sites that effectively maintain the entire population of at least one species assessed as Critically Endangered or Endangered on the Red List of Threatened Species IUCN. In total, 587 Alliance for Zero Extinction sites were identified for 920 species of mammals, birds, amphibians, reptiles, conifers and coral reef builders. A global standard for identifying key areas of biodiversity that unifies these approaches, along with other mechanisms for identifying important sites for other species and ecosystems, has been approved by IUCN (2016). </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="UNIT_MEASURE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Percentage (%) </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Ministry of the Sea, Inland Waters and Fisheries (National Institute for Fisheries Research) & National Authority for Conservation Areas (ANAC) </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COLL_METHOD">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Bibliographic review of documents </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="FREQ_COLL">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> February 2021 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REL_CAL_POLICY">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> III Quarter of 2021 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_SOURCE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> National Institute for Fisheries Research </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Ministry of the Sea, Inland Waters and Fisheries </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="INST_MANDATE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Joint Dispatch, of 4 December 2003, Boletim da República nº 16, of 21 April 2004 The National Statistics Institute, through the Minister of Protection, delegates powers to the National Directorate of Fisheries Economics of the Ministry of Fisheries, for the notation and collection of statistical data for all statistics in the sector, by taking advantage of administrative acts and inquiries. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The establishment of conservation areas is an important mechanism to combat the decline of marine biodiversity and guarantee the long-term sustainable use of marine resources </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The indicator does not measure the effectiveness of protected areas in reducing biodiversity loss, which ultimately depends on a series of management and inspection factors not covered by the </p> indicator]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Ratio between the sum of the geographical areas of marine conservation areas declared based on national legislation and the total marine area multiplied by 100 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_VALIDATION">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The processed information is screened and analyzed at a technical level where it is then submitted to the Institution's Technical Council for pre-approval, where after verifying the information it healthily goes to the Advisory Council for approval of the data or information produced at a later time dissemination </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DOC_METHOD">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Main differences lie in the source of calculation data for the indicator. In this case, the geographical areas declared in the decrees creating conservation areas were used and key biodiversity areas (KBAs) that are not within these areas are not included. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_MGMNT">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The processed information is screened and analyzed at a technical level where in turn it is submitted to the Institution's Technical Council these strata are composed of qualified scientists for the purpose of verification and validation </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The processed information is screened and analyzed at a technical level where in turn it is submitted to the Institution's Technical Council these strata are composed of qualified scientists for the purpose of verification and validation </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSMNT">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The instruments for assessing the quality of statistical processes and products at the level of the National Statistical System are being developed based on the 19 quality principles established by the United Nations Statistics Commission. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> These data are made available annually. </p>
+ <p> Data on current coverage of marine conservation areas are existing and held by the National Conservation Areas Authority (ANAC), which is the national entity responsible for managing the national network of conservation areas. However, the existing data, although they were not considered disaggregated in the calculation of the indicator, offer the possibility for this by categories of protection. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Main differences lie in the source of calculation data for the indicator. In this case, the geographical areas declared in the decrees creating conservation areas were used and key biodiversity areas (KBAs) that are not within these areas are not included. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Legislative Diploma 46/71 creation of the Bazaruto National Park </p>
+ <p> Decree 39/2001 extension of the limits of the Bazaruto Archipelago National Park </p>
+ <p> Decree 14/2002 creation of the Quirimbas national park </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         

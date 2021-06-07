@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
   <mes:Header>
-    <mes:ID>IREF1623036954</mes:ID>
+    <mes:ID>IREF1623075715</mes:ID>
     <mes:Test>True</mes:Test>
-    <mes:Prepared>2021-06-07T03:35:54</mes:Prepared>
+    <mes:Prepared>2021-06-07T14:21:55</mes:Prepared>
     <mes:Sender id="open-sdg_sdg-build@1-3-0"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -12,7 +12,7 @@
     </mes:Structure>
   </mes:Header>
   
-  <mes:MetadataSet structureRef="MDS1" setID="8ee131c9-1c47-45b2-aee1-7ea0875a9ba1">
+  <mes:MetadataSet structureRef="MDS1" setID="b662341b-3184-47b4-ab97-b243abf4f0d3">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -37,51 +37,214 @@
       </gen:Target>
       <gen:AttributeSet>
         
-        <gen:ReportedAttribute id="target_id">
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
           
-          <com:Text xml:lang="en"><![CDATA[1.3]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="sdg_goal">
-          
-          <com:Text xml:lang="en"><![CDATA[1]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> Planning and Cooperation Directorate </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
-        <gen:ReportedAttribute id="reporting_status">
+        <gen:ReportedAttribute id="IND_DEF_CON_CLASS">
           
-          <com:Text xml:lang="en"><![CDATA[complete]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="data_non_statistical">
-          
-          <com:Text xml:lang="en"><![CDATA[False]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> The coverage of social protection programs is the percentage of the population that benefit from social protection programs. Estimates include direct and indirect beneficiaries. </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
-        <gen:ReportedAttribute id="graph_type">
+        <gen:ReportedAttribute id="SDG_GOAL">
           
-          <com:Text xml:lang="en"><![CDATA[line]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="indicator_sort_order">
-          
-          <com:Text xml:lang="en"><![CDATA[01-03-01]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> 1. Eradicate poverty in all its forms, everywhere </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
-        <gen:ReportedAttribute id="indicator_name">
+        <gen:ReportedAttribute id="SDG_TARGET">
           
-          <com:Text xml:lang="en"><![CDATA[Investimento directo estrangeiro (IDE), em percentagem do PIB]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> <strong> 1.3 </strong> Implement, at the national level, adequate social protection measures and systems, for all, and by 2030 achieve substantial coverage of the poor and vulnerable <strong> </strong>06]]></com:Text>
           
         </gen:ReportedAttribute>
         
-        <gen:ReportedAttribute id="graph_title">
+        <gen:ReportedAttribute id="SDG_INDICATOR">
           
-          <com:Text xml:lang="en"><![CDATA[Investimento directo estrangeiro (IDE), em percentagem do PIB]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <h1> 1.3.1 Percentage of the population covered by basic social protection programs, by sex and for the following population groups: people in situations of poverty and vulnerability (orphans and vulnerable children, elderly people, people with disabilities, people with chronic and degenerative diseases , children 0-2 years) </h1>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_SERIES_DESCR">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Population covered by basic social protection programs as a percentage </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="META_LAST_UPDATE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> 1/20/2020 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_RELATED_INDICATORS">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> No indicators related to0679c9a6a6d43z0]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_ORGANISATION">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Ministry of Gender, Children and Social Action (MGCAS) </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Ângelo Tivane and Arnaldo Muthemba </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_FUNCT">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Head of Planning Department, technical </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> +258 828351430; +258 840560048; +258 826081976; +258 2268933 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_MAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> <a href="mailto:Angelotivane2011@gmail.com"> Angelotivane2011@gmail.com </a>; <a href="mailto:muthembarnaldo@gmail.com" target="_blank"> muthembarnaldo@gmail.com </a> </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> <a href="mailto:Angelotivane2011@gmail.com"> Angelotivane2011@gmail.com </a>; <a href="mailto:muthembarnaldo@gmail.com" target="_blank"> muthembarnaldo@gmail.com </a> </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The coverage of social protection programs is the percentage of the population that benefit from social protection programs. Estimates include direct and indirect beneficiaries </p>
+ <p> Coverage of Social Protection Programs (Social Assistance) Poor and vulnerable population (Elderly, Disabled, Chronic and Degenerative Sick, Orphaned Child and Child of a mother who cannot breastfeed, Child with malnutrition) </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="UNIT_MEASURE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Percentage </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Administrative source. Annual report of the PES of the Ministry of Gender, Children and Social Action (MGCAS) and data from the denominator are from the Population and Housing Census and INE projections </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COLL_METHOD">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The Delegations of the National Institute of Social Action collect the data and introduce it into the INAS Information System on line (e-INAS) and the National Institute of Social Action (INAS), in turn harmonizes, verifies and makes validation based also on the reports sent periodically by the delegations. </p>
+ <p> INAS in turn sends the periodic report to the Ministry of Gender, Children and Social Action for final validation and sent to the District Health, Women and Social Action Services and Provincial Social Affairs Services. </p>
+ <p> Population data are collected at INE </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="FREQ_COLL">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> 27 December 2020 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REL_CAL_POLICY">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> 20 January 2021 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_SOURCE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Delegations of the National Institute of Social Action </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Ministry of Gender, Children and Social Action </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="INST_MANDATE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Ministerial Diploma No. 117/2015, of December 31; decree nº 47/2018, of 6 August, presidential decree nº 9/2015 of 13 March, resolution nº 18/2015 of 10 July </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The focus is that all poor families are beneficiaries of Protection Programs (Social Assistance) The higher the percentage means the greater coverage of poor households </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The indicator is reliable, as data are collected at source at national level and are disaggregated by target group (direct beneficiary), sex of the head of household and Province. </p>
+ <p> Limitations: The available data do not allow the use of the global indicator formula, as the Ministry of Gender, Children and Social Action has not yet started to implement social transfers per person in accordance with Decree 47/2018, of 6 August. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Coverage = Number of Households benefiting from Social Protection (Social Assistance) Programs / Poor and vulnerable households according to the IV Poverty Assessment in Mozambique X100 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_VALIDATION">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Analyzed at the level of the Technical Council and validated by the Advisory Council of the Ministry of Gender, Children and Social Action </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DOC_METHOD">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The guidance given internationally or globally and the use of the population below the poverty line but the country uses households below the poverty line </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_MGMNT">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The report data are analyzed by the Monitoring and Evaluation Division team, by the head of the Planning Department, by the Director of planning and cooperation, by the Technical Council and finally by the Advisory Council of the Ministry of Gender, Children and Social Action. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> During the data collection process, the INAS team controls the quality of the data that the Delegations report before being sent to the Ministry of Gender, Children and Social Action. </p>
+ <p> Comparison of the information for the current period with that of the previous period and also with the planned one. </p>
+ <p> Check the veracity of the data with INAS and the delegations </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSMNT">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The Ministry of Gender, Children and Social Action is organizing the statistics area to work in coordination with the National Statistics Institute (INE) to improve the quality of the entire process, from data collection to data publication </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Data are available annually and are disaggregated by sex of the head of household, Province and Target group </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> This indicator cannot be compared with other countries, as households are used in the calculation process instead of population. This is because, at the moment, the Assistance Programs make social transfers to the household and not to the individual. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> <a href="http://www.mgcas.mz.co"> www.mgcas.mz.co </a>, </p>
+ <p> National Basic Social Security Strategy (ENSSB) </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -89,7 +252,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="40c2b38e-f82b-48a1-8db6-ffe4711cf70d">
+  <mes:MetadataSet structureRef="MDS1" setID="6a585863-9a5c-4fa8-b4e0-21cd665fa4b0">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -114,51 +277,214 @@
       </gen:Target>
       <gen:AttributeSet>
         
-        <gen:ReportedAttribute id="target_id">
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
           
-          <com:Text xml:lang="en"><![CDATA[1.3]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="sdg_goal">
-          
-          <com:Text xml:lang="en"><![CDATA[1]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> Planning and Cooperation Directorate </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
-        <gen:ReportedAttribute id="reporting_status">
+        <gen:ReportedAttribute id="IND_DEF_CON_CLASS">
           
-          <com:Text xml:lang="en"><![CDATA[complete]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="data_non_statistical">
-          
-          <com:Text xml:lang="en"><![CDATA[False]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> The coverage of social protection programs is the percentage of the population that benefit from social protection programs. Estimates include direct and indirect beneficiaries. </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
-        <gen:ReportedAttribute id="graph_type">
+        <gen:ReportedAttribute id="SDG_GOAL">
           
-          <com:Text xml:lang="en"><![CDATA[line]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="indicator_sort_order">
-          
-          <com:Text xml:lang="en"><![CDATA[01-03-01]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> 1. Eradicate poverty in all its forms, everywhere </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
-        <gen:ReportedAttribute id="indicator_name">
+        <gen:ReportedAttribute id="SDG_TARGET">
           
-          <com:Text xml:lang="en"><![CDATA[Investimento directo estrangeiro (IDE), em percentagem do PIB]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> <strong> 1.3 </strong> Implement, at the national level, adequate social protection measures and systems, for all, and by 2030 achieve substantial coverage of the poor and vulnerable <strong> </strong>06]]></com:Text>
           
         </gen:ReportedAttribute>
         
-        <gen:ReportedAttribute id="graph_title">
+        <gen:ReportedAttribute id="SDG_INDICATOR">
           
-          <com:Text xml:lang="en"><![CDATA[Investimento directo estrangeiro (IDE), em percentagem do PIB]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <h1> 1.3.1 Percentage of the population covered by basic social protection programs, by sex and for the following population groups: people in situations of poverty and vulnerability (orphans and vulnerable children, elderly people, people with disabilities, people with chronic and degenerative diseases , children 0-2 years) </h1>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_SERIES_DESCR">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Population covered by basic social protection programs as a percentage </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="META_LAST_UPDATE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> 1/20/2020 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_RELATED_INDICATORS">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> No indicators related to0679c9a6a6d43z0]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_ORGANISATION">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Ministry of Gender, Children and Social Action (MGCAS) </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Ângelo Tivane and Arnaldo Muthemba </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_FUNCT">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Head of Planning Department, technical </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> +258 828351430; +258 840560048; +258 826081976; +258 2268933 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_MAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> <a href="mailto:Angelotivane2011@gmail.com"> Angelotivane2011@gmail.com </a>; <a href="mailto:muthembarnaldo@gmail.com" target="_blank"> muthembarnaldo@gmail.com </a> </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> <a href="mailto:Angelotivane2011@gmail.com"> Angelotivane2011@gmail.com </a>; <a href="mailto:muthembarnaldo@gmail.com" target="_blank"> muthembarnaldo@gmail.com </a> </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The coverage of social protection programs is the percentage of the population that benefit from social protection programs. Estimates include direct and indirect beneficiaries </p>
+ <p> Coverage of Social Protection Programs (Social Assistance) Poor and vulnerable population (Elderly, Disabled, Chronic and Degenerative Sick, Orphaned Child and Child of a mother who cannot breastfeed, Child with malnutrition) </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="UNIT_MEASURE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Percentage </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Administrative source. Annual report of the PES of the Ministry of Gender, Children and Social Action (MGCAS) and data from the denominator are from the Population and Housing Census and INE projections </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COLL_METHOD">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The Delegations of the National Institute of Social Action collect the data and introduce it into the INAS Information System on line (e-INAS) and the National Institute of Social Action (INAS), in turn harmonizes, verifies and makes validation based also on the reports sent periodically by the delegations. </p>
+ <p> INAS in turn sends the periodic report to the Ministry of Gender, Children and Social Action for final validation and sent to the District Health, Women and Social Action Services and Provincial Social Affairs Services. </p>
+ <p> Population data are collected at INE </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="FREQ_COLL">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> 27 December 2020 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REL_CAL_POLICY">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> 20 January 2021 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_SOURCE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Delegations of the National Institute of Social Action </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Ministry of Gender, Children and Social Action </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="INST_MANDATE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Ministerial Diploma No. 117/2015, of December 31; decree nº 47/2018, of 6 August, presidential decree nº 9/2015 of 13 March, resolution nº 18/2015 of 10 July </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The focus is that all poor families are beneficiaries of Protection Programs (Social Assistance) The higher the percentage means the greater coverage of poor households </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The indicator is reliable, as data are collected at source at national level and are disaggregated by target group (direct beneficiary), sex of the head of household and Province. </p>
+ <p> Limitations: The available data do not allow the use of the global indicator formula, as the Ministry of Gender, Children and Social Action has not yet started to implement social transfers per person in accordance with Decree 47/2018, of 6 August. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Coverage = Number of Households benefiting from Social Protection (Social Assistance) Programs / Poor and vulnerable households according to the IV Poverty Assessment in Mozambique X100 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_VALIDATION">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Analyzed at the level of the Technical Council and validated by the Advisory Council of the Ministry of Gender, Children and Social Action </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DOC_METHOD">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The guidance given internationally or globally and the use of the population below the poverty line but the country uses households below the poverty line </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_MGMNT">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The report data are analyzed by the Monitoring and Evaluation Division team, by the head of the Planning Department, by the Director of planning and cooperation, by the Technical Council and finally by the Advisory Council of the Ministry of Gender, Children and Social Action. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> During the data collection process, the INAS team controls the quality of the data that the Delegations report before being sent to the Ministry of Gender, Children and Social Action. </p>
+ <p> Comparison of the information for the current period with that of the previous period and also with the planned one. </p>
+ <p> Check the veracity of the data with INAS and the delegations </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSMNT">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The Ministry of Gender, Children and Social Action is organizing the statistics area to work in coordination with the National Statistics Institute (INE) to improve the quality of the entire process, from data collection to data publication </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Data are available annually and are disaggregated by sex of the head of household, Province and Target group </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> This indicator cannot be compared with other countries, as households are used in the calculation process instead of population. This is because, at the moment, the Assistance Programs make social transfers to the household and not to the individual. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> <a href="http://www.mgcas.mz.co"> www.mgcas.mz.co </a>, </p>
+ <p> National Basic Social Security Strategy (ENSSB) </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -166,7 +492,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="f33ca5bf-c5c2-4950-b733-4ee5bef338b6">
+  <mes:MetadataSet structureRef="MDS1" setID="262c40cb-6940-4219-883b-5a86277c5184">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -191,51 +517,214 @@
       </gen:Target>
       <gen:AttributeSet>
         
-        <gen:ReportedAttribute id="target_id">
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
           
-          <com:Text xml:lang="en"><![CDATA[1.3]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="sdg_goal">
-          
-          <com:Text xml:lang="en"><![CDATA[1]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> Planning and Cooperation Directorate </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
-        <gen:ReportedAttribute id="reporting_status">
+        <gen:ReportedAttribute id="IND_DEF_CON_CLASS">
           
-          <com:Text xml:lang="en"><![CDATA[complete]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="data_non_statistical">
-          
-          <com:Text xml:lang="en"><![CDATA[False]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> The coverage of social protection programs is the percentage of the population that benefit from social protection programs. Estimates include direct and indirect beneficiaries. </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
-        <gen:ReportedAttribute id="graph_type">
+        <gen:ReportedAttribute id="SDG_GOAL">
           
-          <com:Text xml:lang="en"><![CDATA[line]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="indicator_sort_order">
-          
-          <com:Text xml:lang="en"><![CDATA[01-03-01]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> 1. Eradicate poverty in all its forms, everywhere </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
-        <gen:ReportedAttribute id="indicator_name">
+        <gen:ReportedAttribute id="SDG_TARGET">
           
-          <com:Text xml:lang="en"><![CDATA[Investimento directo estrangeiro (IDE), em percentagem do PIB]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> <strong> 1.3 </strong> Implement, at the national level, adequate social protection measures and systems, for all, and by 2030 achieve substantial coverage of the poor and vulnerable <strong> </strong>06]]></com:Text>
           
         </gen:ReportedAttribute>
         
-        <gen:ReportedAttribute id="graph_title">
+        <gen:ReportedAttribute id="SDG_INDICATOR">
           
-          <com:Text xml:lang="en"><![CDATA[Investimento directo estrangeiro (IDE), em percentagem do PIB]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <h1> 1.3.1 Percentage of the population covered by basic social protection programs, by sex and for the following population groups: people in situations of poverty and vulnerability (orphans and vulnerable children, elderly people, people with disabilities, people with chronic and degenerative diseases , children 0-2 years) </h1>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_SERIES_DESCR">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Population covered by basic social protection programs as a percentage </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="META_LAST_UPDATE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> 1/20/2020 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_RELATED_INDICATORS">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> No indicators related to0679c9a6a6d43z0]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_ORGANISATION">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Ministry of Gender, Children and Social Action (MGCAS) </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Ângelo Tivane and Arnaldo Muthemba </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_FUNCT">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Head of Planning Department, technical </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> +258 828351430; +258 840560048; +258 826081976; +258 2268933 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_MAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> <a href="mailto:Angelotivane2011@gmail.com"> Angelotivane2011@gmail.com </a>; <a href="mailto:muthembarnaldo@gmail.com" target="_blank"> muthembarnaldo@gmail.com </a> </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> <a href="mailto:Angelotivane2011@gmail.com"> Angelotivane2011@gmail.com </a>; <a href="mailto:muthembarnaldo@gmail.com" target="_blank"> muthembarnaldo@gmail.com </a> </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The coverage of social protection programs is the percentage of the population that benefit from social protection programs. Estimates include direct and indirect beneficiaries </p>
+ <p> Coverage of Social Protection Programs (Social Assistance) Poor and vulnerable population (Elderly, Disabled, Chronic and Degenerative Sick, Orphaned Child and Child of a mother who cannot breastfeed, Child with malnutrition) </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="UNIT_MEASURE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Percentage </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Administrative source. Annual report of the PES of the Ministry of Gender, Children and Social Action (MGCAS) and data from the denominator are from the Population and Housing Census and INE projections </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COLL_METHOD">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The Delegations of the National Institute of Social Action collect the data and introduce it into the INAS Information System on line (e-INAS) and the National Institute of Social Action (INAS), in turn harmonizes, verifies and makes validation based also on the reports sent periodically by the delegations. </p>
+ <p> INAS in turn sends the periodic report to the Ministry of Gender, Children and Social Action for final validation and sent to the District Health, Women and Social Action Services and Provincial Social Affairs Services. </p>
+ <p> Population data are collected at INE </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="FREQ_COLL">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> 27 December 2020 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REL_CAL_POLICY">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> 20 January 2021 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_SOURCE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Delegations of the National Institute of Social Action </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Ministry of Gender, Children and Social Action </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="INST_MANDATE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Ministerial Diploma No. 117/2015, of December 31; decree nº 47/2018, of 6 August, presidential decree nº 9/2015 of 13 March, resolution nº 18/2015 of 10 July </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The focus is that all poor families are beneficiaries of Protection Programs (Social Assistance) The higher the percentage means the greater coverage of poor households </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The indicator is reliable, as data are collected at source at national level and are disaggregated by target group (direct beneficiary), sex of the head of household and Province. </p>
+ <p> Limitations: The available data do not allow the use of the global indicator formula, as the Ministry of Gender, Children and Social Action has not yet started to implement social transfers per person in accordance with Decree 47/2018, of 6 August. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Coverage = Number of Households benefiting from Social Protection (Social Assistance) Programs / Poor and vulnerable households according to the IV Poverty Assessment in Mozambique X100 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_VALIDATION">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Analyzed at the level of the Technical Council and validated by the Advisory Council of the Ministry of Gender, Children and Social Action </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DOC_METHOD">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The guidance given internationally or globally and the use of the population below the poverty line but the country uses households below the poverty line </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_MGMNT">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The report data are analyzed by the Monitoring and Evaluation Division team, by the head of the Planning Department, by the Director of planning and cooperation, by the Technical Council and finally by the Advisory Council of the Ministry of Gender, Children and Social Action. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> During the data collection process, the INAS team controls the quality of the data that the Delegations report before being sent to the Ministry of Gender, Children and Social Action. </p>
+ <p> Comparison of the information for the current period with that of the previous period and also with the planned one. </p>
+ <p> Check the veracity of the data with INAS and the delegations </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSMNT">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The Ministry of Gender, Children and Social Action is organizing the statistics area to work in coordination with the National Statistics Institute (INE) to improve the quality of the entire process, from data collection to data publication </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Data are available annually and are disaggregated by sex of the head of household, Province and Target group </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> This indicator cannot be compared with other countries, as households are used in the calculation process instead of population. This is because, at the moment, the Assistance Programs make social transfers to the household and not to the individual. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> <a href="http://www.mgcas.mz.co"> www.mgcas.mz.co </a>, </p>
+ <p> National Basic Social Security Strategy (ENSSB) </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -243,7 +732,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="f7700dce-98d3-43f7-b05d-58f32a6aa2bc">
+  <mes:MetadataSet structureRef="MDS1" setID="3f11e367-577d-4b5f-9d3d-7b0b4c07ae4a">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -268,51 +757,214 @@
       </gen:Target>
       <gen:AttributeSet>
         
-        <gen:ReportedAttribute id="target_id">
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
           
-          <com:Text xml:lang="en"><![CDATA[1.3]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="sdg_goal">
-          
-          <com:Text xml:lang="en"><![CDATA[1]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> Planning and Cooperation Directorate </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
-        <gen:ReportedAttribute id="reporting_status">
+        <gen:ReportedAttribute id="IND_DEF_CON_CLASS">
           
-          <com:Text xml:lang="en"><![CDATA[complete]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="data_non_statistical">
-          
-          <com:Text xml:lang="en"><![CDATA[False]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> The coverage of social protection programs is the percentage of the population that benefit from social protection programs. Estimates include direct and indirect beneficiaries. </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
-        <gen:ReportedAttribute id="graph_type">
+        <gen:ReportedAttribute id="SDG_GOAL">
           
-          <com:Text xml:lang="en"><![CDATA[line]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="indicator_sort_order">
-          
-          <com:Text xml:lang="en"><![CDATA[01-03-01]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> 1. Eradicate poverty in all its forms, everywhere </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
-        <gen:ReportedAttribute id="indicator_name">
+        <gen:ReportedAttribute id="SDG_TARGET">
           
-          <com:Text xml:lang="en"><![CDATA[Investimento directo estrangeiro (IDE), em percentagem do PIB]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> <strong> 1.3 </strong> Implement, at the national level, adequate social protection measures and systems, for all, and by 2030 achieve substantial coverage of the poor and vulnerable <strong> </strong>06]]></com:Text>
           
         </gen:ReportedAttribute>
         
-        <gen:ReportedAttribute id="graph_title">
+        <gen:ReportedAttribute id="SDG_INDICATOR">
           
-          <com:Text xml:lang="en"><![CDATA[Investimento directo estrangeiro (IDE), em percentagem do PIB]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <h1> 1.3.1 Percentage of the population covered by basic social protection programs, by sex and for the following population groups: people in situations of poverty and vulnerability (orphans and vulnerable children, elderly people, people with disabilities, people with chronic and degenerative diseases , children 0-2 years) </h1>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_SERIES_DESCR">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Population covered by basic social protection programs as a percentage </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="META_LAST_UPDATE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> 1/20/2020 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_RELATED_INDICATORS">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> No indicators related to0679c9a6a6d43z0]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_ORGANISATION">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Ministry of Gender, Children and Social Action (MGCAS) </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Ângelo Tivane and Arnaldo Muthemba </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_FUNCT">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Head of Planning Department, technical </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> +258 828351430; +258 840560048; +258 826081976; +258 2268933 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_MAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> <a href="mailto:Angelotivane2011@gmail.com"> Angelotivane2011@gmail.com </a>; <a href="mailto:muthembarnaldo@gmail.com" target="_blank"> muthembarnaldo@gmail.com </a> </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> <a href="mailto:Angelotivane2011@gmail.com"> Angelotivane2011@gmail.com </a>; <a href="mailto:muthembarnaldo@gmail.com" target="_blank"> muthembarnaldo@gmail.com </a> </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The coverage of social protection programs is the percentage of the population that benefit from social protection programs. Estimates include direct and indirect beneficiaries </p>
+ <p> Coverage of Social Protection Programs (Social Assistance) Poor and vulnerable population (Elderly, Disabled, Chronic and Degenerative Sick, Orphaned Child and Child of a mother who cannot breastfeed, Child with malnutrition) </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="UNIT_MEASURE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Percentage </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Administrative source. Annual report of the PES of the Ministry of Gender, Children and Social Action (MGCAS) and data from the denominator are from the Population and Housing Census and INE projections </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COLL_METHOD">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The Delegations of the National Institute of Social Action collect the data and introduce it into the INAS Information System on line (e-INAS) and the National Institute of Social Action (INAS), in turn harmonizes, verifies and makes validation based also on the reports sent periodically by the delegations. </p>
+ <p> INAS in turn sends the periodic report to the Ministry of Gender, Children and Social Action for final validation and sent to the District Health, Women and Social Action Services and Provincial Social Affairs Services. </p>
+ <p> Population data are collected at INE </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="FREQ_COLL">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> 27 December 2020 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REL_CAL_POLICY">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> 20 January 2021 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_SOURCE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Delegations of the National Institute of Social Action </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Ministry of Gender, Children and Social Action </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="INST_MANDATE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Ministerial Diploma No. 117/2015, of December 31; decree nº 47/2018, of 6 August, presidential decree nº 9/2015 of 13 March, resolution nº 18/2015 of 10 July </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The focus is that all poor families are beneficiaries of Protection Programs (Social Assistance) The higher the percentage means the greater coverage of poor households </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The indicator is reliable, as data are collected at source at national level and are disaggregated by target group (direct beneficiary), sex of the head of household and Province. </p>
+ <p> Limitations: The available data do not allow the use of the global indicator formula, as the Ministry of Gender, Children and Social Action has not yet started to implement social transfers per person in accordance with Decree 47/2018, of 6 August. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Coverage = Number of Households benefiting from Social Protection (Social Assistance) Programs / Poor and vulnerable households according to the IV Poverty Assessment in Mozambique X100 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_VALIDATION">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Analyzed at the level of the Technical Council and validated by the Advisory Council of the Ministry of Gender, Children and Social Action </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DOC_METHOD">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The guidance given internationally or globally and the use of the population below the poverty line but the country uses households below the poverty line </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_MGMNT">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The report data are analyzed by the Monitoring and Evaluation Division team, by the head of the Planning Department, by the Director of planning and cooperation, by the Technical Council and finally by the Advisory Council of the Ministry of Gender, Children and Social Action. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> During the data collection process, the INAS team controls the quality of the data that the Delegations report before being sent to the Ministry of Gender, Children and Social Action. </p>
+ <p> Comparison of the information for the current period with that of the previous period and also with the planned one. </p>
+ <p> Check the veracity of the data with INAS and the delegations </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSMNT">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The Ministry of Gender, Children and Social Action is organizing the statistics area to work in coordination with the National Statistics Institute (INE) to improve the quality of the entire process, from data collection to data publication </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Data are available annually and are disaggregated by sex of the head of household, Province and Target group </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> This indicator cannot be compared with other countries, as households are used in the calculation process instead of population. This is because, at the moment, the Assistance Programs make social transfers to the household and not to the individual. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> <a href="http://www.mgcas.mz.co"> www.mgcas.mz.co </a>, </p>
+ <p> National Basic Social Security Strategy (ENSSB) </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -320,7 +972,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="ea80d37f-3242-400a-8c60-fe54b5a9d7ed">
+  <mes:MetadataSet structureRef="MDS1" setID="4cfd5808-a70b-4198-9fb0-3f45895d6f1d">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -345,51 +997,214 @@
       </gen:Target>
       <gen:AttributeSet>
         
-        <gen:ReportedAttribute id="target_id">
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
           
-          <com:Text xml:lang="en"><![CDATA[1.3]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="sdg_goal">
-          
-          <com:Text xml:lang="en"><![CDATA[1]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> Planning and Cooperation Directorate </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
-        <gen:ReportedAttribute id="reporting_status">
+        <gen:ReportedAttribute id="IND_DEF_CON_CLASS">
           
-          <com:Text xml:lang="en"><![CDATA[complete]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="data_non_statistical">
-          
-          <com:Text xml:lang="en"><![CDATA[False]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> The coverage of social protection programs is the percentage of the population that benefit from social protection programs. Estimates include direct and indirect beneficiaries. </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
-        <gen:ReportedAttribute id="graph_type">
+        <gen:ReportedAttribute id="SDG_GOAL">
           
-          <com:Text xml:lang="en"><![CDATA[line]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="indicator_sort_order">
-          
-          <com:Text xml:lang="en"><![CDATA[01-03-01]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> 1. Eradicate poverty in all its forms, everywhere </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
-        <gen:ReportedAttribute id="indicator_name">
+        <gen:ReportedAttribute id="SDG_TARGET">
           
-          <com:Text xml:lang="en"><![CDATA[Investimento directo estrangeiro (IDE), em percentagem do PIB]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> <strong> 1.3 </strong> Implement, at the national level, adequate social protection measures and systems, for all, and by 2030 achieve substantial coverage of the poor and vulnerable <strong> </strong>06]]></com:Text>
           
         </gen:ReportedAttribute>
         
-        <gen:ReportedAttribute id="graph_title">
+        <gen:ReportedAttribute id="SDG_INDICATOR">
           
-          <com:Text xml:lang="en"><![CDATA[Investimento directo estrangeiro (IDE), em percentagem do PIB]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <h1> 1.3.1 Percentage of the population covered by basic social protection programs, by sex and for the following population groups: people in situations of poverty and vulnerability (orphans and vulnerable children, elderly people, people with disabilities, people with chronic and degenerative diseases , children 0-2 years) </h1>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_SERIES_DESCR">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Population covered by basic social protection programs as a percentage </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="META_LAST_UPDATE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> 1/20/2020 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_RELATED_INDICATORS">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> No indicators related to0679c9a6a6d43z0]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_ORGANISATION">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Ministry of Gender, Children and Social Action (MGCAS) </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Ângelo Tivane and Arnaldo Muthemba </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_FUNCT">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Head of Planning Department, technical </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> +258 828351430; +258 840560048; +258 826081976; +258 2268933 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_MAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> <a href="mailto:Angelotivane2011@gmail.com"> Angelotivane2011@gmail.com </a>; <a href="mailto:muthembarnaldo@gmail.com" target="_blank"> muthembarnaldo@gmail.com </a> </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> <a href="mailto:Angelotivane2011@gmail.com"> Angelotivane2011@gmail.com </a>; <a href="mailto:muthembarnaldo@gmail.com" target="_blank"> muthembarnaldo@gmail.com </a> </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The coverage of social protection programs is the percentage of the population that benefit from social protection programs. Estimates include direct and indirect beneficiaries </p>
+ <p> Coverage of Social Protection Programs (Social Assistance) Poor and vulnerable population (Elderly, Disabled, Chronic and Degenerative Sick, Orphaned Child and Child of a mother who cannot breastfeed, Child with malnutrition) </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="UNIT_MEASURE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Percentage </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Administrative source. Annual report of the PES of the Ministry of Gender, Children and Social Action (MGCAS) and data from the denominator are from the Population and Housing Census and INE projections </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COLL_METHOD">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The Delegations of the National Institute of Social Action collect the data and introduce it into the INAS Information System on line (e-INAS) and the National Institute of Social Action (INAS), in turn harmonizes, verifies and makes validation based also on the reports sent periodically by the delegations. </p>
+ <p> INAS in turn sends the periodic report to the Ministry of Gender, Children and Social Action for final validation and sent to the District Health, Women and Social Action Services and Provincial Social Affairs Services. </p>
+ <p> Population data are collected at INE </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="FREQ_COLL">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> 27 December 2020 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REL_CAL_POLICY">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> 20 January 2021 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_SOURCE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Delegations of the National Institute of Social Action </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Ministry of Gender, Children and Social Action </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="INST_MANDATE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Ministerial Diploma No. 117/2015, of December 31; decree nº 47/2018, of 6 August, presidential decree nº 9/2015 of 13 March, resolution nº 18/2015 of 10 July </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The focus is that all poor families are beneficiaries of Protection Programs (Social Assistance) The higher the percentage means the greater coverage of poor households </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The indicator is reliable, as data are collected at source at national level and are disaggregated by target group (direct beneficiary), sex of the head of household and Province. </p>
+ <p> Limitations: The available data do not allow the use of the global indicator formula, as the Ministry of Gender, Children and Social Action has not yet started to implement social transfers per person in accordance with Decree 47/2018, of 6 August. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Coverage = Number of Households benefiting from Social Protection (Social Assistance) Programs / Poor and vulnerable households according to the IV Poverty Assessment in Mozambique X100 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_VALIDATION">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Analyzed at the level of the Technical Council and validated by the Advisory Council of the Ministry of Gender, Children and Social Action </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DOC_METHOD">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The guidance given internationally or globally and the use of the population below the poverty line but the country uses households below the poverty line </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_MGMNT">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The report data are analyzed by the Monitoring and Evaluation Division team, by the head of the Planning Department, by the Director of planning and cooperation, by the Technical Council and finally by the Advisory Council of the Ministry of Gender, Children and Social Action. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> During the data collection process, the INAS team controls the quality of the data that the Delegations report before being sent to the Ministry of Gender, Children and Social Action. </p>
+ <p> Comparison of the information for the current period with that of the previous period and also with the planned one. </p>
+ <p> Check the veracity of the data with INAS and the delegations </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSMNT">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The Ministry of Gender, Children and Social Action is organizing the statistics area to work in coordination with the National Statistics Institute (INE) to improve the quality of the entire process, from data collection to data publication </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Data are available annually and are disaggregated by sex of the head of household, Province and Target group </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> This indicator cannot be compared with other countries, as households are used in the calculation process instead of population. This is because, at the moment, the Assistance Programs make social transfers to the household and not to the individual. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> <a href="http://www.mgcas.mz.co"> www.mgcas.mz.co </a>, </p>
+ <p> National Basic Social Security Strategy (ENSSB) </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -397,7 +1212,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="bf38035a-471e-43fe-9bd3-50bf6029dd14">
+  <mes:MetadataSet structureRef="MDS1" setID="e64491aa-d709-416d-9116-dd73e777eb9a">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -422,51 +1237,214 @@
       </gen:Target>
       <gen:AttributeSet>
         
-        <gen:ReportedAttribute id="target_id">
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
           
-          <com:Text xml:lang="en"><![CDATA[1.3]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="sdg_goal">
-          
-          <com:Text xml:lang="en"><![CDATA[1]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> Planning and Cooperation Directorate </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
-        <gen:ReportedAttribute id="reporting_status">
+        <gen:ReportedAttribute id="IND_DEF_CON_CLASS">
           
-          <com:Text xml:lang="en"><![CDATA[complete]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="data_non_statistical">
-          
-          <com:Text xml:lang="en"><![CDATA[False]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> The coverage of social protection programs is the percentage of the population that benefit from social protection programs. Estimates include direct and indirect beneficiaries. </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
-        <gen:ReportedAttribute id="graph_type">
+        <gen:ReportedAttribute id="SDG_GOAL">
           
-          <com:Text xml:lang="en"><![CDATA[line]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="indicator_sort_order">
-          
-          <com:Text xml:lang="en"><![CDATA[01-03-01]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> 1. Eradicate poverty in all its forms, everywhere </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
-        <gen:ReportedAttribute id="indicator_name">
+        <gen:ReportedAttribute id="SDG_TARGET">
           
-          <com:Text xml:lang="en"><![CDATA[Investimento directo estrangeiro (IDE), em percentagem do PIB]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> <strong> 1.3 </strong> Implement, at the national level, adequate social protection measures and systems, for all, and by 2030 achieve substantial coverage of the poor and vulnerable <strong> </strong>06]]></com:Text>
           
         </gen:ReportedAttribute>
         
-        <gen:ReportedAttribute id="graph_title">
+        <gen:ReportedAttribute id="SDG_INDICATOR">
           
-          <com:Text xml:lang="en"><![CDATA[Investimento directo estrangeiro (IDE), em percentagem do PIB]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <h1> 1.3.1 Percentage of the population covered by basic social protection programs, by sex and for the following population groups: people in situations of poverty and vulnerability (orphans and vulnerable children, elderly people, people with disabilities, people with chronic and degenerative diseases , children 0-2 years) </h1>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_SERIES_DESCR">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Population covered by basic social protection programs as a percentage </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="META_LAST_UPDATE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> 1/20/2020 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_RELATED_INDICATORS">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> No indicators related to0679c9a6a6d43z0]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_ORGANISATION">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Ministry of Gender, Children and Social Action (MGCAS) </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Ângelo Tivane and Arnaldo Muthemba </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_FUNCT">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Head of Planning Department, technical </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> +258 828351430; +258 840560048; +258 826081976; +258 2268933 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_MAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> <a href="mailto:Angelotivane2011@gmail.com"> Angelotivane2011@gmail.com </a>; <a href="mailto:muthembarnaldo@gmail.com" target="_blank"> muthembarnaldo@gmail.com </a> </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> <a href="mailto:Angelotivane2011@gmail.com"> Angelotivane2011@gmail.com </a>; <a href="mailto:muthembarnaldo@gmail.com" target="_blank"> muthembarnaldo@gmail.com </a> </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The coverage of social protection programs is the percentage of the population that benefit from social protection programs. Estimates include direct and indirect beneficiaries </p>
+ <p> Coverage of Social Protection Programs (Social Assistance) Poor and vulnerable population (Elderly, Disabled, Chronic and Degenerative Sick, Orphaned Child and Child of a mother who cannot breastfeed, Child with malnutrition) </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="UNIT_MEASURE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Percentage </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Administrative source. Annual report of the PES of the Ministry of Gender, Children and Social Action (MGCAS) and data from the denominator are from the Population and Housing Census and INE projections </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COLL_METHOD">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The Delegations of the National Institute of Social Action collect the data and introduce it into the INAS Information System on line (e-INAS) and the National Institute of Social Action (INAS), in turn harmonizes, verifies and makes validation based also on the reports sent periodically by the delegations. </p>
+ <p> INAS in turn sends the periodic report to the Ministry of Gender, Children and Social Action for final validation and sent to the District Health, Women and Social Action Services and Provincial Social Affairs Services. </p>
+ <p> Population data are collected at INE </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="FREQ_COLL">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> 27 December 2020 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REL_CAL_POLICY">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> 20 January 2021 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_SOURCE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Delegations of the National Institute of Social Action </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Ministry of Gender, Children and Social Action </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="INST_MANDATE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Ministerial Diploma No. 117/2015, of December 31; decree nº 47/2018, of 6 August, presidential decree nº 9/2015 of 13 March, resolution nº 18/2015 of 10 July </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The focus is that all poor families are beneficiaries of Protection Programs (Social Assistance) The higher the percentage means the greater coverage of poor households </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The indicator is reliable, as data are collected at source at national level and are disaggregated by target group (direct beneficiary), sex of the head of household and Province. </p>
+ <p> Limitations: The available data do not allow the use of the global indicator formula, as the Ministry of Gender, Children and Social Action has not yet started to implement social transfers per person in accordance with Decree 47/2018, of 6 August. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Coverage = Number of Households benefiting from Social Protection (Social Assistance) Programs / Poor and vulnerable households according to the IV Poverty Assessment in Mozambique X100 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_VALIDATION">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Analyzed at the level of the Technical Council and validated by the Advisory Council of the Ministry of Gender, Children and Social Action </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DOC_METHOD">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The guidance given internationally or globally and the use of the population below the poverty line but the country uses households below the poverty line </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_MGMNT">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The report data are analyzed by the Monitoring and Evaluation Division team, by the head of the Planning Department, by the Director of planning and cooperation, by the Technical Council and finally by the Advisory Council of the Ministry of Gender, Children and Social Action. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> During the data collection process, the INAS team controls the quality of the data that the Delegations report before being sent to the Ministry of Gender, Children and Social Action. </p>
+ <p> Comparison of the information for the current period with that of the previous period and also with the planned one. </p>
+ <p> Check the veracity of the data with INAS and the delegations </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSMNT">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The Ministry of Gender, Children and Social Action is organizing the statistics area to work in coordination with the National Statistics Institute (INE) to improve the quality of the entire process, from data collection to data publication </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Data are available annually and are disaggregated by sex of the head of household, Province and Target group </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> This indicator cannot be compared with other countries, as households are used in the calculation process instead of population. This is because, at the moment, the Assistance Programs make social transfers to the household and not to the individual. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> <a href="http://www.mgcas.mz.co"> www.mgcas.mz.co </a>, </p>
+ <p> National Basic Social Security Strategy (ENSSB) </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -474,7 +1452,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="c454ca61-f1fd-4050-a653-6bcd05bba93e">
+  <mes:MetadataSet structureRef="MDS1" setID="e4c46633-c171-4a29-8739-5c762e6aac22">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -499,51 +1477,214 @@
       </gen:Target>
       <gen:AttributeSet>
         
-        <gen:ReportedAttribute id="target_id">
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
           
-          <com:Text xml:lang="en"><![CDATA[1.3]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="sdg_goal">
-          
-          <com:Text xml:lang="en"><![CDATA[1]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> Planning and Cooperation Directorate </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
-        <gen:ReportedAttribute id="reporting_status">
+        <gen:ReportedAttribute id="IND_DEF_CON_CLASS">
           
-          <com:Text xml:lang="en"><![CDATA[complete]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="data_non_statistical">
-          
-          <com:Text xml:lang="en"><![CDATA[False]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> The coverage of social protection programs is the percentage of the population that benefit from social protection programs. Estimates include direct and indirect beneficiaries. </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
-        <gen:ReportedAttribute id="graph_type">
+        <gen:ReportedAttribute id="SDG_GOAL">
           
-          <com:Text xml:lang="en"><![CDATA[line]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="indicator_sort_order">
-          
-          <com:Text xml:lang="en"><![CDATA[01-03-01]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> 1. Eradicate poverty in all its forms, everywhere </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
-        <gen:ReportedAttribute id="indicator_name">
+        <gen:ReportedAttribute id="SDG_TARGET">
           
-          <com:Text xml:lang="en"><![CDATA[Investimento directo estrangeiro (IDE), em percentagem do PIB]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> <strong> 1.3 </strong> Implement, at the national level, adequate social protection measures and systems, for all, and by 2030 achieve substantial coverage of the poor and vulnerable <strong> </strong>06]]></com:Text>
           
         </gen:ReportedAttribute>
         
-        <gen:ReportedAttribute id="graph_title">
+        <gen:ReportedAttribute id="SDG_INDICATOR">
           
-          <com:Text xml:lang="en"><![CDATA[Investimento directo estrangeiro (IDE), em percentagem do PIB]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <h1> 1.3.1 Percentage of the population covered by basic social protection programs, by sex and for the following population groups: people in situations of poverty and vulnerability (orphans and vulnerable children, elderly people, people with disabilities, people with chronic and degenerative diseases , children 0-2 years) </h1>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_SERIES_DESCR">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Population covered by basic social protection programs as a percentage </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="META_LAST_UPDATE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> 1/20/2020 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_RELATED_INDICATORS">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> No indicators related to0679c9a6a6d43z0]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_ORGANISATION">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Ministry of Gender, Children and Social Action (MGCAS) </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Ângelo Tivane and Arnaldo Muthemba </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_FUNCT">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Head of Planning Department, technical </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> +258 828351430; +258 840560048; +258 826081976; +258 2268933 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_MAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> <a href="mailto:Angelotivane2011@gmail.com"> Angelotivane2011@gmail.com </a>; <a href="mailto:muthembarnaldo@gmail.com" target="_blank"> muthembarnaldo@gmail.com </a> </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> <a href="mailto:Angelotivane2011@gmail.com"> Angelotivane2011@gmail.com </a>; <a href="mailto:muthembarnaldo@gmail.com" target="_blank"> muthembarnaldo@gmail.com </a> </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The coverage of social protection programs is the percentage of the population that benefit from social protection programs. Estimates include direct and indirect beneficiaries </p>
+ <p> Coverage of Social Protection Programs (Social Assistance) Poor and vulnerable population (Elderly, Disabled, Chronic and Degenerative Sick, Orphaned Child and Child of a mother who cannot breastfeed, Child with malnutrition) </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="UNIT_MEASURE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Percentage </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Administrative source. Annual report of the PES of the Ministry of Gender, Children and Social Action (MGCAS) and data from the denominator are from the Population and Housing Census and INE projections </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COLL_METHOD">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The Delegations of the National Institute of Social Action collect the data and introduce it into the INAS Information System on line (e-INAS) and the National Institute of Social Action (INAS), in turn harmonizes, verifies and makes validation based also on the reports sent periodically by the delegations. </p>
+ <p> INAS in turn sends the periodic report to the Ministry of Gender, Children and Social Action for final validation and sent to the District Health, Women and Social Action Services and Provincial Social Affairs Services. </p>
+ <p> Population data are collected at INE </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="FREQ_COLL">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> 27 December 2020 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REL_CAL_POLICY">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> 20 January 2021 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_SOURCE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Delegations of the National Institute of Social Action </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Ministry of Gender, Children and Social Action </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="INST_MANDATE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Ministerial Diploma No. 117/2015, of December 31; decree nº 47/2018, of 6 August, presidential decree nº 9/2015 of 13 March, resolution nº 18/2015 of 10 July </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The focus is that all poor families are beneficiaries of Protection Programs (Social Assistance) The higher the percentage means the greater coverage of poor households </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The indicator is reliable, as data are collected at source at national level and are disaggregated by target group (direct beneficiary), sex of the head of household and Province. </p>
+ <p> Limitations: The available data do not allow the use of the global indicator formula, as the Ministry of Gender, Children and Social Action has not yet started to implement social transfers per person in accordance with Decree 47/2018, of 6 August. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Coverage = Number of Households benefiting from Social Protection (Social Assistance) Programs / Poor and vulnerable households according to the IV Poverty Assessment in Mozambique X100 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_VALIDATION">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Analyzed at the level of the Technical Council and validated by the Advisory Council of the Ministry of Gender, Children and Social Action </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DOC_METHOD">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The guidance given internationally or globally and the use of the population below the poverty line but the country uses households below the poverty line </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_MGMNT">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The report data are analyzed by the Monitoring and Evaluation Division team, by the head of the Planning Department, by the Director of planning and cooperation, by the Technical Council and finally by the Advisory Council of the Ministry of Gender, Children and Social Action. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> During the data collection process, the INAS team controls the quality of the data that the Delegations report before being sent to the Ministry of Gender, Children and Social Action. </p>
+ <p> Comparison of the information for the current period with that of the previous period and also with the planned one. </p>
+ <p> Check the veracity of the data with INAS and the delegations </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSMNT">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The Ministry of Gender, Children and Social Action is organizing the statistics area to work in coordination with the National Statistics Institute (INE) to improve the quality of the entire process, from data collection to data publication </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Data are available annually and are disaggregated by sex of the head of household, Province and Target group </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> This indicator cannot be compared with other countries, as households are used in the calculation process instead of population. This is because, at the moment, the Assistance Programs make social transfers to the household and not to the individual. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> <a href="http://www.mgcas.mz.co"> www.mgcas.mz.co </a>, </p>
+ <p> National Basic Social Security Strategy (ENSSB) </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -551,7 +1692,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="7b7eb92b-36fa-4f30-973e-931c1fd5fa19">
+  <mes:MetadataSet structureRef="MDS1" setID="86edb060-229c-4db5-854a-59f69edb9921">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -576,51 +1717,214 @@
       </gen:Target>
       <gen:AttributeSet>
         
-        <gen:ReportedAttribute id="target_id">
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
           
-          <com:Text xml:lang="en"><![CDATA[1.3]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="sdg_goal">
-          
-          <com:Text xml:lang="en"><![CDATA[1]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> Planning and Cooperation Directorate </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
-        <gen:ReportedAttribute id="reporting_status">
+        <gen:ReportedAttribute id="IND_DEF_CON_CLASS">
           
-          <com:Text xml:lang="en"><![CDATA[complete]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="data_non_statistical">
-          
-          <com:Text xml:lang="en"><![CDATA[False]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> The coverage of social protection programs is the percentage of the population that benefit from social protection programs. Estimates include direct and indirect beneficiaries. </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
-        <gen:ReportedAttribute id="graph_type">
+        <gen:ReportedAttribute id="SDG_GOAL">
           
-          <com:Text xml:lang="en"><![CDATA[line]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="indicator_sort_order">
-          
-          <com:Text xml:lang="en"><![CDATA[01-03-01]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> 1. Eradicate poverty in all its forms, everywhere </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
-        <gen:ReportedAttribute id="indicator_name">
+        <gen:ReportedAttribute id="SDG_TARGET">
           
-          <com:Text xml:lang="en"><![CDATA[Investimento directo estrangeiro (IDE), em percentagem do PIB]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> <strong> 1.3 </strong> Implement, at the national level, adequate social protection measures and systems, for all, and by 2030 achieve substantial coverage of the poor and vulnerable <strong> </strong>06]]></com:Text>
           
         </gen:ReportedAttribute>
         
-        <gen:ReportedAttribute id="graph_title">
+        <gen:ReportedAttribute id="SDG_INDICATOR">
           
-          <com:Text xml:lang="en"><![CDATA[Investimento directo estrangeiro (IDE), em percentagem do PIB]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <h1> 1.3.1 Percentage of the population covered by basic social protection programs, by sex and for the following population groups: people in situations of poverty and vulnerability (orphans and vulnerable children, elderly people, people with disabilities, people with chronic and degenerative diseases , children 0-2 years) </h1>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_SERIES_DESCR">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Population covered by basic social protection programs as a percentage </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="META_LAST_UPDATE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> 1/20/2020 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_RELATED_INDICATORS">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> No indicators related to0679c9a6a6d43z0]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_ORGANISATION">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Ministry of Gender, Children and Social Action (MGCAS) </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Ângelo Tivane and Arnaldo Muthemba </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_FUNCT">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Head of Planning Department, technical </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> +258 828351430; +258 840560048; +258 826081976; +258 2268933 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_MAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> <a href="mailto:Angelotivane2011@gmail.com"> Angelotivane2011@gmail.com </a>; <a href="mailto:muthembarnaldo@gmail.com" target="_blank"> muthembarnaldo@gmail.com </a> </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> <a href="mailto:Angelotivane2011@gmail.com"> Angelotivane2011@gmail.com </a>; <a href="mailto:muthembarnaldo@gmail.com" target="_blank"> muthembarnaldo@gmail.com </a> </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The coverage of social protection programs is the percentage of the population that benefit from social protection programs. Estimates include direct and indirect beneficiaries </p>
+ <p> Coverage of Social Protection Programs (Social Assistance) Poor and vulnerable population (Elderly, Disabled, Chronic and Degenerative Sick, Orphaned Child and Child of a mother who cannot breastfeed, Child with malnutrition) </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="UNIT_MEASURE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Percentage </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Administrative source. Annual report of the PES of the Ministry of Gender, Children and Social Action (MGCAS) and data from the denominator are from the Population and Housing Census and INE projections </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COLL_METHOD">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The Delegations of the National Institute of Social Action collect the data and introduce it into the INAS Information System on line (e-INAS) and the National Institute of Social Action (INAS), in turn harmonizes, verifies and makes validation based also on the reports sent periodically by the delegations. </p>
+ <p> INAS in turn sends the periodic report to the Ministry of Gender, Children and Social Action for final validation and sent to the District Health, Women and Social Action Services and Provincial Social Affairs Services. </p>
+ <p> Population data are collected at INE </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="FREQ_COLL">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> 27 December 2020 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REL_CAL_POLICY">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> 20 January 2021 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_SOURCE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Delegations of the National Institute of Social Action </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Ministry of Gender, Children and Social Action </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="INST_MANDATE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Ministerial Diploma No. 117/2015, of December 31; decree nº 47/2018, of 6 August, presidential decree nº 9/2015 of 13 March, resolution nº 18/2015 of 10 July </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The focus is that all poor families are beneficiaries of Protection Programs (Social Assistance) The higher the percentage means the greater coverage of poor households </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The indicator is reliable, as data are collected at source at national level and are disaggregated by target group (direct beneficiary), sex of the head of household and Province. </p>
+ <p> Limitations: The available data do not allow the use of the global indicator formula, as the Ministry of Gender, Children and Social Action has not yet started to implement social transfers per person in accordance with Decree 47/2018, of 6 August. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Coverage = Number of Households benefiting from Social Protection (Social Assistance) Programs / Poor and vulnerable households according to the IV Poverty Assessment in Mozambique X100 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_VALIDATION">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Analyzed at the level of the Technical Council and validated by the Advisory Council of the Ministry of Gender, Children and Social Action </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DOC_METHOD">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The guidance given internationally or globally and the use of the population below the poverty line but the country uses households below the poverty line </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_MGMNT">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The report data are analyzed by the Monitoring and Evaluation Division team, by the head of the Planning Department, by the Director of planning and cooperation, by the Technical Council and finally by the Advisory Council of the Ministry of Gender, Children and Social Action. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> During the data collection process, the INAS team controls the quality of the data that the Delegations report before being sent to the Ministry of Gender, Children and Social Action. </p>
+ <p> Comparison of the information for the current period with that of the previous period and also with the planned one. </p>
+ <p> Check the veracity of the data with INAS and the delegations </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSMNT">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The Ministry of Gender, Children and Social Action is organizing the statistics area to work in coordination with the National Statistics Institute (INE) to improve the quality of the entire process, from data collection to data publication </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Data are available annually and are disaggregated by sex of the head of household, Province and Target group </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> This indicator cannot be compared with other countries, as households are used in the calculation process instead of population. This is because, at the moment, the Assistance Programs make social transfers to the household and not to the individual. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> <a href="http://www.mgcas.mz.co"> www.mgcas.mz.co </a>, </p>
+ <p> National Basic Social Security Strategy (ENSSB) </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -628,7 +1932,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="8e5a9b3e-c864-49e4-adb0-b8ef904e9944">
+  <mes:MetadataSet structureRef="MDS1" setID="d1b97da7-28ef-4937-9b88-8e3c1a20873e">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -653,51 +1957,214 @@
       </gen:Target>
       <gen:AttributeSet>
         
-        <gen:ReportedAttribute id="target_id">
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
           
-          <com:Text xml:lang="en"><![CDATA[1.3]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="sdg_goal">
-          
-          <com:Text xml:lang="en"><![CDATA[1]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> Planning and Cooperation Directorate </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
-        <gen:ReportedAttribute id="reporting_status">
+        <gen:ReportedAttribute id="IND_DEF_CON_CLASS">
           
-          <com:Text xml:lang="en"><![CDATA[complete]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="data_non_statistical">
-          
-          <com:Text xml:lang="en"><![CDATA[False]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> The coverage of social protection programs is the percentage of the population that benefit from social protection programs. Estimates include direct and indirect beneficiaries. </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
-        <gen:ReportedAttribute id="graph_type">
+        <gen:ReportedAttribute id="SDG_GOAL">
           
-          <com:Text xml:lang="en"><![CDATA[line]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="indicator_sort_order">
-          
-          <com:Text xml:lang="en"><![CDATA[01-03-01]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> 1. Eradicate poverty in all its forms, everywhere </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
-        <gen:ReportedAttribute id="indicator_name">
+        <gen:ReportedAttribute id="SDG_TARGET">
           
-          <com:Text xml:lang="en"><![CDATA[Investimento directo estrangeiro (IDE), em percentagem do PIB]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> <strong> 1.3 </strong> Implement, at the national level, adequate social protection measures and systems, for all, and by 2030 achieve substantial coverage of the poor and vulnerable <strong> </strong>06]]></com:Text>
           
         </gen:ReportedAttribute>
         
-        <gen:ReportedAttribute id="graph_title">
+        <gen:ReportedAttribute id="SDG_INDICATOR">
           
-          <com:Text xml:lang="en"><![CDATA[Investimento directo estrangeiro (IDE), em percentagem do PIB]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <h1> 1.3.1 Percentage of the population covered by basic social protection programs, by sex and for the following population groups: people in situations of poverty and vulnerability (orphans and vulnerable children, elderly people, people with disabilities, people with chronic and degenerative diseases , children 0-2 years) </h1>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_SERIES_DESCR">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Population covered by basic social protection programs as a percentage </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="META_LAST_UPDATE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> 1/20/2020 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_RELATED_INDICATORS">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> No indicators related to0679c9a6a6d43z0]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_ORGANISATION">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Ministry of Gender, Children and Social Action (MGCAS) </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Ângelo Tivane and Arnaldo Muthemba </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_FUNCT">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Head of Planning Department, technical </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> +258 828351430; +258 840560048; +258 826081976; +258 2268933 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_MAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> <a href="mailto:Angelotivane2011@gmail.com"> Angelotivane2011@gmail.com </a>; <a href="mailto:muthembarnaldo@gmail.com" target="_blank"> muthembarnaldo@gmail.com </a> </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> <a href="mailto:Angelotivane2011@gmail.com"> Angelotivane2011@gmail.com </a>; <a href="mailto:muthembarnaldo@gmail.com" target="_blank"> muthembarnaldo@gmail.com </a> </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The coverage of social protection programs is the percentage of the population that benefit from social protection programs. Estimates include direct and indirect beneficiaries </p>
+ <p> Coverage of Social Protection Programs (Social Assistance) Poor and vulnerable population (Elderly, Disabled, Chronic and Degenerative Sick, Orphaned Child and Child of a mother who cannot breastfeed, Child with malnutrition) </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="UNIT_MEASURE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Percentage </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Administrative source. Annual report of the PES of the Ministry of Gender, Children and Social Action (MGCAS) and data from the denominator are from the Population and Housing Census and INE projections </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COLL_METHOD">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The Delegations of the National Institute of Social Action collect the data and introduce it into the INAS Information System on line (e-INAS) and the National Institute of Social Action (INAS), in turn harmonizes, verifies and makes validation based also on the reports sent periodically by the delegations. </p>
+ <p> INAS in turn sends the periodic report to the Ministry of Gender, Children and Social Action for final validation and sent to the District Health, Women and Social Action Services and Provincial Social Affairs Services. </p>
+ <p> Population data are collected at INE </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="FREQ_COLL">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> 27 December 2020 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REL_CAL_POLICY">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> 20 January 2021 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_SOURCE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Delegations of the National Institute of Social Action </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Ministry of Gender, Children and Social Action </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="INST_MANDATE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Ministerial Diploma No. 117/2015, of December 31; decree nº 47/2018, of 6 August, presidential decree nº 9/2015 of 13 March, resolution nº 18/2015 of 10 July </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The focus is that all poor families are beneficiaries of Protection Programs (Social Assistance) The higher the percentage means the greater coverage of poor households </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The indicator is reliable, as data are collected at source at national level and are disaggregated by target group (direct beneficiary), sex of the head of household and Province. </p>
+ <p> Limitations: The available data do not allow the use of the global indicator formula, as the Ministry of Gender, Children and Social Action has not yet started to implement social transfers per person in accordance with Decree 47/2018, of 6 August. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Coverage = Number of Households benefiting from Social Protection (Social Assistance) Programs / Poor and vulnerable households according to the IV Poverty Assessment in Mozambique X100 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_VALIDATION">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Analyzed at the level of the Technical Council and validated by the Advisory Council of the Ministry of Gender, Children and Social Action </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DOC_METHOD">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The guidance given internationally or globally and the use of the population below the poverty line but the country uses households below the poverty line </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_MGMNT">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The report data are analyzed by the Monitoring and Evaluation Division team, by the head of the Planning Department, by the Director of planning and cooperation, by the Technical Council and finally by the Advisory Council of the Ministry of Gender, Children and Social Action. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> During the data collection process, the INAS team controls the quality of the data that the Delegations report before being sent to the Ministry of Gender, Children and Social Action. </p>
+ <p> Comparison of the information for the current period with that of the previous period and also with the planned one. </p>
+ <p> Check the veracity of the data with INAS and the delegations </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSMNT">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The Ministry of Gender, Children and Social Action is organizing the statistics area to work in coordination with the National Statistics Institute (INE) to improve the quality of the entire process, from data collection to data publication </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Data are available annually and are disaggregated by sex of the head of household, Province and Target group </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> This indicator cannot be compared with other countries, as households are used in the calculation process instead of population. This is because, at the moment, the Assistance Programs make social transfers to the household and not to the individual. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> <a href="http://www.mgcas.mz.co"> www.mgcas.mz.co </a>, </p>
+ <p> National Basic Social Security Strategy (ENSSB) </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -705,7 +2172,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="19bd1926-6fa7-4c04-8069-beca34699deb">
+  <mes:MetadataSet structureRef="MDS1" setID="daa2a2d7-72bb-44f5-ba60-4c0b0d905178">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -730,51 +2197,214 @@
       </gen:Target>
       <gen:AttributeSet>
         
-        <gen:ReportedAttribute id="target_id">
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
           
-          <com:Text xml:lang="en"><![CDATA[1.3]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="sdg_goal">
-          
-          <com:Text xml:lang="en"><![CDATA[1]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> Planning and Cooperation Directorate </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
-        <gen:ReportedAttribute id="reporting_status">
+        <gen:ReportedAttribute id="IND_DEF_CON_CLASS">
           
-          <com:Text xml:lang="en"><![CDATA[complete]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="data_non_statistical">
-          
-          <com:Text xml:lang="en"><![CDATA[False]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> The coverage of social protection programs is the percentage of the population that benefit from social protection programs. Estimates include direct and indirect beneficiaries. </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
-        <gen:ReportedAttribute id="graph_type">
+        <gen:ReportedAttribute id="SDG_GOAL">
           
-          <com:Text xml:lang="en"><![CDATA[line]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="indicator_sort_order">
-          
-          <com:Text xml:lang="en"><![CDATA[01-03-01]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> 1. Eradicate poverty in all its forms, everywhere </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
-        <gen:ReportedAttribute id="indicator_name">
+        <gen:ReportedAttribute id="SDG_TARGET">
           
-          <com:Text xml:lang="en"><![CDATA[Investimento directo estrangeiro (IDE), em percentagem do PIB]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> <strong> 1.3 </strong> Implement, at the national level, adequate social protection measures and systems, for all, and by 2030 achieve substantial coverage of the poor and vulnerable <strong> </strong>06]]></com:Text>
           
         </gen:ReportedAttribute>
         
-        <gen:ReportedAttribute id="graph_title">
+        <gen:ReportedAttribute id="SDG_INDICATOR">
           
-          <com:Text xml:lang="en"><![CDATA[Investimento directo estrangeiro (IDE), em percentagem do PIB]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <h1> 1.3.1 Percentage of the population covered by basic social protection programs, by sex and for the following population groups: people in situations of poverty and vulnerability (orphans and vulnerable children, elderly people, people with disabilities, people with chronic and degenerative diseases , children 0-2 years) </h1>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_SERIES_DESCR">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Population covered by basic social protection programs as a percentage </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="META_LAST_UPDATE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> 1/20/2020 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_RELATED_INDICATORS">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> No indicators related to0679c9a6a6d43z0]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_ORGANISATION">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Ministry of Gender, Children and Social Action (MGCAS) </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Ângelo Tivane and Arnaldo Muthemba </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_FUNCT">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Head of Planning Department, technical </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> +258 828351430; +258 840560048; +258 826081976; +258 2268933 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_MAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> <a href="mailto:Angelotivane2011@gmail.com"> Angelotivane2011@gmail.com </a>; <a href="mailto:muthembarnaldo@gmail.com" target="_blank"> muthembarnaldo@gmail.com </a> </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> <a href="mailto:Angelotivane2011@gmail.com"> Angelotivane2011@gmail.com </a>; <a href="mailto:muthembarnaldo@gmail.com" target="_blank"> muthembarnaldo@gmail.com </a> </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The coverage of social protection programs is the percentage of the population that benefit from social protection programs. Estimates include direct and indirect beneficiaries </p>
+ <p> Coverage of Social Protection Programs (Social Assistance) Poor and vulnerable population (Elderly, Disabled, Chronic and Degenerative Sick, Orphaned Child and Child of a mother who cannot breastfeed, Child with malnutrition) </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="UNIT_MEASURE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Percentage </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Administrative source. Annual report of the PES of the Ministry of Gender, Children and Social Action (MGCAS) and data from the denominator are from the Population and Housing Census and INE projections </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COLL_METHOD">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The Delegations of the National Institute of Social Action collect the data and introduce it into the INAS Information System on line (e-INAS) and the National Institute of Social Action (INAS), in turn harmonizes, verifies and makes validation based also on the reports sent periodically by the delegations. </p>
+ <p> INAS in turn sends the periodic report to the Ministry of Gender, Children and Social Action for final validation and sent to the District Health, Women and Social Action Services and Provincial Social Affairs Services. </p>
+ <p> Population data are collected at INE </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="FREQ_COLL">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> 27 December 2020 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REL_CAL_POLICY">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> 20 January 2021 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_SOURCE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Delegations of the National Institute of Social Action </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Ministry of Gender, Children and Social Action </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="INST_MANDATE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Ministerial Diploma No. 117/2015, of December 31; decree nº 47/2018, of 6 August, presidential decree nº 9/2015 of 13 March, resolution nº 18/2015 of 10 July </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The focus is that all poor families are beneficiaries of Protection Programs (Social Assistance) The higher the percentage means the greater coverage of poor households </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The indicator is reliable, as data are collected at source at national level and are disaggregated by target group (direct beneficiary), sex of the head of household and Province. </p>
+ <p> Limitations: The available data do not allow the use of the global indicator formula, as the Ministry of Gender, Children and Social Action has not yet started to implement social transfers per person in accordance with Decree 47/2018, of 6 August. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Coverage = Number of Households benefiting from Social Protection (Social Assistance) Programs / Poor and vulnerable households according to the IV Poverty Assessment in Mozambique X100 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_VALIDATION">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Analyzed at the level of the Technical Council and validated by the Advisory Council of the Ministry of Gender, Children and Social Action </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DOC_METHOD">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The guidance given internationally or globally and the use of the population below the poverty line but the country uses households below the poverty line </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_MGMNT">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The report data are analyzed by the Monitoring and Evaluation Division team, by the head of the Planning Department, by the Director of planning and cooperation, by the Technical Council and finally by the Advisory Council of the Ministry of Gender, Children and Social Action. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> During the data collection process, the INAS team controls the quality of the data that the Delegations report before being sent to the Ministry of Gender, Children and Social Action. </p>
+ <p> Comparison of the information for the current period with that of the previous period and also with the planned one. </p>
+ <p> Check the veracity of the data with INAS and the delegations </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSMNT">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The Ministry of Gender, Children and Social Action is organizing the statistics area to work in coordination with the National Statistics Institute (INE) to improve the quality of the entire process, from data collection to data publication </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Data are available annually and are disaggregated by sex of the head of household, Province and Target group </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> This indicator cannot be compared with other countries, as households are used in the calculation process instead of population. This is because, at the moment, the Assistance Programs make social transfers to the household and not to the individual. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> <a href="http://www.mgcas.mz.co"> www.mgcas.mz.co </a>, </p>
+ <p> National Basic Social Security Strategy (ENSSB) </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -782,7 +2412,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="36b7cd67-b733-4b0f-95c7-d850e08c9f98">
+  <mes:MetadataSet structureRef="MDS1" setID="f04f3ebb-72ee-48fa-b7e8-78262f37235b">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -807,51 +2437,214 @@
       </gen:Target>
       <gen:AttributeSet>
         
-        <gen:ReportedAttribute id="target_id">
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
           
-          <com:Text xml:lang="en"><![CDATA[1.3]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="sdg_goal">
-          
-          <com:Text xml:lang="en"><![CDATA[1]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> Planning and Cooperation Directorate </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
-        <gen:ReportedAttribute id="reporting_status">
+        <gen:ReportedAttribute id="IND_DEF_CON_CLASS">
           
-          <com:Text xml:lang="en"><![CDATA[complete]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="data_non_statistical">
-          
-          <com:Text xml:lang="en"><![CDATA[False]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> The coverage of social protection programs is the percentage of the population that benefit from social protection programs. Estimates include direct and indirect beneficiaries. </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
-        <gen:ReportedAttribute id="graph_type">
+        <gen:ReportedAttribute id="SDG_GOAL">
           
-          <com:Text xml:lang="en"><![CDATA[line]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="indicator_sort_order">
-          
-          <com:Text xml:lang="en"><![CDATA[01-03-01]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> 1. Eradicate poverty in all its forms, everywhere </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
-        <gen:ReportedAttribute id="indicator_name">
+        <gen:ReportedAttribute id="SDG_TARGET">
           
-          <com:Text xml:lang="en"><![CDATA[Investimento directo estrangeiro (IDE), em percentagem do PIB]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> <strong> 1.3 </strong> Implement, at the national level, adequate social protection measures and systems, for all, and by 2030 achieve substantial coverage of the poor and vulnerable <strong> </strong>06]]></com:Text>
           
         </gen:ReportedAttribute>
         
-        <gen:ReportedAttribute id="graph_title">
+        <gen:ReportedAttribute id="SDG_INDICATOR">
           
-          <com:Text xml:lang="en"><![CDATA[Investimento directo estrangeiro (IDE), em percentagem do PIB]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <h1> 1.3.1 Percentage of the population covered by basic social protection programs, by sex and for the following population groups: people in situations of poverty and vulnerability (orphans and vulnerable children, elderly people, people with disabilities, people with chronic and degenerative diseases , children 0-2 years) </h1>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_SERIES_DESCR">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Population covered by basic social protection programs as a percentage </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="META_LAST_UPDATE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> 1/20/2020 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_RELATED_INDICATORS">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> No indicators related to0679c9a6a6d43z0]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_ORGANISATION">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Ministry of Gender, Children and Social Action (MGCAS) </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Ângelo Tivane and Arnaldo Muthemba </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_FUNCT">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Head of Planning Department, technical </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> +258 828351430; +258 840560048; +258 826081976; +258 2268933 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_MAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> <a href="mailto:Angelotivane2011@gmail.com"> Angelotivane2011@gmail.com </a>; <a href="mailto:muthembarnaldo@gmail.com" target="_blank"> muthembarnaldo@gmail.com </a> </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> <a href="mailto:Angelotivane2011@gmail.com"> Angelotivane2011@gmail.com </a>; <a href="mailto:muthembarnaldo@gmail.com" target="_blank"> muthembarnaldo@gmail.com </a> </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The coverage of social protection programs is the percentage of the population that benefit from social protection programs. Estimates include direct and indirect beneficiaries </p>
+ <p> Coverage of Social Protection Programs (Social Assistance) Poor and vulnerable population (Elderly, Disabled, Chronic and Degenerative Sick, Orphaned Child and Child of a mother who cannot breastfeed, Child with malnutrition) </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="UNIT_MEASURE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Percentage </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Administrative source. Annual report of the PES of the Ministry of Gender, Children and Social Action (MGCAS) and data from the denominator are from the Population and Housing Census and INE projections </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COLL_METHOD">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The Delegations of the National Institute of Social Action collect the data and introduce it into the INAS Information System on line (e-INAS) and the National Institute of Social Action (INAS), in turn harmonizes, verifies and makes validation based also on the reports sent periodically by the delegations. </p>
+ <p> INAS in turn sends the periodic report to the Ministry of Gender, Children and Social Action for final validation and sent to the District Health, Women and Social Action Services and Provincial Social Affairs Services. </p>
+ <p> Population data are collected at INE </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="FREQ_COLL">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> 27 December 2020 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REL_CAL_POLICY">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> 20 January 2021 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_SOURCE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Delegations of the National Institute of Social Action </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Ministry of Gender, Children and Social Action </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="INST_MANDATE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Ministerial Diploma No. 117/2015, of December 31; decree nº 47/2018, of 6 August, presidential decree nº 9/2015 of 13 March, resolution nº 18/2015 of 10 July </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The focus is that all poor families are beneficiaries of Protection Programs (Social Assistance) The higher the percentage means the greater coverage of poor households </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The indicator is reliable, as data are collected at source at national level and are disaggregated by target group (direct beneficiary), sex of the head of household and Province. </p>
+ <p> Limitations: The available data do not allow the use of the global indicator formula, as the Ministry of Gender, Children and Social Action has not yet started to implement social transfers per person in accordance with Decree 47/2018, of 6 August. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Coverage = Number of Households benefiting from Social Protection (Social Assistance) Programs / Poor and vulnerable households according to the IV Poverty Assessment in Mozambique X100 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_VALIDATION">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Analyzed at the level of the Technical Council and validated by the Advisory Council of the Ministry of Gender, Children and Social Action </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DOC_METHOD">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The guidance given internationally or globally and the use of the population below the poverty line but the country uses households below the poverty line </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_MGMNT">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The report data are analyzed by the Monitoring and Evaluation Division team, by the head of the Planning Department, by the Director of planning and cooperation, by the Technical Council and finally by the Advisory Council of the Ministry of Gender, Children and Social Action. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> During the data collection process, the INAS team controls the quality of the data that the Delegations report before being sent to the Ministry of Gender, Children and Social Action. </p>
+ <p> Comparison of the information for the current period with that of the previous period and also with the planned one. </p>
+ <p> Check the veracity of the data with INAS and the delegations </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSMNT">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The Ministry of Gender, Children and Social Action is organizing the statistics area to work in coordination with the National Statistics Institute (INE) to improve the quality of the entire process, from data collection to data publication </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Data are available annually and are disaggregated by sex of the head of household, Province and Target group </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> This indicator cannot be compared with other countries, as households are used in the calculation process instead of population. This is because, at the moment, the Assistance Programs make social transfers to the household and not to the individual. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> <a href="http://www.mgcas.mz.co"> www.mgcas.mz.co </a>, </p>
+ <p> National Basic Social Security Strategy (ENSSB) </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -859,7 +2652,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="bfcf794b-1478-4116-bf7c-becf50aa47eb">
+  <mes:MetadataSet structureRef="MDS1" setID="d6d3578b-f098-42ca-aa49-1241964024bb">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -884,51 +2677,214 @@
       </gen:Target>
       <gen:AttributeSet>
         
-        <gen:ReportedAttribute id="target_id">
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
           
-          <com:Text xml:lang="en"><![CDATA[1.3]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="sdg_goal">
-          
-          <com:Text xml:lang="en"><![CDATA[1]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> Planning and Cooperation Directorate </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
-        <gen:ReportedAttribute id="reporting_status">
+        <gen:ReportedAttribute id="IND_DEF_CON_CLASS">
           
-          <com:Text xml:lang="en"><![CDATA[complete]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="data_non_statistical">
-          
-          <com:Text xml:lang="en"><![CDATA[False]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> The coverage of social protection programs is the percentage of the population that benefit from social protection programs. Estimates include direct and indirect beneficiaries. </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
-        <gen:ReportedAttribute id="graph_type">
+        <gen:ReportedAttribute id="SDG_GOAL">
           
-          <com:Text xml:lang="en"><![CDATA[line]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="indicator_sort_order">
-          
-          <com:Text xml:lang="en"><![CDATA[01-03-01]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> 1. Eradicate poverty in all its forms, everywhere </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
-        <gen:ReportedAttribute id="indicator_name">
+        <gen:ReportedAttribute id="SDG_TARGET">
           
-          <com:Text xml:lang="en"><![CDATA[Investimento directo estrangeiro (IDE), em percentagem do PIB]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> <strong> 1.3 </strong> Implement, at the national level, adequate social protection measures and systems, for all, and by 2030 achieve substantial coverage of the poor and vulnerable <strong> </strong>06]]></com:Text>
           
         </gen:ReportedAttribute>
         
-        <gen:ReportedAttribute id="graph_title">
+        <gen:ReportedAttribute id="SDG_INDICATOR">
           
-          <com:Text xml:lang="en"><![CDATA[Investimento directo estrangeiro (IDE), em percentagem do PIB]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <h1> 1.3.1 Percentage of the population covered by basic social protection programs, by sex and for the following population groups: people in situations of poverty and vulnerability (orphans and vulnerable children, elderly people, people with disabilities, people with chronic and degenerative diseases , children 0-2 years) </h1>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_SERIES_DESCR">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Population covered by basic social protection programs as a percentage </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="META_LAST_UPDATE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> 1/20/2020 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_RELATED_INDICATORS">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> No indicators related to0679c9a6a6d43z0]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_ORGANISATION">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Ministry of Gender, Children and Social Action (MGCAS) </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Ângelo Tivane and Arnaldo Muthemba </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_FUNCT">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Head of Planning Department, technical </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> +258 828351430; +258 840560048; +258 826081976; +258 2268933 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_MAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> <a href="mailto:Angelotivane2011@gmail.com"> Angelotivane2011@gmail.com </a>; <a href="mailto:muthembarnaldo@gmail.com" target="_blank"> muthembarnaldo@gmail.com </a> </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> <a href="mailto:Angelotivane2011@gmail.com"> Angelotivane2011@gmail.com </a>; <a href="mailto:muthembarnaldo@gmail.com" target="_blank"> muthembarnaldo@gmail.com </a> </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The coverage of social protection programs is the percentage of the population that benefit from social protection programs. Estimates include direct and indirect beneficiaries </p>
+ <p> Coverage of Social Protection Programs (Social Assistance) Poor and vulnerable population (Elderly, Disabled, Chronic and Degenerative Sick, Orphaned Child and Child of a mother who cannot breastfeed, Child with malnutrition) </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="UNIT_MEASURE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Percentage </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Administrative source. Annual report of the PES of the Ministry of Gender, Children and Social Action (MGCAS) and data from the denominator are from the Population and Housing Census and INE projections </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COLL_METHOD">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The Delegations of the National Institute of Social Action collect the data and introduce it into the INAS Information System on line (e-INAS) and the National Institute of Social Action (INAS), in turn harmonizes, verifies and makes validation based also on the reports sent periodically by the delegations. </p>
+ <p> INAS in turn sends the periodic report to the Ministry of Gender, Children and Social Action for final validation and sent to the District Health, Women and Social Action Services and Provincial Social Affairs Services. </p>
+ <p> Population data are collected at INE </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="FREQ_COLL">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> 27 December 2020 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REL_CAL_POLICY">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> 20 January 2021 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_SOURCE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Delegations of the National Institute of Social Action </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Ministry of Gender, Children and Social Action </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="INST_MANDATE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Ministerial Diploma No. 117/2015, of December 31; decree nº 47/2018, of 6 August, presidential decree nº 9/2015 of 13 March, resolution nº 18/2015 of 10 July </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The focus is that all poor families are beneficiaries of Protection Programs (Social Assistance) The higher the percentage means the greater coverage of poor households </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The indicator is reliable, as data are collected at source at national level and are disaggregated by target group (direct beneficiary), sex of the head of household and Province. </p>
+ <p> Limitations: The available data do not allow the use of the global indicator formula, as the Ministry of Gender, Children and Social Action has not yet started to implement social transfers per person in accordance with Decree 47/2018, of 6 August. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Coverage = Number of Households benefiting from Social Protection (Social Assistance) Programs / Poor and vulnerable households according to the IV Poverty Assessment in Mozambique X100 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_VALIDATION">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Analyzed at the level of the Technical Council and validated by the Advisory Council of the Ministry of Gender, Children and Social Action </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DOC_METHOD">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The guidance given internationally or globally and the use of the population below the poverty line but the country uses households below the poverty line </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_MGMNT">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The report data are analyzed by the Monitoring and Evaluation Division team, by the head of the Planning Department, by the Director of planning and cooperation, by the Technical Council and finally by the Advisory Council of the Ministry of Gender, Children and Social Action. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> During the data collection process, the INAS team controls the quality of the data that the Delegations report before being sent to the Ministry of Gender, Children and Social Action. </p>
+ <p> Comparison of the information for the current period with that of the previous period and also with the planned one. </p>
+ <p> Check the veracity of the data with INAS and the delegations </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSMNT">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The Ministry of Gender, Children and Social Action is organizing the statistics area to work in coordination with the National Statistics Institute (INE) to improve the quality of the entire process, from data collection to data publication </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Data are available annually and are disaggregated by sex of the head of household, Province and Target group </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> This indicator cannot be compared with other countries, as households are used in the calculation process instead of population. This is because, at the moment, the Assistance Programs make social transfers to the household and not to the individual. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> <a href="http://www.mgcas.mz.co"> www.mgcas.mz.co </a>, </p>
+ <p> National Basic Social Security Strategy (ENSSB) </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         

@@ -1,0 +1,13 @@
+Year,OBS_STATUS,NATURE,COMMENT_OBS,UNIT_MULT,SOURCE_DETAIL,FREQ,REPORTING_TYPE,SERIES,REF_AREA,UNIT_MEASURE,Value
+2014,A,_X,Mean time to Food market,0,"EICV, NISR",A,N,_L_RW_010401_1,RW,MIN,51.6
+2017,A,_X,Mean time to Food market,0,"EICV, NISR",A,N,_L_RW_010401_1,RW,MIN,50.0
+2020,A,_X,Mean time to Food market,0,"EICV, NISR",A,N,_L_RW_010401_1,RW,MIN,47.4
+2014,A,_X,Mean time to Primary School,0,"EICV, NISR",A,N,_L_RW_010401_2,RW,MIN,25.6
+2017,A,_X,Mean time to Primary School,0,"EICV, NISR",A,N,_L_RW_010401_2,RW,MIN,25.4
+2020,A,_X,Mean time to Primary School,0,"EICV, NISR",A,N,_L_RW_010401_2,RW,MIN,22.7
+2014,A,_X,Mean time to Secondary,0,"EICV, NISR",A,N,_L_RW_010401_3,RW,MIN,38.3
+2017,A,_X,Mean time to Secondary,0,"EICV, NISR",A,N,_L_RW_010401_3,RW,MIN,44.4
+2020,A,_X,Mean time to Secondary,0,"EICV, NISR",A,N,_L_RW_010401_3,RW,MIN,49.3
+2014,A,_X,Mean time to Health center,0,"EICV, NISR",A,N,_L_RW_010401_4,RW,MIN,56.9
+2017,A,_X,Mean time to Health center,0,"EICV, NISR",A,N,_L_RW_010401_4,RW,MIN,49.9
+2020,A,_X,Mean time to Health center,0,"EICV, NISR",A,N,_L_RW_010401_4,RW,MIN,47.3
