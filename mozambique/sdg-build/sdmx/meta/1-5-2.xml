@@ -1,0 +1,555 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
+  <mes:Header>
+    <mes:ID>IREF1623036954</mes:ID>
+    <mes:Test>True</mes:Test>
+    <mes:Prepared>2021-06-07T03:35:54</mes:Prepared>
+    <mes:Sender id="open-sdg_sdg-build@1-3-0"/>
+    <mes:Structure structureID="MDS1">
+      <com:Structure>
+        <URN>urn:sdmx:org.sdmx.infomodel.metadatastructure.MetadataStructure=IAEG-SDGs:SDG_MSD(0.3)</URN>
+      </com:Structure>
+    </mes:Structure>
+  </mes:Header>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="e573fd92-f488-4802-9a99-9251105a3920">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>VC_DSR_GDPLS</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>508</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="target_id">
+          
+          <com:Text xml:lang="en"><![CDATA[1.5]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="sdg_goal">
+          
+          <com:Text xml:lang="en"><![CDATA[1]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="reporting_status">
+          
+          <com:Text xml:lang="en"><![CDATA[complete]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="data_non_statistical">
+          
+          <com:Text xml:lang="en"><![CDATA[False]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="graph_type">
+          
+          <com:Text xml:lang="en"><![CDATA[line]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="indicator_sort_order">
+          
+          <com:Text xml:lang="en"><![CDATA[01-05-02]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="indicator_name">
+          
+          <com:Text xml:lang="en"><![CDATA[Investimento directo estrangeiro (IDE), em percentagem do PIB]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="graph_title">
+          
+          <com:Text xml:lang="en"><![CDATA[Investimento directo estrangeiro (IDE), em percentagem do PIB]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="45e0dfd3-dcb5-4baa-8db3-bf60489eb5be">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>VC_DSR_LSGP</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>508</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="target_id">
+          
+          <com:Text xml:lang="en"><![CDATA[1.5]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="sdg_goal">
+          
+          <com:Text xml:lang="en"><![CDATA[1]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="reporting_status">
+          
+          <com:Text xml:lang="en"><![CDATA[complete]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="data_non_statistical">
+          
+          <com:Text xml:lang="en"><![CDATA[False]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="graph_type">
+          
+          <com:Text xml:lang="en"><![CDATA[line]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="indicator_sort_order">
+          
+          <com:Text xml:lang="en"><![CDATA[01-05-02]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="indicator_name">
+          
+          <com:Text xml:lang="en"><![CDATA[Investimento directo estrangeiro (IDE), em percentagem do PIB]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="graph_title">
+          
+          <com:Text xml:lang="en"><![CDATA[Investimento directo estrangeiro (IDE), em percentagem do PIB]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="5bd2d9d5-d607-4930-b166-952391328bfd">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>VC_DSR_AGLH</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>508</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="target_id">
+          
+          <com:Text xml:lang="en"><![CDATA[1.5]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="sdg_goal">
+          
+          <com:Text xml:lang="en"><![CDATA[1]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="reporting_status">
+          
+          <com:Text xml:lang="en"><![CDATA[complete]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="data_non_statistical">
+          
+          <com:Text xml:lang="en"><![CDATA[False]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="graph_type">
+          
+          <com:Text xml:lang="en"><![CDATA[line]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="indicator_sort_order">
+          
+          <com:Text xml:lang="en"><![CDATA[01-05-02]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="indicator_name">
+          
+          <com:Text xml:lang="en"><![CDATA[Investimento directo estrangeiro (IDE), em percentagem do PIB]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="graph_title">
+          
+          <com:Text xml:lang="en"><![CDATA[Investimento directo estrangeiro (IDE), em percentagem do PIB]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="33b285c9-c928-4897-a826-49263dcf674a">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>VC_DSR_HOLH</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>508</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="target_id">
+          
+          <com:Text xml:lang="en"><![CDATA[1.5]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="sdg_goal">
+          
+          <com:Text xml:lang="en"><![CDATA[1]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="reporting_status">
+          
+          <com:Text xml:lang="en"><![CDATA[complete]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="data_non_statistical">
+          
+          <com:Text xml:lang="en"><![CDATA[False]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="graph_type">
+          
+          <com:Text xml:lang="en"><![CDATA[line]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="indicator_sort_order">
+          
+          <com:Text xml:lang="en"><![CDATA[01-05-02]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="indicator_name">
+          
+          <com:Text xml:lang="en"><![CDATA[Investimento directo estrangeiro (IDE), em percentagem do PIB]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="graph_title">
+          
+          <com:Text xml:lang="en"><![CDATA[Investimento directo estrangeiro (IDE), em percentagem do PIB]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="91892d7e-36a0-4700-be71-3704f950b3e4">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>VC_DSR_CILN</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>508</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="target_id">
+          
+          <com:Text xml:lang="en"><![CDATA[1.5]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="sdg_goal">
+          
+          <com:Text xml:lang="en"><![CDATA[1]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="reporting_status">
+          
+          <com:Text xml:lang="en"><![CDATA[complete]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="data_non_statistical">
+          
+          <com:Text xml:lang="en"><![CDATA[False]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="graph_type">
+          
+          <com:Text xml:lang="en"><![CDATA[line]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="indicator_sort_order">
+          
+          <com:Text xml:lang="en"><![CDATA[01-05-02]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="indicator_name">
+          
+          <com:Text xml:lang="en"><![CDATA[Investimento directo estrangeiro (IDE), em percentagem do PIB]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="graph_title">
+          
+          <com:Text xml:lang="en"><![CDATA[Investimento directo estrangeiro (IDE), em percentagem do PIB]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="468ee2c3-6cf2-4a55-821e-396b46b111e0">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>VC_DSR_CHLN</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>508</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="target_id">
+          
+          <com:Text xml:lang="en"><![CDATA[1.5]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="sdg_goal">
+          
+          <com:Text xml:lang="en"><![CDATA[1]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="reporting_status">
+          
+          <com:Text xml:lang="en"><![CDATA[complete]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="data_non_statistical">
+          
+          <com:Text xml:lang="en"><![CDATA[False]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="graph_type">
+          
+          <com:Text xml:lang="en"><![CDATA[line]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="indicator_sort_order">
+          
+          <com:Text xml:lang="en"><![CDATA[01-05-02]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="indicator_name">
+          
+          <com:Text xml:lang="en"><![CDATA[Investimento directo estrangeiro (IDE), em percentagem do PIB]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="graph_title">
+          
+          <com:Text xml:lang="en"><![CDATA[Investimento directo estrangeiro (IDE), em percentagem do PIB]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="374cd5b0-49fb-421a-8544-defa02c08b89">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>VC_DSR_DDPA</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>508</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="target_id">
+          
+          <com:Text xml:lang="en"><![CDATA[1.5]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="sdg_goal">
+          
+          <com:Text xml:lang="en"><![CDATA[1]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="reporting_status">
+          
+          <com:Text xml:lang="en"><![CDATA[complete]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="data_non_statistical">
+          
+          <com:Text xml:lang="en"><![CDATA[False]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="graph_type">
+          
+          <com:Text xml:lang="en"><![CDATA[line]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="indicator_sort_order">
+          
+          <com:Text xml:lang="en"><![CDATA[01-05-02]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="indicator_name">
+          
+          <com:Text xml:lang="en"><![CDATA[Investimento directo estrangeiro (IDE), em percentagem do PIB]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="graph_title">
+          
+          <com:Text xml:lang="en"><![CDATA[Investimento directo estrangeiro (IDE), em percentagem do PIB]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+</mes:GenericMetadata>
+        

@@ -1,0 +1,1787 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
+  <mes:Header>
+    <mes:ID>IREF1623036874</mes:ID>
+    <mes:Test>True</mes:Test>
+    <mes:Prepared>2021-06-07T03:34:34</mes:Prepared>
+    <mes:Sender id="open-sdg_sdg-build@1-3-0"/>
+    <mes:Structure structureID="MDS1">
+      <com:Structure>
+        <URN>urn:sdmx:org.sdmx.infomodel.metadatastructure.MetadataStructure=IAEG-SDGs:SDG_MSD(0.3)</URN>
+      </com:Structure>
+    </mes:Structure>
+  </mes:Header>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="1dc2ad25-353f-4721-9c18-1e651e10cd3a">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>SH_STA_BRTC</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>ET</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="target_id">
+          
+          <com:Text xml:lang="en"><![CDATA[3.1]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="sdg_goal">
+          
+          <com:Text xml:lang="en"><![CDATA[3]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="reporting_status">
+          
+          <com:Text xml:lang="en"><![CDATA[complete]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="data_non_statistical">
+          
+          <com:Text xml:lang="en"><![CDATA[False]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="graph_type">
+          
+          <com:Text xml:lang="en"><![CDATA[line]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="indicator_sort_order">
+          
+          <com:Text xml:lang="en"><![CDATA[03-01-02]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="indicator_name">
+          
+          <com:Text xml:lang="en"><![CDATA[Proportion of children under 5 years of age whose births have been registered with a civil authority, by age]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="graph_title">
+          
+          <com:Text xml:lang="en"><![CDATA[Proportion of children under 5 years of age whose births have been registered with a civil authority, by age]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="81b2ea50-5326-4588-b35c-6ffa1a1cd368">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>SH_FPL_MTMM</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>ET</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="target_id">
+          
+          <com:Text xml:lang="en"><![CDATA[3.7]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="sdg_goal">
+          
+          <com:Text xml:lang="en"><![CDATA[3]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="reporting_status">
+          
+          <com:Text xml:lang="en"><![CDATA[complete]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="data_non_statistical">
+          
+          <com:Text xml:lang="en"><![CDATA[False]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="graph_type">
+          
+          <com:Text xml:lang="en"><![CDATA[line]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="indicator_sort_order">
+          
+          <com:Text xml:lang="en"><![CDATA[03-07-01]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="indicator_name">
+          
+          <com:Text xml:lang="en"><![CDATA[Proportion of children under 5 years of age whose births have been registered with a civil authority, by age]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="graph_title">
+          
+          <com:Text xml:lang="en"><![CDATA[Proportion of children under 5 years of age whose births have been registered with a civil authority, by age]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="c81c806a-c83c-4686-a8b7-1e1c99028dcc">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>SH_PRV_SMOK</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>ET</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="target_id">
+          
+          <com:Text xml:lang="en"><![CDATA[3.a]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="sdg_goal">
+          
+          <com:Text xml:lang="en"><![CDATA[3]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="reporting_status">
+          
+          <com:Text xml:lang="en"><![CDATA[complete]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="data_non_statistical">
+          
+          <com:Text xml:lang="en"><![CDATA[False]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="graph_type">
+          
+          <com:Text xml:lang="en"><![CDATA[line]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="indicator_sort_order">
+          
+          <com:Text xml:lang="en"><![CDATA[03-0a-01]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="indicator_name">
+          
+          <com:Text xml:lang="en"><![CDATA[Proportion of children under 5 years of age whose births have been registered with a civil authority, by age]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="graph_title">
+          
+          <com:Text xml:lang="en"><![CDATA[Proportion of children under 5 years of age whose births have been registered with a civil authority, by age]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="6d7c6525-19ba-47e5-967a-fb2aa5abd43d">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>VC_VAW_MARR</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>ET</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="target_id">
+          
+          <com:Text xml:lang="en"><![CDATA[5.2]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="sdg_goal">
+          
+          <com:Text xml:lang="en"><![CDATA[5]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="reporting_status">
+          
+          <com:Text xml:lang="en"><![CDATA[complete]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="data_non_statistical">
+          
+          <com:Text xml:lang="en"><![CDATA[False]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="graph_type">
+          
+          <com:Text xml:lang="en"><![CDATA[line]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="indicator_sort_order">
+          
+          <com:Text xml:lang="en"><![CDATA[05-02-01]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="indicator_name">
+          
+          <com:Text xml:lang="en"><![CDATA[Proportion of children under 5 years of age whose births have been registered with a civil authority, by age]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="graph_title">
+          
+          <com:Text xml:lang="en"><![CDATA[Proportion of children under 5 years of age whose births have been registered with a civil authority, by age]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="3d9da8fd-9358-4ebf-a9e5-d590fab88dda">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>VC_VAW_PHYV</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>ET</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="target_id">
+          
+          <com:Text xml:lang="en"><![CDATA[5.2]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="sdg_goal">
+          
+          <com:Text xml:lang="en"><![CDATA[5]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="reporting_status">
+          
+          <com:Text xml:lang="en"><![CDATA[complete]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="data_non_statistical">
+          
+          <com:Text xml:lang="en"><![CDATA[False]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="graph_type">
+          
+          <com:Text xml:lang="en"><![CDATA[line]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="indicator_sort_order">
+          
+          <com:Text xml:lang="en"><![CDATA[05-02-01]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="indicator_name">
+          
+          <com:Text xml:lang="en"><![CDATA[Proportion of children under 5 years of age whose births have been registered with a civil authority, by age]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="graph_title">
+          
+          <com:Text xml:lang="en"><![CDATA[Proportion of children under 5 years of age whose births have been registered with a civil authority, by age]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="29bbecaf-edd7-4ff1-8469-5d285486c520">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>VC_VAW_SEXV</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>ET</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="target_id">
+          
+          <com:Text xml:lang="en"><![CDATA[5.2]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="sdg_goal">
+          
+          <com:Text xml:lang="en"><![CDATA[5]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="reporting_status">
+          
+          <com:Text xml:lang="en"><![CDATA[complete]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="data_non_statistical">
+          
+          <com:Text xml:lang="en"><![CDATA[False]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="graph_type">
+          
+          <com:Text xml:lang="en"><![CDATA[line]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="indicator_sort_order">
+          
+          <com:Text xml:lang="en"><![CDATA[05-02-01]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="indicator_name">
+          
+          <com:Text xml:lang="en"><![CDATA[Proportion of children under 5 years of age whose births have been registered with a civil authority, by age]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="graph_title">
+          
+          <com:Text xml:lang="en"><![CDATA[Proportion of children under 5 years of age whose births have been registered with a civil authority, by age]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="63abed8f-6ffe-42b6-bed4-69965bd194c1">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>VC_VAW_PSYV</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>ET</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="target_id">
+          
+          <com:Text xml:lang="en"><![CDATA[5.2]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="sdg_goal">
+          
+          <com:Text xml:lang="en"><![CDATA[5]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="reporting_status">
+          
+          <com:Text xml:lang="en"><![CDATA[complete]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="data_non_statistical">
+          
+          <com:Text xml:lang="en"><![CDATA[False]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="graph_type">
+          
+          <com:Text xml:lang="en"><![CDATA[line]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="indicator_sort_order">
+          
+          <com:Text xml:lang="en"><![CDATA[05-02-01]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="indicator_name">
+          
+          <com:Text xml:lang="en"><![CDATA[Proportion of children under 5 years of age whose births have been registered with a civil authority, by age]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="graph_title">
+          
+          <com:Text xml:lang="en"><![CDATA[Proportion of children under 5 years of age whose births have been registered with a civil authority, by age]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="72151543-1de4-4832-9069-7343414e39b6">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>SP_DYN_MRBF15</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>ET</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="target_id">
+          
+          <com:Text xml:lang="en"><![CDATA[5.3]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="sdg_goal">
+          
+          <com:Text xml:lang="en"><![CDATA[5]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="reporting_status">
+          
+          <com:Text xml:lang="en"><![CDATA[complete]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="data_non_statistical">
+          
+          <com:Text xml:lang="en"><![CDATA[False]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="graph_type">
+          
+          <com:Text xml:lang="en"><![CDATA[line]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="indicator_sort_order">
+          
+          <com:Text xml:lang="en"><![CDATA[05-03-01]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="indicator_name">
+          
+          <com:Text xml:lang="en"><![CDATA[Proportion of children under 5 years of age whose births have been registered with a civil authority, by age]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="graph_title">
+          
+          <com:Text xml:lang="en"><![CDATA[Proportion of children under 5 years of age whose births have been registered with a civil authority, by age]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="268bea1a-162c-4366-a880-f10dc9cef0d0">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>SP_DYN_MRBF18</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>ET</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="target_id">
+          
+          <com:Text xml:lang="en"><![CDATA[5.3]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="sdg_goal">
+          
+          <com:Text xml:lang="en"><![CDATA[5]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="reporting_status">
+          
+          <com:Text xml:lang="en"><![CDATA[complete]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="data_non_statistical">
+          
+          <com:Text xml:lang="en"><![CDATA[False]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="graph_type">
+          
+          <com:Text xml:lang="en"><![CDATA[line]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="indicator_sort_order">
+          
+          <com:Text xml:lang="en"><![CDATA[05-03-01]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="indicator_name">
+          
+          <com:Text xml:lang="en"><![CDATA[Proportion of children under 5 years of age whose births have been registered with a civil authority, by age]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="graph_title">
+          
+          <com:Text xml:lang="en"><![CDATA[Proportion of children under 5 years of age whose births have been registered with a civil authority, by age]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="2a394368-4ce1-415c-8b70-ccae863e9adf">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>SH_STA_FGMS</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>ET</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="target_id">
+          
+          <com:Text xml:lang="en"><![CDATA[5.3]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="sdg_goal">
+          
+          <com:Text xml:lang="en"><![CDATA[5]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="reporting_status">
+          
+          <com:Text xml:lang="en"><![CDATA[complete]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="data_non_statistical">
+          
+          <com:Text xml:lang="en"><![CDATA[False]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="graph_type">
+          
+          <com:Text xml:lang="en"><![CDATA[line]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="indicator_sort_order">
+          
+          <com:Text xml:lang="en"><![CDATA[05-03-02]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="indicator_name">
+          
+          <com:Text xml:lang="en"><![CDATA[Proportion of children under 5 years of age whose births have been registered with a civil authority, by age]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="graph_title">
+          
+          <com:Text xml:lang="en"><![CDATA[Proportion of children under 5 years of age whose births have been registered with a civil authority, by age]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="564c55e8-c8e7-4e2e-9d4a-76718aeee9ce">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>IC_GEN_MGTL</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>ET</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="target_id">
+          
+          <com:Text xml:lang="en"><![CDATA[5.5]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="sdg_goal">
+          
+          <com:Text xml:lang="en"><![CDATA[5]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="reporting_status">
+          
+          <com:Text xml:lang="en"><![CDATA[complete]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="data_non_statistical">
+          
+          <com:Text xml:lang="en"><![CDATA[False]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="graph_type">
+          
+          <com:Text xml:lang="en"><![CDATA[line]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="indicator_sort_order">
+          
+          <com:Text xml:lang="en"><![CDATA[05-05-02]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="indicator_name">
+          
+          <com:Text xml:lang="en"><![CDATA[Proportion of children under 5 years of age whose births have been registered with a civil authority, by age]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="graph_title">
+          
+          <com:Text xml:lang="en"><![CDATA[Proportion of children under 5 years of age whose births have been registered with a civil authority, by age]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="9874d824-1e15-4a8b-81e1-cb0be17220dc">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>IC_GEN_MGTN</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>ET</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="target_id">
+          
+          <com:Text xml:lang="en"><![CDATA[5.5]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="sdg_goal">
+          
+          <com:Text xml:lang="en"><![CDATA[5]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="reporting_status">
+          
+          <com:Text xml:lang="en"><![CDATA[complete]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="data_non_statistical">
+          
+          <com:Text xml:lang="en"><![CDATA[False]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="graph_type">
+          
+          <com:Text xml:lang="en"><![CDATA[line]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="indicator_sort_order">
+          
+          <com:Text xml:lang="en"><![CDATA[05-05-02]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="indicator_name">
+          
+          <com:Text xml:lang="en"><![CDATA[Proportion of children under 5 years of age whose births have been registered with a civil authority, by age]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="graph_title">
+          
+          <com:Text xml:lang="en"><![CDATA[Proportion of children under 5 years of age whose births have been registered with a civil authority, by age]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="3d11a8ce-7fae-430e-b00c-9ae938937027">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>SH_FPL_INFM</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>ET</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="target_id">
+          
+          <com:Text xml:lang="en"><![CDATA[5.6]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="sdg_goal">
+          
+          <com:Text xml:lang="en"><![CDATA[5]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="reporting_status">
+          
+          <com:Text xml:lang="en"><![CDATA[complete]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="data_non_statistical">
+          
+          <com:Text xml:lang="en"><![CDATA[False]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="graph_type">
+          
+          <com:Text xml:lang="en"><![CDATA[line]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="indicator_sort_order">
+          
+          <com:Text xml:lang="en"><![CDATA[05-06-01]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="indicator_name">
+          
+          <com:Text xml:lang="en"><![CDATA[Proportion of children under 5 years of age whose births have been registered with a civil authority, by age]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="graph_title">
+          
+          <com:Text xml:lang="en"><![CDATA[Proportion of children under 5 years of age whose births have been registered with a civil authority, by age]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="be45e73b-cfff-4cf4-a511-20d651cbeb45">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>SH_FPL_INFMSR</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>ET</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="target_id">
+          
+          <com:Text xml:lang="en"><![CDATA[5.6]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="sdg_goal">
+          
+          <com:Text xml:lang="en"><![CDATA[5]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="reporting_status">
+          
+          <com:Text xml:lang="en"><![CDATA[complete]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="data_non_statistical">
+          
+          <com:Text xml:lang="en"><![CDATA[False]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="graph_type">
+          
+          <com:Text xml:lang="en"><![CDATA[line]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="indicator_sort_order">
+          
+          <com:Text xml:lang="en"><![CDATA[05-06-01]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="indicator_name">
+          
+          <com:Text xml:lang="en"><![CDATA[Proportion of children under 5 years of age whose births have been registered with a civil authority, by age]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="graph_title">
+          
+          <com:Text xml:lang="en"><![CDATA[Proportion of children under 5 years of age whose births have been registered with a civil authority, by age]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="7a2a3dad-a7e6-4d79-9956-c4441aa94846">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>SH_FPL_INFMCU</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>ET</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="target_id">
+          
+          <com:Text xml:lang="en"><![CDATA[5.6]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="sdg_goal">
+          
+          <com:Text xml:lang="en"><![CDATA[5]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="reporting_status">
+          
+          <com:Text xml:lang="en"><![CDATA[complete]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="data_non_statistical">
+          
+          <com:Text xml:lang="en"><![CDATA[False]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="graph_type">
+          
+          <com:Text xml:lang="en"><![CDATA[line]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="indicator_sort_order">
+          
+          <com:Text xml:lang="en"><![CDATA[05-06-01]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="indicator_name">
+          
+          <com:Text xml:lang="en"><![CDATA[Proportion of children under 5 years of age whose births have been registered with a civil authority, by age]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="graph_title">
+          
+          <com:Text xml:lang="en"><![CDATA[Proportion of children under 5 years of age whose births have been registered with a civil authority, by age]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="67df65bf-8993-4868-b300-6a0df8224609">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>SH_FPL_INFMRH</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>ET</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="target_id">
+          
+          <com:Text xml:lang="en"><![CDATA[5.6]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="sdg_goal">
+          
+          <com:Text xml:lang="en"><![CDATA[5]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="reporting_status">
+          
+          <com:Text xml:lang="en"><![CDATA[complete]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="data_non_statistical">
+          
+          <com:Text xml:lang="en"><![CDATA[False]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="graph_type">
+          
+          <com:Text xml:lang="en"><![CDATA[line]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="indicator_sort_order">
+          
+          <com:Text xml:lang="en"><![CDATA[05-06-01]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="indicator_name">
+          
+          <com:Text xml:lang="en"><![CDATA[Proportion of children under 5 years of age whose births have been registered with a civil authority, by age]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="graph_title">
+          
+          <com:Text xml:lang="en"><![CDATA[Proportion of children under 5 years of age whose births have been registered with a civil authority, by age]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="abf890e0-fadb-4348-8eec-8c2e1d4004fd">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>SP_LGL_LNDAGSEC</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>ET</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="target_id">
+          
+          <com:Text xml:lang="en"><![CDATA[5.a]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="sdg_goal">
+          
+          <com:Text xml:lang="en"><![CDATA[5]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="reporting_status">
+          
+          <com:Text xml:lang="en"><![CDATA[complete]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="data_non_statistical">
+          
+          <com:Text xml:lang="en"><![CDATA[False]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="graph_type">
+          
+          <com:Text xml:lang="en"><![CDATA[line]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="indicator_sort_order">
+          
+          <com:Text xml:lang="en"><![CDATA[05-0a-01]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="indicator_name">
+          
+          <com:Text xml:lang="en"><![CDATA[Proportion of children under 5 years of age whose births have been registered with a civil authority, by age]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="graph_title">
+          
+          <com:Text xml:lang="en"><![CDATA[Proportion of children under 5 years of age whose births have been registered with a civil authority, by age]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="505e8f80-80c2-4d53-a644-f0f13231aa8f">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>SP_GNP_WNOWNS</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>ET</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="target_id">
+          
+          <com:Text xml:lang="en"><![CDATA[5.a]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="sdg_goal">
+          
+          <com:Text xml:lang="en"><![CDATA[5]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="reporting_status">
+          
+          <com:Text xml:lang="en"><![CDATA[complete]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="data_non_statistical">
+          
+          <com:Text xml:lang="en"><![CDATA[False]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="graph_type">
+          
+          <com:Text xml:lang="en"><![CDATA[line]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="indicator_sort_order">
+          
+          <com:Text xml:lang="en"><![CDATA[05-0a-01]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="indicator_name">
+          
+          <com:Text xml:lang="en"><![CDATA[Proportion of children under 5 years of age whose births have been registered with a civil authority, by age]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="graph_title">
+          
+          <com:Text xml:lang="en"><![CDATA[Proportion of children under 5 years of age whose births have been registered with a civil authority, by age]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="a358b828-b98d-4f91-b3ed-3767988d80ba">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>IT_MOB_OWN</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>ET</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="target_id">
+          
+          <com:Text xml:lang="en"><![CDATA[5.b]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="sdg_goal">
+          
+          <com:Text xml:lang="en"><![CDATA[5]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="reporting_status">
+          
+          <com:Text xml:lang="en"><![CDATA[complete]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="data_non_statistical">
+          
+          <com:Text xml:lang="en"><![CDATA[False]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="graph_type">
+          
+          <com:Text xml:lang="en"><![CDATA[line]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="indicator_sort_order">
+          
+          <com:Text xml:lang="en"><![CDATA[05-0b-01]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="indicator_name">
+          
+          <com:Text xml:lang="en"><![CDATA[Proportion of children under 5 years of age whose births have been registered with a civil authority, by age]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="graph_title">
+          
+          <com:Text xml:lang="en"><![CDATA[Proportion of children under 5 years of age whose births have been registered with a civil authority, by age]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="f140ad4a-220f-44d2-b88d-2323e9eae849">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>SL_ISV_IFEM</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>ET</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="target_id">
+          
+          <com:Text xml:lang="en"><![CDATA[8.3]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="sdg_goal">
+          
+          <com:Text xml:lang="en"><![CDATA[8]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="reporting_status">
+          
+          <com:Text xml:lang="en"><![CDATA[complete]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="data_non_statistical">
+          
+          <com:Text xml:lang="en"><![CDATA[False]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="graph_type">
+          
+          <com:Text xml:lang="en"><![CDATA[line]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="indicator_sort_order">
+          
+          <com:Text xml:lang="en"><![CDATA[08-03-01]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="indicator_name">
+          
+          <com:Text xml:lang="en"><![CDATA[Proportion of children under 5 years of age whose births have been registered with a civil authority, by age]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="graph_title">
+          
+          <com:Text xml:lang="en"><![CDATA[Proportion of children under 5 years of age whose births have been registered with a civil authority, by age]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="fbb1c3aa-5d30-4075-b020-630fae5618b4">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>SL_TLF_UEM</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>ET</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="target_id">
+          
+          <com:Text xml:lang="en"><![CDATA[8.5]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="sdg_goal">
+          
+          <com:Text xml:lang="en"><![CDATA[8]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="reporting_status">
+          
+          <com:Text xml:lang="en"><![CDATA[complete]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="data_non_statistical">
+          
+          <com:Text xml:lang="en"><![CDATA[False]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="graph_type">
+          
+          <com:Text xml:lang="en"><![CDATA[line]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="indicator_sort_order">
+          
+          <com:Text xml:lang="en"><![CDATA[08-05-02]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="indicator_name">
+          
+          <com:Text xml:lang="en"><![CDATA[Proportion of children under 5 years of age whose births have been registered with a civil authority, by age]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="graph_title">
+          
+          <com:Text xml:lang="en"><![CDATA[Proportion of children under 5 years of age whose births have been registered with a civil authority, by age]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="eecf9ba8-1a54-4534-b857-608197863fce">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>SL_TLF_UEMDIS</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>ET</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="target_id">
+          
+          <com:Text xml:lang="en"><![CDATA[8.5]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="sdg_goal">
+          
+          <com:Text xml:lang="en"><![CDATA[8]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="reporting_status">
+          
+          <com:Text xml:lang="en"><![CDATA[complete]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="data_non_statistical">
+          
+          <com:Text xml:lang="en"><![CDATA[False]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="graph_type">
+          
+          <com:Text xml:lang="en"><![CDATA[line]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="indicator_sort_order">
+          
+          <com:Text xml:lang="en"><![CDATA[08-05-02]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="indicator_name">
+          
+          <com:Text xml:lang="en"><![CDATA[Proportion of children under 5 years of age whose births have been registered with a civil authority, by age]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="graph_title">
+          
+          <com:Text xml:lang="en"><![CDATA[Proportion of children under 5 years of age whose births have been registered with a civil authority, by age]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="81a98327-d156-4c6c-a8f8-fb9a22191446">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>SG_REG_BRTH</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>ET</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="target_id">
+          
+          <com:Text xml:lang="en"><![CDATA[16.9]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="sdg_goal">
+          
+          <com:Text xml:lang="en"><![CDATA[16]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="reporting_status">
+          
+          <com:Text xml:lang="en"><![CDATA[complete]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="data_non_statistical">
+          
+          <com:Text xml:lang="en"><![CDATA[False]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="graph_type">
+          
+          <com:Text xml:lang="en"><![CDATA[line]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="indicator_sort_order">
+          
+          <com:Text xml:lang="en"><![CDATA[16-09-01]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="indicator_name">
+          
+          <com:Text xml:lang="en"><![CDATA[Proportion of children under 5 years of age whose births have been registered with a civil authority, by age]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="graph_title">
+          
+          <com:Text xml:lang="en"><![CDATA[Proportion of children under 5 years of age whose births have been registered with a civil authority, by age]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+</mes:GenericMetadata>
+        

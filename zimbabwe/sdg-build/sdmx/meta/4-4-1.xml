@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
+  <mes:Header>
+    <mes:ID>IREF1623037073</mes:ID>
+    <mes:Test>True</mes:Test>
+    <mes:Prepared>2021-06-07T03:37:53</mes:Prepared>
+    <mes:Sender id="open-sdg_sdg-build@1-3-0"/>
+    <mes:Structure structureID="MDS1">
+      <com:Structure>
+        <URN>urn:sdmx:org.sdmx.infomodel.metadatastructure.MetadataStructure=IAEG-SDGs:SDG_MSD(0.3)</URN>
+      </com:Structure>
+    </mes:Structure>
+  </mes:Header>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="ad604679-e6bc-46d9-9ba7-dc3fbe9b0ac0">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>SE_ADT_ACTS</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>716</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="target_id">
+          
+          <com:Text xml:lang="en"><![CDATA[4.4]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="sdg_goal">
+          
+          <com:Text xml:lang="en"><![CDATA[4]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="reporting_status">
+          
+          <com:Text xml:lang="en"><![CDATA[complete]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="data_non_statistical">
+          
+          <com:Text xml:lang="en"><![CDATA[False]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="graph_type">
+          
+          <com:Text xml:lang="en"><![CDATA[line]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="indicator_sort_order">
+          
+          <com:Text xml:lang="en"><![CDATA[04-04-01]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="indicator_name">
+          
+          <com:Text xml:lang="en"><![CDATA[Proportion of individuals using the Internet]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="graph_title">
+          
+          <com:Text xml:lang="en"><![CDATA[Proportion of individuals using the Internet]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+</mes:GenericMetadata>
+        

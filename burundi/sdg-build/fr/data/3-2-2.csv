@@ -1,0 +1,11 @@
+Year,SERIES,REF_AREA,SEX,AGE,URBANISATION,EDUCATION_LEV,UNIT_MEASURE,UNIT_MULT,REPORTING_TYPE,TIME_DETAIL,Value
+2010,SH_DYN_MORT,BI,F,Y0T4,_T,_T,Nombre de décès pour 100000 naissances vivantes,0,N,2010,118.0
+2017,SH_DYN_MORT,BI,F,Y0T4,_T,_T,Nombre de décès pour 100000 naissances vivantes,0,N,2017,76.0
+2010,SH_DYN_MORT,BI,M,Y0T4,_T,_T,Nombre de décès pour 100000 naissances vivantes,0,N,2010,136.0
+2017,SH_DYN_MORT,BI,M,Y0T4,_T,_T,Nombre de décès pour 100000 naissances vivantes,0,N,2017,80.0
+2010,SH_DYN_MORT,BI,_T,Y0T4,_T,_T,Nombre de décès pour 100000 naissances vivantes,0,N,2010,96.0
+2017,SH_DYN_MORT,BI,_T,Y0T4,_T,_T,Nombre de décès pour 100000 naissances vivantes,0,N,2017,78.0
+2010,SH_DYN_MORT,BI,_T,Y0T4,U,_T,Nombre de décès pour 100000 naissances vivantes,0,N,2010,79.0
+2017,SH_DYN_MORT,BI,_T,Y0T4,U,_T,Nombre de décès pour 100000 naissances vivantes,0,N,2017,64.0
+2010,SH_DYN_MORT,BI,_T,Y0T4,R,_T,Nombre de décès pour 100000 naissances vivantes,0,N,2010,131.0
+2017,SH_DYN_MORT,BI,_T,Y0T4,R,_T,Nombre de décès pour 100000 naissances vivantes,0,N,2017,79.0
