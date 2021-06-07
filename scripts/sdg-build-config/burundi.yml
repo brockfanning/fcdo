@@ -1,9 +1,13 @@
 docs_baseurl: /fcdo/burundi/sdg-build
 languages:
   - en
+  - fr
 site_dir: _build/burundi
-schema_file: _prose.yml
 src_dir: 'scripts/sdg-build-config'
+
+schema:
+  - class: SchemaInputSdmxMsd
+    schema_path: SDG_MSD.xml
 
 docs_branding: Burundi SDG data summary
 docs_intro: This summary uses code from the Open SDG project to
@@ -18,39 +22,42 @@ inputs:
     source: scripts/sdg-build-config/input-data/burundi.json
     column_map: scripts/sdg-build-config/sdmx-mappings/columns-afdb.csv
     code_map: scripts/sdg-build-config/sdmx-mappings/codes-afdb.csv
-  - class: InputOpenDataPlatformMeta
-    source: scripts/sdg-build-config/input-meta/burundi.json
-    metadata_mapping:
-      0-a-objectif: SDG_GOAL
-      0-b-cible: SDG_TARGET
-      0-c-indicateurs-priorisés-dans-le-rapport-national-odd: SDG_INDICATOR
-      0-c-indicateurs-proposés-pour-faire-le-suivi: SDG_INDICATOR
-      0-d-séries: SDG_SERIES_DESCR
-      0-e-dernière-mise-à-jour-des-métadonnées: META_LAST_UPDATE
-      1-a-organisme-ministère-source-des-données: CONTACT_ORGANISATION
-      1-b-personne-de-contact: CONTACT_NAME
-      1-c-service-du-personne-de-contact: ORGANISATION_UNIT
-      1-d-fonction-de-la-personne-de-contact: CONTACT_FUNCT
-      1-e-télephone-de-la-personne-de-contact: CONTACT_PHONE
-      1-f-adresse-postale-de-la-personne-de-contact: CONTACT_MAIL
-      1-g-e-mail-de-la-personne-de-contact: CONTACT_EMAIL
-      2-a-définition-et-concepts: STAT_CONC_DEF
-      2-b-unité-de-mesure: UNIT_MEASURE
-      2-c-classifications: CLASS_SYSTEM
-      3-a-source-de-données: SOURCE_TYPE
-      3-b-méthodode-de-collecte-des-données: COLL_METHOD
-      3-c-calendrier-de-collecte-des-données: FREQ_COLL
-      3-d-calendrier-de-diffusion-des-données: REL_CAL_POLICY
-      3-e-fournisseur-des-données: DATA_SOURCE
-      3-f-compilateurs-des-données: COMPILING_ORG
-      3-g-mandat-institutionnel: INST_MANDATE
-      4-a-justification: RATIONALE
-      4-b-commentaires-et-limites: REC_USE_LIM
-      4-c-méthode-de-calcul: DATA_COMP
-      4-d-validation: DATA_VALIDATION
-      5-disponibilité-des-données-et-désagrégation: COVERAGE
-      6-comparabilité-avec-les-données-normes-internationales: COMPARABILITY
-      7-références-et-documentation: OTHER_DOC
+  - class: InputSdgMetadata
+    source: https://github.com/brockfanning/sdg-metadata-bi
+    branch: main
+  #- class: InputOpenDataPlatformMeta
+  #  source: scripts/sdg-build-config/input-meta/burundi.json
+  #  metadata_mapping:
+  #    0-a-objectif: SDG_GOAL
+  #    0-b-cible: SDG_TARGET
+  #    0-c-indicateurs-priorisés-dans-le-rapport-national-odd: SDG_INDICATOR
+  #    0-c-indicateurs-proposés-pour-faire-le-suivi: SDG_INDICATOR
+  #    0-d-séries: SDG_SERIES_DESCR
+  #    0-e-dernière-mise-à-jour-des-métadonnées: META_LAST_UPDATE
+  #    1-a-organisme-ministère-source-des-données: CONTACT_ORGANISATION
+  #    1-b-personne-de-contact: CONTACT_NAME
+  #    1-c-service-du-personne-de-contact: ORGANISATION_UNIT
+  #    1-d-fonction-de-la-personne-de-contact: CONTACT_FUNCT
+  #    1-e-télephone-de-la-personne-de-contact: CONTACT_PHONE
+  #    1-f-adresse-postale-de-la-personne-de-contact: CONTACT_MAIL
+  #    1-g-e-mail-de-la-personne-de-contact: CONTACT_EMAIL
+  #    2-a-définition-et-concepts: STAT_CONC_DEF
+  #    2-b-unité-de-mesure: UNIT_MEASURE
+  #    2-c-classifications: CLASS_SYSTEM
+  #    3-a-source-de-données: SOURCE_TYPE
+  #    3-b-méthodode-de-collecte-des-données: COLL_METHOD
+  #    3-c-calendrier-de-collecte-des-données: FREQ_COLL
+  #    3-d-calendrier-de-diffusion-des-données: REL_CAL_POLICY
+  #    3-e-fournisseur-des-données: DATA_SOURCE
+  #    3-f-compilateurs-des-données: COMPILING_ORG
+  #    3-g-mandat-institutionnel: INST_MANDATE
+  #    4-a-justification: RATIONALE
+  #    4-b-commentaires-et-limites: REC_USE_LIM
+  #    4-c-méthode-de-calcul: DATA_COMP
+  #    4-d-validation: DATA_VALIDATION
+  #    5-disponibilité-des-données-et-désagrégation: COVERAGE
+  #    6-comparabilité-avec-les-données-normes-internationales: COMPARABILITY
+  #    7-références-et-documentation: OTHER_DOC
 
 translations:
   - class: TranslationInputSdgTranslations
@@ -63,6 +70,7 @@ reporting_status_extra_fields: []
 
 sdmx_output:
   constrain_data: true
+  constrain_meta: true
   dsd: https://registry.sdmx.org/ws/public/sdmxapi/rest/datastructure/IAEG-SDGs/SDG/latest/?format=sdmx-2.1&detail=full&references=children
 
 logging:
