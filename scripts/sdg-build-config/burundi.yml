@@ -1,7 +1,6 @@
 docs_baseurl: /fcdo/burundi/sdg-build
 languages:
   - en
-  - fr
 site_dir: _build/burundi
 src_dir: 'scripts/sdg-build-config'
 

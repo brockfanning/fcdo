@@ -1,7 +1,6 @@
 docs_baseurl: /fcdo/lao/sdg-build
 languages:
   - en
-  - lo
 site_dir: _build/lao
 src_dir: 'scripts/sdg-build-config'
 

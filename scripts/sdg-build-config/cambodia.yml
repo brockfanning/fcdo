@@ -1,7 +1,6 @@
 docs_baseurl: /fcdo/cambodia/sdg-build
 languages:
   - en
-  - km
 site_dir: _build/cambodia
 src_dir: 'scripts/sdg-build-config'
 
