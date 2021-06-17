@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
   <mes:Header>
-    <mes:ID>IREF1623935954</mes:ID>
+    <mes:ID>IREF1623943246</mes:ID>
     <mes:Test>True</mes:Test>
-    <mes:Prepared>2021-06-17T13:19:14</mes:Prepared>
+    <mes:Prepared>2021-06-17T15:20:46</mes:Prepared>
     <mes:Sender id="open-sdg_sdg-build@1-3-0"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -12,7 +12,7 @@
     </mes:Structure>
   </mes:Header>
   
-  <mes:MetadataSet structureRef="MDS1" setID="114634f0-573b-4c23-9377-06c43eab3a50">
+  <mes:MetadataSet structureRef="MDS1" setID="f7edad51-42c8-4593-924b-042729059b11">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -231,7 +231,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="77e283f5-4ab6-455c-92b6-3202c15cb40e">
+  <mes:MetadataSet structureRef="MDS1" setID="10f889e1-8187-4ee0-a684-bef4dfacc1de">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -450,7 +450,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="ddb35adc-9449-454c-956b-9e965951a3fe">
+  <mes:MetadataSet structureRef="MDS1" setID="beaacf0e-4060-459b-a528-56ae93dc168d">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -677,7 +677,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="8a31defb-19f5-4f66-be4a-d8bc37b96b6f">
+  <mes:MetadataSet structureRef="MDS1" setID="0d9aeca2-b286-459e-b9f7-ab5eb2211877">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -885,7 +885,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="ec5294b6-f7e2-4955-8fc7-f049696b0a05">
+  <mes:MetadataSet structureRef="MDS1" setID="577d6c10-1b97-4c3c-9fe9-1f94e1c68e0a">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -1093,7 +1093,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="fdd9698b-bd7c-440d-833f-f01085006195">
+  <mes:MetadataSet structureRef="MDS1" setID="31d5dfb3-2063-4cef-86f8-eb481ece1c0c">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -1301,7 +1301,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="3b45ab60-c4ab-46b6-b37d-18cbea8be359">
+  <mes:MetadataSet structureRef="MDS1" setID="08d8adce-4d36-4a28-9524-088d4ea572c5">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -1509,7 +1509,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="47bee71f-f118-4043-8255-d16d3b65ebf9">
+  <mes:MetadataSet structureRef="MDS1" setID="4ffbbc74-d775-4af3-bbfe-a474cb05fd35">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -1717,7 +1717,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="c4d63910-aecb-4f40-abb0-a7f309df166d">
+  <mes:MetadataSet structureRef="MDS1" setID="ec29f890-cca4-46a5-88c9-5defcfd25da5">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -1957,7 +1957,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="000c002e-a2f9-45ed-904f-c7d576e56ff3">
+  <mes:MetadataSet structureRef="MDS1" setID="4e5771e3-e113-4ba2-9936-710c823e00c3">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -2197,7 +2197,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="f92c490d-b790-48f7-9fa6-7dbce2cc8e45">
+  <mes:MetadataSet structureRef="MDS1" setID="beff9c2a-295d-488d-9b93-df7ee291a236">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -2437,7 +2437,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="8ff841c9-39aa-4aa7-b3b1-b9254aa17c49">
+  <mes:MetadataSet structureRef="MDS1" setID="dc45c02c-da1f-43d2-a79d-95717deb65fa">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -2677,7 +2677,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="78764615-1ad7-46b2-bc14-df6ebe8725dd">
+  <mes:MetadataSet structureRef="MDS1" setID="6206477e-210e-48cf-8fe0-be68082880b9">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -2917,7 +2917,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="af7d8a2d-4779-4ea5-ab93-be63abc0b891">
+  <mes:MetadataSet structureRef="MDS1" setID="37c82115-e432-4447-be25-954180022e08">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -3157,7 +3157,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="a91947b7-2ba0-407a-ae95-5a8e8f1fd09e">
+  <mes:MetadataSet structureRef="MDS1" setID="a7ffa21e-ddb7-4d21-a13f-68095e9ce4b5">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -3397,7 +3397,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="670613b6-9a92-433b-97c5-f71b04a83296">
+  <mes:MetadataSet structureRef="MDS1" setID="7097dd3b-95b8-4d60-aef1-510f47b7cc43">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -3637,7 +3637,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="48e5bba8-8a38-409e-abeb-24a72f6c7be2">
+  <mes:MetadataSet structureRef="MDS1" setID="de9ce547-4f16-4fd0-8f3e-2abe5f95cfd2">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -3877,7 +3877,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="92c72178-ff33-4853-9e47-563dcbe7264a">
+  <mes:MetadataSet structureRef="MDS1" setID="ddfd6bdc-93d7-49b8-9984-3d9bbfe0f2ba">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -4117,7 +4117,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="dd234d9b-f69e-4b96-82bb-048c3eca74e0">
+  <mes:MetadataSet structureRef="MDS1" setID="d60488c4-a4ca-433f-ad23-bbbcfa688648">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -4357,7 +4357,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="74f3aefe-eaf3-4a9c-9b86-4890e3a2317b">
+  <mes:MetadataSet structureRef="MDS1" setID="adbc709a-9b10-471c-b976-e612583f3f50">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -4597,7 +4597,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="5755a461-94dd-4fd0-8426-6c818ff938ee">
+  <mes:MetadataSet structureRef="MDS1" setID="2110a290-06df-4c87-9585-65676b956817">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -4732,12 +4732,12 @@
         
         <gen:ReportedAttribute id="COLL_METHOD">
           
-          <com:Text xml:lang="en"><![CDATA[ <p> The recommended data sources for calculating this indicator are household surveys (IOF and IDS) with national representation that constitute the data source. In either case, the child's height and weight should be measured following the recommended standard measurement techniques (WHO 2008). </p>
+          <com:Text xml:lang="en"><![CDATA[ <p> The recommended data sources for calculating this indicator are household surveys (IOF and IDS) with national representation that constitute the data source. In either case, the child&#39;s height and weight should be measured following the recommended standard measurement techniques (WHO 2008). </p>
  <p> The questionnaire for the collection of data from the Demographic and Health Survey was designed and subsequently tested in the field during the training of the interviewers. </p>
  <p> For data collection, the methodology of interviews was applied face to face to the households, applying three types of questionnaires: </p>
  <p> • Household Questionnaire </p>
- <p> • Women's Questionnaire </p>
- <p> • Men's Questionnaire. </p>
+ <p> • Women&#39;s Questionnaire </p>
+ <p> • Men&#39;s Questionnaire. </p>
  <p> The Sample Design </p>
  <p> The Demographic and Health Survey comprises a probabilistic, stratified and multi-stage sample, selected from the Data and Cartography of the III General Census of Population and Housing, carried out by INE in 2007. </p>
  <p> The data collection lasted for five months starting in June 2011, ending in November 2011. </p>
@@ -4778,7 +4778,7 @@
         
         <gen:ReportedAttribute id="RATIONALE">
           
-          <com:Text xml:lang="en"><![CDATA[ <p> Child growth is an internationally accepted result, reflecting children's nutritional status. Infant dwarfism refers to a very young child for the age and is the result of chronic or recurrent malnutrition. Stunting is a risk factor that contributes to child mortality and is also an indicator of inequalities in human development. Atrophied children are unable to reach their physical and cognitive potential. Child stunting is one of the indicators of the World Health Assembly's nutrition goal. </p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> Child growth is an internationally accepted result, reflecting children&#39;s nutritional status. Infant dwarfism refers to a very young child for the age and is the result of chronic or recurrent malnutrition. Stunting is a risk factor that contributes to child mortality and is also an indicator of inequalities in human development. Atrophied children are unable to reach their physical and cognitive potential. Child stunting is one of the indicators of the World Health Assembly&#39;s nutrition goal. </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -4829,7 +4829,7 @@
         
         <gen:ReportedAttribute id="COVERAGE">
           
-          <com:Text xml:lang="en"><![CDATA[ <p> Data are available every 5 years and can be disaggregated by Area of rural and urban residence, by Province, sex, age, size at birth, mother's nutritional status, wealth quintile. </p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> Data are available every 5 years and can be disaggregated by Area of rural and urban residence, by Province, sex, age, size at birth, mother&#39;s nutritional status, wealth quintile. </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -4851,7 +4851,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="88538d88-4a50-44c8-bc5c-1c45202476b9">
+  <mes:MetadataSet structureRef="MDS1" setID="b35c773f-be36-4cf3-8063-db6cbdb25094">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -4986,12 +4986,12 @@
         
         <gen:ReportedAttribute id="COLL_METHOD">
           
-          <com:Text xml:lang="en"><![CDATA[ <p> The recommended data sources for calculating this indicator are household surveys (IOF and IDS) with national representation that constitute the data source. In either case, the child's height and weight should be measured following the recommended standard measurement techniques (WHO 2008). </p>
+          <com:Text xml:lang="en"><![CDATA[ <p> The recommended data sources for calculating this indicator are household surveys (IOF and IDS) with national representation that constitute the data source. In either case, the child&#39;s height and weight should be measured following the recommended standard measurement techniques (WHO 2008). </p>
  <p> The questionnaire for the collection of data from the Demographic and Health Survey was designed and subsequently tested in the field during the training of the interviewers. </p>
  <p> For data collection, the methodology of interviews was applied face to face to the households, applying three types of questionnaires: </p>
  <p> • Household Questionnaire </p>
- <p> • Women's Questionnaire </p>
- <p> • Men's Questionnaire. </p>
+ <p> • Women&#39;s Questionnaire </p>
+ <p> • Men&#39;s Questionnaire. </p>
  <p> The Sample Design </p>
  <p> The Demographic and Health Survey comprises a probabilistic, stratified and multi-stage sample, selected from the Data and Cartography of the III General Census of Population and Housing, carried out by INE in 2007. </p>
  <p> The data collection lasted for five months starting in June 2011, ending in November 2011. </p>
@@ -5032,7 +5032,7 @@
         
         <gen:ReportedAttribute id="RATIONALE">
           
-          <com:Text xml:lang="en"><![CDATA[ <p> Child growth is an internationally accepted result, reflecting children's nutritional status. Infant dwarfism refers to a very young child for the age and is the result of chronic or recurrent malnutrition. Stunting is a risk factor that contributes to child mortality and is also an indicator of inequalities in human development. Atrophied children are unable to reach their physical and cognitive potential. Child stunting is one of the indicators of the World Health Assembly's nutrition goal. </p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> Child growth is an internationally accepted result, reflecting children&#39;s nutritional status. Infant dwarfism refers to a very young child for the age and is the result of chronic or recurrent malnutrition. Stunting is a risk factor that contributes to child mortality and is also an indicator of inequalities in human development. Atrophied children are unable to reach their physical and cognitive potential. Child stunting is one of the indicators of the World Health Assembly&#39;s nutrition goal. </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -5083,7 +5083,7 @@
         
         <gen:ReportedAttribute id="COVERAGE">
           
-          <com:Text xml:lang="en"><![CDATA[ <p> Data are available every 5 years and can be disaggregated by Area of rural and urban residence, by Province, sex, age, size at birth, mother's nutritional status, wealth quintile. </p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> Data are available every 5 years and can be disaggregated by Area of rural and urban residence, by Province, sex, age, size at birth, mother&#39;s nutritional status, wealth quintile. </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -5105,7 +5105,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="2d636fdd-e2c2-43b7-b228-bf9ed83985ba">
+  <mes:MetadataSet structureRef="MDS1" setID="cad837f4-62ce-4226-85ff-70807309570b">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -5225,8 +5225,8 @@
           <com:Text xml:lang="en"><![CDATA[ <p> The recommended data sources for calculating this indicator are Household Surveys. The Demographic and Health Survey data collection questionnaire was designed and subsequently tested in the field during the training of interviewers. </p>
  <p> For data collection, the methodology of interviews was applied face to face to the households, applying three types of questionnaires: </p>
  <p> • Household Questionnaire </p>
- <p> • Women's Questionnaire </p>
- <p> • Men's Questionnaire. </p>
+ <p> • Women&#39;s Questionnaire </p>
+ <p> • Men&#39;s Questionnaire. </p>
  <p> The Sample Design </p>
  <p> The Demographic and Health Survey comprises a probabilistic, stratified and multi-stage sample, selected from the Data and Cartography of the III General Census of Population and Housing, carried out by INE in 2007. </p>
  <p> The data collection lasted for five months starting in June 2011, ending in November 2011. </p>
@@ -5267,14 +5267,14 @@
         
         <gen:ReportedAttribute id="RATIONALE">
           
-          <com:Text xml:lang="en"><![CDATA[ <p> Having a qualified assistant at the time of delivery is an important life-saving intervention for both mothers and babies. Not having access to this key assistance is detrimental to women's health and gender empowerment, as it can cause the mother's death or lasting disability, especially in marginalized settings. </p>
+          <com:Text xml:lang="en"><![CDATA[ <p> Having a qualified assistant at the time of delivery is an important life-saving intervention for both mothers and babies. Not having access to this key assistance is detrimental to women&#39;s health and gender empowerment, as it can cause the mother&#39;s death or lasting disability, especially in marginalized settings. </p>
  <p> The result of this indicator shows the proportion of births attended by health personnel trained to provide obstetric care </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="REC_USE_LIM">
           
-          <com:Text xml:lang="en"><![CDATA[ <p> Having a qualified assistant at the time of delivery is an important life-saving intervention for both mothers and babies. Not having access to this key assistance is detrimental to women's health and gender empowerment, as it can cause the mother's death or lasting disability, especially in marginalized settings. </p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> Having a qualified assistant at the time of delivery is an important life-saving intervention for both mothers and babies. Not having access to this key assistance is detrimental to women&#39;s health and gender empowerment, as it can cause the mother&#39;s death or lasting disability, especially in marginalized settings. </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -5341,7 +5341,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="3674e4c1-bed4-404f-839e-7b532c02d260">
+  <mes:MetadataSet structureRef="MDS1" setID="1c2b2866-e25c-431b-89cc-0950240c76c1">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -5575,7 +5575,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="31c221bd-7958-4c9f-b4c6-32ce07e4c629">
+  <mes:MetadataSet structureRef="MDS1" setID="6e0bef74-2b2d-4767-b703-498be17cb8f9">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -5747,7 +5747,7 @@
         
         <gen:ReportedAttribute id="DATA_COMP">
           
-          <com:Text xml:lang="en"><![CDATA[ <p> The incidence of malaria (1) is expressed as the number of new cases per 100,000 inhabitants per year, the total risk proportion being estimated by the country's National Malaria Control Program </p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> The incidence of malaria (1) is expressed as the number of new cases per 100,000 inhabitants per year, the total risk proportion being estimated by the country&#39;s National Malaria Control Program </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -5761,7 +5761,7 @@
         
         <gen:ReportedAttribute id="DOC_METHOD">
           
-          <com:Text xml:lang="en"><![CDATA[ <p> The incidence of malaria (1) is expressed as the number of new cases per 100,000 inhabitants per year, the population of a country being derived from projections made by the UN Population Division and the total proportion of risk estimated by the National Control Program of a country's Malaria. More specifically, the country estimates what is the high-risk ratio (H) and what is the low-risk ratio (L) and the total population at risk is estimated as Population x (H + L). </p>
+          <com:Text xml:lang="en"><![CDATA[ <p> The incidence of malaria (1) is expressed as the number of new cases per 100,000 inhabitants per year, the population of a country being derived from projections made by the UN Population Division and the total proportion of risk estimated by the National Control Program of a country&#39;s Malaria. More specifically, the country estimates what is the high-risk ratio (H) and what is the low-risk ratio (L) and the total population at risk is estimated as Population x (H + L). </p>
  <p> The total number of new cases, T, is estimated based on the number of malaria cases reported by the Ministry of Health, which is adjusted to take into account (i) lack of coverage of notification systems (ii) patients seeking treatment in the private sector, those who do self-medication or who do not seek treatment; and (iii) excessive diagnostic potential due to the lack of laboratory confirmation of the cases. </p>
  <p> The procedure, described in the 2009 World Malaria Report (2), combines data reported by NMCPs (reported cases, reporting perfection / integrity and probability that cases are positive parasites) with data obtained from representative household surveys at national level on the use of health services. Briefly, </p>
  <p> Where: </p>
@@ -5824,7 +5824,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="b7f4f541-2678-47fb-bb8c-129671e211c5">
+  <mes:MetadataSet structureRef="MDS1" setID="6dc6fceb-2c18-4b0f-aee4-6be07a0befe7">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -5953,12 +5953,12 @@
         
         <gen:ReportedAttribute id="COLL_METHOD">
           
-          <com:Text xml:lang="en"><![CDATA[ <p> The recommended data sources for calculating this indicator are nationally representative household surveys (IDS) that constitute the data source. In either case, the child's height and weight should be measured following the recommended standard measurement techniques (WHO 2008). </p>
+          <com:Text xml:lang="en"><![CDATA[ <p> The recommended data sources for calculating this indicator are nationally representative household surveys (IDS) that constitute the data source. In either case, the child&#39;s height and weight should be measured following the recommended standard measurement techniques (WHO 2008). </p>
  <p> The questionnaire for the collection of data from the Demographic and Health Survey was designed and subsequently tested in the field during the training of the interviewers. </p>
  <p> For data collection, the methodology of interviews was applied face to face to the households, applying three types of questionnaires: </p>
  <p> • Household Questionnaire </p>
- <p> • Women's Questionnaire </p>
- <p> • Men's Questionnaire. </p>
+ <p> • Women&#39;s Questionnaire </p>
+ <p> • Men&#39;s Questionnaire. </p>
  <p> The Sample Design </p>
  <p> The Demographic and Health Survey comprises a probabilistic, stratified and multi-stage sample, selected from the Data and Cartography of the III General Census of Population and Housing, carried out by INE in 2007. </p>
  <p> The data collection lasted for five months starting in June 2011, ending in November 2011. </p>
@@ -6079,7 +6079,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="762c9fa6-b15b-445a-a185-8c145dd89e22">
+  <mes:MetadataSet structureRef="MDS1" setID="84b68f6e-a60c-4f6f-b2da-fdb8a98241cc">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -6200,8 +6200,8 @@
           <com:Text xml:lang="en"><![CDATA[ <p> The recommended data sources for calculating this indicator are Household Surveys. The Demographic and Health Survey data collection questionnaire was designed and subsequently tested in the field during the training of interviewers. </p>
  <p> For data collection, the methodology of interviews was applied face to face to the households, applying three types of questionnaires: </p>
  <p> • Household Questionnaire </p>
- <p> • Women's Questionnaire </p>
- <p> • Men's Questionnaire. </p>
+ <p> • Women&#39;s Questionnaire </p>
+ <p> • Men&#39;s Questionnaire. </p>
  <p> The Sample Design </p>
  <p> The Demographic and Health Survey comprises a probabilistic, stratified and multi-stage sample, selected from the Data and Cartography of the III General Census of Population and Housing, carried out by INE in 2007. </p>
  <p> The data collection lasted for five months starting in June 2011, ending in November 2011. </p>
@@ -6242,13 +6242,13 @@
         
         <gen:ReportedAttribute id="RATIONALE">
           
-          <com:Text xml:lang="en"><![CDATA[ <p> Reducing adolescent fertility and addressing the multiple factors underlying it are essential to improving adolescent sexual and reproductive health and social and economic well-being. There is substantial agreement in the literature that women who become pregnant and give birth very early in their reproductive lives are at higher risk of complications or death during pregnancy and childbirth than their peers, and their children are also at greater risk of morbidity. and death than children born to older women. Therefore, preventing births too early in a woman's life is an important measure to improve maternal health and reduce child mortality. In addition, having children at a young age reduces a woman's opportunities for socioeconomic improvement, mainly because young mothers are less likely to continue to study and, if she needs to work, may find it especially difficult to combine family and professional responsibilities. The birth rate of adolescents also provides indirect evidence of young people's access to health services, as young people, in particular single adolescents, often experience difficulties in accessing sexual and reproductive health services. </p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> Reducing adolescent fertility and addressing the multiple factors underlying it are essential to improving adolescent sexual and reproductive health and social and economic well-being. There is substantial agreement in the literature that women who become pregnant and give birth very early in their reproductive lives are at higher risk of complications or death during pregnancy and childbirth than their peers, and their children are also at greater risk of morbidity. and death than children born to older women. Therefore, preventing births too early in a woman&#39;s life is an important measure to improve maternal health and reduce child mortality. In addition, having children at a young age reduces a woman&#39;s opportunities for socioeconomic improvement, mainly because young mothers are less likely to continue to study and, if she needs to work, may find it especially difficult to combine family and professional responsibilities. The birth rate of adolescents also provides indirect evidence of young people&#39;s access to health services, as young people, in particular single adolescents, often experience difficulties in accessing sexual and reproductive health services. </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="REC_USE_LIM">
           
-          <com:Text xml:lang="en"><![CDATA[ <p> Discrepancies between data sources at country level are common and the level of adolescent fertility rate depends in part on the source of the selected data. For the civil registry, fees are subject to limitations that depend on the integrity of the birth registry, on the treatment of live born babies, but who die before registration or in the first 24 hours of life, on the quality of the reported information related to age of the mother, and the inclusion of births from previous periods. Population estimates may be subject to limitations related to incorrect declarations of age and coverage. For survey and census data, the numerator and denominator are from the same population. The main limitations concern the incorrect declaration of age, omissions of birth, incorrect declaration of the child's date of birth and sample variability in the case of surveys. With regard to fertility rate estimates among adolescents aged 10 to 14 years, comparative evidence suggests that a very small proportion of births in this age group occurs in women under 12 years of age. Other evidence based on historical retrospective birth data from surveys indicates that women aged 15 to 19 are less likely to report first births before age 15 than women in the same birth cohort when asked five years later, aged 20 and 24 years old. </p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> Discrepancies between data sources at country level are common and the level of adolescent fertility rate depends in part on the source of the selected data. For the civil registry, fees are subject to limitations that depend on the integrity of the birth registry, on the treatment of live born babies, but who die before registration or in the first 24 hours of life, on the quality of the reported information related to age of the mother, and the inclusion of births from previous periods. Population estimates may be subject to limitations related to incorrect declarations of age and coverage. For survey and census data, the numerator and denominator are from the same population. The main limitations concern the incorrect declaration of age, omissions of birth, incorrect declaration of the child&#39;s date of birth and sample variability in the case of surveys. With regard to fertility rate estimates among adolescents aged 10 to 14 years, comparative evidence suggests that a very small proportion of births in this age group occurs in women under 12 years of age. Other evidence based on historical retrospective birth data from surveys indicates that women aged 15 to 19 are less likely to report first births before age 15 than women in the same birth cohort when asked five years later, aged 20 and 24 years old. </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -6315,7 +6315,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="5182d6e2-ad0b-4563-8c9d-e4c7eaf80141">
+  <mes:MetadataSet structureRef="MDS1" setID="7e9365d8-e28e-4255-a99c-29043611b23c">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -6542,7 +6542,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="fef692fe-b538-47b9-abf6-e145342bf14f">
+  <mes:MetadataSet structureRef="MDS1" setID="05580aba-6d93-4d49-a474-a293a516aee7">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -6777,7 +6777,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="62745c69-8ec3-4074-8681-8664324b82cb">
+  <mes:MetadataSet structureRef="MDS1" setID="5fd33e0b-c8aa-4ace-8217-1c4d21fbcaff">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -6907,7 +6907,7 @@
         
         <gen:ReportedAttribute id="COLL_METHOD">
           
-          <com:Text xml:lang="en"><![CDATA[ <p> The recommended data source for calculating this indicator are household surveys (IOF and IDS) with national representation that constitute the data source. In either case, the child's height and weight should be measured following the recommended standard measurement techniques (WHO 2008). </p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> The recommended data source for calculating this indicator are household surveys (IOF and IDS) with national representation that constitute the data source. In either case, the child&#39;s height and weight should be measured following the recommended standard measurement techniques (WHO 2008). </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -6977,10 +6977,10 @@
           
           <com:Text xml:lang="en"><![CDATA[ <p> For data collection, the methodology of interviews was applied face to face with households, applying three types of questionnaires: </p>
  <p> • Household Questionnaire </p>
- <p> • Women's Questionnaire </p>
- <p> • Men's Questionnaire. </p>
- <p> The questionnaires were based on the model used by the Demographic and Health surveys in their sixth phase. In addition to the main questions of the sixth phase IDS, some modifications were made to the questions and some specific questions were added in order to satisfy and answer the country's needs. It should be noted that these instruments have been properly pre-tested in urban and rural areas </p>
- <p> The sample design of IDS-2011 comprises a probabilistic, stratified and multi-stage sample, selected from the Data and Cartography of the III General Census of Population and Housing, carried out by INE in 2007. The sample allows to obtain accurate estimates at the level national, urban and rural, regional and provincial. The sample covers only the population residing in households. Households and respective members residing in collective residences, such as hotels, hospitals, military barracks, student homes, etc., and homeless people, which together make up 3.3% of the country's total population, were excluded from the sample. </p>]]></com:Text>
+ <p> • Women&#39;s Questionnaire </p>
+ <p> • Men&#39;s Questionnaire. </p>
+ <p> The questionnaires were based on the model used by the Demographic and Health surveys in their sixth phase. In addition to the main questions of the sixth phase IDS, some modifications were made to the questions and some specific questions were added in order to satisfy and answer the country&#39;s needs. It should be noted that these instruments have been properly pre-tested in urban and rural areas </p>
+ <p> The sample design of IDS-2011 comprises a probabilistic, stratified and multi-stage sample, selected from the Data and Cartography of the III General Census of Population and Housing, carried out by INE in 2007. The sample allows to obtain accurate estimates at the level national, urban and rural, regional and provincial. The sample covers only the population residing in households. Households and respective members residing in collective residences, such as hotels, hospitals, military barracks, student homes, etc., and homeless people, which together make up 3.3% of the country&#39;s total population, were excluded from the sample. </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -7020,7 +7020,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="69785b5d-1644-4706-bfe7-2e14e6c1daf6">
+  <mes:MetadataSet structureRef="MDS1" setID="310ad478-6541-4c3b-94e2-d7502702e9ba">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -7257,7 +7257,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="c9bab675-7848-41f8-83a0-bfcab286f7d4">
+  <mes:MetadataSet structureRef="MDS1" setID="8c2ac58e-28ad-4ee0-b61c-2dfc8b59aa14">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -7358,7 +7358,7 @@
           
           <com:Text xml:lang="en"><![CDATA[ <p> Proportion of the population that drinks water from safe sources corresponds to the proportion that uses water from a source considered safe. </p>
  <p> A source of safe water is one that is free from fecal and / or chemical contamination. </p>
- <p> "Improved" drinking water sources include: piped water within the home, yard, land or neighbor's house; taps or public fountains; boreholes or wells protected with a hand pump; protected springs; packaged / mineral water. </p>]]></com:Text>
+ <p> "Improved" drinking water sources include: piped water within the home, yard, land or neighbor&#39;s house; taps or public fountains; boreholes or wells protected with a hand pump; protected springs; packaged / mineral water. </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -7377,7 +7377,7 @@
         <gen:ReportedAttribute id="COLL_METHOD">
           
           <com:Text xml:lang="en"><![CDATA[ <p> The recommended data source to calculate this indicator is the Census and Household Surveys. The data collection questionnaire is designed and subsequently tested in the field in the course of training the interviewers. </p>
- <p> For the collection of data, the methodology of interviews was applied face to face to the households where the respondents were asked what was the main source of water they use to drink and the answer was highlighted in a list of sources that include: water channeled inside the neighbor's house, yard, land or house; taps or public fountains; holes or fountains; protected wells; unprotected wells, springs; packaged water; supplied water, river / lake water and rainwater. </p>
+ <p> For the collection of data, the methodology of interviews was applied face to face to the households where the respondents were asked what was the main source of water they use to drink and the answer was highlighted in a list of sources that include: water channeled inside the neighbor&#39;s house, yard, land or house; taps or public fountains; holes or fountains; protected wells; unprotected wells, springs; packaged water; supplied water, river / lake water and rainwater. </p>
  <p> The field work lasted 15 days in the case of the Censuses and the Surveys depending on the type and purpose of the Survey. </p>
  <p> Cases of non-response, after all efforts to obtain funds are exhausted, are treated as unknown cases. </p>]]></com:Text>
           
@@ -7493,7 +7493,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="1c61b469-0f9e-4fa8-b160-b77d5016f2a8">
+  <mes:MetadataSet structureRef="MDS1" setID="dc79c5c1-a37c-4179-b74b-caf8c77800af">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -7729,7 +7729,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="5d4bdf60-6c9d-4837-9a93-898f723cb935">
+  <mes:MetadataSet structureRef="MDS1" setID="2b3090d8-b16f-47fd-a7dd-43dcb32a6dae">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -7965,7 +7965,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="e81d77cf-71be-4463-a73d-c2dda771a34c">
+  <mes:MetadataSet structureRef="MDS1" setID="2cbf1af6-a583-4523-81a8-98e19788047d">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -8201,7 +8201,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="106792f9-453c-4e4c-b3b8-ea017dc56367">
+  <mes:MetadataSet structureRef="MDS1" setID="bdf6b669-b107-4601-a8ec-90940f330441">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -8418,7 +8418,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="062a3028-04d2-4a7e-b700-9f4cb9d4a35c">
+  <mes:MetadataSet structureRef="MDS1" setID="e9e86f40-1ad5-46a1-ba5b-5791ef43cb8e">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -8583,7 +8583,7 @@
         
         <gen:ReportedAttribute id="RATIONALE">
           
-          <com:Text xml:lang="en"><![CDATA[ <p> The indicator provides a direct measure of the progress of the implementation of integrated water resources management. The percentage score provides an easy and understandable way to measure progress towards the goal, with '0' interpreted as no IWRM implementation and '100' interpreted as IWRM being fully implemented. The indicator results can be classified similarly to the survey questions: </p>
+          <com:Text xml:lang="en"><![CDATA[ <p> The indicator provides a direct measure of the progress of the implementation of integrated water resources management. The percentage score provides an easy and understandable way to measure progress towards the goal, with &#39;0&#39; interpreted as no IWRM implementation and &#39;100&#39; interpreted as IWRM being fully implemented. The indicator results can be classified similarly to the survey questions: </p>
  <p> Degree of implementation = </p>
  <ul>
    <li> Very low (0-9,9) </li>
@@ -8670,7 +8670,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="84d210f7-41be-4431-86d3-e16f0a9bc870">
+  <mes:MetadataSet structureRef="MDS1" setID="43afe264-22d4-44c4-a570-fc1c41642760">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -8835,7 +8835,7 @@
         
         <gen:ReportedAttribute id="RATIONALE">
           
-          <com:Text xml:lang="en"><![CDATA[ <p> The indicator provides a direct measure of the progress of the implementation of integrated water resources management. The percentage score provides an easy and understandable way to measure progress towards the goal, with '0' interpreted as no IWRM implementation and '100' interpreted as IWRM being fully implemented. The indicator results can be classified similarly to the survey questions: </p>
+          <com:Text xml:lang="en"><![CDATA[ <p> The indicator provides a direct measure of the progress of the implementation of integrated water resources management. The percentage score provides an easy and understandable way to measure progress towards the goal, with &#39;0&#39; interpreted as no IWRM implementation and &#39;100&#39; interpreted as IWRM being fully implemented. The indicator results can be classified similarly to the survey questions: </p>
  <p> Degree of implementation = </p>
  <ul>
    <li> Very low (0-9,9) </li>
@@ -8922,7 +8922,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="7f165960-1191-4bb3-9830-392b36a27084">
+  <mes:MetadataSet structureRef="MDS1" setID="dcfd5219-b5b2-4cd0-85ed-b3dc1247b7eb">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -9137,7 +9137,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="e23fb19c-189b-4d94-af70-622351cf6add">
+  <mes:MetadataSet structureRef="MDS1" setID="cf65b23d-6953-49e5-831e-453911fef3fb">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -9352,7 +9352,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="ae72cc85-5343-463c-885c-56871ffb9e1b">
+  <mes:MetadataSet structureRef="MDS1" setID="6f89d617-1d2e-4393-ba39-c3a411de0f26">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -9567,7 +9567,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="7394a2c5-2b35-4ae9-a728-f2137f5917a6">
+  <mes:MetadataSet structureRef="MDS1" setID="b098a7f4-5cb1-4adf-8f16-fe674b742a80">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -9782,7 +9782,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="449f0bcc-54ba-4730-afc3-83240e28715d">
+  <mes:MetadataSet structureRef="MDS1" setID="90779064-038c-4775-9926-c24dc53d2145">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -9997,7 +9997,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="add0add0-c22d-4d28-bc75-3d5d0ebafafc">
+  <mes:MetadataSet structureRef="MDS1" setID="bddf39ae-8877-4f93-82f1-424e4fb9b945">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -10212,7 +10212,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="58f778e2-90b6-4505-ae81-50b9f43f7acf">
+  <mes:MetadataSet structureRef="MDS1" setID="26ae09b0-e97c-444d-ae19-8a4bbb384ba2">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -10427,7 +10427,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="b6d5f07e-08e8-4dbe-a3be-686aa79afaab">
+  <mes:MetadataSet structureRef="MDS1" setID="0c8b4482-ea68-462a-b2f5-4db04ea81bce">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -10642,7 +10642,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="e9d57dce-fb46-4e6d-b855-da1ec266e180">
+  <mes:MetadataSet structureRef="MDS1" setID="1fcdd19b-cafa-4e8c-876a-587700605f16">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -10857,7 +10857,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="36b81730-8243-45f7-bbef-2c07e8279c3c">
+  <mes:MetadataSet structureRef="MDS1" setID="c2bf78c6-c2ec-4d55-b754-59c4930eb374">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -11091,7 +11091,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="2f809a11-5d2d-416d-a777-25472cfd9d03">
+  <mes:MetadataSet structureRef="MDS1" setID="837f4c81-26b3-4e8c-b1d7-5a21ed20b808">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -11186,7 +11186,7 @@
         
         <gen:ReportedAttribute id="STAT_CONC_DEF">
           
-          <com:Text xml:lang="en"><![CDATA[ <p> The annual growth rate of real gross domestic product (GDP) per capita is calculated as the percentage change in real GDP per capita between two consecutive years. Real GDP per capita is calculated by dividing GDP at constant prices by the population of a country or region. Real GDP data is measured in constant US dollars to facilitate the calculation of the country's growth rates, their respective aggregation and comparability between countries or regions. </p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> The annual growth rate of real gross domestic product (GDP) per capita is calculated as the percentage change in real GDP per capita between two consecutive years. Real GDP per capita is calculated by dividing GDP at constant prices by the population of a country or region. Real GDP data is measured in constant US dollars to facilitate the calculation of the country&#39;s growth rates, their respective aggregation and comparability between countries or regions. </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -11243,8 +11243,8 @@
           
           <com:Text xml:lang="en"><![CDATA[ <p> According to article 19, of Law 7/96 of July 5th: </p>
  <ol>
-   <li> The National Statistics Institute (INE) is the central executive body of the National Statistical System (SEN) whose objective is the notation, calculation, coordination and dissemination of the country's official statistical information and is subordinate to the Minister Council. </li>
-   <li> INE is responsible for carrying out the country's official statistical activity. </li>
+   <li> The National Statistics Institute (INE) is the central executive body of the National Statistical System (SEN) whose objective is the notation, calculation, coordination and dissemination of the country&#39;s official statistical information and is subordinate to the Minister Council. </li>
+   <li> INE is responsible for carrying out the country&#39;s official statistical activity. </li>
  </ol>]]></com:Text>
           
         </gen:ReportedAttribute>
@@ -11337,7 +11337,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="cc673533-e59f-4a92-b5b7-e3a1e24b7878">
+  <mes:MetadataSet structureRef="MDS1" setID="85189a9e-bc2a-47de-9094-00f135a23fac">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -11574,7 +11574,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="6bb756c4-83a5-4d8c-b4e7-98e70e0a88e0">
+  <mes:MetadataSet structureRef="MDS1" setID="00b3bd28-cef7-4c7c-b10a-65cf1d0d270f">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -11811,7 +11811,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="bf3abf00-4b9a-4a61-9ae2-421134777b3a">
+  <mes:MetadataSet structureRef="MDS1" setID="35fca5d4-cc5c-434e-89ed-544f1d46585d">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -12049,7 +12049,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="18ccfcaf-074c-4562-83ef-cec2d65aad8b">
+  <mes:MetadataSet structureRef="MDS1" setID="9d214d37-2831-44e9-b6c2-65087c4a6ca1">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -12169,7 +12169,7 @@
         
         <gen:ReportedAttribute id="SOURCE_TYPE">
           
-          <com:Text xml:lang="en"><![CDATA[ <p> The indicator comes from the countries' Tourism Satellite Account, which is a satellite account for National Accounts </p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> The indicator comes from the countries&#39; Tourism Satellite Account, which is a satellite account for National Accounts </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -12208,8 +12208,8 @@
           
           <com:Text xml:lang="en"><![CDATA[ <p> According to article 19, of Law 7/96 of July 5th: </p>
  <ol>
-   <li> The National Statistics Institute (INE) is the central executive body of the National Statistical System (SEN) whose objective is the notation, calculation, coordination and dissemination of the country's official statistical information and is subordinate to the Minister Council. </li>
-   <li> INE is responsible for carrying out the country's official statistical activity. </li>
+   <li> The National Statistics Institute (INE) is the central executive body of the National Statistical System (SEN) whose objective is the notation, calculation, coordination and dissemination of the country&#39;s official statistical information and is subordinate to the Minister Council. </li>
+   <li> INE is responsible for carrying out the country&#39;s official statistical activity. </li>
  </ol>]]></com:Text>
           
         </gen:ReportedAttribute>
@@ -12291,7 +12291,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="34e3f151-bdf3-4403-babb-4f3e403ffd67">
+  <mes:MetadataSet structureRef="MDS1" setID="5205ace3-98a1-488a-bc6d-2302ef17a694">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -12461,15 +12461,15 @@
           
           <com:Text xml:lang="en"><![CDATA[ <p> According to article 19, of Law 7/96 of July 5th: </p>
  <ol>
-   <li> The National Statistics Institute (INE) is the central executive body of the National Statistical System (SEN) whose objective is the notation, calculation, coordination and dissemination of the country's official statistical information and is subordinate to the Minister Council. </li>
-   <li> INE is responsible for carrying out the country's official statistical activity. </li>
+   <li> The National Statistics Institute (INE) is the central executive body of the National Statistical System (SEN) whose objective is the notation, calculation, coordination and dissemination of the country&#39;s official statistical information and is subordinate to the Minister Council. </li>
+   <li> INE is responsible for carrying out the country&#39;s official statistical activity. </li>
  </ol>]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="RATIONALE">
           
-          <com:Text xml:lang="en"><![CDATA[ <p> The Added Value of the Manufacturing Industry (VAIT) is a widely recognized indicator and widely used by researchers and policy makers to assess a country's level of industrialization. VAIT's share of GDP reflects the role of manufacturing industry in the economy and the national development of a country in general. VAIT per capita is the basic indicator of a country's level of industrialization adjusted for the size of the economy. One of the statistical uses of VAIT per capita is to classify groups of countries according to the stage of industrial development. </p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> The Added Value of the Manufacturing Industry (VAIT) is a widely recognized indicator and widely used by researchers and policy makers to assess a country&#39;s level of industrialization. VAIT&#39;s share of GDP reflects the role of manufacturing industry in the economy and the national development of a country in general. VAIT per capita is the basic indicator of a country&#39;s level of industrialization adjusted for the size of the economy. One of the statistical uses of VAIT per capita is to classify groups of countries according to the stage of industrial development. </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -12545,7 +12545,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="ad178d1e-0609-4c7a-9979-de0f238805ce">
+  <mes:MetadataSet structureRef="MDS1" setID="b0acf229-fb11-4df8-ae47-7e0adcb0bac7">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -12715,15 +12715,15 @@
           
           <com:Text xml:lang="en"><![CDATA[ <p> According to article 19, of Law 7/96 of July 5th: </p>
  <ol>
-   <li> The National Statistics Institute (INE) is the central executive body of the National Statistical System (SEN) whose objective is the notation, calculation, coordination and dissemination of the country's official statistical information and is subordinate to the Minister Council. </li>
-   <li> INE is responsible for carrying out the country's official statistical activity. </li>
+   <li> The National Statistics Institute (INE) is the central executive body of the National Statistical System (SEN) whose objective is the notation, calculation, coordination and dissemination of the country&#39;s official statistical information and is subordinate to the Minister Council. </li>
+   <li> INE is responsible for carrying out the country&#39;s official statistical activity. </li>
  </ol>]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="RATIONALE">
           
-          <com:Text xml:lang="en"><![CDATA[ <p> The Added Value of the Manufacturing Industry (VAIT) is a widely recognized indicator and widely used by researchers and policy makers to assess a country's level of industrialization. VAIT's share of GDP reflects the role of manufacturing industry in the economy and the national development of a country in general. VAIT per capita is the basic indicator of a country's level of industrialization adjusted for the size of the economy. One of the statistical uses of VAIT per capita is to classify groups of countries according to the stage of industrial development. </p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> The Added Value of the Manufacturing Industry (VAIT) is a widely recognized indicator and widely used by researchers and policy makers to assess a country&#39;s level of industrialization. VAIT&#39;s share of GDP reflects the role of manufacturing industry in the economy and the national development of a country in general. VAIT per capita is the basic indicator of a country&#39;s level of industrialization adjusted for the size of the economy. One of the statistical uses of VAIT per capita is to classify groups of countries according to the stage of industrial development. </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -12799,7 +12799,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="eb9cffd1-96ff-4556-9f89-aef525d4f750">
+  <mes:MetadataSet structureRef="MDS1" setID="7329d937-3fe5-44ce-97d5-da1f764e33f2">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -12969,15 +12969,15 @@
           
           <com:Text xml:lang="en"><![CDATA[ <p> According to article 19, of Law 7/96 of July 5th: </p>
  <ol>
-   <li> The National Statistics Institute (INE) is the central executive body of the National Statistical System (SEN) whose objective is the notation, calculation, coordination and dissemination of the country's official statistical information and is subordinate to the Minister Council. </li>
-   <li> INE is responsible for carrying out the country's official statistical activity. </li>
+   <li> The National Statistics Institute (INE) is the central executive body of the National Statistical System (SEN) whose objective is the notation, calculation, coordination and dissemination of the country&#39;s official statistical information and is subordinate to the Minister Council. </li>
+   <li> INE is responsible for carrying out the country&#39;s official statistical activity. </li>
  </ol>]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="RATIONALE">
           
-          <com:Text xml:lang="en"><![CDATA[ <p> The Added Value of the Manufacturing Industry (VAIT) is a widely recognized indicator and widely used by researchers and policy makers to assess a country's level of industrialization. VAIT's share of GDP reflects the role of manufacturing industry in the economy and the national development of a country in general. VAIT per capita is the basic indicator of a country's level of industrialization adjusted for the size of the economy. One of the statistical uses of VAIT per capita is to classify groups of countries according to the stage of industrial development. </p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> The Added Value of the Manufacturing Industry (VAIT) is a widely recognized indicator and widely used by researchers and policy makers to assess a country&#39;s level of industrialization. VAIT&#39;s share of GDP reflects the role of manufacturing industry in the economy and the national development of a country in general. VAIT per capita is the basic indicator of a country&#39;s level of industrialization adjusted for the size of the economy. One of the statistical uses of VAIT per capita is to classify groups of countries according to the stage of industrial development. </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -13053,7 +13053,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="6fbef69b-ffe3-442e-8339-f6d375d6c6e8">
+  <mes:MetadataSet structureRef="MDS1" setID="74275030-1ddb-4f93-8418-219bb884e1da">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -13294,7 +13294,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="d37d07c7-7b27-447b-8b16-1c19fc9940cd">
+  <mes:MetadataSet structureRef="MDS1" setID="cf8715d1-1b17-47ab-beeb-560635c7fd45">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -13442,7 +13442,7 @@
         
         <gen:ReportedAttribute id="RATIONALE">
           
-          <com:Text xml:lang="en"><![CDATA[ <p> This indicator illustrates the percentage of the population that consumes less of Mozambique's median consumption </p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> This indicator illustrates the percentage of the population that consumes less of Mozambique&#39;s median consumption </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -13507,7 +13507,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="0e3296bb-4209-4640-a89b-54d5d9af302d">
+  <mes:MetadataSet structureRef="MDS1" setID="4c6768fe-8f8f-4a92-8e3b-f22b8f013618">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -13638,7 +13638,7 @@
         
         <gen:ReportedAttribute id="COLL_METHOD">
           
-          <com:Text xml:lang="en"><![CDATA[ <p> The Family Budget Survey is a probabilistic sampling survey with national, provincial and area of residence representation. Some of the important variables are household expenses, activities / occupations and people's remuneration / income and hours worked. It lasts for 12 months. The last two were held in 2014/15 and 2019/20. The interviews are direct. When recruiting, the interviewers are evaluated and selected, submitted to training, evaluation and selection. During the field work, there is supervision work for quality control and the data processing process starts with a data critique and the data entry is done in an appropriate computer application, with validation rules to control the quality. . </p>
+          <com:Text xml:lang="en"><![CDATA[ <p> The Family Budget Survey is a probabilistic sampling survey with national, provincial and area of residence representation. Some of the important variables are household expenses, activities / occupations and people&#39;s remuneration / income and hours worked. It lasts for 12 months. The last two were held in 2014/15 and 2019/20. The interviews are direct. When recruiting, the interviewers are evaluated and selected, submitted to training, evaluation and selection. During the field work, there is supervision work for quality control and the data processing process starts with a data critique and the data entry is done in an appropriate computer application, with validation rules to control the quality. . </p>
  <p> Monthly and annual business surveys are current surveys, also probabilistic. Physical or electronic questionnaires are sent to companies for completion and return. They have as key variables: the main and secondary activity, the volume of business, expenses detailed by type of expenditure, No. of workers, remuneration and hours worked. And, like the IOF, they have their own computer applications with validation rules. </p>
  <p> Administrative data is received on templates used by sources. When they are received, an assessment is made of their quality. </p>]]></com:Text>
           
@@ -13672,8 +13672,8 @@
           
           <com:Text xml:lang="en"><![CDATA[ <p> According to article 19, of Law 7/96 of July 5th: </p>
  <ol>
-   <li> The National Statistics Institute (INE) is the central executive body of the National Statistical System (SEN) whose objective is the notation, calculation, coordination and dissemination of the country's official statistical information and is subordinate to the Minister Council. </li>
-   <li> INE is responsible for carrying out the country's official statistical activity. </li>
+   <li> The National Statistics Institute (INE) is the central executive body of the National Statistical System (SEN) whose objective is the notation, calculation, coordination and dissemination of the country&#39;s official statistical information and is subordinate to the Minister Council. </li>
+   <li> INE is responsible for carrying out the country&#39;s official statistical activity. </li>
  </ol>]]></com:Text>
           
         </gen:ReportedAttribute>
@@ -13751,7 +13751,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="1dc490d0-05ee-4bdf-b0ef-f7c24f913b45">
+  <mes:MetadataSet structureRef="MDS1" setID="2039e92b-82b0-49e1-84ae-d9b392338ae7">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -13934,7 +13934,7 @@
         
         <gen:ReportedAttribute id="DATA_VALIDATION">
           
-          <com:Text xml:lang="en"><![CDATA[ <p> The processed information is screened and analyzed at a technical level where it is then submitted to the Institution's Technical Council for pre-approval, where after verifying the information it healthily goes to the Advisory Council for approval of the data or information produced at a later time dissemination </p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> The processed information is screened and analyzed at a technical level where it is then submitted to the Institution&#39;s Technical Council for pre-approval, where after verifying the information it healthily goes to the Advisory Council for approval of the data or information produced at a later time dissemination </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -13946,13 +13946,13 @@
         
         <gen:ReportedAttribute id="QUALITY_MGMNT">
           
-          <com:Text xml:lang="en"><![CDATA[ <p> The processed information is screened and analyzed at a technical level where in turn it is submitted to the Institution's Technical Council these strata are composed of qualified scientists for the purpose of verification and validation </p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> The processed information is screened and analyzed at a technical level where in turn it is submitted to the Institution&#39;s Technical Council these strata are composed of qualified scientists for the purpose of verification and validation </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="QUALITY_ASSURE">
           
-          <com:Text xml:lang="en"><![CDATA[ <p> The processed information is screened and analyzed at a technical level where in turn it is submitted to the Institution's Technical Council these strata are composed of qualified scientists for the purpose of verification and validation </p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> The processed information is screened and analyzed at a technical level where in turn it is submitted to the Institution&#39;s Technical Council these strata are composed of qualified scientists for the purpose of verification and validation </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -13987,7 +13987,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="665fe36c-d35b-4070-86a3-7c5020c208ae">
+  <mes:MetadataSet structureRef="MDS1" setID="e7ce676a-1a76-4195-ae75-90cb172edd48">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -14170,7 +14170,7 @@
         
         <gen:ReportedAttribute id="DATA_VALIDATION">
           
-          <com:Text xml:lang="en"><![CDATA[ <p> The processed information is screened and analyzed at a technical level where it is then submitted to the Institution's Technical Council for pre-approval, where after verifying the information it healthily goes to the Advisory Council for approval of the data or information produced at a later time dissemination </p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> The processed information is screened and analyzed at a technical level where it is then submitted to the Institution&#39;s Technical Council for pre-approval, where after verifying the information it healthily goes to the Advisory Council for approval of the data or information produced at a later time dissemination </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -14182,13 +14182,13 @@
         
         <gen:ReportedAttribute id="QUALITY_MGMNT">
           
-          <com:Text xml:lang="en"><![CDATA[ <p> The processed information is screened and analyzed at a technical level where in turn it is submitted to the Institution's Technical Council these strata are composed of qualified scientists for the purpose of verification and validation </p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> The processed information is screened and analyzed at a technical level where in turn it is submitted to the Institution&#39;s Technical Council these strata are composed of qualified scientists for the purpose of verification and validation </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="QUALITY_ASSURE">
           
-          <com:Text xml:lang="en"><![CDATA[ <p> The processed information is screened and analyzed at a technical level where in turn it is submitted to the Institution's Technical Council these strata are composed of qualified scientists for the purpose of verification and validation </p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> The processed information is screened and analyzed at a technical level where in turn it is submitted to the Institution&#39;s Technical Council these strata are composed of qualified scientists for the purpose of verification and validation </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -14223,7 +14223,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="b7158a36-a735-42d7-9719-15adf6ef2f50">
+  <mes:MetadataSet structureRef="MDS1" setID="59acc7d6-836c-47f7-9b78-3c237434703e">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -14406,7 +14406,7 @@
         
         <gen:ReportedAttribute id="DATA_VALIDATION">
           
-          <com:Text xml:lang="en"><![CDATA[ <p> The processed information is screened and analyzed at a technical level where it is then submitted to the Institution's Technical Council for pre-approval, where after verifying the information it healthily goes to the Advisory Council for approval of the data or information produced at a later time dissemination </p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> The processed information is screened and analyzed at a technical level where it is then submitted to the Institution&#39;s Technical Council for pre-approval, where after verifying the information it healthily goes to the Advisory Council for approval of the data or information produced at a later time dissemination </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -14418,13 +14418,13 @@
         
         <gen:ReportedAttribute id="QUALITY_MGMNT">
           
-          <com:Text xml:lang="en"><![CDATA[ <p> The processed information is screened and analyzed at a technical level where in turn it is submitted to the Institution's Technical Council these strata are composed of qualified scientists for the purpose of verification and validation </p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> The processed information is screened and analyzed at a technical level where in turn it is submitted to the Institution&#39;s Technical Council these strata are composed of qualified scientists for the purpose of verification and validation </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="QUALITY_ASSURE">
           
-          <com:Text xml:lang="en"><![CDATA[ <p> The processed information is screened and analyzed at a technical level where in turn it is submitted to the Institution's Technical Council these strata are composed of qualified scientists for the purpose of verification and validation </p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> The processed information is screened and analyzed at a technical level where in turn it is submitted to the Institution&#39;s Technical Council these strata are composed of qualified scientists for the purpose of verification and validation </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -14459,7 +14459,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="c0c562f1-44db-4a0f-b27d-fe9cb66fdd1b">
+  <mes:MetadataSet structureRef="MDS1" setID="eb020a01-44b7-4980-abf7-d99324ff6085">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -14642,7 +14642,7 @@
         
         <gen:ReportedAttribute id="DATA_VALIDATION">
           
-          <com:Text xml:lang="en"><![CDATA[ <p> The processed information is screened and analyzed at a technical level where it is then submitted to the Institution's Technical Council for pre-approval, where after verifying the information it healthily goes to the Advisory Council for approval of the data or information produced at a later time dissemination </p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> The processed information is screened and analyzed at a technical level where it is then submitted to the Institution&#39;s Technical Council for pre-approval, where after verifying the information it healthily goes to the Advisory Council for approval of the data or information produced at a later time dissemination </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -14654,13 +14654,13 @@
         
         <gen:ReportedAttribute id="QUALITY_MGMNT">
           
-          <com:Text xml:lang="en"><![CDATA[ <p> The processed information is screened and analyzed at a technical level where in turn it is submitted to the Institution's Technical Council these strata are composed of qualified scientists for the purpose of verification and validation </p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> The processed information is screened and analyzed at a technical level where in turn it is submitted to the Institution&#39;s Technical Council these strata are composed of qualified scientists for the purpose of verification and validation </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="QUALITY_ASSURE">
           
-          <com:Text xml:lang="en"><![CDATA[ <p> The processed information is screened and analyzed at a technical level where in turn it is submitted to the Institution's Technical Council these strata are composed of qualified scientists for the purpose of verification and validation </p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> The processed information is screened and analyzed at a technical level where in turn it is submitted to the Institution&#39;s Technical Council these strata are composed of qualified scientists for the purpose of verification and validation </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -14695,7 +14695,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="6ad8f303-ae44-40ef-8fa9-54794ff24b2b">
+  <mes:MetadataSet structureRef="MDS1" setID="6933cba4-ce12-497b-8c75-93795ef3a5e0">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">

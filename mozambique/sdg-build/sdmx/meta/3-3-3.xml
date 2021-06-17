@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
   <mes:Header>
-    <mes:ID>IREF1623935954</mes:ID>
+    <mes:ID>IREF1623943246</mes:ID>
     <mes:Test>True</mes:Test>
-    <mes:Prepared>2021-06-17T13:19:14</mes:Prepared>
+    <mes:Prepared>2021-06-17T15:20:46</mes:Prepared>
     <mes:Sender id="open-sdg_sdg-build@1-3-0"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -12,7 +12,7 @@
     </mes:Structure>
   </mes:Header>
   
-  <mes:MetadataSet structureRef="MDS1" setID="31c221bd-7958-4c9f-b4c6-32ce07e4c629">
+  <mes:MetadataSet structureRef="MDS1" setID="6e0bef74-2b2d-4767-b703-498be17cb8f9">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -184,7 +184,7 @@
         
         <gen:ReportedAttribute id="DATA_COMP">
           
-          <com:Text xml:lang="en"><![CDATA[ <p> The incidence of malaria (1) is expressed as the number of new cases per 100,000 inhabitants per year, the total risk proportion being estimated by the country's National Malaria Control Program </p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> The incidence of malaria (1) is expressed as the number of new cases per 100,000 inhabitants per year, the total risk proportion being estimated by the country&#39;s National Malaria Control Program </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -198,7 +198,7 @@
         
         <gen:ReportedAttribute id="DOC_METHOD">
           
-          <com:Text xml:lang="en"><![CDATA[ <p> The incidence of malaria (1) is expressed as the number of new cases per 100,000 inhabitants per year, the population of a country being derived from projections made by the UN Population Division and the total proportion of risk estimated by the National Control Program of a country's Malaria. More specifically, the country estimates what is the high-risk ratio (H) and what is the low-risk ratio (L) and the total population at risk is estimated as Population x (H + L). </p>
+          <com:Text xml:lang="en"><![CDATA[ <p> The incidence of malaria (1) is expressed as the number of new cases per 100,000 inhabitants per year, the population of a country being derived from projections made by the UN Population Division and the total proportion of risk estimated by the National Control Program of a country&#39;s Malaria. More specifically, the country estimates what is the high-risk ratio (H) and what is the low-risk ratio (L) and the total population at risk is estimated as Population x (H + L). </p>
  <p> The total number of new cases, T, is estimated based on the number of malaria cases reported by the Ministry of Health, which is adjusted to take into account (i) lack of coverage of notification systems (ii) patients seeking treatment in the private sector, those who do self-medication or who do not seek treatment; and (iii) excessive diagnostic potential due to the lack of laboratory confirmation of the cases. </p>
  <p> The procedure, described in the 2009 World Malaria Report (2), combines data reported by NMCPs (reported cases, reporting perfection / integrity and probability that cases are positive parasites) with data obtained from representative household surveys at national level on the use of health services. Briefly, </p>
  <p> Where: </p>

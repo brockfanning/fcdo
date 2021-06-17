@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
   <mes:Header>
-    <mes:ID>IREF1623935954</mes:ID>
+    <mes:ID>IREF1623943246</mes:ID>
     <mes:Test>True</mes:Test>
-    <mes:Prepared>2021-06-17T13:19:14</mes:Prepared>
+    <mes:Prepared>2021-06-17T15:20:46</mes:Prepared>
     <mes:Sender id="open-sdg_sdg-build@1-3-0"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -12,7 +12,7 @@
     </mes:Structure>
   </mes:Header>
   
-  <mes:MetadataSet structureRef="MDS1" setID="062a3028-04d2-4a7e-b700-9f4cb9d4a35c">
+  <mes:MetadataSet structureRef="MDS1" setID="e9e86f40-1ad5-46a1-ba5b-5791ef43cb8e">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -177,7 +177,7 @@
         
         <gen:ReportedAttribute id="RATIONALE">
           
-          <com:Text xml:lang="en"><![CDATA[ <p> The indicator provides a direct measure of the progress of the implementation of integrated water resources management. The percentage score provides an easy and understandable way to measure progress towards the goal, with '0' interpreted as no IWRM implementation and '100' interpreted as IWRM being fully implemented. The indicator results can be classified similarly to the survey questions: </p>
+          <com:Text xml:lang="en"><![CDATA[ <p> The indicator provides a direct measure of the progress of the implementation of integrated water resources management. The percentage score provides an easy and understandable way to measure progress towards the goal, with &#39;0&#39; interpreted as no IWRM implementation and &#39;100&#39; interpreted as IWRM being fully implemented. The indicator results can be classified similarly to the survey questions: </p>
  <p> Degree of implementation = </p>
  <ul>
    <li> Very low (0-9,9) </li>
@@ -264,7 +264,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="84d210f7-41be-4431-86d3-e16f0a9bc870">
+  <mes:MetadataSet structureRef="MDS1" setID="43afe264-22d4-44c4-a570-fc1c41642760">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -429,7 +429,7 @@
         
         <gen:ReportedAttribute id="RATIONALE">
           
-          <com:Text xml:lang="en"><![CDATA[ <p> The indicator provides a direct measure of the progress of the implementation of integrated water resources management. The percentage score provides an easy and understandable way to measure progress towards the goal, with '0' interpreted as no IWRM implementation and '100' interpreted as IWRM being fully implemented. The indicator results can be classified similarly to the survey questions: </p>
+          <com:Text xml:lang="en"><![CDATA[ <p> The indicator provides a direct measure of the progress of the implementation of integrated water resources management. The percentage score provides an easy and understandable way to measure progress towards the goal, with &#39;0&#39; interpreted as no IWRM implementation and &#39;100&#39; interpreted as IWRM being fully implemented. The indicator results can be classified similarly to the survey questions: </p>
  <p> Degree of implementation = </p>
  <ul>
    <li> Very low (0-9,9) </li>

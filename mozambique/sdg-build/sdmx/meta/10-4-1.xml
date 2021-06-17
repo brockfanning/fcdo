@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
   <mes:Header>
-    <mes:ID>IREF1623935954</mes:ID>
+    <mes:ID>IREF1623943246</mes:ID>
     <mes:Test>True</mes:Test>
-    <mes:Prepared>2021-06-17T13:19:14</mes:Prepared>
+    <mes:Prepared>2021-06-17T15:20:46</mes:Prepared>
     <mes:Sender id="open-sdg_sdg-build@1-3-0"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -12,7 +12,7 @@
     </mes:Structure>
   </mes:Header>
   
-  <mes:MetadataSet structureRef="MDS1" setID="0e3296bb-4209-4640-a89b-54d5d9af302d">
+  <mes:MetadataSet structureRef="MDS1" setID="4c6768fe-8f8f-4a92-8e3b-f22b8f013618">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -143,7 +143,7 @@
         
         <gen:ReportedAttribute id="COLL_METHOD">
           
-          <com:Text xml:lang="en"><![CDATA[ <p> The Family Budget Survey is a probabilistic sampling survey with national, provincial and area of residence representation. Some of the important variables are household expenses, activities / occupations and people's remuneration / income and hours worked. It lasts for 12 months. The last two were held in 2014/15 and 2019/20. The interviews are direct. When recruiting, the interviewers are evaluated and selected, submitted to training, evaluation and selection. During the field work, there is supervision work for quality control and the data processing process starts with a data critique and the data entry is done in an appropriate computer application, with validation rules to control the quality. . </p>
+          <com:Text xml:lang="en"><![CDATA[ <p> The Family Budget Survey is a probabilistic sampling survey with national, provincial and area of residence representation. Some of the important variables are household expenses, activities / occupations and people&#39;s remuneration / income and hours worked. It lasts for 12 months. The last two were held in 2014/15 and 2019/20. The interviews are direct. When recruiting, the interviewers are evaluated and selected, submitted to training, evaluation and selection. During the field work, there is supervision work for quality control and the data processing process starts with a data critique and the data entry is done in an appropriate computer application, with validation rules to control the quality. . </p>
  <p> Monthly and annual business surveys are current surveys, also probabilistic. Physical or electronic questionnaires are sent to companies for completion and return. They have as key variables: the main and secondary activity, the volume of business, expenses detailed by type of expenditure, No. of workers, remuneration and hours worked. And, like the IOF, they have their own computer applications with validation rules. </p>
  <p> Administrative data is received on templates used by sources. When they are received, an assessment is made of their quality. </p>]]></com:Text>
           
@@ -177,8 +177,8 @@
           
           <com:Text xml:lang="en"><![CDATA[ <p> According to article 19, of Law 7/96 of July 5th: </p>
  <ol>
-   <li> The National Statistics Institute (INE) is the central executive body of the National Statistical System (SEN) whose objective is the notation, calculation, coordination and dissemination of the country's official statistical information and is subordinate to the Minister Council. </li>
-   <li> INE is responsible for carrying out the country's official statistical activity. </li>
+   <li> The National Statistics Institute (INE) is the central executive body of the National Statistical System (SEN) whose objective is the notation, calculation, coordination and dissemination of the country&#39;s official statistical information and is subordinate to the Minister Council. </li>
+   <li> INE is responsible for carrying out the country&#39;s official statistical activity. </li>
  </ol>]]></com:Text>
           
         </gen:ReportedAttribute>
