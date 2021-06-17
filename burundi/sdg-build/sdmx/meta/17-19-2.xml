@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
   <mes:Header>
-    <mes:ID>IREF1623075612</mes:ID>
+    <mes:ID>IREF1623935827</mes:ID>
     <mes:Test>True</mes:Test>
-    <mes:Prepared>2021-06-07T14:20:12</mes:Prepared>
+    <mes:Prepared>2021-06-17T13:17:07</mes:Prepared>
     <mes:Sender id="open-sdg_sdg-build@1-3-0"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -12,7 +12,7 @@
     </mes:Structure>
   </mes:Header>
   
-  <mes:MetadataSet structureRef="MDS1" setID="beeb67ec-1ed7-4946-8c38-72522a53def4">
+  <mes:MetadataSet structureRef="MDS1" setID="a17da588-9599-4b03-99f9-51f858f2a387">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -41,15 +41,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Goal 17. Strengthen the means of implementing and revitalizing the Global Partnership for Sustainable Development]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Objectif 17. Renforcer les moyens de mettre en œuvre le Partenariat mondial pour le développement durable et le revitaliser]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SDG_TARGET">
           
           <com:Text xml:lang="en"><![CDATA[17.19 By 2030, build on existing initiatives to establish indicators of progress in sustainable development that would complement gross domestic product, and support statistical capacity building in developing countries]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[17.19 D’ici à 2030, tirer parti des initiatives existantes pour établir des indicateurs de progrès en matière de développement durable qui viendraient compléter le produit intérieur brut, et appuyer le renforcement des capacités statistiques des pays en développement]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -57,15 +53,11 @@
           
           <com:Text xml:lang="en"><![CDATA[17.19.2 Proportion of countries that a) have conducted at least one population and housing census in the past 10 years, and b) have achieved a birth registration rate of 100% and a birth registration rate 80% deaths]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[17.19.2 Proportion de pays qui a) ont procédé à au moins un recensement de la population et du logement au cours des 10 dernières années, et b) ont atteint un taux d’enregistrement des naissances de 100% et un taux d’enregistrement des décès de 80%]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SDG_SERIES_DESCR">
           
           <com:Text xml:lang="en"><![CDATA[17.19.2 a) Year of last RGPH]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[17.19.2 a) Année du dernier RGPH]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -73,15 +65,11 @@
           
           <com:Text xml:lang="en"><![CDATA[ISTEEBU]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[ISTEEBU]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_NAME">
           
           <com:Text xml:lang="en"><![CDATA[NDAYISENGA Modest]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[NDAYISENGA Modeste]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -89,15 +77,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Social studies and statistics and poverty monitoring (ESSSP)]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Etudes et statistique sociale et suivi de la pauvreté(ESSSP)]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_FUNCT">
           
           <com:Text xml:lang="en"><![CDATA[ESSSP department manager]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[Chef de service  ESSSP]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -105,15 +89,11 @@
           
           <com:Text xml:lang="en"><![CDATA[79401939]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[79401939]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_MAIL">
           
           <com:Text xml:lang="en"><![CDATA[1158 BUJUMBURA]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[1158 BUJUMBURA]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -121,15 +101,11 @@
           
           <com:Text xml:lang="en"><![CDATA[ndayimode2010@gmail.com]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[ndayimode2010@gmail.com]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="UNIT_MEASURE">
           
           <com:Text xml:lang="en"><![CDATA[Year of last RGPH]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[Année du dernier RGPH]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -137,15 +113,11 @@
           
           <com:Text xml:lang="en"><![CDATA[ISTEEBU]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[ISTEEBU]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="FREQ_COLL">
           
           <com:Text xml:lang="en"><![CDATA[General census of the population]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[Recencement Général de la population]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -153,15 +125,11 @@
           
           <com:Text xml:lang="en"><![CDATA[ISTEEBU is responsible for compiling this indicator at the national level]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[L’ISTEEBU est  responsable de la compilation de cet indicateur au niveau national]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="DATA_COMP">
           
           <com:Text xml:lang="en"><![CDATA[Updating the indicator requires a household survey which is very resource intensive. The indicator cannot be calculated by gender.]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[La mise à jour de l’indicateur nécessite une enquête auprès des ménages qui exige beaucoup de moyens. L’indicateur ne pas être calculé par sexe.]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -169,15 +137,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Available nationally]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Disponible au niveau national]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="OTHER_DOC">
           
           <com:Text xml:lang="en"><![CDATA[The indicator can be compared to other indicators of the same type at regional and international level]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[L’indicateur peut être comparé aux autres indicateurs du même type au niveau régional et international]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -185,7 +149,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="59e499f1-1249-4372-acb0-d7c642dacf57">
+  <mes:MetadataSet structureRef="MDS1" setID="84bc6134-aaa4-4040-a732-b59e060c822d">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -214,15 +178,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Goal 17. Strengthen the means of implementing and revitalizing the Global Partnership for Sustainable Development]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Objectif 17. Renforcer les moyens de mettre en œuvre le Partenariat mondial pour le développement durable et le revitaliser]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SDG_TARGET">
           
           <com:Text xml:lang="en"><![CDATA[17.19 By 2030, build on existing initiatives to establish indicators of progress in sustainable development that would complement gross domestic product, and support statistical capacity building in developing countries]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[17.19 D’ici à 2030, tirer parti des initiatives existantes pour établir des indicateurs de progrès en matière de développement durable qui viendraient compléter le produit intérieur brut, et appuyer le renforcement des capacités statistiques des pays en développement]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -230,15 +190,11 @@
           
           <com:Text xml:lang="en"><![CDATA[17.19.2 Proportion of countries that a) have conducted at least one population and housing census in the past 10 years, and b) have achieved a birth registration rate of 100% and a birth registration rate 80% deaths]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[17.19.2 Proportion de pays qui a) ont procédé à au moins un recensement de la population et du logement au cours des 10 dernières années, et b) ont atteint un taux d’enregistrement des naissances de 100% et un taux d’enregistrement des décès de 80%]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SDG_SERIES_DESCR">
           
           <com:Text xml:lang="en"><![CDATA[17.19.2 a) Year of last RGPH]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[17.19.2 a) Année du dernier RGPH]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -246,15 +202,11 @@
           
           <com:Text xml:lang="en"><![CDATA[ISTEEBU]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[ISTEEBU]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_NAME">
           
           <com:Text xml:lang="en"><![CDATA[NDAYISENGA Modest]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[NDAYISENGA Modeste]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -262,15 +214,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Social studies and statistics and poverty monitoring (ESSSP)]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Etudes et statistique sociale et suivi de la pauvreté(ESSSP)]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_FUNCT">
           
           <com:Text xml:lang="en"><![CDATA[ESSSP department manager]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[Chef de service  ESSSP]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -278,15 +226,11 @@
           
           <com:Text xml:lang="en"><![CDATA[79401939]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[79401939]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_MAIL">
           
           <com:Text xml:lang="en"><![CDATA[1158 BUJUMBURA]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[1158 BUJUMBURA]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -294,15 +238,11 @@
           
           <com:Text xml:lang="en"><![CDATA[ndayimode2010@gmail.com]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[ndayimode2010@gmail.com]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="UNIT_MEASURE">
           
           <com:Text xml:lang="en"><![CDATA[Year of last RGPH]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[Année du dernier RGPH]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -310,15 +250,11 @@
           
           <com:Text xml:lang="en"><![CDATA[ISTEEBU]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[ISTEEBU]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="FREQ_COLL">
           
           <com:Text xml:lang="en"><![CDATA[General census of the population]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[Recencement Général de la population]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -326,15 +262,11 @@
           
           <com:Text xml:lang="en"><![CDATA[ISTEEBU is responsible for compiling this indicator at the national level]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[L’ISTEEBU est  responsable de la compilation de cet indicateur au niveau national]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="DATA_COMP">
           
           <com:Text xml:lang="en"><![CDATA[Updating the indicator requires a household survey which is very resource intensive. The indicator cannot be calculated by gender.]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[La mise à jour de l’indicateur nécessite une enquête auprès des ménages qui exige beaucoup de moyens. L’indicateur ne pas être calculé par sexe.]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -342,15 +274,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Available nationally]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Disponible au niveau national]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="OTHER_DOC">
           
           <com:Text xml:lang="en"><![CDATA[The indicator can be compared to other indicators of the same type at regional and international level]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[L’indicateur peut être comparé aux autres indicateurs du même type au niveau régional et international]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -358,7 +286,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="439cb783-d7e0-4c70-aec8-7cbd16c0cd78">
+  <mes:MetadataSet structureRef="MDS1" setID="52f5cb66-5dfa-4231-9475-416f90870d57">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -387,15 +315,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Goal 17. Strengthen the means of implementing and revitalizing the Global Partnership for Sustainable Development]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Objectif 17. Renforcer les moyens de mettre en œuvre le Partenariat mondial pour le développement durable et le revitaliser]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SDG_TARGET">
           
           <com:Text xml:lang="en"><![CDATA[17.19 By 2030, build on existing initiatives to establish indicators of progress in sustainable development that would complement gross domestic product, and support statistical capacity building in developing countries]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[17.19 D’ici à 2030, tirer parti des initiatives existantes pour établir des indicateurs de progrès en matière de développement durable qui viendraient compléter le produit intérieur brut, et appuyer le renforcement des capacités statistiques des pays en développement]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -403,15 +327,11 @@
           
           <com:Text xml:lang="en"><![CDATA[17.19.2 Proportion of countries that a) have conducted at least one population and housing census in the past 10 years, and b) have achieved a birth registration rate of 100% and a birth registration rate 80% deaths]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[17.19.2 Proportion de pays qui a) ont procédé à au moins un recensement de la population et du logement au cours des 10 dernières années, et b) ont atteint un taux d’enregistrement des naissances de 100% et un taux d’enregistrement des décès de 80%]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SDG_SERIES_DESCR">
           
           <com:Text xml:lang="en"><![CDATA[17.19.2 a) Year of last RGPH]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[17.19.2 a) Année du dernier RGPH]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -419,15 +339,11 @@
           
           <com:Text xml:lang="en"><![CDATA[ISTEEBU]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[ISTEEBU]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_NAME">
           
           <com:Text xml:lang="en"><![CDATA[NDAYISENGA Modest]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[NDAYISENGA Modeste]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -435,15 +351,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Social studies and statistics and poverty monitoring (ESSSP)]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Etudes et statistique sociale et suivi de la pauvreté(ESSSP)]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_FUNCT">
           
           <com:Text xml:lang="en"><![CDATA[ESSSP department manager]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[Chef de service  ESSSP]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -451,15 +363,11 @@
           
           <com:Text xml:lang="en"><![CDATA[79401939]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[79401939]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_MAIL">
           
           <com:Text xml:lang="en"><![CDATA[1158 BUJUMBURA]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[1158 BUJUMBURA]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -467,15 +375,11 @@
           
           <com:Text xml:lang="en"><![CDATA[ndayimode2010@gmail.com]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[ndayimode2010@gmail.com]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="UNIT_MEASURE">
           
           <com:Text xml:lang="en"><![CDATA[Year of last RGPH]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[Année du dernier RGPH]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -483,15 +387,11 @@
           
           <com:Text xml:lang="en"><![CDATA[ISTEEBU]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[ISTEEBU]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="FREQ_COLL">
           
           <com:Text xml:lang="en"><![CDATA[General census of the population]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[Recencement Général de la population]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -499,15 +399,11 @@
           
           <com:Text xml:lang="en"><![CDATA[ISTEEBU is responsible for compiling this indicator at the national level]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[L’ISTEEBU est  responsable de la compilation de cet indicateur au niveau national]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="DATA_COMP">
           
           <com:Text xml:lang="en"><![CDATA[Updating the indicator requires a household survey which is very resource intensive. The indicator cannot be calculated by gender.]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[La mise à jour de l’indicateur nécessite une enquête auprès des ménages qui exige beaucoup de moyens. L’indicateur ne pas être calculé par sexe.]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -515,15 +411,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Available nationally]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Disponible au niveau national]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="OTHER_DOC">
           
           <com:Text xml:lang="en"><![CDATA[The indicator can be compared to other indicators of the same type at regional and international level]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[L’indicateur peut être comparé aux autres indicateurs du même type au niveau régional et international]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -531,7 +423,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="e79090bc-ac4a-4680-9bdb-8cff31a5eb79">
+  <mes:MetadataSet structureRef="MDS1" setID="ea0217d9-d641-43b2-9b61-214c2640ce78">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -560,15 +452,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Goal 17. Strengthen the means of implementing and revitalizing the Global Partnership for Sustainable Development]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Objectif 17. Renforcer les moyens de mettre en œuvre le Partenariat mondial pour le développement durable et le revitaliser]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SDG_TARGET">
           
           <com:Text xml:lang="en"><![CDATA[17.19 By 2030, build on existing initiatives to establish indicators of progress in sustainable development that would complement gross domestic product, and support statistical capacity building in developing countries]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[17.19 D’ici à 2030, tirer parti des initiatives existantes pour établir des indicateurs de progrès en matière de développement durable qui viendraient compléter le produit intérieur brut, et appuyer le renforcement des capacités statistiques des pays en développement]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -576,15 +464,11 @@
           
           <com:Text xml:lang="en"><![CDATA[17.19.2 Proportion of countries that a) have conducted at least one population and housing census in the past 10 years, and b) have achieved a birth registration rate of 100% and a birth registration rate 80% deaths]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[17.19.2 Proportion de pays qui a) ont procédé à au moins un recensement de la population et du logement au cours des 10 dernières années, et b) ont atteint un taux d’enregistrement des naissances de 100% et un taux d’enregistrement des décès de 80%]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SDG_SERIES_DESCR">
           
           <com:Text xml:lang="en"><![CDATA[17.19.2 a) Year of last RGPH]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[17.19.2 a) Année du dernier RGPH]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -592,15 +476,11 @@
           
           <com:Text xml:lang="en"><![CDATA[ISTEEBU]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[ISTEEBU]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_NAME">
           
           <com:Text xml:lang="en"><![CDATA[NDAYISENGA Modest]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[NDAYISENGA Modeste]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -608,15 +488,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Social studies and statistics and poverty monitoring (ESSSP)]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Etudes et statistique sociale et suivi de la pauvreté(ESSSP)]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_FUNCT">
           
           <com:Text xml:lang="en"><![CDATA[ESSSP department manager]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[Chef de service  ESSSP]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -624,15 +500,11 @@
           
           <com:Text xml:lang="en"><![CDATA[79401939]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[79401939]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_MAIL">
           
           <com:Text xml:lang="en"><![CDATA[1158 BUJUMBURA]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[1158 BUJUMBURA]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -640,15 +512,11 @@
           
           <com:Text xml:lang="en"><![CDATA[ndayimode2010@gmail.com]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[ndayimode2010@gmail.com]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="UNIT_MEASURE">
           
           <com:Text xml:lang="en"><![CDATA[Year of last RGPH]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[Année du dernier RGPH]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -656,15 +524,11 @@
           
           <com:Text xml:lang="en"><![CDATA[ISTEEBU]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[ISTEEBU]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="FREQ_COLL">
           
           <com:Text xml:lang="en"><![CDATA[General census of the population]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[Recencement Général de la population]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -672,15 +536,11 @@
           
           <com:Text xml:lang="en"><![CDATA[ISTEEBU is responsible for compiling this indicator at the national level]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[L’ISTEEBU est  responsable de la compilation de cet indicateur au niveau national]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="DATA_COMP">
           
           <com:Text xml:lang="en"><![CDATA[Updating the indicator requires a household survey which is very resource intensive. The indicator cannot be calculated by gender.]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[La mise à jour de l’indicateur nécessite une enquête auprès des ménages qui exige beaucoup de moyens. L’indicateur ne pas être calculé par sexe.]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -688,15 +548,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Available nationally]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Disponible au niveau national]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="OTHER_DOC">
           
           <com:Text xml:lang="en"><![CDATA[The indicator can be compared to other indicators of the same type at regional and international level]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[L’indicateur peut être comparé aux autres indicateurs du même type au niveau régional et international]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -704,7 +560,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="df7a3118-819d-4ed0-9912-e0f76fe9cb0e">
+  <mes:MetadataSet structureRef="MDS1" setID="3dcbefe9-c47c-422f-88a7-f3acece8616a">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -733,15 +589,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Goal 17. Strengthen the means of implementing and revitalizing the Global Partnership for Sustainable Development]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Objectif 17. Renforcer les moyens de mettre en œuvre le Partenariat mondial pour le développement durable et le revitaliser]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SDG_TARGET">
           
           <com:Text xml:lang="en"><![CDATA[17.19 By 2030, build on existing initiatives to establish indicators of progress in sustainable development that would complement gross domestic product, and support statistical capacity building in developing countries]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[17.19 D’ici à 2030, tirer parti des initiatives existantes pour établir des indicateurs de progrès en matière de développement durable qui viendraient compléter le produit intérieur brut, et appuyer le renforcement des capacités statistiques des pays en développement]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -749,15 +601,11 @@
           
           <com:Text xml:lang="en"><![CDATA[17.19.2 Proportion of countries that a) have conducted at least one population and housing census in the past 10 years, and b) have achieved a birth registration rate of 100% and a birth registration rate 80% deaths]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[17.19.2 Proportion de pays qui a) ont procédé à au moins un recensement de la population et du logement au cours des 10 dernières années, et b) ont atteint un taux d’enregistrement des naissances de 100% et un taux d’enregistrement des décès de 80%]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SDG_SERIES_DESCR">
           
           <com:Text xml:lang="en"><![CDATA[17.19.2 a) Year of last RGPH]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[17.19.2 a) Année du dernier RGPH]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -765,15 +613,11 @@
           
           <com:Text xml:lang="en"><![CDATA[ISTEEBU]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[ISTEEBU]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_NAME">
           
           <com:Text xml:lang="en"><![CDATA[NDAYISENGA Modest]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[NDAYISENGA Modeste]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -781,15 +625,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Social studies and statistics and poverty monitoring (ESSSP)]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Etudes et statistique sociale et suivi de la pauvreté(ESSSP)]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_FUNCT">
           
           <com:Text xml:lang="en"><![CDATA[ESSSP department manager]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[Chef de service  ESSSP]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -797,15 +637,11 @@
           
           <com:Text xml:lang="en"><![CDATA[79401939]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[79401939]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_MAIL">
           
           <com:Text xml:lang="en"><![CDATA[1158 BUJUMBURA]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[1158 BUJUMBURA]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -813,15 +649,11 @@
           
           <com:Text xml:lang="en"><![CDATA[ndayimode2010@gmail.com]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[ndayimode2010@gmail.com]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="UNIT_MEASURE">
           
           <com:Text xml:lang="en"><![CDATA[Year of last RGPH]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[Année du dernier RGPH]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -829,15 +661,11 @@
           
           <com:Text xml:lang="en"><![CDATA[ISTEEBU]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[ISTEEBU]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="FREQ_COLL">
           
           <com:Text xml:lang="en"><![CDATA[General census of the population]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[Recencement Général de la population]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -845,15 +673,11 @@
           
           <com:Text xml:lang="en"><![CDATA[ISTEEBU is responsible for compiling this indicator at the national level]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[L’ISTEEBU est  responsable de la compilation de cet indicateur au niveau national]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="DATA_COMP">
           
           <com:Text xml:lang="en"><![CDATA[Updating the indicator requires a household survey which is very resource intensive. The indicator cannot be calculated by gender.]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[La mise à jour de l’indicateur nécessite une enquête auprès des ménages qui exige beaucoup de moyens. L’indicateur ne pas être calculé par sexe.]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -861,15 +685,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Available nationally]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Disponible au niveau national]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="OTHER_DOC">
           
           <com:Text xml:lang="en"><![CDATA[The indicator can be compared to other indicators of the same type at regional and international level]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[L’indicateur peut être comparé aux autres indicateurs du même type au niveau régional et international]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -877,7 +697,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="84ecef08-39f3-4c14-b20b-e71ad7860e32">
+  <mes:MetadataSet structureRef="MDS1" setID="c3324f6e-6a1b-4892-b822-e041842fef80">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -906,15 +726,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Goal 17. Strengthen the means of implementing and revitalizing the Global Partnership for Sustainable Development]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Objectif 17. Renforcer les moyens de mettre en œuvre le Partenariat mondial pour le développement durable et le revitaliser]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SDG_TARGET">
           
           <com:Text xml:lang="en"><![CDATA[17.19 By 2030, build on existing initiatives to establish indicators of progress in sustainable development that would complement gross domestic product, and support statistical capacity building in developing countries]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[17.19 D’ici à 2030, tirer parti des initiatives existantes pour établir des indicateurs de progrès en matière de développement durable qui viendraient compléter le produit intérieur brut, et appuyer le renforcement des capacités statistiques des pays en développement]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -922,15 +738,11 @@
           
           <com:Text xml:lang="en"><![CDATA[17.19.2 Proportion of countries that a) have conducted at least one population and housing census in the past 10 years, and b) have achieved a birth registration rate of 100% and a birth registration rate 80% deaths]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[17.19.2 Proportion de pays qui a) ont procédé à au moins un recensement de la population et du logement au cours des 10 dernières années, et b) ont atteint un taux d’enregistrement des naissances de 100% et un taux d’enregistrement des décès de 80%]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SDG_SERIES_DESCR">
           
           <com:Text xml:lang="en"><![CDATA[17.19.2 a) Year of last RGPH]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[17.19.2 a) Année du dernier RGPH]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -938,15 +750,11 @@
           
           <com:Text xml:lang="en"><![CDATA[ISTEEBU]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[ISTEEBU]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_NAME">
           
           <com:Text xml:lang="en"><![CDATA[NDAYISENGA Modest]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[NDAYISENGA Modeste]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -954,15 +762,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Social studies and statistics and poverty monitoring (ESSSP)]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Etudes et statistique sociale et suivi de la pauvreté(ESSSP)]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_FUNCT">
           
           <com:Text xml:lang="en"><![CDATA[ESSSP department manager]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[Chef de service  ESSSP]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -970,15 +774,11 @@
           
           <com:Text xml:lang="en"><![CDATA[79401939]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[79401939]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_MAIL">
           
           <com:Text xml:lang="en"><![CDATA[1158 BUJUMBURA]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[1158 BUJUMBURA]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -986,15 +786,11 @@
           
           <com:Text xml:lang="en"><![CDATA[ndayimode2010@gmail.com]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[ndayimode2010@gmail.com]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="UNIT_MEASURE">
           
           <com:Text xml:lang="en"><![CDATA[Year of last RGPH]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[Année du dernier RGPH]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -1002,15 +798,11 @@
           
           <com:Text xml:lang="en"><![CDATA[ISTEEBU]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[ISTEEBU]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="FREQ_COLL">
           
           <com:Text xml:lang="en"><![CDATA[General census of the population]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[Recencement Général de la population]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -1018,15 +810,11 @@
           
           <com:Text xml:lang="en"><![CDATA[ISTEEBU is responsible for compiling this indicator at the national level]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[L’ISTEEBU est  responsable de la compilation de cet indicateur au niveau national]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="DATA_COMP">
           
           <com:Text xml:lang="en"><![CDATA[Updating the indicator requires a household survey which is very resource intensive. The indicator cannot be calculated by gender.]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[La mise à jour de l’indicateur nécessite une enquête auprès des ménages qui exige beaucoup de moyens. L’indicateur ne pas être calculé par sexe.]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -1034,15 +822,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Available nationally]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Disponible au niveau national]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="OTHER_DOC">
           
           <com:Text xml:lang="en"><![CDATA[The indicator can be compared to other indicators of the same type at regional and international level]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[L’indicateur peut être comparé aux autres indicateurs du même type au niveau régional et international]]></com:Text>
           
         </gen:ReportedAttribute>
         

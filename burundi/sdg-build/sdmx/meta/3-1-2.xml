@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
   <mes:Header>
-    <mes:ID>IREF1623075612</mes:ID>
+    <mes:ID>IREF1623935827</mes:ID>
     <mes:Test>True</mes:Test>
-    <mes:Prepared>2021-06-07T14:20:12</mes:Prepared>
+    <mes:Prepared>2021-06-17T13:17:07</mes:Prepared>
     <mes:Sender id="open-sdg_sdg-build@1-3-0"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -12,7 +12,7 @@
     </mes:Structure>
   </mes:Header>
   
-  <mes:MetadataSet structureRef="MDS1" setID="4a1ba2bb-511e-418a-8959-50792682868a">
+  <mes:MetadataSet structureRef="MDS1" setID="bc51b8bd-f111-4574-a4d3-a1731db36488">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -41,15 +41,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Goal 3. Ensure healthy lives and promote well-being for all at all ages]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Objectif 3. Permettre à tous de vivre en bonne santé et promouvoir le bien-être de tous à tout âge]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SDG_TARGET">
           
           <com:Text xml:lang="en"><![CDATA[3.1 By 2030, reduce the global maternal mortality rate to below 70 per 100,000 live births]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[3.1 D’ici à 2030, faire passer le taux mondial de mortalité maternelle au-dessous de 70 pour 100 000 naissances vivantes]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -57,15 +53,11 @@
           
           <com:Text xml:lang="en"><![CDATA[3.1.2. Percentage of births attended by trained health personnel]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[3.1.2. Pourcentage d’accouchement assisté par un personnel de santé formé]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="META_LAST_UPDATE">
           
           <com:Text xml:lang="en"><![CDATA[2020]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[2020]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -73,15 +65,11 @@
           
           <com:Text xml:lang="en"><![CDATA[ISTEEBU]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[ISTEEBU]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_NAME">
           
           <com:Text xml:lang="en"><![CDATA[NDAYISENGA Modest]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[NDAYISENGA Modeste]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -89,15 +77,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Department of Social Studies and Statistics and Poverty Monitoring, Ponit focal ODD]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Service Etudes et Statistiques Sociales et Suivi de la Pauvreté, Ponit focal ODD]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_FUNCT">
           
           <com:Text xml:lang="en"><![CDATA[Head of Service and Focal Point]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[Chef de Service et Point focal]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -105,15 +89,11 @@
           
           <com:Text xml:lang="en"><![CDATA[79401937]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[79401937]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_EMAIL">
           
           <com:Text xml:lang="en"><![CDATA[ndayimode2010@gmail.com]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[ndayimode2010@gmail.com]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -121,15 +101,11 @@
           
           <com:Text xml:lang="en"><![CDATA[it is the number of deliveries attended by qualified health personnel (doctor, midwife, nurse) and the total number of pregnancies expected during the last 12 months]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[c'est le nombre d’accouchements assistés par un personnel qualifié de la santé (médecin, sage-femme, infirmier) et le nombre total de grossesses attendues au cours des 12 derniers mois]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="UNIT_MEASURE">
           
           <com:Text xml:lang="en"><![CDATA[%]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[%]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -137,15 +113,11 @@
           
           <com:Text xml:lang="en"><![CDATA[EDSB-III, 2016-2017]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[EDSB-III, 2016-2017]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COLL_METHOD">
           
           <com:Text xml:lang="en"><![CDATA[Data are collected from household surveys using the "household" questionnaire]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[Les données sont collectées à partir des enquêtes auprès des ménages à l’aide du questionnaire « ménage »]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -153,15 +125,11 @@
           
           <com:Text xml:lang="en"><![CDATA[The probable date of the next collection will be 2021 (Next DHS)]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[La date probable de la prochaine collecte sera 2021 (Prochaine EDS)]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="REL_CAL_POLICY">
           
           <com:Text xml:lang="en"><![CDATA[In 2022]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[En 2022]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -169,15 +137,11 @@
           
           <com:Text xml:lang="en"><![CDATA[ISTEEBU]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[ISTEEBU]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COMPILING_ORG">
           
           <com:Text xml:lang="en"><![CDATA[ISTEEBU is responsible for compiling this indicator at the national level]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[L’ISTEEBU est  responsable de la compilation de cet indicateur au niveau national]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -185,15 +149,11 @@
           
           <com:Text xml:lang="en"><![CDATA[ISTEEBU is the body recognized by the Burundian government for the collection, processing and dissemination of official statistics helping in planning and decision-making.]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[L’ISTEEBU est l’organe reconnu par le gouvernement burundais pour la collecte, le traitement et la diffusion des statistiques officielles aidant dans la planification et la prise de décision.]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="RATIONALE">
           
           <com:Text xml:lang="en"><![CDATA[The indicator is relevant because it reflects the demographic and health situation of the population.]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[L’indicateur est pertinent car il rend compte de la situation démographique et sanitaire de la population .]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -201,15 +161,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Updating the indicator requires a household survey which is very resource intensive.]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[La mise à jour de l’indicateur nécessite une enquête auprès des ménages qui exige beaucoup de moyens.]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="DATA_COMP">
           
           <com:Text xml:lang="en"><![CDATA[Ratio between the number of deliveries conducted by a person with at least the qualification of auxiliary birth attendant and the total number of deliveries multiplied by 100.]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[Rapport entre le  nombre d'accouchements conduits par une personne ayant au moins la qualification d'accoucheuse auxiliaire et le nombre total d'accouchements multiplé par 100.]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -217,15 +173,11 @@
           
           <com:Text xml:lang="en"><![CDATA[The results of the survey are validated at two levels: technical validation and official validation before publication]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Les résultats de l’enquête sont validés à deux niveaux : validation technique et validation officielle avant la publication]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COVERAGE">
           
           <com:Text xml:lang="en"><![CDATA[The indicator is available at national level, province, area of residence (Total; Urban area; Rural area)]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[L'indicateur est disponible au niveau national, province, Milieu de résidence (Total; Milieu urbain; Milieu rural)]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -233,15 +185,11 @@
           
           <com:Text xml:lang="en"><![CDATA[The indicator can be compared to other indicators of the same type at regional and international level]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[L’indicateur peut être comparé aux autres indicateurs du même type au niveau régional et international]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="OTHER_DOC">
           
           <com:Text xml:lang="en"><![CDATA[Report of the Demographic and Health Survey 2016-2017]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[Rapport de l'Enquête Démographique et de Santé 2016-2017]]></com:Text>
           
         </gen:ReportedAttribute>
         

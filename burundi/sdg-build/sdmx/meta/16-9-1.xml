@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
   <mes:Header>
-    <mes:ID>IREF1623075612</mes:ID>
+    <mes:ID>IREF1623935827</mes:ID>
     <mes:Test>True</mes:Test>
-    <mes:Prepared>2021-06-07T14:20:12</mes:Prepared>
+    <mes:Prepared>2021-06-17T13:17:07</mes:Prepared>
     <mes:Sender id="open-sdg_sdg-build@1-3-0"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -12,7 +12,7 @@
     </mes:Structure>
   </mes:Header>
   
-  <mes:MetadataSet structureRef="MDS1" setID="b23b67f5-db34-4712-b915-50a4688167b2">
+  <mes:MetadataSet structureRef="MDS1" setID="05c8040a-0fa4-4170-b873-307fe3f55f81">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -41,15 +41,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Goal 16. Promote the emergence of peaceful and inclusive societies for sustainable development, ensure access to justice for all and build, at all levels, effective, accountable and inclusive institutions]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Objectif 16. Promouvoir l’avènement de sociétés pacifiques et inclusives aux fins du développement durable, assurer l’accès de tous à la justice et mettre en place, à tous les niveaux, des institutions efficaces, responsables et ouvertes à tous]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SDG_TARGET">
           
           <com:Text xml:lang="en"><![CDATA[16.9 By 2030, ensure legal identity for all, including through birth registration]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[16.9 D’ici à 2030, garantir à tous une identité juridique, notamment grâce à l’enregistrement des naissances]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -57,15 +53,11 @@
           
           <com:Text xml:lang="en"><![CDATA[16.9.1 Proportion of children under 5 with a birth certificate]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[16.9.1 Proportion d’enfants de moins de 5 ans possédant un acte de naissance]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="META_LAST_UPDATE">
           
           <com:Text xml:lang="en"><![CDATA[5/1/2020 12:00:00 AM]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[5/1/2020 12:00:00 AM]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -73,15 +65,11 @@
           
           <com:Text xml:lang="en"><![CDATA[ISTEEBU]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[ISTEEBU]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_NAME">
           
           <com:Text xml:lang="en"><![CDATA[NDAYISENGA Modest]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[NDAYISENGA Modeste]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -89,15 +77,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Social studies and statistics and poverty monitoring (ESSSP)]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Etudes et statistique sociale et suivi de la pauvreté(ESSSP)]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_FUNCT">
           
           <com:Text xml:lang="en"><![CDATA[ESSSP department manager]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[Chef de service  ESSSP]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -105,15 +89,11 @@
           
           <com:Text xml:lang="en"><![CDATA[79401938]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[79401938]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_MAIL">
           
           <com:Text xml:lang="en"><![CDATA[1157 BUJUMBURA]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[1157 BUJUMBURA]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -121,15 +101,11 @@
           
           <com:Text xml:lang="en"><![CDATA[ndayimode2010@gmail.com]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[ndayimode2010@gmail.com]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="STAT_CONC_DEF">
           
           <com:Text xml:lang="en"><![CDATA[This is the percentage of children under 5 with a birth certificate]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[C'est le pourcentage  d’enfants de moins de 5 ans possédant un acte de naissance]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -137,15 +113,11 @@
           
           <com:Text xml:lang="en"><![CDATA[%]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[%]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SOURCE_TYPE">
           
           <com:Text xml:lang="en"><![CDATA[Household surveys]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[Enquêtes auprès des ménages]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -153,15 +125,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Data are collected from household surveys using the "household" questionnaire]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Les données sont collectées à partir des enquêtes auprès des ménages à l’aide du questionnaire « ménage »]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="FREQ_COLL">
           
           <com:Text xml:lang="en"><![CDATA[5 years]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[5 ans]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -169,15 +137,11 @@
           
           <com:Text xml:lang="en"><![CDATA[5 years]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[5 ans]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="DATA_SOURCE">
           
           <com:Text xml:lang="en"><![CDATA[ISTEEBU]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[ISTEEBU]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -185,15 +149,11 @@
           
           <com:Text xml:lang="en"><![CDATA[ISTEEBU is responsible for compiling this indicator at the national level]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[L’ISTEEBU est  responsable de la compilation de cet indicateur au niveau national]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="INST_MANDATE">
           
           <com:Text xml:lang="en"><![CDATA[ISTEEBU is the body recognized by the Burundian government for the collection, processing and dissemination of official statistics helping in planning and decision-making.]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[L’ISTEEBUest l’organe reconnu par le gouvernement burundais pour la collecte, le traitement et la diffusion des statistiques officielles aidant dans la planification et la prise de décision.]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -201,15 +161,11 @@
           
           <com:Text xml:lang="en"><![CDATA[This indicator is relevant because it highlights the proportion of people victims of violence during a year.]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Cet indicateur est pertinant car il met en evidence  la proportion des personnes victimes de violances  au cours d'une année.]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="REC_USE_LIM">
           
           <com:Text xml:lang="en"><![CDATA[Updating the indicator requires a household survey which is very resource intensive. The indicator cannot be calculated by gender.]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[La mise à jour de l’indicateur nécessite une enquête auprès des ménages qui exige beaucoup de moyens. L’indicateur ne pas être calculé par sexe.]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -217,15 +173,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Ratio of children under 5 with a birth certificate to the total of children under 5, expressed as a percentage]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Rapport entre les enfants de moins de 5 ans possédant un acte de naissance et le total des enfants de moins de 5 ans, exprimé en pourcentage]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="DATA_VALIDATION">
           
           <com:Text xml:lang="en"><![CDATA[The results of the survey are validated at two levels: technical validation and official validation before publication]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[Les résultats de l’enquête sont validés à deux niveaux : validation technique et validation officielle avant la publication]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -233,23 +185,17 @@
           
           <com:Text xml:lang="en"><![CDATA[The indicator is available at national level, province, Place of residence (National; Girls; Boys; Urban area; Rural area)]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[L'indicateur est disponible au niveau national, province, Milieu de résidence (National; Filles; Garçons; Milieu urbain; Milieu rural)]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COMPARABILITY">
           
           <com:Text xml:lang="en"><![CDATA[The indicator can be compared to other indicators of the same type at regional and international level]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[L’indicateur peut être comparé aux autres indicateurs du même type au niveau régional et international]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="OTHER_DOC">
           
           <com:Text xml:lang="en"><![CDATA[Household Surveys Report]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[Rapport des Enquêtes auprès des ménages]]></com:Text>
           
         </gen:ReportedAttribute>
         

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
   <mes:Header>
-    <mes:ID>IREF1623075612</mes:ID>
+    <mes:ID>IREF1623935827</mes:ID>
     <mes:Test>True</mes:Test>
-    <mes:Prepared>2021-06-07T14:20:12</mes:Prepared>
+    <mes:Prepared>2021-06-17T13:17:07</mes:Prepared>
     <mes:Sender id="open-sdg_sdg-build@1-3-0"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -12,7 +12,7 @@
     </mes:Structure>
   </mes:Header>
   
-  <mes:MetadataSet structureRef="MDS1" setID="7410ce9c-475d-432d-80d8-20022d2d2b24">
+  <mes:MetadataSet structureRef="MDS1" setID="d4abdb99-ab1b-4b0c-89e2-c2f9b445020f">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -41,15 +41,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Goal 1. Eradicate poverty in all its forms and everywhere]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Objectif 1. Éliminer la pauvreté sous toutes ses formes et partout dans le monde]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SDG_TARGET">
           
           <com:Text xml:lang="en"><![CDATA[1.3 Put in place social protection systems and measures for all, adapted to the national context, including social protection floors, and ensure that, by 2030, a significant proportion of the poor and vulnerable people benefit from them]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[1.3 Mettre en place des systèmes et mesures de protection sociale pour tous, adaptés au contexte national, y compris des socles de protection sociale, et faire en sorte que, d’ici à 2030, une part importante des pauvres et des personnes vulnérables en bénéficient]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -57,15 +53,11 @@
           
           <com:Text xml:lang="en"><![CDATA[1.3.1. Number of mutual associations engaged in the promotion of community development programs (%)]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[1.3.1. Nombre d’associations mutualistes engagés dans la promotion des programmes de développement communautaire (%)]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="META_LAST_UPDATE">
           
           <com:Text xml:lang="en"><![CDATA[2020]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[2020]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -73,15 +65,11 @@
           
           <com:Text xml:lang="en"><![CDATA[ISTEEBU]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[ISTEEBU]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_NAME">
           
           <com:Text xml:lang="en"><![CDATA[NDAYISENGA Modest]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[NDAYISENGA Modeste]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -89,15 +77,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Department of Social Studies and Statistics and Poverty Monitoring, Ponit focal ODD]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Service Etudes et Statistiques Sociales et Suivi de la Pauvreté, Ponit focal ODD]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_FUNCT">
           
           <com:Text xml:lang="en"><![CDATA[Head of Service and Focal Point]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[Chef de Service et Point focal]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -105,15 +89,11 @@
           
           <com:Text xml:lang="en"><![CDATA[79401937]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[79401937]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_EMAIL">
           
           <com:Text xml:lang="en"><![CDATA[ndayimode2010@gmail.com]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[ndayimode2010@gmail.com]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -121,15 +101,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Number of the population covered by a mutualist association compared to the total number of the population]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Effectif de la population couverte par une association mutualiste rapporté à l'effectif total de la population]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="UNIT_MEASURE">
           
           <com:Text xml:lang="en"><![CDATA[%]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[%]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -137,15 +113,11 @@
           
           <com:Text xml:lang="en"><![CDATA[N / A]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[NA]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SOURCE_TYPE">
           
           <com:Text xml:lang="en"><![CDATA[EDSB-III, 2016-2017]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[EDSB-III, 2016-2017]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -153,15 +125,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Data are collected from household surveys using the "household" questionnaire]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Les données sont collectées à partir des enquêtes auprès des ménages à l’aide du questionnaire « ménage »]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="FREQ_COLL">
           
           <com:Text xml:lang="en"><![CDATA[The probable date of the next collection will be 2021]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[La date probable de la prochaine collecte sera 2021]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -169,15 +137,11 @@
           
           <com:Text xml:lang="en"><![CDATA[In 2022]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[En 2022]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="DATA_SOURCE">
           
           <com:Text xml:lang="en"><![CDATA[ISTEEBU]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[ISTEEBU]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -185,15 +149,11 @@
           
           <com:Text xml:lang="en"><![CDATA[ISTEEBU is responsible for compiling the data for the calculation of this indicator at the national level]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[L’ISTEEBU est  responsable de la compilation des données pour le calcul de cet indicateur au niveau national]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="INST_MANDATE">
           
           <com:Text xml:lang="en"><![CDATA[ISTEEBU is the body recognized by the Burundian government for the collection, processing and dissemination of official statistics helping in planning and decision-making.]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[L’ISTEEBU est l’organe reconnu par le gouvernement burundais pour la collecte, le traitement et la diffusion des statistiques officielles aidant dans la planification et la prise de décision.]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -201,15 +161,11 @@
           
           <com:Text xml:lang="en"><![CDATA[The indicator is relevant because it reflects the demographic and health situation of the population.]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[L’indicateur est pertinent car il rend compte de la situation démographique et sanitaire de la population .]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="REC_USE_LIM">
           
           <com:Text xml:lang="en"><![CDATA[Updating the indicator requires a household survey which is very resource intensive.]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[La mise à jour de l’indicateur nécessite une enquête auprès des ménages qui exige beaucoup de moyens.]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -217,15 +173,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Number of the population covered by a mutualist association compared to the total number of the population]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Effectif de la population couverte par une association mutualiste rapporté à l'effectif total de la population]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="DATA_VALIDATION">
           
           <com:Text xml:lang="en"><![CDATA[The results of the survey are validated at two levels: technical validation and official validation before publication]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[Les résultats de l’enquête sont validés à deux niveaux : validation technique et validation officielle avant la publication]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -233,15 +185,11 @@
           
           <com:Text xml:lang="en"><![CDATA[The indicator is available at the national level, province, area of residence (Woman aged 15 to 49: Urban area; Rural area - Man aged 15 to 49: Urban area; Rural area)]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[L'indicateur est disponible au niveau national, province, Milieu de résidence (Femme de 15 à 49 ans: Milieu urbain; Milieur rural - Homme de 15 à 49 ans: Milieu urbain; Milieur rural)]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COMPARABILITY">
           
           <com:Text xml:lang="en"><![CDATA[The indicator can be compared to other indicators of the same type at regional and international level]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[L’indicateur peut être comparé aux autres indicateurs du même type au niveau régional et international]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -249,15 +197,13 @@
           
           <com:Text xml:lang="en"><![CDATA[Report of the Demographic and Health Survey 2016-2017]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Rapport de l'Enquête Démographique et de Santé 2016-2017]]></com:Text>
-          
         </gen:ReportedAttribute>
         
       </gen:AttributeSet>
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="e7ab5fe7-0f9b-411d-bfd1-608ab9237b7b">
+  <mes:MetadataSet structureRef="MDS1" setID="6eeda583-efb9-445f-827f-fc14c69b2e80">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -286,15 +232,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Goal 1. Eradicate poverty in all its forms and everywhere]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Objectif 1. Éliminer la pauvreté sous toutes ses formes et partout dans le monde]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SDG_TARGET">
           
           <com:Text xml:lang="en"><![CDATA[1.3 Put in place social protection systems and measures for all, adapted to the national context, including social protection floors, and ensure that, by 2030, a significant proportion of the poor and vulnerable people benefit from them]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[1.3 Mettre en place des systèmes et mesures de protection sociale pour tous, adaptés au contexte national, y compris des socles de protection sociale, et faire en sorte que, d’ici à 2030, une part importante des pauvres et des personnes vulnérables en bénéficient]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -302,15 +244,11 @@
           
           <com:Text xml:lang="en"><![CDATA[1.3.1. Number of mutual associations engaged in the promotion of community development programs (%)]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[1.3.1. Nombre d’associations mutualistes engagés dans la promotion des programmes de développement communautaire (%)]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="META_LAST_UPDATE">
           
           <com:Text xml:lang="en"><![CDATA[2020]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[2020]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -318,15 +256,11 @@
           
           <com:Text xml:lang="en"><![CDATA[ISTEEBU]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[ISTEEBU]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_NAME">
           
           <com:Text xml:lang="en"><![CDATA[NDAYISENGA Modest]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[NDAYISENGA Modeste]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -334,15 +268,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Department of Social Studies and Statistics and Poverty Monitoring, Ponit focal ODD]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Service Etudes et Statistiques Sociales et Suivi de la Pauvreté, Ponit focal ODD]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_FUNCT">
           
           <com:Text xml:lang="en"><![CDATA[Head of Service and Focal Point]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[Chef de Service et Point focal]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -350,15 +280,11 @@
           
           <com:Text xml:lang="en"><![CDATA[79401937]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[79401937]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_EMAIL">
           
           <com:Text xml:lang="en"><![CDATA[ndayimode2010@gmail.com]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[ndayimode2010@gmail.com]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -366,15 +292,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Number of the population covered by a mutualist association compared to the total number of the population]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Effectif de la population couverte par une association mutualiste rapporté à l'effectif total de la population]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="UNIT_MEASURE">
           
           <com:Text xml:lang="en"><![CDATA[%]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[%]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -382,15 +304,11 @@
           
           <com:Text xml:lang="en"><![CDATA[N / A]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[NA]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SOURCE_TYPE">
           
           <com:Text xml:lang="en"><![CDATA[EDSB-III, 2016-2017]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[EDSB-III, 2016-2017]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -398,15 +316,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Data are collected from household surveys using the "household" questionnaire]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Les données sont collectées à partir des enquêtes auprès des ménages à l’aide du questionnaire « ménage »]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="FREQ_COLL">
           
           <com:Text xml:lang="en"><![CDATA[The probable date of the next collection will be 2021]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[La date probable de la prochaine collecte sera 2021]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -414,15 +328,11 @@
           
           <com:Text xml:lang="en"><![CDATA[In 2022]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[En 2022]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="DATA_SOURCE">
           
           <com:Text xml:lang="en"><![CDATA[ISTEEBU]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[ISTEEBU]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -430,15 +340,11 @@
           
           <com:Text xml:lang="en"><![CDATA[ISTEEBU is responsible for compiling the data for the calculation of this indicator at the national level]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[L’ISTEEBU est  responsable de la compilation des données pour le calcul de cet indicateur au niveau national]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="INST_MANDATE">
           
           <com:Text xml:lang="en"><![CDATA[ISTEEBU is the body recognized by the Burundian government for the collection, processing and dissemination of official statistics helping in planning and decision-making.]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[L’ISTEEBU est l’organe reconnu par le gouvernement burundais pour la collecte, le traitement et la diffusion des statistiques officielles aidant dans la planification et la prise de décision.]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -446,15 +352,11 @@
           
           <com:Text xml:lang="en"><![CDATA[The indicator is relevant because it reflects the demographic and health situation of the population.]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[L’indicateur est pertinent car il rend compte de la situation démographique et sanitaire de la population .]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="REC_USE_LIM">
           
           <com:Text xml:lang="en"><![CDATA[Updating the indicator requires a household survey which is very resource intensive.]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[La mise à jour de l’indicateur nécessite une enquête auprès des ménages qui exige beaucoup de moyens.]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -462,15 +364,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Number of the population covered by a mutualist association compared to the total number of the population]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Effectif de la population couverte par une association mutualiste rapporté à l'effectif total de la population]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="DATA_VALIDATION">
           
           <com:Text xml:lang="en"><![CDATA[The results of the survey are validated at two levels: technical validation and official validation before publication]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[Les résultats de l’enquête sont validés à deux niveaux : validation technique et validation officielle avant la publication]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -478,15 +376,11 @@
           
           <com:Text xml:lang="en"><![CDATA[The indicator is available at the national level, province, area of residence (Woman aged 15 to 49: Urban area; Rural area - Man aged 15 to 49: Urban area; Rural area)]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[L'indicateur est disponible au niveau national, province, Milieu de résidence (Femme de 15 à 49 ans: Milieu urbain; Milieur rural - Homme de 15 à 49 ans: Milieu urbain; Milieur rural)]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COMPARABILITY">
           
           <com:Text xml:lang="en"><![CDATA[The indicator can be compared to other indicators of the same type at regional and international level]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[L’indicateur peut être comparé aux autres indicateurs du même type au niveau régional et international]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -494,15 +388,13 @@
           
           <com:Text xml:lang="en"><![CDATA[Report of the Demographic and Health Survey 2016-2017]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Rapport de l'Enquête Démographique et de Santé 2016-2017]]></com:Text>
-          
         </gen:ReportedAttribute>
         
       </gen:AttributeSet>
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="56e24f3d-5b5b-4e32-b15e-7dab05beeb2b">
+  <mes:MetadataSet structureRef="MDS1" setID="c0ee6c89-540c-4d5c-b779-b2b8be5cd399">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -531,15 +423,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Goal 1. Eradicate poverty in all its forms and everywhere]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Objectif 1. Éliminer la pauvreté sous toutes ses formes et partout dans le monde]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SDG_TARGET">
           
           <com:Text xml:lang="en"><![CDATA[1.3 Put in place social protection systems and measures for all, adapted to the national context, including social protection floors, and ensure that, by 2030, a significant proportion of the poor and vulnerable people benefit from them]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[1.3 Mettre en place des systèmes et mesures de protection sociale pour tous, adaptés au contexte national, y compris des socles de protection sociale, et faire en sorte que, d’ici à 2030, une part importante des pauvres et des personnes vulnérables en bénéficient]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -547,15 +435,11 @@
           
           <com:Text xml:lang="en"><![CDATA[1.3.1. Number of mutual associations engaged in the promotion of community development programs (%)]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[1.3.1. Nombre d’associations mutualistes engagés dans la promotion des programmes de développement communautaire (%)]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="META_LAST_UPDATE">
           
           <com:Text xml:lang="en"><![CDATA[2020]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[2020]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -563,15 +447,11 @@
           
           <com:Text xml:lang="en"><![CDATA[ISTEEBU]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[ISTEEBU]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_NAME">
           
           <com:Text xml:lang="en"><![CDATA[NDAYISENGA Modest]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[NDAYISENGA Modeste]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -579,15 +459,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Department of Social Studies and Statistics and Poverty Monitoring, Ponit focal ODD]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Service Etudes et Statistiques Sociales et Suivi de la Pauvreté, Ponit focal ODD]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_FUNCT">
           
           <com:Text xml:lang="en"><![CDATA[Head of Service and Focal Point]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[Chef de Service et Point focal]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -595,15 +471,11 @@
           
           <com:Text xml:lang="en"><![CDATA[79401937]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[79401937]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_EMAIL">
           
           <com:Text xml:lang="en"><![CDATA[ndayimode2010@gmail.com]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[ndayimode2010@gmail.com]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -611,15 +483,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Number of the population covered by a mutualist association compared to the total number of the population]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Effectif de la population couverte par une association mutualiste rapporté à l'effectif total de la population]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="UNIT_MEASURE">
           
           <com:Text xml:lang="en"><![CDATA[%]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[%]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -627,15 +495,11 @@
           
           <com:Text xml:lang="en"><![CDATA[N / A]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[NA]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SOURCE_TYPE">
           
           <com:Text xml:lang="en"><![CDATA[EDSB-III, 2016-2017]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[EDSB-III, 2016-2017]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -643,15 +507,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Data are collected from household surveys using the "household" questionnaire]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Les données sont collectées à partir des enquêtes auprès des ménages à l’aide du questionnaire « ménage »]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="FREQ_COLL">
           
           <com:Text xml:lang="en"><![CDATA[The probable date of the next collection will be 2021]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[La date probable de la prochaine collecte sera 2021]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -659,15 +519,11 @@
           
           <com:Text xml:lang="en"><![CDATA[In 2022]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[En 2022]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="DATA_SOURCE">
           
           <com:Text xml:lang="en"><![CDATA[ISTEEBU]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[ISTEEBU]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -675,15 +531,11 @@
           
           <com:Text xml:lang="en"><![CDATA[ISTEEBU is responsible for compiling the data for the calculation of this indicator at the national level]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[L’ISTEEBU est  responsable de la compilation des données pour le calcul de cet indicateur au niveau national]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="INST_MANDATE">
           
           <com:Text xml:lang="en"><![CDATA[ISTEEBU is the body recognized by the Burundian government for the collection, processing and dissemination of official statistics helping in planning and decision-making.]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[L’ISTEEBU est l’organe reconnu par le gouvernement burundais pour la collecte, le traitement et la diffusion des statistiques officielles aidant dans la planification et la prise de décision.]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -691,15 +543,11 @@
           
           <com:Text xml:lang="en"><![CDATA[The indicator is relevant because it reflects the demographic and health situation of the population.]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[L’indicateur est pertinent car il rend compte de la situation démographique et sanitaire de la population .]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="REC_USE_LIM">
           
           <com:Text xml:lang="en"><![CDATA[Updating the indicator requires a household survey which is very resource intensive.]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[La mise à jour de l’indicateur nécessite une enquête auprès des ménages qui exige beaucoup de moyens.]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -707,15 +555,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Number of the population covered by a mutualist association compared to the total number of the population]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Effectif de la population couverte par une association mutualiste rapporté à l'effectif total de la population]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="DATA_VALIDATION">
           
           <com:Text xml:lang="en"><![CDATA[The results of the survey are validated at two levels: technical validation and official validation before publication]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[Les résultats de l’enquête sont validés à deux niveaux : validation technique et validation officielle avant la publication]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -723,15 +567,11 @@
           
           <com:Text xml:lang="en"><![CDATA[The indicator is available at the national level, province, area of residence (Woman aged 15 to 49: Urban area; Rural area - Man aged 15 to 49: Urban area; Rural area)]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[L'indicateur est disponible au niveau national, province, Milieu de résidence (Femme de 15 à 49 ans: Milieu urbain; Milieur rural - Homme de 15 à 49 ans: Milieu urbain; Milieur rural)]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COMPARABILITY">
           
           <com:Text xml:lang="en"><![CDATA[The indicator can be compared to other indicators of the same type at regional and international level]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[L’indicateur peut être comparé aux autres indicateurs du même type au niveau régional et international]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -739,15 +579,13 @@
           
           <com:Text xml:lang="en"><![CDATA[Report of the Demographic and Health Survey 2016-2017]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Rapport de l'Enquête Démographique et de Santé 2016-2017]]></com:Text>
-          
         </gen:ReportedAttribute>
         
       </gen:AttributeSet>
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="33c8506b-8964-44bc-aa74-b64e6254f5d3">
+  <mes:MetadataSet structureRef="MDS1" setID="37f1df0a-63e0-439c-8dad-c64088d9a7f7">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -776,15 +614,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Goal 1. Eradicate poverty in all its forms and everywhere]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Objectif 1. Éliminer la pauvreté sous toutes ses formes et partout dans le monde]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SDG_TARGET">
           
           <com:Text xml:lang="en"><![CDATA[1.3 Put in place social protection systems and measures for all, adapted to the national context, including social protection floors, and ensure that, by 2030, a significant proportion of the poor and vulnerable people benefit from them]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[1.3 Mettre en place des systèmes et mesures de protection sociale pour tous, adaptés au contexte national, y compris des socles de protection sociale, et faire en sorte que, d’ici à 2030, une part importante des pauvres et des personnes vulnérables en bénéficient]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -792,15 +626,11 @@
           
           <com:Text xml:lang="en"><![CDATA[1.3.1. Number of mutual associations engaged in the promotion of community development programs (%)]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[1.3.1. Nombre d’associations mutualistes engagés dans la promotion des programmes de développement communautaire (%)]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="META_LAST_UPDATE">
           
           <com:Text xml:lang="en"><![CDATA[2020]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[2020]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -808,15 +638,11 @@
           
           <com:Text xml:lang="en"><![CDATA[ISTEEBU]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[ISTEEBU]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_NAME">
           
           <com:Text xml:lang="en"><![CDATA[NDAYISENGA Modest]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[NDAYISENGA Modeste]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -824,15 +650,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Department of Social Studies and Statistics and Poverty Monitoring, Ponit focal ODD]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Service Etudes et Statistiques Sociales et Suivi de la Pauvreté, Ponit focal ODD]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_FUNCT">
           
           <com:Text xml:lang="en"><![CDATA[Head of Service and Focal Point]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[Chef de Service et Point focal]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -840,15 +662,11 @@
           
           <com:Text xml:lang="en"><![CDATA[79401937]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[79401937]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_EMAIL">
           
           <com:Text xml:lang="en"><![CDATA[ndayimode2010@gmail.com]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[ndayimode2010@gmail.com]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -856,15 +674,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Number of the population covered by a mutualist association compared to the total number of the population]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Effectif de la population couverte par une association mutualiste rapporté à l'effectif total de la population]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="UNIT_MEASURE">
           
           <com:Text xml:lang="en"><![CDATA[%]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[%]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -872,15 +686,11 @@
           
           <com:Text xml:lang="en"><![CDATA[N / A]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[NA]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SOURCE_TYPE">
           
           <com:Text xml:lang="en"><![CDATA[EDSB-III, 2016-2017]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[EDSB-III, 2016-2017]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -888,15 +698,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Data are collected from household surveys using the "household" questionnaire]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Les données sont collectées à partir des enquêtes auprès des ménages à l’aide du questionnaire « ménage »]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="FREQ_COLL">
           
           <com:Text xml:lang="en"><![CDATA[The probable date of the next collection will be 2021]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[La date probable de la prochaine collecte sera 2021]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -904,15 +710,11 @@
           
           <com:Text xml:lang="en"><![CDATA[In 2022]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[En 2022]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="DATA_SOURCE">
           
           <com:Text xml:lang="en"><![CDATA[ISTEEBU]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[ISTEEBU]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -920,15 +722,11 @@
           
           <com:Text xml:lang="en"><![CDATA[ISTEEBU is responsible for compiling the data for the calculation of this indicator at the national level]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[L’ISTEEBU est  responsable de la compilation des données pour le calcul de cet indicateur au niveau national]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="INST_MANDATE">
           
           <com:Text xml:lang="en"><![CDATA[ISTEEBU is the body recognized by the Burundian government for the collection, processing and dissemination of official statistics helping in planning and decision-making.]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[L’ISTEEBU est l’organe reconnu par le gouvernement burundais pour la collecte, le traitement et la diffusion des statistiques officielles aidant dans la planification et la prise de décision.]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -936,15 +734,11 @@
           
           <com:Text xml:lang="en"><![CDATA[The indicator is relevant because it reflects the demographic and health situation of the population.]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[L’indicateur est pertinent car il rend compte de la situation démographique et sanitaire de la population .]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="REC_USE_LIM">
           
           <com:Text xml:lang="en"><![CDATA[Updating the indicator requires a household survey which is very resource intensive.]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[La mise à jour de l’indicateur nécessite une enquête auprès des ménages qui exige beaucoup de moyens.]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -952,15 +746,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Number of the population covered by a mutualist association compared to the total number of the population]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Effectif de la population couverte par une association mutualiste rapporté à l'effectif total de la population]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="DATA_VALIDATION">
           
           <com:Text xml:lang="en"><![CDATA[The results of the survey are validated at two levels: technical validation and official validation before publication]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[Les résultats de l’enquête sont validés à deux niveaux : validation technique et validation officielle avant la publication]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -968,15 +758,11 @@
           
           <com:Text xml:lang="en"><![CDATA[The indicator is available at the national level, province, area of residence (Woman aged 15 to 49: Urban area; Rural area - Man aged 15 to 49: Urban area; Rural area)]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[L'indicateur est disponible au niveau national, province, Milieu de résidence (Femme de 15 à 49 ans: Milieu urbain; Milieur rural - Homme de 15 à 49 ans: Milieu urbain; Milieur rural)]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COMPARABILITY">
           
           <com:Text xml:lang="en"><![CDATA[The indicator can be compared to other indicators of the same type at regional and international level]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[L’indicateur peut être comparé aux autres indicateurs du même type au niveau régional et international]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -984,15 +770,13 @@
           
           <com:Text xml:lang="en"><![CDATA[Report of the Demographic and Health Survey 2016-2017]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Rapport de l'Enquête Démographique et de Santé 2016-2017]]></com:Text>
-          
         </gen:ReportedAttribute>
         
       </gen:AttributeSet>
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="09e4457d-0c0f-46e2-b23a-3b7c98e961b4">
+  <mes:MetadataSet structureRef="MDS1" setID="07778033-a237-4da2-a7b8-7fb9a1c5f4fc">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -1021,15 +805,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Goal 1. Eradicate poverty in all its forms and everywhere]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Objectif 1. Éliminer la pauvreté sous toutes ses formes et partout dans le monde]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SDG_TARGET">
           
           <com:Text xml:lang="en"><![CDATA[1.3 Put in place social protection systems and measures for all, adapted to the national context, including social protection floors, and ensure that, by 2030, a significant proportion of the poor and vulnerable people benefit from them]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[1.3 Mettre en place des systèmes et mesures de protection sociale pour tous, adaptés au contexte national, y compris des socles de protection sociale, et faire en sorte que, d’ici à 2030, une part importante des pauvres et des personnes vulnérables en bénéficient]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -1037,15 +817,11 @@
           
           <com:Text xml:lang="en"><![CDATA[1.3.1. Number of mutual associations engaged in the promotion of community development programs (%)]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[1.3.1. Nombre d’associations mutualistes engagés dans la promotion des programmes de développement communautaire (%)]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="META_LAST_UPDATE">
           
           <com:Text xml:lang="en"><![CDATA[2020]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[2020]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -1053,15 +829,11 @@
           
           <com:Text xml:lang="en"><![CDATA[ISTEEBU]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[ISTEEBU]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_NAME">
           
           <com:Text xml:lang="en"><![CDATA[NDAYISENGA Modest]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[NDAYISENGA Modeste]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -1069,15 +841,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Department of Social Studies and Statistics and Poverty Monitoring, Ponit focal ODD]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Service Etudes et Statistiques Sociales et Suivi de la Pauvreté, Ponit focal ODD]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_FUNCT">
           
           <com:Text xml:lang="en"><![CDATA[Head of Service and Focal Point]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[Chef de Service et Point focal]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -1085,15 +853,11 @@
           
           <com:Text xml:lang="en"><![CDATA[79401937]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[79401937]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_EMAIL">
           
           <com:Text xml:lang="en"><![CDATA[ndayimode2010@gmail.com]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[ndayimode2010@gmail.com]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -1101,15 +865,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Number of the population covered by a mutualist association compared to the total number of the population]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Effectif de la population couverte par une association mutualiste rapporté à l'effectif total de la population]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="UNIT_MEASURE">
           
           <com:Text xml:lang="en"><![CDATA[%]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[%]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -1117,15 +877,11 @@
           
           <com:Text xml:lang="en"><![CDATA[N / A]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[NA]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SOURCE_TYPE">
           
           <com:Text xml:lang="en"><![CDATA[EDSB-III, 2016-2017]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[EDSB-III, 2016-2017]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -1133,15 +889,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Data are collected from household surveys using the "household" questionnaire]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Les données sont collectées à partir des enquêtes auprès des ménages à l’aide du questionnaire « ménage »]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="FREQ_COLL">
           
           <com:Text xml:lang="en"><![CDATA[The probable date of the next collection will be 2021]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[La date probable de la prochaine collecte sera 2021]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -1149,15 +901,11 @@
           
           <com:Text xml:lang="en"><![CDATA[In 2022]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[En 2022]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="DATA_SOURCE">
           
           <com:Text xml:lang="en"><![CDATA[ISTEEBU]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[ISTEEBU]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -1165,15 +913,11 @@
           
           <com:Text xml:lang="en"><![CDATA[ISTEEBU is responsible for compiling the data for the calculation of this indicator at the national level]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[L’ISTEEBU est  responsable de la compilation des données pour le calcul de cet indicateur au niveau national]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="INST_MANDATE">
           
           <com:Text xml:lang="en"><![CDATA[ISTEEBU is the body recognized by the Burundian government for the collection, processing and dissemination of official statistics helping in planning and decision-making.]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[L’ISTEEBU est l’organe reconnu par le gouvernement burundais pour la collecte, le traitement et la diffusion des statistiques officielles aidant dans la planification et la prise de décision.]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -1181,15 +925,11 @@
           
           <com:Text xml:lang="en"><![CDATA[The indicator is relevant because it reflects the demographic and health situation of the population.]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[L’indicateur est pertinent car il rend compte de la situation démographique et sanitaire de la population .]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="REC_USE_LIM">
           
           <com:Text xml:lang="en"><![CDATA[Updating the indicator requires a household survey which is very resource intensive.]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[La mise à jour de l’indicateur nécessite une enquête auprès des ménages qui exige beaucoup de moyens.]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -1197,15 +937,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Number of the population covered by a mutualist association compared to the total number of the population]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Effectif de la population couverte par une association mutualiste rapporté à l'effectif total de la population]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="DATA_VALIDATION">
           
           <com:Text xml:lang="en"><![CDATA[The results of the survey are validated at two levels: technical validation and official validation before publication]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[Les résultats de l’enquête sont validés à deux niveaux : validation technique et validation officielle avant la publication]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -1213,15 +949,11 @@
           
           <com:Text xml:lang="en"><![CDATA[The indicator is available at the national level, province, area of residence (Woman aged 15 to 49: Urban area; Rural area - Man aged 15 to 49: Urban area; Rural area)]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[L'indicateur est disponible au niveau national, province, Milieu de résidence (Femme de 15 à 49 ans: Milieu urbain; Milieur rural - Homme de 15 à 49 ans: Milieu urbain; Milieur rural)]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COMPARABILITY">
           
           <com:Text xml:lang="en"><![CDATA[The indicator can be compared to other indicators of the same type at regional and international level]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[L’indicateur peut être comparé aux autres indicateurs du même type au niveau régional et international]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -1229,15 +961,13 @@
           
           <com:Text xml:lang="en"><![CDATA[Report of the Demographic and Health Survey 2016-2017]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Rapport de l'Enquête Démographique et de Santé 2016-2017]]></com:Text>
-          
         </gen:ReportedAttribute>
         
       </gen:AttributeSet>
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="6929d9a2-77c1-4f04-9319-f1f37ff38331">
+  <mes:MetadataSet structureRef="MDS1" setID="f7acd245-b002-4a26-917f-9e6ef49fa6e0">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -1266,15 +996,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Goal 1. Eradicate poverty in all its forms and everywhere]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Objectif 1. Éliminer la pauvreté sous toutes ses formes et partout dans le monde]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SDG_TARGET">
           
           <com:Text xml:lang="en"><![CDATA[1.3 Put in place social protection systems and measures for all, adapted to the national context, including social protection floors, and ensure that, by 2030, a significant proportion of the poor and vulnerable people benefit from them]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[1.3 Mettre en place des systèmes et mesures de protection sociale pour tous, adaptés au contexte national, y compris des socles de protection sociale, et faire en sorte que, d’ici à 2030, une part importante des pauvres et des personnes vulnérables en bénéficient]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -1282,15 +1008,11 @@
           
           <com:Text xml:lang="en"><![CDATA[1.3.1. Number of mutual associations engaged in the promotion of community development programs (%)]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[1.3.1. Nombre d’associations mutualistes engagés dans la promotion des programmes de développement communautaire (%)]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="META_LAST_UPDATE">
           
           <com:Text xml:lang="en"><![CDATA[2020]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[2020]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -1298,15 +1020,11 @@
           
           <com:Text xml:lang="en"><![CDATA[ISTEEBU]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[ISTEEBU]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_NAME">
           
           <com:Text xml:lang="en"><![CDATA[NDAYISENGA Modest]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[NDAYISENGA Modeste]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -1314,15 +1032,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Department of Social Studies and Statistics and Poverty Monitoring, Ponit focal ODD]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Service Etudes et Statistiques Sociales et Suivi de la Pauvreté, Ponit focal ODD]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_FUNCT">
           
           <com:Text xml:lang="en"><![CDATA[Head of Service and Focal Point]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[Chef de Service et Point focal]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -1330,15 +1044,11 @@
           
           <com:Text xml:lang="en"><![CDATA[79401937]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[79401937]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_EMAIL">
           
           <com:Text xml:lang="en"><![CDATA[ndayimode2010@gmail.com]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[ndayimode2010@gmail.com]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -1346,15 +1056,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Number of the population covered by a mutualist association compared to the total number of the population]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Effectif de la population couverte par une association mutualiste rapporté à l'effectif total de la population]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="UNIT_MEASURE">
           
           <com:Text xml:lang="en"><![CDATA[%]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[%]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -1362,15 +1068,11 @@
           
           <com:Text xml:lang="en"><![CDATA[N / A]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[NA]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SOURCE_TYPE">
           
           <com:Text xml:lang="en"><![CDATA[EDSB-III, 2016-2017]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[EDSB-III, 2016-2017]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -1378,15 +1080,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Data are collected from household surveys using the "household" questionnaire]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Les données sont collectées à partir des enquêtes auprès des ménages à l’aide du questionnaire « ménage »]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="FREQ_COLL">
           
           <com:Text xml:lang="en"><![CDATA[The probable date of the next collection will be 2021]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[La date probable de la prochaine collecte sera 2021]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -1394,15 +1092,11 @@
           
           <com:Text xml:lang="en"><![CDATA[In 2022]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[En 2022]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="DATA_SOURCE">
           
           <com:Text xml:lang="en"><![CDATA[ISTEEBU]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[ISTEEBU]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -1410,15 +1104,11 @@
           
           <com:Text xml:lang="en"><![CDATA[ISTEEBU is responsible for compiling the data for the calculation of this indicator at the national level]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[L’ISTEEBU est  responsable de la compilation des données pour le calcul de cet indicateur au niveau national]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="INST_MANDATE">
           
           <com:Text xml:lang="en"><![CDATA[ISTEEBU is the body recognized by the Burundian government for the collection, processing and dissemination of official statistics helping in planning and decision-making.]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[L’ISTEEBU est l’organe reconnu par le gouvernement burundais pour la collecte, le traitement et la diffusion des statistiques officielles aidant dans la planification et la prise de décision.]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -1426,15 +1116,11 @@
           
           <com:Text xml:lang="en"><![CDATA[The indicator is relevant because it reflects the demographic and health situation of the population.]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[L’indicateur est pertinent car il rend compte de la situation démographique et sanitaire de la population .]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="REC_USE_LIM">
           
           <com:Text xml:lang="en"><![CDATA[Updating the indicator requires a household survey which is very resource intensive.]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[La mise à jour de l’indicateur nécessite une enquête auprès des ménages qui exige beaucoup de moyens.]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -1442,15 +1128,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Number of the population covered by a mutualist association compared to the total number of the population]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Effectif de la population couverte par une association mutualiste rapporté à l'effectif total de la population]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="DATA_VALIDATION">
           
           <com:Text xml:lang="en"><![CDATA[The results of the survey are validated at two levels: technical validation and official validation before publication]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[Les résultats de l’enquête sont validés à deux niveaux : validation technique et validation officielle avant la publication]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -1458,15 +1140,11 @@
           
           <com:Text xml:lang="en"><![CDATA[The indicator is available at the national level, province, area of residence (Woman aged 15 to 49: Urban area; Rural area - Man aged 15 to 49: Urban area; Rural area)]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[L'indicateur est disponible au niveau national, province, Milieu de résidence (Femme de 15 à 49 ans: Milieu urbain; Milieur rural - Homme de 15 à 49 ans: Milieu urbain; Milieur rural)]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COMPARABILITY">
           
           <com:Text xml:lang="en"><![CDATA[The indicator can be compared to other indicators of the same type at regional and international level]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[L’indicateur peut être comparé aux autres indicateurs du même type au niveau régional et international]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -1474,15 +1152,13 @@
           
           <com:Text xml:lang="en"><![CDATA[Report of the Demographic and Health Survey 2016-2017]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Rapport de l'Enquête Démographique et de Santé 2016-2017]]></com:Text>
-          
         </gen:ReportedAttribute>
         
       </gen:AttributeSet>
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="e490395a-eb95-41b8-a894-f370e9cd846a">
+  <mes:MetadataSet structureRef="MDS1" setID="dc0cd4aa-2dcf-44ef-b05e-248afe72bcd3">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -1511,15 +1187,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Goal 1. Eradicate poverty in all its forms and everywhere]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Objectif 1. Éliminer la pauvreté sous toutes ses formes et partout dans le monde]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SDG_TARGET">
           
           <com:Text xml:lang="en"><![CDATA[1.3 Put in place social protection systems and measures for all, adapted to the national context, including social protection floors, and ensure that, by 2030, a significant proportion of the poor and vulnerable people benefit from them]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[1.3 Mettre en place des systèmes et mesures de protection sociale pour tous, adaptés au contexte national, y compris des socles de protection sociale, et faire en sorte que, d’ici à 2030, une part importante des pauvres et des personnes vulnérables en bénéficient]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -1527,15 +1199,11 @@
           
           <com:Text xml:lang="en"><![CDATA[1.3.1. Number of mutual associations engaged in the promotion of community development programs (%)]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[1.3.1. Nombre d’associations mutualistes engagés dans la promotion des programmes de développement communautaire (%)]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="META_LAST_UPDATE">
           
           <com:Text xml:lang="en"><![CDATA[2020]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[2020]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -1543,15 +1211,11 @@
           
           <com:Text xml:lang="en"><![CDATA[ISTEEBU]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[ISTEEBU]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_NAME">
           
           <com:Text xml:lang="en"><![CDATA[NDAYISENGA Modest]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[NDAYISENGA Modeste]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -1559,15 +1223,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Department of Social Studies and Statistics and Poverty Monitoring, Ponit focal ODD]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Service Etudes et Statistiques Sociales et Suivi de la Pauvreté, Ponit focal ODD]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_FUNCT">
           
           <com:Text xml:lang="en"><![CDATA[Head of Service and Focal Point]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[Chef de Service et Point focal]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -1575,15 +1235,11 @@
           
           <com:Text xml:lang="en"><![CDATA[79401937]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[79401937]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_EMAIL">
           
           <com:Text xml:lang="en"><![CDATA[ndayimode2010@gmail.com]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[ndayimode2010@gmail.com]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -1591,15 +1247,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Number of the population covered by a mutualist association compared to the total number of the population]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Effectif de la population couverte par une association mutualiste rapporté à l'effectif total de la population]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="UNIT_MEASURE">
           
           <com:Text xml:lang="en"><![CDATA[%]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[%]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -1607,15 +1259,11 @@
           
           <com:Text xml:lang="en"><![CDATA[N / A]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[NA]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SOURCE_TYPE">
           
           <com:Text xml:lang="en"><![CDATA[EDSB-III, 2016-2017]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[EDSB-III, 2016-2017]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -1623,15 +1271,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Data are collected from household surveys using the "household" questionnaire]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Les données sont collectées à partir des enquêtes auprès des ménages à l’aide du questionnaire « ménage »]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="FREQ_COLL">
           
           <com:Text xml:lang="en"><![CDATA[The probable date of the next collection will be 2021]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[La date probable de la prochaine collecte sera 2021]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -1639,15 +1283,11 @@
           
           <com:Text xml:lang="en"><![CDATA[In 2022]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[En 2022]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="DATA_SOURCE">
           
           <com:Text xml:lang="en"><![CDATA[ISTEEBU]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[ISTEEBU]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -1655,15 +1295,11 @@
           
           <com:Text xml:lang="en"><![CDATA[ISTEEBU is responsible for compiling the data for the calculation of this indicator at the national level]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[L’ISTEEBU est  responsable de la compilation des données pour le calcul de cet indicateur au niveau national]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="INST_MANDATE">
           
           <com:Text xml:lang="en"><![CDATA[ISTEEBU is the body recognized by the Burundian government for the collection, processing and dissemination of official statistics helping in planning and decision-making.]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[L’ISTEEBU est l’organe reconnu par le gouvernement burundais pour la collecte, le traitement et la diffusion des statistiques officielles aidant dans la planification et la prise de décision.]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -1671,15 +1307,11 @@
           
           <com:Text xml:lang="en"><![CDATA[The indicator is relevant because it reflects the demographic and health situation of the population.]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[L’indicateur est pertinent car il rend compte de la situation démographique et sanitaire de la population .]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="REC_USE_LIM">
           
           <com:Text xml:lang="en"><![CDATA[Updating the indicator requires a household survey which is very resource intensive.]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[La mise à jour de l’indicateur nécessite une enquête auprès des ménages qui exige beaucoup de moyens.]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -1687,15 +1319,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Number of the population covered by a mutualist association compared to the total number of the population]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Effectif de la population couverte par une association mutualiste rapporté à l'effectif total de la population]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="DATA_VALIDATION">
           
           <com:Text xml:lang="en"><![CDATA[The results of the survey are validated at two levels: technical validation and official validation before publication]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[Les résultats de l’enquête sont validés à deux niveaux : validation technique et validation officielle avant la publication]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -1703,15 +1331,11 @@
           
           <com:Text xml:lang="en"><![CDATA[The indicator is available at the national level, province, area of residence (Woman aged 15 to 49: Urban area; Rural area - Man aged 15 to 49: Urban area; Rural area)]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[L'indicateur est disponible au niveau national, province, Milieu de résidence (Femme de 15 à 49 ans: Milieu urbain; Milieur rural - Homme de 15 à 49 ans: Milieu urbain; Milieur rural)]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COMPARABILITY">
           
           <com:Text xml:lang="en"><![CDATA[The indicator can be compared to other indicators of the same type at regional and international level]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[L’indicateur peut être comparé aux autres indicateurs du même type au niveau régional et international]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -1719,15 +1343,13 @@
           
           <com:Text xml:lang="en"><![CDATA[Report of the Demographic and Health Survey 2016-2017]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Rapport de l'Enquête Démographique et de Santé 2016-2017]]></com:Text>
-          
         </gen:ReportedAttribute>
         
       </gen:AttributeSet>
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="2bbb5b53-97d7-4c5b-9b11-54b045f3cdec">
+  <mes:MetadataSet structureRef="MDS1" setID="123accfd-6079-45f3-a544-57aa1c5ff2ca">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -1756,15 +1378,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Goal 1. Eradicate poverty in all its forms and everywhere]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Objectif 1. Éliminer la pauvreté sous toutes ses formes et partout dans le monde]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SDG_TARGET">
           
           <com:Text xml:lang="en"><![CDATA[1.3 Put in place social protection systems and measures for all, adapted to the national context, including social protection floors, and ensure that, by 2030, a significant proportion of the poor and vulnerable people benefit from them]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[1.3 Mettre en place des systèmes et mesures de protection sociale pour tous, adaptés au contexte national, y compris des socles de protection sociale, et faire en sorte que, d’ici à 2030, une part importante des pauvres et des personnes vulnérables en bénéficient]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -1772,15 +1390,11 @@
           
           <com:Text xml:lang="en"><![CDATA[1.3.1. Number of mutual associations engaged in the promotion of community development programs (%)]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[1.3.1. Nombre d’associations mutualistes engagés dans la promotion des programmes de développement communautaire (%)]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="META_LAST_UPDATE">
           
           <com:Text xml:lang="en"><![CDATA[2020]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[2020]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -1788,15 +1402,11 @@
           
           <com:Text xml:lang="en"><![CDATA[ISTEEBU]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[ISTEEBU]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_NAME">
           
           <com:Text xml:lang="en"><![CDATA[NDAYISENGA Modest]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[NDAYISENGA Modeste]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -1804,15 +1414,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Department of Social Studies and Statistics and Poverty Monitoring, Ponit focal ODD]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Service Etudes et Statistiques Sociales et Suivi de la Pauvreté, Ponit focal ODD]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_FUNCT">
           
           <com:Text xml:lang="en"><![CDATA[Head of Service and Focal Point]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[Chef de Service et Point focal]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -1820,15 +1426,11 @@
           
           <com:Text xml:lang="en"><![CDATA[79401937]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[79401937]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_EMAIL">
           
           <com:Text xml:lang="en"><![CDATA[ndayimode2010@gmail.com]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[ndayimode2010@gmail.com]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -1836,15 +1438,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Number of the population covered by a mutualist association compared to the total number of the population]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Effectif de la population couverte par une association mutualiste rapporté à l'effectif total de la population]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="UNIT_MEASURE">
           
           <com:Text xml:lang="en"><![CDATA[%]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[%]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -1852,15 +1450,11 @@
           
           <com:Text xml:lang="en"><![CDATA[N / A]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[NA]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SOURCE_TYPE">
           
           <com:Text xml:lang="en"><![CDATA[EDSB-III, 2016-2017]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[EDSB-III, 2016-2017]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -1868,15 +1462,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Data are collected from household surveys using the "household" questionnaire]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Les données sont collectées à partir des enquêtes auprès des ménages à l’aide du questionnaire « ménage »]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="FREQ_COLL">
           
           <com:Text xml:lang="en"><![CDATA[The probable date of the next collection will be 2021]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[La date probable de la prochaine collecte sera 2021]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -1884,15 +1474,11 @@
           
           <com:Text xml:lang="en"><![CDATA[In 2022]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[En 2022]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="DATA_SOURCE">
           
           <com:Text xml:lang="en"><![CDATA[ISTEEBU]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[ISTEEBU]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -1900,15 +1486,11 @@
           
           <com:Text xml:lang="en"><![CDATA[ISTEEBU is responsible for compiling the data for the calculation of this indicator at the national level]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[L’ISTEEBU est  responsable de la compilation des données pour le calcul de cet indicateur au niveau national]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="INST_MANDATE">
           
           <com:Text xml:lang="en"><![CDATA[ISTEEBU is the body recognized by the Burundian government for the collection, processing and dissemination of official statistics helping in planning and decision-making.]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[L’ISTEEBU est l’organe reconnu par le gouvernement burundais pour la collecte, le traitement et la diffusion des statistiques officielles aidant dans la planification et la prise de décision.]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -1916,15 +1498,11 @@
           
           <com:Text xml:lang="en"><![CDATA[The indicator is relevant because it reflects the demographic and health situation of the population.]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[L’indicateur est pertinent car il rend compte de la situation démographique et sanitaire de la population .]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="REC_USE_LIM">
           
           <com:Text xml:lang="en"><![CDATA[Updating the indicator requires a household survey which is very resource intensive.]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[La mise à jour de l’indicateur nécessite une enquête auprès des ménages qui exige beaucoup de moyens.]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -1932,15 +1510,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Number of the population covered by a mutualist association compared to the total number of the population]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Effectif de la population couverte par une association mutualiste rapporté à l'effectif total de la population]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="DATA_VALIDATION">
           
           <com:Text xml:lang="en"><![CDATA[The results of the survey are validated at two levels: technical validation and official validation before publication]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[Les résultats de l’enquête sont validés à deux niveaux : validation technique et validation officielle avant la publication]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -1948,15 +1522,11 @@
           
           <com:Text xml:lang="en"><![CDATA[The indicator is available at the national level, province, area of residence (Woman aged 15 to 49: Urban area; Rural area - Man aged 15 to 49: Urban area; Rural area)]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[L'indicateur est disponible au niveau national, province, Milieu de résidence (Femme de 15 à 49 ans: Milieu urbain; Milieur rural - Homme de 15 à 49 ans: Milieu urbain; Milieur rural)]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COMPARABILITY">
           
           <com:Text xml:lang="en"><![CDATA[The indicator can be compared to other indicators of the same type at regional and international level]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[L’indicateur peut être comparé aux autres indicateurs du même type au niveau régional et international]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -1964,15 +1534,13 @@
           
           <com:Text xml:lang="en"><![CDATA[Report of the Demographic and Health Survey 2016-2017]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Rapport de l'Enquête Démographique et de Santé 2016-2017]]></com:Text>
-          
         </gen:ReportedAttribute>
         
       </gen:AttributeSet>
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="895a7eaf-43ee-4d8d-8d3a-722199183dca">
+  <mes:MetadataSet structureRef="MDS1" setID="3c2cf73a-95fa-49e2-ae62-cf9eb17753fc">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -2001,15 +1569,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Goal 1. Eradicate poverty in all its forms and everywhere]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Objectif 1. Éliminer la pauvreté sous toutes ses formes et partout dans le monde]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SDG_TARGET">
           
           <com:Text xml:lang="en"><![CDATA[1.3 Put in place social protection systems and measures for all, adapted to the national context, including social protection floors, and ensure that, by 2030, a significant proportion of the poor and vulnerable people benefit from them]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[1.3 Mettre en place des systèmes et mesures de protection sociale pour tous, adaptés au contexte national, y compris des socles de protection sociale, et faire en sorte que, d’ici à 2030, une part importante des pauvres et des personnes vulnérables en bénéficient]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -2017,15 +1581,11 @@
           
           <com:Text xml:lang="en"><![CDATA[1.3.1. Number of mutual associations engaged in the promotion of community development programs (%)]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[1.3.1. Nombre d’associations mutualistes engagés dans la promotion des programmes de développement communautaire (%)]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="META_LAST_UPDATE">
           
           <com:Text xml:lang="en"><![CDATA[2020]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[2020]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -2033,15 +1593,11 @@
           
           <com:Text xml:lang="en"><![CDATA[ISTEEBU]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[ISTEEBU]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_NAME">
           
           <com:Text xml:lang="en"><![CDATA[NDAYISENGA Modest]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[NDAYISENGA Modeste]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -2049,15 +1605,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Department of Social Studies and Statistics and Poverty Monitoring, Ponit focal ODD]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Service Etudes et Statistiques Sociales et Suivi de la Pauvreté, Ponit focal ODD]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_FUNCT">
           
           <com:Text xml:lang="en"><![CDATA[Head of Service and Focal Point]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[Chef de Service et Point focal]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -2065,15 +1617,11 @@
           
           <com:Text xml:lang="en"><![CDATA[79401937]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[79401937]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_EMAIL">
           
           <com:Text xml:lang="en"><![CDATA[ndayimode2010@gmail.com]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[ndayimode2010@gmail.com]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -2081,15 +1629,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Number of the population covered by a mutualist association compared to the total number of the population]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Effectif de la population couverte par une association mutualiste rapporté à l'effectif total de la population]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="UNIT_MEASURE">
           
           <com:Text xml:lang="en"><![CDATA[%]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[%]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -2097,15 +1641,11 @@
           
           <com:Text xml:lang="en"><![CDATA[N / A]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[NA]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SOURCE_TYPE">
           
           <com:Text xml:lang="en"><![CDATA[EDSB-III, 2016-2017]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[EDSB-III, 2016-2017]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -2113,15 +1653,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Data are collected from household surveys using the "household" questionnaire]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Les données sont collectées à partir des enquêtes auprès des ménages à l’aide du questionnaire « ménage »]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="FREQ_COLL">
           
           <com:Text xml:lang="en"><![CDATA[The probable date of the next collection will be 2021]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[La date probable de la prochaine collecte sera 2021]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -2129,15 +1665,11 @@
           
           <com:Text xml:lang="en"><![CDATA[In 2022]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[En 2022]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="DATA_SOURCE">
           
           <com:Text xml:lang="en"><![CDATA[ISTEEBU]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[ISTEEBU]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -2145,15 +1677,11 @@
           
           <com:Text xml:lang="en"><![CDATA[ISTEEBU is responsible for compiling the data for the calculation of this indicator at the national level]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[L’ISTEEBU est  responsable de la compilation des données pour le calcul de cet indicateur au niveau national]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="INST_MANDATE">
           
           <com:Text xml:lang="en"><![CDATA[ISTEEBU is the body recognized by the Burundian government for the collection, processing and dissemination of official statistics helping in planning and decision-making.]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[L’ISTEEBU est l’organe reconnu par le gouvernement burundais pour la collecte, le traitement et la diffusion des statistiques officielles aidant dans la planification et la prise de décision.]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -2161,15 +1689,11 @@
           
           <com:Text xml:lang="en"><![CDATA[The indicator is relevant because it reflects the demographic and health situation of the population.]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[L’indicateur est pertinent car il rend compte de la situation démographique et sanitaire de la population .]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="REC_USE_LIM">
           
           <com:Text xml:lang="en"><![CDATA[Updating the indicator requires a household survey which is very resource intensive.]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[La mise à jour de l’indicateur nécessite une enquête auprès des ménages qui exige beaucoup de moyens.]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -2177,15 +1701,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Number of the population covered by a mutualist association compared to the total number of the population]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Effectif de la population couverte par une association mutualiste rapporté à l'effectif total de la population]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="DATA_VALIDATION">
           
           <com:Text xml:lang="en"><![CDATA[The results of the survey are validated at two levels: technical validation and official validation before publication]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[Les résultats de l’enquête sont validés à deux niveaux : validation technique et validation officielle avant la publication]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -2193,15 +1713,11 @@
           
           <com:Text xml:lang="en"><![CDATA[The indicator is available at the national level, province, area of residence (Woman aged 15 to 49: Urban area; Rural area - Man aged 15 to 49: Urban area; Rural area)]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[L'indicateur est disponible au niveau national, province, Milieu de résidence (Femme de 15 à 49 ans: Milieu urbain; Milieur rural - Homme de 15 à 49 ans: Milieu urbain; Milieur rural)]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COMPARABILITY">
           
           <com:Text xml:lang="en"><![CDATA[The indicator can be compared to other indicators of the same type at regional and international level]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[L’indicateur peut être comparé aux autres indicateurs du même type au niveau régional et international]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -2209,15 +1725,13 @@
           
           <com:Text xml:lang="en"><![CDATA[Report of the Demographic and Health Survey 2016-2017]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Rapport de l'Enquête Démographique et de Santé 2016-2017]]></com:Text>
-          
         </gen:ReportedAttribute>
         
       </gen:AttributeSet>
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="5d81e7dd-3670-4fb1-bd58-8370c85fe57a">
+  <mes:MetadataSet structureRef="MDS1" setID="7e6fef03-a1a0-49d8-acdc-8b5a3e65a4ee">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -2246,15 +1760,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Goal 1. Eradicate poverty in all its forms and everywhere]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Objectif 1. Éliminer la pauvreté sous toutes ses formes et partout dans le monde]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SDG_TARGET">
           
           <com:Text xml:lang="en"><![CDATA[1.3 Put in place social protection systems and measures for all, adapted to the national context, including social protection floors, and ensure that, by 2030, a significant proportion of the poor and vulnerable people benefit from them]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[1.3 Mettre en place des systèmes et mesures de protection sociale pour tous, adaptés au contexte national, y compris des socles de protection sociale, et faire en sorte que, d’ici à 2030, une part importante des pauvres et des personnes vulnérables en bénéficient]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -2262,15 +1772,11 @@
           
           <com:Text xml:lang="en"><![CDATA[1.3.1. Number of mutual associations engaged in the promotion of community development programs (%)]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[1.3.1. Nombre d’associations mutualistes engagés dans la promotion des programmes de développement communautaire (%)]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="META_LAST_UPDATE">
           
           <com:Text xml:lang="en"><![CDATA[2020]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[2020]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -2278,15 +1784,11 @@
           
           <com:Text xml:lang="en"><![CDATA[ISTEEBU]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[ISTEEBU]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_NAME">
           
           <com:Text xml:lang="en"><![CDATA[NDAYISENGA Modest]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[NDAYISENGA Modeste]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -2294,15 +1796,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Department of Social Studies and Statistics and Poverty Monitoring, Ponit focal ODD]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Service Etudes et Statistiques Sociales et Suivi de la Pauvreté, Ponit focal ODD]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_FUNCT">
           
           <com:Text xml:lang="en"><![CDATA[Head of Service and Focal Point]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[Chef de Service et Point focal]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -2310,15 +1808,11 @@
           
           <com:Text xml:lang="en"><![CDATA[79401937]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[79401937]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_EMAIL">
           
           <com:Text xml:lang="en"><![CDATA[ndayimode2010@gmail.com]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[ndayimode2010@gmail.com]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -2326,15 +1820,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Number of the population covered by a mutualist association compared to the total number of the population]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Effectif de la population couverte par une association mutualiste rapporté à l'effectif total de la population]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="UNIT_MEASURE">
           
           <com:Text xml:lang="en"><![CDATA[%]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[%]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -2342,15 +1832,11 @@
           
           <com:Text xml:lang="en"><![CDATA[N / A]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[NA]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SOURCE_TYPE">
           
           <com:Text xml:lang="en"><![CDATA[EDSB-III, 2016-2017]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[EDSB-III, 2016-2017]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -2358,15 +1844,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Data are collected from household surveys using the "household" questionnaire]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Les données sont collectées à partir des enquêtes auprès des ménages à l’aide du questionnaire « ménage »]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="FREQ_COLL">
           
           <com:Text xml:lang="en"><![CDATA[The probable date of the next collection will be 2021]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[La date probable de la prochaine collecte sera 2021]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -2374,15 +1856,11 @@
           
           <com:Text xml:lang="en"><![CDATA[In 2022]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[En 2022]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="DATA_SOURCE">
           
           <com:Text xml:lang="en"><![CDATA[ISTEEBU]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[ISTEEBU]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -2390,15 +1868,11 @@
           
           <com:Text xml:lang="en"><![CDATA[ISTEEBU is responsible for compiling the data for the calculation of this indicator at the national level]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[L’ISTEEBU est  responsable de la compilation des données pour le calcul de cet indicateur au niveau national]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="INST_MANDATE">
           
           <com:Text xml:lang="en"><![CDATA[ISTEEBU is the body recognized by the Burundian government for the collection, processing and dissemination of official statistics helping in planning and decision-making.]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[L’ISTEEBU est l’organe reconnu par le gouvernement burundais pour la collecte, le traitement et la diffusion des statistiques officielles aidant dans la planification et la prise de décision.]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -2406,15 +1880,11 @@
           
           <com:Text xml:lang="en"><![CDATA[The indicator is relevant because it reflects the demographic and health situation of the population.]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[L’indicateur est pertinent car il rend compte de la situation démographique et sanitaire de la population .]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="REC_USE_LIM">
           
           <com:Text xml:lang="en"><![CDATA[Updating the indicator requires a household survey which is very resource intensive.]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[La mise à jour de l’indicateur nécessite une enquête auprès des ménages qui exige beaucoup de moyens.]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -2422,15 +1892,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Number of the population covered by a mutualist association compared to the total number of the population]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Effectif de la population couverte par une association mutualiste rapporté à l'effectif total de la population]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="DATA_VALIDATION">
           
           <com:Text xml:lang="en"><![CDATA[The results of the survey are validated at two levels: technical validation and official validation before publication]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[Les résultats de l’enquête sont validés à deux niveaux : validation technique et validation officielle avant la publication]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -2438,15 +1904,11 @@
           
           <com:Text xml:lang="en"><![CDATA[The indicator is available at the national level, province, area of residence (Woman aged 15 to 49: Urban area; Rural area - Man aged 15 to 49: Urban area; Rural area)]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[L'indicateur est disponible au niveau national, province, Milieu de résidence (Femme de 15 à 49 ans: Milieu urbain; Milieur rural - Homme de 15 à 49 ans: Milieu urbain; Milieur rural)]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COMPARABILITY">
           
           <com:Text xml:lang="en"><![CDATA[The indicator can be compared to other indicators of the same type at regional and international level]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[L’indicateur peut être comparé aux autres indicateurs du même type au niveau régional et international]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -2454,15 +1916,13 @@
           
           <com:Text xml:lang="en"><![CDATA[Report of the Demographic and Health Survey 2016-2017]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Rapport de l'Enquête Démographique et de Santé 2016-2017]]></com:Text>
-          
         </gen:ReportedAttribute>
         
       </gen:AttributeSet>
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="d9459346-e049-4ea2-b535-37ef92593dba">
+  <mes:MetadataSet structureRef="MDS1" setID="347860c9-a1c0-43e5-84cf-fc19dd81e03d">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -2491,15 +1951,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Goal 1. Eradicate poverty in all its forms and everywhere]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Objectif 1. Éliminer la pauvreté sous toutes ses formes et partout dans le monde]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SDG_TARGET">
           
           <com:Text xml:lang="en"><![CDATA[1.3 Put in place social protection systems and measures for all, adapted to the national context, including social protection floors, and ensure that, by 2030, a significant proportion of the poor and vulnerable people benefit from them]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[1.3 Mettre en place des systèmes et mesures de protection sociale pour tous, adaptés au contexte national, y compris des socles de protection sociale, et faire en sorte que, d’ici à 2030, une part importante des pauvres et des personnes vulnérables en bénéficient]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -2507,15 +1963,11 @@
           
           <com:Text xml:lang="en"><![CDATA[1.3.1. Number of mutual associations engaged in the promotion of community development programs (%)]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[1.3.1. Nombre d’associations mutualistes engagés dans la promotion des programmes de développement communautaire (%)]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="META_LAST_UPDATE">
           
           <com:Text xml:lang="en"><![CDATA[2020]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[2020]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -2523,15 +1975,11 @@
           
           <com:Text xml:lang="en"><![CDATA[ISTEEBU]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[ISTEEBU]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_NAME">
           
           <com:Text xml:lang="en"><![CDATA[NDAYISENGA Modest]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[NDAYISENGA Modeste]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -2539,15 +1987,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Department of Social Studies and Statistics and Poverty Monitoring, Ponit focal ODD]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Service Etudes et Statistiques Sociales et Suivi de la Pauvreté, Ponit focal ODD]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_FUNCT">
           
           <com:Text xml:lang="en"><![CDATA[Head of Service and Focal Point]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[Chef de Service et Point focal]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -2555,15 +1999,11 @@
           
           <com:Text xml:lang="en"><![CDATA[79401937]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[79401937]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_EMAIL">
           
           <com:Text xml:lang="en"><![CDATA[ndayimode2010@gmail.com]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[ndayimode2010@gmail.com]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -2571,15 +2011,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Number of the population covered by a mutualist association compared to the total number of the population]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Effectif de la population couverte par une association mutualiste rapporté à l'effectif total de la population]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="UNIT_MEASURE">
           
           <com:Text xml:lang="en"><![CDATA[%]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[%]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -2587,15 +2023,11 @@
           
           <com:Text xml:lang="en"><![CDATA[N / A]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[NA]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SOURCE_TYPE">
           
           <com:Text xml:lang="en"><![CDATA[EDSB-III, 2016-2017]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[EDSB-III, 2016-2017]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -2603,15 +2035,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Data are collected from household surveys using the "household" questionnaire]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Les données sont collectées à partir des enquêtes auprès des ménages à l’aide du questionnaire « ménage »]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="FREQ_COLL">
           
           <com:Text xml:lang="en"><![CDATA[The probable date of the next collection will be 2021]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[La date probable de la prochaine collecte sera 2021]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -2619,15 +2047,11 @@
           
           <com:Text xml:lang="en"><![CDATA[In 2022]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[En 2022]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="DATA_SOURCE">
           
           <com:Text xml:lang="en"><![CDATA[ISTEEBU]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[ISTEEBU]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -2635,15 +2059,11 @@
           
           <com:Text xml:lang="en"><![CDATA[ISTEEBU is responsible for compiling the data for the calculation of this indicator at the national level]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[L’ISTEEBU est  responsable de la compilation des données pour le calcul de cet indicateur au niveau national]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="INST_MANDATE">
           
           <com:Text xml:lang="en"><![CDATA[ISTEEBU is the body recognized by the Burundian government for the collection, processing and dissemination of official statistics helping in planning and decision-making.]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[L’ISTEEBU est l’organe reconnu par le gouvernement burundais pour la collecte, le traitement et la diffusion des statistiques officielles aidant dans la planification et la prise de décision.]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -2651,15 +2071,11 @@
           
           <com:Text xml:lang="en"><![CDATA[The indicator is relevant because it reflects the demographic and health situation of the population.]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[L’indicateur est pertinent car il rend compte de la situation démographique et sanitaire de la population .]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="REC_USE_LIM">
           
           <com:Text xml:lang="en"><![CDATA[Updating the indicator requires a household survey which is very resource intensive.]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[La mise à jour de l’indicateur nécessite une enquête auprès des ménages qui exige beaucoup de moyens.]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -2667,15 +2083,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Number of the population covered by a mutualist association compared to the total number of the population]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Effectif de la population couverte par une association mutualiste rapporté à l'effectif total de la population]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="DATA_VALIDATION">
           
           <com:Text xml:lang="en"><![CDATA[The results of the survey are validated at two levels: technical validation and official validation before publication]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[Les résultats de l’enquête sont validés à deux niveaux : validation technique et validation officielle avant la publication]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -2683,15 +2095,11 @@
           
           <com:Text xml:lang="en"><![CDATA[The indicator is available at the national level, province, area of residence (Woman aged 15 to 49: Urban area; Rural area - Man aged 15 to 49: Urban area; Rural area)]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[L'indicateur est disponible au niveau national, province, Milieu de résidence (Femme de 15 à 49 ans: Milieu urbain; Milieur rural - Homme de 15 à 49 ans: Milieu urbain; Milieur rural)]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COMPARABILITY">
           
           <com:Text xml:lang="en"><![CDATA[The indicator can be compared to other indicators of the same type at regional and international level]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[L’indicateur peut être comparé aux autres indicateurs du même type au niveau régional et international]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -2699,15 +2107,13 @@
           
           <com:Text xml:lang="en"><![CDATA[Report of the Demographic and Health Survey 2016-2017]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Rapport de l'Enquête Démographique et de Santé 2016-2017]]></com:Text>
-          
         </gen:ReportedAttribute>
         
       </gen:AttributeSet>
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="eec9f7bc-b48c-4547-ad7e-510679ab98c8">
+  <mes:MetadataSet structureRef="MDS1" setID="7dd44236-64ef-4190-8c10-c432702167bd">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -2736,15 +2142,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Goal 1. Eradicate poverty in all its forms and everywhere]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Objectif 1. Éliminer la pauvreté sous toutes ses formes et partout dans le monde]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SDG_TARGET">
           
           <com:Text xml:lang="en"><![CDATA[1.3 Put in place social protection systems and measures for all, adapted to the national context, including social protection floors, and ensure that, by 2030, a significant proportion of the poor and vulnerable people benefit from them]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[1.3 Mettre en place des systèmes et mesures de protection sociale pour tous, adaptés au contexte national, y compris des socles de protection sociale, et faire en sorte que, d’ici à 2030, une part importante des pauvres et des personnes vulnérables en bénéficient]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -2752,15 +2154,11 @@
           
           <com:Text xml:lang="en"><![CDATA[1.3.1. Number of mutual associations engaged in the promotion of community development programs (%)]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[1.3.1. Nombre d’associations mutualistes engagés dans la promotion des programmes de développement communautaire (%)]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="META_LAST_UPDATE">
           
           <com:Text xml:lang="en"><![CDATA[2020]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[2020]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -2768,15 +2166,11 @@
           
           <com:Text xml:lang="en"><![CDATA[ISTEEBU]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[ISTEEBU]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_NAME">
           
           <com:Text xml:lang="en"><![CDATA[NDAYISENGA Modest]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[NDAYISENGA Modeste]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -2784,15 +2178,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Department of Social Studies and Statistics and Poverty Monitoring, Ponit focal ODD]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Service Etudes et Statistiques Sociales et Suivi de la Pauvreté, Ponit focal ODD]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_FUNCT">
           
           <com:Text xml:lang="en"><![CDATA[Head of Service and Focal Point]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[Chef de Service et Point focal]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -2800,15 +2190,11 @@
           
           <com:Text xml:lang="en"><![CDATA[79401937]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[79401937]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_EMAIL">
           
           <com:Text xml:lang="en"><![CDATA[ndayimode2010@gmail.com]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[ndayimode2010@gmail.com]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -2816,15 +2202,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Number of the population covered by a mutualist association compared to the total number of the population]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Effectif de la population couverte par une association mutualiste rapporté à l'effectif total de la population]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="UNIT_MEASURE">
           
           <com:Text xml:lang="en"><![CDATA[%]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[%]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -2832,15 +2214,11 @@
           
           <com:Text xml:lang="en"><![CDATA[N / A]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[NA]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SOURCE_TYPE">
           
           <com:Text xml:lang="en"><![CDATA[EDSB-III, 2016-2017]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[EDSB-III, 2016-2017]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -2848,15 +2226,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Data are collected from household surveys using the "household" questionnaire]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Les données sont collectées à partir des enquêtes auprès des ménages à l’aide du questionnaire « ménage »]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="FREQ_COLL">
           
           <com:Text xml:lang="en"><![CDATA[The probable date of the next collection will be 2021]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[La date probable de la prochaine collecte sera 2021]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -2864,15 +2238,11 @@
           
           <com:Text xml:lang="en"><![CDATA[In 2022]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[En 2022]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="DATA_SOURCE">
           
           <com:Text xml:lang="en"><![CDATA[ISTEEBU]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[ISTEEBU]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -2880,15 +2250,11 @@
           
           <com:Text xml:lang="en"><![CDATA[ISTEEBU is responsible for compiling the data for the calculation of this indicator at the national level]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[L’ISTEEBU est  responsable de la compilation des données pour le calcul de cet indicateur au niveau national]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="INST_MANDATE">
           
           <com:Text xml:lang="en"><![CDATA[ISTEEBU is the body recognized by the Burundian government for the collection, processing and dissemination of official statistics helping in planning and decision-making.]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[L’ISTEEBU est l’organe reconnu par le gouvernement burundais pour la collecte, le traitement et la diffusion des statistiques officielles aidant dans la planification et la prise de décision.]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -2896,15 +2262,11 @@
           
           <com:Text xml:lang="en"><![CDATA[The indicator is relevant because it reflects the demographic and health situation of the population.]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[L’indicateur est pertinent car il rend compte de la situation démographique et sanitaire de la population .]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="REC_USE_LIM">
           
           <com:Text xml:lang="en"><![CDATA[Updating the indicator requires a household survey which is very resource intensive.]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[La mise à jour de l’indicateur nécessite une enquête auprès des ménages qui exige beaucoup de moyens.]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -2912,15 +2274,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Number of the population covered by a mutualist association compared to the total number of the population]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Effectif de la population couverte par une association mutualiste rapporté à l'effectif total de la population]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="DATA_VALIDATION">
           
           <com:Text xml:lang="en"><![CDATA[The results of the survey are validated at two levels: technical validation and official validation before publication]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[Les résultats de l’enquête sont validés à deux niveaux : validation technique et validation officielle avant la publication]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -2928,23 +2286,17 @@
           
           <com:Text xml:lang="en"><![CDATA[The indicator is available at the national level, province, area of residence (Woman aged 15 to 49: Urban area; Rural area - Man aged 15 to 49: Urban area; Rural area)]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[L'indicateur est disponible au niveau national, province, Milieu de résidence (Femme de 15 à 49 ans: Milieu urbain; Milieur rural - Homme de 15 à 49 ans: Milieu urbain; Milieur rural)]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COMPARABILITY">
           
           <com:Text xml:lang="en"><![CDATA[The indicator can be compared to other indicators of the same type at regional and international level]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[L’indicateur peut être comparé aux autres indicateurs du même type au niveau régional et international]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="OTHER_DOC">
           
           <com:Text xml:lang="en"><![CDATA[Report of the Demographic and Health Survey 2016-2017]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[Rapport de l'Enquête Démographique et de Santé 2016-2017]]></com:Text>
           
         </gen:ReportedAttribute>
         

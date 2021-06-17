@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
   <mes:Header>
-    <mes:ID>IREF1623075612</mes:ID>
+    <mes:ID>IREF1623935827</mes:ID>
     <mes:Test>True</mes:Test>
-    <mes:Prepared>2021-06-07T14:20:12</mes:Prepared>
+    <mes:Prepared>2021-06-17T13:17:07</mes:Prepared>
     <mes:Sender id="open-sdg_sdg-build@1-3-0"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -12,7 +12,7 @@
     </mes:Structure>
   </mes:Header>
   
-  <mes:MetadataSet structureRef="MDS1" setID="5a519735-1999-402a-9f63-a677be8e66eb">
+  <mes:MetadataSet structureRef="MDS1" setID="454d6ac7-5619-42ca-b832-99e1728f5c15">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -41,15 +41,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Objective 13. Take urgent action to combat climate change and its repercussions2]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Objectif 13. Prendre d’urgence des mesures pour lutter contre les changements climatiques et leurs répercussions2]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SDG_TARGET">
           
           <com:Text xml:lang="en"><![CDATA[13.1 Build resilience and adaptation capacities in all countries to climate hazards and climate-related natural disasters]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[13.1 Renforcer dans tous les pays, la résilience et les capacités d’adaptation face aux aléas climatiques et aux catastrophes naturelles liées au climat]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -57,15 +53,11 @@
           
           <com:Text xml:lang="en"><![CDATA[13.1.1 Number of people who died, disappeared or directly affected during disasters, per 100,000 people]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[13.1.1 Nombre de personnes décédées, disparues ou directement touchées lors de catastrophes, pour 100000 personnes]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="META_LAST_UPDATE">
           
           <com:Text xml:lang="en"><![CDATA[5/1/2020 12:00:00 AM]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[5/1/2020 12:00:00 AM]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -73,15 +65,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Ministry of Public Security and Disaster Management]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Ministère de la Sécurité Publique et de la Gestion des Catastrophes]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_NAME">
           
           <com:Text xml:lang="en"><![CDATA[OPC2 HABIMANA Apollinaire]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[OPC2 HABIMANA Apollinaire]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -89,15 +77,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Statistical service]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Service statistique]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_FUNCT">
           
           <com:Text xml:lang="en"><![CDATA[SDG focal point within the Ministry]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[point focal des ODD au sein du Ministere]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -105,15 +89,11 @@
           
           <com:Text xml:lang="en"><![CDATA[71506879]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[71506879]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_EMAIL">
           
           <com:Text xml:lang="en"><![CDATA[apollohabo@gmail.com]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[apollohabo@gmail.com]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -121,15 +101,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Number of people who died, disappeared or directly affected in disasters, per 100,000 people]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Nombre de personnes décédées, disparues ou directement touchées lors de catastrophes, pour 100000 personnes]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="UNIT_MEASURE">
           
           <com:Text xml:lang="en"><![CDATA[Number]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[Nombre]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -137,15 +113,11 @@
           
           <com:Text xml:lang="en"><![CDATA[MSPGC Statistical Yearbook]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Annuaire statistique du MSPGC]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COLL_METHOD">
           
           <com:Text xml:lang="en"><![CDATA[Administrative data]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[Données administratives]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -153,15 +125,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Annual]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Annuel]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="REL_CAL_POLICY">
           
           <com:Text xml:lang="en"><![CDATA[Annual]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[Annuel]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -169,15 +137,11 @@
           
           <com:Text xml:lang="en"><![CDATA[MSPGC]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[MSPGC]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COMPILING_ORG">
           
           <com:Text xml:lang="en"><![CDATA[MSPGC]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[MSPGC]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -185,15 +149,11 @@
           
           <com:Text xml:lang="en"><![CDATA[The Ministerial departments are the members of the SSN whose mission is to collect, process and disseminate the data of their sector.]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Les départements Ministériels sont les membres du SSN ayant comme mission de collecter, traiter et diffuser les données de leur secteur]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="RATIONALE">
           
           <com:Text xml:lang="en"><![CDATA[The indicator is relevant because it allows monitoring of the Sendhai Framework]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[L'indicateur est pertinent car il permet du suivi du Cadre de Sendhai]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -201,15 +161,11 @@
           
           <com:Text xml:lang="en"><![CDATA[The completeness of this indicator depends on the regular collection of disaster data]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[L'exhaustivité de cet indicateur dépend de la collcte régulière des données des catastrophes]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="DATA_COMP">
           
           <com:Text xml:lang="en"><![CDATA[Count of dead, missing or directly affected by disasters, per 100,000 people]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[Décompte de personnes décédées, disparues ou directement touchées lors de catastrophes, pour 100000 personnes]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -217,15 +173,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Validation is carried out at two levels: Internal level and at CTIS level]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[La vaildation se fait à deux nveaux: Niveau interne et au niveau du CTIS]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COVERAGE">
           
           <com:Text xml:lang="en"><![CDATA[The indicator is available at national level]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[L'indicateur est disponible au niveau national]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -233,15 +185,11 @@
           
           <com:Text xml:lang="en"><![CDATA[The indicator can be compared to other indicators at the international level]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[L'indicateur peut être comparé aux autres indicateurs au niveau international]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="OTHER_DOC">
           
           <com:Text xml:lang="en"><![CDATA[Statistical yearbook of the Ministry]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[Annuaire statistique du Ministère]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -249,7 +197,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="9379f625-2b8c-4832-8c31-f3ac7332b998">
+  <mes:MetadataSet structureRef="MDS1" setID="ff0b1536-51db-42bb-8b7c-5e472c8d2a77">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -278,15 +226,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Objective 13. Take urgent action to combat climate change and its repercussions2]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Objectif 13. Prendre d’urgence des mesures pour lutter contre les changements climatiques et leurs répercussions2]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SDG_TARGET">
           
           <com:Text xml:lang="en"><![CDATA[13.1 Build resilience and adaptation capacities in all countries to climate hazards and climate-related natural disasters]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[13.1 Renforcer dans tous les pays, la résilience et les capacités d’adaptation face aux aléas climatiques et aux catastrophes naturelles liées au climat]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -294,15 +238,11 @@
           
           <com:Text xml:lang="en"><![CDATA[13.1.1 Number of people who died, disappeared or directly affected during disasters, per 100,000 people]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[13.1.1 Nombre de personnes décédées, disparues ou directement touchées lors de catastrophes, pour 100000 personnes]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="META_LAST_UPDATE">
           
           <com:Text xml:lang="en"><![CDATA[5/1/2020 12:00:00 AM]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[5/1/2020 12:00:00 AM]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -310,15 +250,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Ministry of Public Security and Disaster Management]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Ministère de la Sécurité Publique et de la Gestion des Catastrophes]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_NAME">
           
           <com:Text xml:lang="en"><![CDATA[OPC2 HABIMANA Apollinaire]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[OPC2 HABIMANA Apollinaire]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -326,15 +262,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Statistical service]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Service statistique]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_FUNCT">
           
           <com:Text xml:lang="en"><![CDATA[SDG focal point within the Ministry]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[point focal des ODD au sein du Ministere]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -342,15 +274,11 @@
           
           <com:Text xml:lang="en"><![CDATA[71506879]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[71506879]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_EMAIL">
           
           <com:Text xml:lang="en"><![CDATA[apollohabo@gmail.com]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[apollohabo@gmail.com]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -358,15 +286,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Number of people who died, disappeared or directly affected in disasters, per 100,000 people]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Nombre de personnes décédées, disparues ou directement touchées lors de catastrophes, pour 100000 personnes]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="UNIT_MEASURE">
           
           <com:Text xml:lang="en"><![CDATA[Number]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[Nombre]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -374,15 +298,11 @@
           
           <com:Text xml:lang="en"><![CDATA[MSPGC Statistical Yearbook]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Annuaire statistique du MSPGC]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COLL_METHOD">
           
           <com:Text xml:lang="en"><![CDATA[Administrative data]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[Données administratives]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -390,15 +310,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Annual]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Annuel]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="REL_CAL_POLICY">
           
           <com:Text xml:lang="en"><![CDATA[Annual]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[Annuel]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -406,15 +322,11 @@
           
           <com:Text xml:lang="en"><![CDATA[MSPGC]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[MSPGC]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COMPILING_ORG">
           
           <com:Text xml:lang="en"><![CDATA[MSPGC]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[MSPGC]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -422,15 +334,11 @@
           
           <com:Text xml:lang="en"><![CDATA[The Ministerial departments are the members of the SSN whose mission is to collect, process and disseminate the data of their sector.]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Les départements Ministériels sont les membres du SSN ayant comme mission de collecter, traiter et diffuser les données de leur secteur]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="RATIONALE">
           
           <com:Text xml:lang="en"><![CDATA[The indicator is relevant because it allows monitoring of the Sendhai Framework]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[L'indicateur est pertinent car il permet du suivi du Cadre de Sendhai]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -438,15 +346,11 @@
           
           <com:Text xml:lang="en"><![CDATA[The completeness of this indicator depends on the regular collection of disaster data]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[L'exhaustivité de cet indicateur dépend de la collcte régulière des données des catastrophes]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="DATA_COMP">
           
           <com:Text xml:lang="en"><![CDATA[Count of dead, missing or directly affected by disasters, per 100,000 people]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[Décompte de personnes décédées, disparues ou directement touchées lors de catastrophes, pour 100000 personnes]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -454,15 +358,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Validation is carried out at two levels: Internal level and at CTIS level]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[La vaildation se fait à deux nveaux: Niveau interne et au niveau du CTIS]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COVERAGE">
           
           <com:Text xml:lang="en"><![CDATA[The indicator is available at national level]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[L'indicateur est disponible au niveau national]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -470,15 +370,11 @@
           
           <com:Text xml:lang="en"><![CDATA[The indicator can be compared to other indicators at the international level]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[L'indicateur peut être comparé aux autres indicateurs au niveau international]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="OTHER_DOC">
           
           <com:Text xml:lang="en"><![CDATA[Statistical yearbook of the Ministry]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[Annuaire statistique du Ministère]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -486,7 +382,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="2d2952af-d97b-4a58-89f4-118d8e2d50aa">
+  <mes:MetadataSet structureRef="MDS1" setID="745c0c8a-048d-4da4-a0d1-04bac9a8859b">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -515,15 +411,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Objective 13. Take urgent action to combat climate change and its repercussions2]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Objectif 13. Prendre d’urgence des mesures pour lutter contre les changements climatiques et leurs répercussions2]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SDG_TARGET">
           
           <com:Text xml:lang="en"><![CDATA[13.1 Build resilience and adaptation capacities in all countries to climate hazards and climate-related natural disasters]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[13.1 Renforcer dans tous les pays, la résilience et les capacités d’adaptation face aux aléas climatiques et aux catastrophes naturelles liées au climat]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -531,15 +423,11 @@
           
           <com:Text xml:lang="en"><![CDATA[13.1.1 Number of people who died, disappeared or directly affected during disasters, per 100,000 people]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[13.1.1 Nombre de personnes décédées, disparues ou directement touchées lors de catastrophes, pour 100000 personnes]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="META_LAST_UPDATE">
           
           <com:Text xml:lang="en"><![CDATA[5/1/2020 12:00:00 AM]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[5/1/2020 12:00:00 AM]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -547,15 +435,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Ministry of Public Security and Disaster Management]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Ministère de la Sécurité Publique et de la Gestion des Catastrophes]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_NAME">
           
           <com:Text xml:lang="en"><![CDATA[OPC2 HABIMANA Apollinaire]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[OPC2 HABIMANA Apollinaire]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -563,15 +447,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Statistical service]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Service statistique]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_FUNCT">
           
           <com:Text xml:lang="en"><![CDATA[SDG focal point within the Ministry]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[point focal des ODD au sein du Ministere]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -579,15 +459,11 @@
           
           <com:Text xml:lang="en"><![CDATA[71506879]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[71506879]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_EMAIL">
           
           <com:Text xml:lang="en"><![CDATA[apollohabo@gmail.com]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[apollohabo@gmail.com]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -595,15 +471,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Number of people who died, disappeared or directly affected in disasters, per 100,000 people]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Nombre de personnes décédées, disparues ou directement touchées lors de catastrophes, pour 100000 personnes]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="UNIT_MEASURE">
           
           <com:Text xml:lang="en"><![CDATA[Number]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[Nombre]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -611,15 +483,11 @@
           
           <com:Text xml:lang="en"><![CDATA[MSPGC Statistical Yearbook]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Annuaire statistique du MSPGC]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COLL_METHOD">
           
           <com:Text xml:lang="en"><![CDATA[Administrative data]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[Données administratives]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -627,15 +495,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Annual]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Annuel]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="REL_CAL_POLICY">
           
           <com:Text xml:lang="en"><![CDATA[Annual]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[Annuel]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -643,15 +507,11 @@
           
           <com:Text xml:lang="en"><![CDATA[MSPGC]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[MSPGC]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COMPILING_ORG">
           
           <com:Text xml:lang="en"><![CDATA[MSPGC]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[MSPGC]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -659,15 +519,11 @@
           
           <com:Text xml:lang="en"><![CDATA[The Ministerial departments are the members of the SSN whose mission is to collect, process and disseminate the data of their sector.]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Les départements Ministériels sont les membres du SSN ayant comme mission de collecter, traiter et diffuser les données de leur secteur]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="RATIONALE">
           
           <com:Text xml:lang="en"><![CDATA[The indicator is relevant because it allows monitoring of the Sendhai Framework]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[L'indicateur est pertinent car il permet du suivi du Cadre de Sendhai]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -675,15 +531,11 @@
           
           <com:Text xml:lang="en"><![CDATA[The completeness of this indicator depends on the regular collection of disaster data]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[L'exhaustivité de cet indicateur dépend de la collcte régulière des données des catastrophes]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="DATA_COMP">
           
           <com:Text xml:lang="en"><![CDATA[Count of dead, missing or directly affected by disasters, per 100,000 people]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[Décompte de personnes décédées, disparues ou directement touchées lors de catastrophes, pour 100000 personnes]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -691,15 +543,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Validation is carried out at two levels: Internal level and at CTIS level]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[La vaildation se fait à deux nveaux: Niveau interne et au niveau du CTIS]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COVERAGE">
           
           <com:Text xml:lang="en"><![CDATA[The indicator is available at national level]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[L'indicateur est disponible au niveau national]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -707,15 +555,11 @@
           
           <com:Text xml:lang="en"><![CDATA[The indicator can be compared to other indicators at the international level]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[L'indicateur peut être comparé aux autres indicateurs au niveau international]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="OTHER_DOC">
           
           <com:Text xml:lang="en"><![CDATA[Statistical yearbook of the Ministry]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[Annuaire statistique du Ministère]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -723,7 +567,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="29cda57f-4992-499b-8953-d5ddd0e7e3c2">
+  <mes:MetadataSet structureRef="MDS1" setID="48c07823-33eb-4ed8-b0d1-93045e8608a6">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -752,15 +596,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Objective 13. Take urgent action to combat climate change and its repercussions2]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Objectif 13. Prendre d’urgence des mesures pour lutter contre les changements climatiques et leurs répercussions2]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SDG_TARGET">
           
           <com:Text xml:lang="en"><![CDATA[13.1 Build resilience and adaptation capacities in all countries to climate hazards and climate-related natural disasters]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[13.1 Renforcer dans tous les pays, la résilience et les capacités d’adaptation face aux aléas climatiques et aux catastrophes naturelles liées au climat]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -768,15 +608,11 @@
           
           <com:Text xml:lang="en"><![CDATA[13.1.1 Number of people who died, disappeared or directly affected during disasters, per 100,000 people]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[13.1.1 Nombre de personnes décédées, disparues ou directement touchées lors de catastrophes, pour 100000 personnes]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="META_LAST_UPDATE">
           
           <com:Text xml:lang="en"><![CDATA[5/1/2020 12:00:00 AM]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[5/1/2020 12:00:00 AM]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -784,15 +620,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Ministry of Public Security and Disaster Management]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Ministère de la Sécurité Publique et de la Gestion des Catastrophes]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_NAME">
           
           <com:Text xml:lang="en"><![CDATA[OPC2 HABIMANA Apollinaire]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[OPC2 HABIMANA Apollinaire]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -800,15 +632,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Statistical service]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Service statistique]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_FUNCT">
           
           <com:Text xml:lang="en"><![CDATA[SDG focal point within the Ministry]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[point focal des ODD au sein du Ministere]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -816,15 +644,11 @@
           
           <com:Text xml:lang="en"><![CDATA[71506879]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[71506879]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_EMAIL">
           
           <com:Text xml:lang="en"><![CDATA[apollohabo@gmail.com]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[apollohabo@gmail.com]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -832,15 +656,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Number of people who died, disappeared or directly affected in disasters, per 100,000 people]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Nombre de personnes décédées, disparues ou directement touchées lors de catastrophes, pour 100000 personnes]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="UNIT_MEASURE">
           
           <com:Text xml:lang="en"><![CDATA[Number]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[Nombre]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -848,15 +668,11 @@
           
           <com:Text xml:lang="en"><![CDATA[MSPGC Statistical Yearbook]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Annuaire statistique du MSPGC]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COLL_METHOD">
           
           <com:Text xml:lang="en"><![CDATA[Administrative data]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[Données administratives]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -864,15 +680,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Annual]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Annuel]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="REL_CAL_POLICY">
           
           <com:Text xml:lang="en"><![CDATA[Annual]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[Annuel]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -880,15 +692,11 @@
           
           <com:Text xml:lang="en"><![CDATA[MSPGC]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[MSPGC]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COMPILING_ORG">
           
           <com:Text xml:lang="en"><![CDATA[MSPGC]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[MSPGC]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -896,15 +704,11 @@
           
           <com:Text xml:lang="en"><![CDATA[The Ministerial departments are the members of the SSN whose mission is to collect, process and disseminate the data of their sector.]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Les départements Ministériels sont les membres du SSN ayant comme mission de collecter, traiter et diffuser les données de leur secteur]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="RATIONALE">
           
           <com:Text xml:lang="en"><![CDATA[The indicator is relevant because it allows monitoring of the Sendhai Framework]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[L'indicateur est pertinent car il permet du suivi du Cadre de Sendhai]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -912,15 +716,11 @@
           
           <com:Text xml:lang="en"><![CDATA[The completeness of this indicator depends on the regular collection of disaster data]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[L'exhaustivité de cet indicateur dépend de la collcte régulière des données des catastrophes]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="DATA_COMP">
           
           <com:Text xml:lang="en"><![CDATA[Count of dead, missing or directly affected by disasters, per 100,000 people]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[Décompte de personnes décédées, disparues ou directement touchées lors de catastrophes, pour 100000 personnes]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -928,15 +728,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Validation is carried out at two levels: Internal level and at CTIS level]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[La vaildation se fait à deux nveaux: Niveau interne et au niveau du CTIS]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COVERAGE">
           
           <com:Text xml:lang="en"><![CDATA[The indicator is available at national level]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[L'indicateur est disponible au niveau national]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -944,15 +740,11 @@
           
           <com:Text xml:lang="en"><![CDATA[The indicator can be compared to other indicators at the international level]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[L'indicateur peut être comparé aux autres indicateurs au niveau international]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="OTHER_DOC">
           
           <com:Text xml:lang="en"><![CDATA[Statistical yearbook of the Ministry]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[Annuaire statistique du Ministère]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -960,7 +752,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="d90a3283-c860-4a4b-a2a3-9c2b5ccbbaaa">
+  <mes:MetadataSet structureRef="MDS1" setID="1e6ea237-d6da-4dca-852f-db0610ef5295">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -989,15 +781,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Objective 13. Take urgent action to combat climate change and its repercussions2]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Objectif 13. Prendre d’urgence des mesures pour lutter contre les changements climatiques et leurs répercussions2]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SDG_TARGET">
           
           <com:Text xml:lang="en"><![CDATA[13.1 Build resilience and adaptation capacities in all countries to climate hazards and climate-related natural disasters]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[13.1 Renforcer dans tous les pays, la résilience et les capacités d’adaptation face aux aléas climatiques et aux catastrophes naturelles liées au climat]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -1005,15 +793,11 @@
           
           <com:Text xml:lang="en"><![CDATA[13.1.1 Number of people who died, disappeared or directly affected during disasters, per 100,000 people]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[13.1.1 Nombre de personnes décédées, disparues ou directement touchées lors de catastrophes, pour 100000 personnes]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="META_LAST_UPDATE">
           
           <com:Text xml:lang="en"><![CDATA[5/1/2020 12:00:00 AM]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[5/1/2020 12:00:00 AM]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -1021,15 +805,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Ministry of Public Security and Disaster Management]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Ministère de la Sécurité Publique et de la Gestion des Catastrophes]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_NAME">
           
           <com:Text xml:lang="en"><![CDATA[OPC2 HABIMANA Apollinaire]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[OPC2 HABIMANA Apollinaire]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -1037,15 +817,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Statistical service]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Service statistique]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_FUNCT">
           
           <com:Text xml:lang="en"><![CDATA[SDG focal point within the Ministry]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[point focal des ODD au sein du Ministere]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -1053,15 +829,11 @@
           
           <com:Text xml:lang="en"><![CDATA[71506879]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[71506879]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_EMAIL">
           
           <com:Text xml:lang="en"><![CDATA[apollohabo@gmail.com]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[apollohabo@gmail.com]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -1069,15 +841,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Number of people who died, disappeared or directly affected in disasters, per 100,000 people]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Nombre de personnes décédées, disparues ou directement touchées lors de catastrophes, pour 100000 personnes]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="UNIT_MEASURE">
           
           <com:Text xml:lang="en"><![CDATA[Number]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[Nombre]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -1085,15 +853,11 @@
           
           <com:Text xml:lang="en"><![CDATA[MSPGC Statistical Yearbook]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Annuaire statistique du MSPGC]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COLL_METHOD">
           
           <com:Text xml:lang="en"><![CDATA[Administrative data]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[Données administratives]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -1101,15 +865,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Annual]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Annuel]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="REL_CAL_POLICY">
           
           <com:Text xml:lang="en"><![CDATA[Annual]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[Annuel]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -1117,15 +877,11 @@
           
           <com:Text xml:lang="en"><![CDATA[MSPGC]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[MSPGC]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COMPILING_ORG">
           
           <com:Text xml:lang="en"><![CDATA[MSPGC]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[MSPGC]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -1133,15 +889,11 @@
           
           <com:Text xml:lang="en"><![CDATA[The Ministerial departments are the members of the SSN whose mission is to collect, process and disseminate the data of their sector.]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Les départements Ministériels sont les membres du SSN ayant comme mission de collecter, traiter et diffuser les données de leur secteur]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="RATIONALE">
           
           <com:Text xml:lang="en"><![CDATA[The indicator is relevant because it allows monitoring of the Sendhai Framework]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[L'indicateur est pertinent car il permet du suivi du Cadre de Sendhai]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -1149,15 +901,11 @@
           
           <com:Text xml:lang="en"><![CDATA[The completeness of this indicator depends on the regular collection of disaster data]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[L'exhaustivité de cet indicateur dépend de la collcte régulière des données des catastrophes]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="DATA_COMP">
           
           <com:Text xml:lang="en"><![CDATA[Count of dead, missing or directly affected by disasters, per 100,000 people]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[Décompte de personnes décédées, disparues ou directement touchées lors de catastrophes, pour 100000 personnes]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -1165,15 +913,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Validation is carried out at two levels: Internal level and at CTIS level]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[La vaildation se fait à deux nveaux: Niveau interne et au niveau du CTIS]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COVERAGE">
           
           <com:Text xml:lang="en"><![CDATA[The indicator is available at national level]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[L'indicateur est disponible au niveau national]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -1181,15 +925,11 @@
           
           <com:Text xml:lang="en"><![CDATA[The indicator can be compared to other indicators at the international level]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[L'indicateur peut être comparé aux autres indicateurs au niveau international]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="OTHER_DOC">
           
           <com:Text xml:lang="en"><![CDATA[Statistical yearbook of the Ministry]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[Annuaire statistique du Ministère]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -1197,7 +937,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="b324adb8-138e-41e7-9c5c-dead8c36ec3b">
+  <mes:MetadataSet structureRef="MDS1" setID="428bbefb-5ec5-4e58-af6c-34d896ab745d">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -1226,15 +966,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Objective 13. Take urgent action to combat climate change and its repercussions2]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Objectif 13. Prendre d’urgence des mesures pour lutter contre les changements climatiques et leurs répercussions2]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SDG_TARGET">
           
           <com:Text xml:lang="en"><![CDATA[13.1 Build resilience and adaptation capacities in all countries to climate hazards and climate-related natural disasters]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[13.1 Renforcer dans tous les pays, la résilience et les capacités d’adaptation face aux aléas climatiques et aux catastrophes naturelles liées au climat]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -1242,15 +978,11 @@
           
           <com:Text xml:lang="en"><![CDATA[13.1.1 Number of people who died, disappeared or directly affected during disasters, per 100,000 people]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[13.1.1 Nombre de personnes décédées, disparues ou directement touchées lors de catastrophes, pour 100000 personnes]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="META_LAST_UPDATE">
           
           <com:Text xml:lang="en"><![CDATA[5/1/2020 12:00:00 AM]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[5/1/2020 12:00:00 AM]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -1258,15 +990,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Ministry of Public Security and Disaster Management]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Ministère de la Sécurité Publique et de la Gestion des Catastrophes]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_NAME">
           
           <com:Text xml:lang="en"><![CDATA[OPC2 HABIMANA Apollinaire]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[OPC2 HABIMANA Apollinaire]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -1274,15 +1002,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Statistical service]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Service statistique]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_FUNCT">
           
           <com:Text xml:lang="en"><![CDATA[SDG focal point within the Ministry]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[point focal des ODD au sein du Ministere]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -1290,15 +1014,11 @@
           
           <com:Text xml:lang="en"><![CDATA[71506879]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[71506879]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_EMAIL">
           
           <com:Text xml:lang="en"><![CDATA[apollohabo@gmail.com]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[apollohabo@gmail.com]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -1306,15 +1026,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Number of people who died, disappeared or directly affected in disasters, per 100,000 people]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Nombre de personnes décédées, disparues ou directement touchées lors de catastrophes, pour 100000 personnes]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="UNIT_MEASURE">
           
           <com:Text xml:lang="en"><![CDATA[Number]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[Nombre]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -1322,15 +1038,11 @@
           
           <com:Text xml:lang="en"><![CDATA[MSPGC Statistical Yearbook]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Annuaire statistique du MSPGC]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COLL_METHOD">
           
           <com:Text xml:lang="en"><![CDATA[Administrative data]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[Données administratives]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -1338,15 +1050,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Annual]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Annuel]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="REL_CAL_POLICY">
           
           <com:Text xml:lang="en"><![CDATA[Annual]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[Annuel]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -1354,15 +1062,11 @@
           
           <com:Text xml:lang="en"><![CDATA[MSPGC]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[MSPGC]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COMPILING_ORG">
           
           <com:Text xml:lang="en"><![CDATA[MSPGC]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[MSPGC]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -1370,15 +1074,11 @@
           
           <com:Text xml:lang="en"><![CDATA[The Ministerial departments are the members of the SSN whose mission is to collect, process and disseminate the data of their sector.]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Les départements Ministériels sont les membres du SSN ayant comme mission de collecter, traiter et diffuser les données de leur secteur]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="RATIONALE">
           
           <com:Text xml:lang="en"><![CDATA[The indicator is relevant because it allows monitoring of the Sendhai Framework]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[L'indicateur est pertinent car il permet du suivi du Cadre de Sendhai]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -1386,15 +1086,11 @@
           
           <com:Text xml:lang="en"><![CDATA[The completeness of this indicator depends on the regular collection of disaster data]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[L'exhaustivité de cet indicateur dépend de la collcte régulière des données des catastrophes]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="DATA_COMP">
           
           <com:Text xml:lang="en"><![CDATA[Count of dead, missing or directly affected by disasters, per 100,000 people]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[Décompte de personnes décédées, disparues ou directement touchées lors de catastrophes, pour 100000 personnes]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -1402,15 +1098,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Validation is carried out at two levels: Internal level and at CTIS level]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[La vaildation se fait à deux nveaux: Niveau interne et au niveau du CTIS]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COVERAGE">
           
           <com:Text xml:lang="en"><![CDATA[The indicator is available at national level]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[L'indicateur est disponible au niveau national]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -1418,15 +1110,11 @@
           
           <com:Text xml:lang="en"><![CDATA[The indicator can be compared to other indicators at the international level]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[L'indicateur peut être comparé aux autres indicateurs au niveau international]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="OTHER_DOC">
           
           <com:Text xml:lang="en"><![CDATA[Statistical yearbook of the Ministry]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[Annuaire statistique du Ministère]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -1434,7 +1122,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="5b430d63-0897-43b8-84bc-f3b9dbd5c82c">
+  <mes:MetadataSet structureRef="MDS1" setID="8cec78b5-b70d-4f86-a55e-86de64df3f66">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -1463,15 +1151,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Objective 13. Take urgent action to combat climate change and its repercussions2]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Objectif 13. Prendre d’urgence des mesures pour lutter contre les changements climatiques et leurs répercussions2]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SDG_TARGET">
           
           <com:Text xml:lang="en"><![CDATA[13.1 Build resilience and adaptation capacities in all countries to climate hazards and climate-related natural disasters]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[13.1 Renforcer dans tous les pays, la résilience et les capacités d’adaptation face aux aléas climatiques et aux catastrophes naturelles liées au climat]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -1479,15 +1163,11 @@
           
           <com:Text xml:lang="en"><![CDATA[13.1.1 Number of people who died, disappeared or directly affected during disasters, per 100,000 people]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[13.1.1 Nombre de personnes décédées, disparues ou directement touchées lors de catastrophes, pour 100000 personnes]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="META_LAST_UPDATE">
           
           <com:Text xml:lang="en"><![CDATA[5/1/2020 12:00:00 AM]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[5/1/2020 12:00:00 AM]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -1495,15 +1175,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Ministry of Public Security and Disaster Management]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Ministère de la Sécurité Publique et de la Gestion des Catastrophes]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_NAME">
           
           <com:Text xml:lang="en"><![CDATA[OPC2 HABIMANA Apollinaire]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[OPC2 HABIMANA Apollinaire]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -1511,15 +1187,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Statistical service]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Service statistique]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_FUNCT">
           
           <com:Text xml:lang="en"><![CDATA[SDG focal point within the Ministry]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[point focal des ODD au sein du Ministere]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -1527,15 +1199,11 @@
           
           <com:Text xml:lang="en"><![CDATA[71506879]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[71506879]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_EMAIL">
           
           <com:Text xml:lang="en"><![CDATA[apollohabo@gmail.com]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[apollohabo@gmail.com]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -1543,15 +1211,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Number of people who died, disappeared or directly affected in disasters, per 100,000 people]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Nombre de personnes décédées, disparues ou directement touchées lors de catastrophes, pour 100000 personnes]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="UNIT_MEASURE">
           
           <com:Text xml:lang="en"><![CDATA[Number]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[Nombre]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -1559,15 +1223,11 @@
           
           <com:Text xml:lang="en"><![CDATA[MSPGC Statistical Yearbook]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Annuaire statistique du MSPGC]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COLL_METHOD">
           
           <com:Text xml:lang="en"><![CDATA[Administrative data]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[Données administratives]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -1575,15 +1235,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Annual]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Annuel]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="REL_CAL_POLICY">
           
           <com:Text xml:lang="en"><![CDATA[Annual]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[Annuel]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -1591,15 +1247,11 @@
           
           <com:Text xml:lang="en"><![CDATA[MSPGC]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[MSPGC]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COMPILING_ORG">
           
           <com:Text xml:lang="en"><![CDATA[MSPGC]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[MSPGC]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -1607,15 +1259,11 @@
           
           <com:Text xml:lang="en"><![CDATA[The Ministerial departments are the members of the SSN whose mission is to collect, process and disseminate the data of their sector.]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Les départements Ministériels sont les membres du SSN ayant comme mission de collecter, traiter et diffuser les données de leur secteur]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="RATIONALE">
           
           <com:Text xml:lang="en"><![CDATA[The indicator is relevant because it allows monitoring of the Sendhai Framework]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[L'indicateur est pertinent car il permet du suivi du Cadre de Sendhai]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -1623,15 +1271,11 @@
           
           <com:Text xml:lang="en"><![CDATA[The completeness of this indicator depends on the regular collection of disaster data]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[L'exhaustivité de cet indicateur dépend de la collcte régulière des données des catastrophes]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="DATA_COMP">
           
           <com:Text xml:lang="en"><![CDATA[Count of dead, missing or directly affected by disasters, per 100,000 people]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[Décompte de personnes décédées, disparues ou directement touchées lors de catastrophes, pour 100000 personnes]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -1639,15 +1283,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Validation is carried out at two levels: Internal level and at CTIS level]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[La vaildation se fait à deux nveaux: Niveau interne et au niveau du CTIS]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COVERAGE">
           
           <com:Text xml:lang="en"><![CDATA[The indicator is available at national level]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[L'indicateur est disponible au niveau national]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -1655,15 +1295,11 @@
           
           <com:Text xml:lang="en"><![CDATA[The indicator can be compared to other indicators at the international level]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[L'indicateur peut être comparé aux autres indicateurs au niveau international]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="OTHER_DOC">
           
           <com:Text xml:lang="en"><![CDATA[Statistical yearbook of the Ministry]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[Annuaire statistique du Ministère]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -1671,7 +1307,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="9d00fafd-550e-4217-9841-cff1302ea445">
+  <mes:MetadataSet structureRef="MDS1" setID="1df6c06e-ec1d-4c3b-afb4-037a76feb8b1">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -1700,15 +1336,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Objective 13. Take urgent action to combat climate change and its repercussions2]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Objectif 13. Prendre d’urgence des mesures pour lutter contre les changements climatiques et leurs répercussions2]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SDG_TARGET">
           
           <com:Text xml:lang="en"><![CDATA[13.1 Build resilience and adaptation capacities in all countries to climate hazards and climate-related natural disasters]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[13.1 Renforcer dans tous les pays, la résilience et les capacités d’adaptation face aux aléas climatiques et aux catastrophes naturelles liées au climat]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -1716,15 +1348,11 @@
           
           <com:Text xml:lang="en"><![CDATA[13.1.1 Number of people who died, disappeared or directly affected during disasters, per 100,000 people]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[13.1.1 Nombre de personnes décédées, disparues ou directement touchées lors de catastrophes, pour 100000 personnes]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="META_LAST_UPDATE">
           
           <com:Text xml:lang="en"><![CDATA[5/1/2020 12:00:00 AM]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[5/1/2020 12:00:00 AM]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -1732,15 +1360,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Ministry of Public Security and Disaster Management]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Ministère de la Sécurité Publique et de la Gestion des Catastrophes]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_NAME">
           
           <com:Text xml:lang="en"><![CDATA[OPC2 HABIMANA Apollinaire]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[OPC2 HABIMANA Apollinaire]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -1748,15 +1372,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Statistical service]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Service statistique]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_FUNCT">
           
           <com:Text xml:lang="en"><![CDATA[SDG focal point within the Ministry]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[point focal des ODD au sein du Ministere]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -1764,15 +1384,11 @@
           
           <com:Text xml:lang="en"><![CDATA[71506879]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[71506879]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_EMAIL">
           
           <com:Text xml:lang="en"><![CDATA[apollohabo@gmail.com]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[apollohabo@gmail.com]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -1780,15 +1396,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Number of people who died, disappeared or directly affected in disasters, per 100,000 people]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Nombre de personnes décédées, disparues ou directement touchées lors de catastrophes, pour 100000 personnes]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="UNIT_MEASURE">
           
           <com:Text xml:lang="en"><![CDATA[Number]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[Nombre]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -1796,15 +1408,11 @@
           
           <com:Text xml:lang="en"><![CDATA[MSPGC Statistical Yearbook]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Annuaire statistique du MSPGC]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COLL_METHOD">
           
           <com:Text xml:lang="en"><![CDATA[Administrative data]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[Données administratives]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -1812,15 +1420,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Annual]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Annuel]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="REL_CAL_POLICY">
           
           <com:Text xml:lang="en"><![CDATA[Annual]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[Annuel]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -1828,15 +1432,11 @@
           
           <com:Text xml:lang="en"><![CDATA[MSPGC]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[MSPGC]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COMPILING_ORG">
           
           <com:Text xml:lang="en"><![CDATA[MSPGC]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[MSPGC]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -1844,15 +1444,11 @@
           
           <com:Text xml:lang="en"><![CDATA[The Ministerial departments are the members of the SSN whose mission is to collect, process and disseminate the data of their sector.]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Les départements Ministériels sont les membres du SSN ayant comme mission de collecter, traiter et diffuser les données de leur secteur]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="RATIONALE">
           
           <com:Text xml:lang="en"><![CDATA[The indicator is relevant because it allows monitoring of the Sendhai Framework]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[L'indicateur est pertinent car il permet du suivi du Cadre de Sendhai]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -1860,15 +1456,11 @@
           
           <com:Text xml:lang="en"><![CDATA[The completeness of this indicator depends on the regular collection of disaster data]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[L'exhaustivité de cet indicateur dépend de la collcte régulière des données des catastrophes]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="DATA_COMP">
           
           <com:Text xml:lang="en"><![CDATA[Count of dead, missing or directly affected by disasters, per 100,000 people]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[Décompte de personnes décédées, disparues ou directement touchées lors de catastrophes, pour 100000 personnes]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -1876,15 +1468,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Validation is carried out at two levels: Internal level and at CTIS level]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[La vaildation se fait à deux nveaux: Niveau interne et au niveau du CTIS]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COVERAGE">
           
           <com:Text xml:lang="en"><![CDATA[The indicator is available at national level]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[L'indicateur est disponible au niveau national]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -1892,15 +1480,11 @@
           
           <com:Text xml:lang="en"><![CDATA[The indicator can be compared to other indicators at the international level]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[L'indicateur peut être comparé aux autres indicateurs au niveau international]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="OTHER_DOC">
           
           <com:Text xml:lang="en"><![CDATA[Statistical yearbook of the Ministry]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[Annuaire statistique du Ministère]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -1908,7 +1492,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="ca2cc354-63e1-4188-9e6b-51ba41f92c9a">
+  <mes:MetadataSet structureRef="MDS1" setID="ee39eea3-9e08-47a6-a4cb-bffaa601a201">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -1937,15 +1521,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Objective 13. Take urgent action to combat climate change and its repercussions2]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Objectif 13. Prendre d’urgence des mesures pour lutter contre les changements climatiques et leurs répercussions2]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SDG_TARGET">
           
           <com:Text xml:lang="en"><![CDATA[13.1 Build resilience and adaptation capacities in all countries to climate hazards and climate-related natural disasters]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[13.1 Renforcer dans tous les pays, la résilience et les capacités d’adaptation face aux aléas climatiques et aux catastrophes naturelles liées au climat]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -1953,15 +1533,11 @@
           
           <com:Text xml:lang="en"><![CDATA[13.1.1 Number of people who died, disappeared or directly affected during disasters, per 100,000 people]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[13.1.1 Nombre de personnes décédées, disparues ou directement touchées lors de catastrophes, pour 100000 personnes]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="META_LAST_UPDATE">
           
           <com:Text xml:lang="en"><![CDATA[5/1/2020 12:00:00 AM]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[5/1/2020 12:00:00 AM]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -1969,15 +1545,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Ministry of Public Security and Disaster Management]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Ministère de la Sécurité Publique et de la Gestion des Catastrophes]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_NAME">
           
           <com:Text xml:lang="en"><![CDATA[OPC2 HABIMANA Apollinaire]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[OPC2 HABIMANA Apollinaire]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -1985,15 +1557,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Statistical service]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Service statistique]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_FUNCT">
           
           <com:Text xml:lang="en"><![CDATA[SDG focal point within the Ministry]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[point focal des ODD au sein du Ministere]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -2001,15 +1569,11 @@
           
           <com:Text xml:lang="en"><![CDATA[71506879]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[71506879]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_EMAIL">
           
           <com:Text xml:lang="en"><![CDATA[apollohabo@gmail.com]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[apollohabo@gmail.com]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -2017,15 +1581,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Number of people who died, disappeared or directly affected in disasters, per 100,000 people]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Nombre de personnes décédées, disparues ou directement touchées lors de catastrophes, pour 100000 personnes]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="UNIT_MEASURE">
           
           <com:Text xml:lang="en"><![CDATA[Number]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[Nombre]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -2033,15 +1593,11 @@
           
           <com:Text xml:lang="en"><![CDATA[MSPGC Statistical Yearbook]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Annuaire statistique du MSPGC]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COLL_METHOD">
           
           <com:Text xml:lang="en"><![CDATA[Administrative data]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[Données administratives]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -2049,15 +1605,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Annual]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Annuel]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="REL_CAL_POLICY">
           
           <com:Text xml:lang="en"><![CDATA[Annual]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[Annuel]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -2065,15 +1617,11 @@
           
           <com:Text xml:lang="en"><![CDATA[MSPGC]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[MSPGC]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COMPILING_ORG">
           
           <com:Text xml:lang="en"><![CDATA[MSPGC]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[MSPGC]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -2081,15 +1629,11 @@
           
           <com:Text xml:lang="en"><![CDATA[The Ministerial departments are the members of the SSN whose mission is to collect, process and disseminate the data of their sector.]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Les départements Ministériels sont les membres du SSN ayant comme mission de collecter, traiter et diffuser les données de leur secteur]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="RATIONALE">
           
           <com:Text xml:lang="en"><![CDATA[The indicator is relevant because it allows monitoring of the Sendhai Framework]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[L'indicateur est pertinent car il permet du suivi du Cadre de Sendhai]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -2097,15 +1641,11 @@
           
           <com:Text xml:lang="en"><![CDATA[The completeness of this indicator depends on the regular collection of disaster data]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[L'exhaustivité de cet indicateur dépend de la collcte régulière des données des catastrophes]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="DATA_COMP">
           
           <com:Text xml:lang="en"><![CDATA[Count of dead, missing or directly affected by disasters, per 100,000 people]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[Décompte de personnes décédées, disparues ou directement touchées lors de catastrophes, pour 100000 personnes]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -2113,15 +1653,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Validation is carried out at two levels: Internal level and at CTIS level]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[La vaildation se fait à deux nveaux: Niveau interne et au niveau du CTIS]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COVERAGE">
           
           <com:Text xml:lang="en"><![CDATA[The indicator is available at national level]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[L'indicateur est disponible au niveau national]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -2129,15 +1665,11 @@
           
           <com:Text xml:lang="en"><![CDATA[The indicator can be compared to other indicators at the international level]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[L'indicateur peut être comparé aux autres indicateurs au niveau international]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="OTHER_DOC">
           
           <com:Text xml:lang="en"><![CDATA[Statistical yearbook of the Ministry]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[Annuaire statistique du Ministère]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -2145,7 +1677,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="66475880-bae9-4942-95d9-a64b0126a790">
+  <mes:MetadataSet structureRef="MDS1" setID="eea6b36c-1314-4fe9-b1f6-6d6c0780bad4">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -2174,15 +1706,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Objective 13. Take urgent action to combat climate change and its repercussions2]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Objectif 13. Prendre d’urgence des mesures pour lutter contre les changements climatiques et leurs répercussions2]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SDG_TARGET">
           
           <com:Text xml:lang="en"><![CDATA[13.1 Build resilience and adaptation capacities in all countries to climate hazards and climate-related natural disasters]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[13.1 Renforcer dans tous les pays, la résilience et les capacités d’adaptation face aux aléas climatiques et aux catastrophes naturelles liées au climat]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -2190,15 +1718,11 @@
           
           <com:Text xml:lang="en"><![CDATA[13.1.1 Number of people who died, disappeared or directly affected during disasters, per 100,000 people]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[13.1.1 Nombre de personnes décédées, disparues ou directement touchées lors de catastrophes, pour 100000 personnes]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="META_LAST_UPDATE">
           
           <com:Text xml:lang="en"><![CDATA[5/1/2020 12:00:00 AM]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[5/1/2020 12:00:00 AM]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -2206,15 +1730,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Ministry of Public Security and Disaster Management]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Ministère de la Sécurité Publique et de la Gestion des Catastrophes]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_NAME">
           
           <com:Text xml:lang="en"><![CDATA[OPC2 HABIMANA Apollinaire]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[OPC2 HABIMANA Apollinaire]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -2222,15 +1742,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Statistical service]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Service statistique]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_FUNCT">
           
           <com:Text xml:lang="en"><![CDATA[SDG focal point within the Ministry]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[point focal des ODD au sein du Ministere]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -2238,15 +1754,11 @@
           
           <com:Text xml:lang="en"><![CDATA[71506879]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[71506879]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_EMAIL">
           
           <com:Text xml:lang="en"><![CDATA[apollohabo@gmail.com]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[apollohabo@gmail.com]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -2254,15 +1766,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Number of people who died, disappeared or directly affected in disasters, per 100,000 people]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Nombre de personnes décédées, disparues ou directement touchées lors de catastrophes, pour 100000 personnes]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="UNIT_MEASURE">
           
           <com:Text xml:lang="en"><![CDATA[Number]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[Nombre]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -2270,15 +1778,11 @@
           
           <com:Text xml:lang="en"><![CDATA[MSPGC Statistical Yearbook]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Annuaire statistique du MSPGC]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COLL_METHOD">
           
           <com:Text xml:lang="en"><![CDATA[Administrative data]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[Données administratives]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -2286,15 +1790,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Annual]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Annuel]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="REL_CAL_POLICY">
           
           <com:Text xml:lang="en"><![CDATA[Annual]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[Annuel]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -2302,15 +1802,11 @@
           
           <com:Text xml:lang="en"><![CDATA[MSPGC]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[MSPGC]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COMPILING_ORG">
           
           <com:Text xml:lang="en"><![CDATA[MSPGC]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[MSPGC]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -2318,15 +1814,11 @@
           
           <com:Text xml:lang="en"><![CDATA[The Ministerial departments are the members of the SSN whose mission is to collect, process and disseminate the data of their sector.]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Les départements Ministériels sont les membres du SSN ayant comme mission de collecter, traiter et diffuser les données de leur secteur]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="RATIONALE">
           
           <com:Text xml:lang="en"><![CDATA[The indicator is relevant because it allows monitoring of the Sendhai Framework]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[L'indicateur est pertinent car il permet du suivi du Cadre de Sendhai]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -2334,15 +1826,11 @@
           
           <com:Text xml:lang="en"><![CDATA[The completeness of this indicator depends on the regular collection of disaster data]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[L'exhaustivité de cet indicateur dépend de la collcte régulière des données des catastrophes]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="DATA_COMP">
           
           <com:Text xml:lang="en"><![CDATA[Count of dead, missing or directly affected by disasters, per 100,000 people]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[Décompte de personnes décédées, disparues ou directement touchées lors de catastrophes, pour 100000 personnes]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -2350,15 +1838,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Validation is carried out at two levels: Internal level and at CTIS level]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[La vaildation se fait à deux nveaux: Niveau interne et au niveau du CTIS]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COVERAGE">
           
           <com:Text xml:lang="en"><![CDATA[The indicator is available at national level]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[L'indicateur est disponible au niveau national]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -2366,15 +1850,11 @@
           
           <com:Text xml:lang="en"><![CDATA[The indicator can be compared to other indicators at the international level]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[L'indicateur peut être comparé aux autres indicateurs au niveau international]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="OTHER_DOC">
           
           <com:Text xml:lang="en"><![CDATA[Statistical yearbook of the Ministry]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[Annuaire statistique du Ministère]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -2382,7 +1862,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="bd36fedb-6aac-4ee9-afae-92f13b569cdb">
+  <mes:MetadataSet structureRef="MDS1" setID="6dd8df5f-27fb-4989-8c7d-bc6e54b406c8">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -2411,15 +1891,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Objective 13. Take urgent action to combat climate change and its repercussions2]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Objectif 13. Prendre d’urgence des mesures pour lutter contre les changements climatiques et leurs répercussions2]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SDG_TARGET">
           
           <com:Text xml:lang="en"><![CDATA[13.1 Build resilience and adaptation capacities in all countries to climate hazards and climate-related natural disasters]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[13.1 Renforcer dans tous les pays, la résilience et les capacités d’adaptation face aux aléas climatiques et aux catastrophes naturelles liées au climat]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -2427,15 +1903,11 @@
           
           <com:Text xml:lang="en"><![CDATA[13.1.1 Number of people who died, disappeared or directly affected during disasters, per 100,000 people]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[13.1.1 Nombre de personnes décédées, disparues ou directement touchées lors de catastrophes, pour 100000 personnes]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="META_LAST_UPDATE">
           
           <com:Text xml:lang="en"><![CDATA[5/1/2020 12:00:00 AM]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[5/1/2020 12:00:00 AM]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -2443,15 +1915,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Ministry of Public Security and Disaster Management]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Ministère de la Sécurité Publique et de la Gestion des Catastrophes]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_NAME">
           
           <com:Text xml:lang="en"><![CDATA[OPC2 HABIMANA Apollinaire]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[OPC2 HABIMANA Apollinaire]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -2459,15 +1927,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Statistical service]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Service statistique]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_FUNCT">
           
           <com:Text xml:lang="en"><![CDATA[SDG focal point within the Ministry]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[point focal des ODD au sein du Ministere]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -2475,15 +1939,11 @@
           
           <com:Text xml:lang="en"><![CDATA[71506879]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[71506879]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_EMAIL">
           
           <com:Text xml:lang="en"><![CDATA[apollohabo@gmail.com]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[apollohabo@gmail.com]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -2491,15 +1951,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Number of people who died, disappeared or directly affected in disasters, per 100,000 people]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Nombre de personnes décédées, disparues ou directement touchées lors de catastrophes, pour 100000 personnes]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="UNIT_MEASURE">
           
           <com:Text xml:lang="en"><![CDATA[Number]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[Nombre]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -2507,15 +1963,11 @@
           
           <com:Text xml:lang="en"><![CDATA[MSPGC Statistical Yearbook]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Annuaire statistique du MSPGC]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COLL_METHOD">
           
           <com:Text xml:lang="en"><![CDATA[Administrative data]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[Données administratives]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -2523,15 +1975,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Annual]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Annuel]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="REL_CAL_POLICY">
           
           <com:Text xml:lang="en"><![CDATA[Annual]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[Annuel]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -2539,15 +1987,11 @@
           
           <com:Text xml:lang="en"><![CDATA[MSPGC]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[MSPGC]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COMPILING_ORG">
           
           <com:Text xml:lang="en"><![CDATA[MSPGC]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[MSPGC]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -2555,15 +1999,11 @@
           
           <com:Text xml:lang="en"><![CDATA[The Ministerial departments are the members of the SSN whose mission is to collect, process and disseminate the data of their sector.]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Les départements Ministériels sont les membres du SSN ayant comme mission de collecter, traiter et diffuser les données de leur secteur]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="RATIONALE">
           
           <com:Text xml:lang="en"><![CDATA[The indicator is relevant because it allows monitoring of the Sendhai Framework]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[L'indicateur est pertinent car il permet du suivi du Cadre de Sendhai]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -2571,15 +2011,11 @@
           
           <com:Text xml:lang="en"><![CDATA[The completeness of this indicator depends on the regular collection of disaster data]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[L'exhaustivité de cet indicateur dépend de la collcte régulière des données des catastrophes]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="DATA_COMP">
           
           <com:Text xml:lang="en"><![CDATA[Count of dead, missing or directly affected by disasters, per 100,000 people]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[Décompte de personnes décédées, disparues ou directement touchées lors de catastrophes, pour 100000 personnes]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -2587,15 +2023,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Validation is carried out at two levels: Internal level and at CTIS level]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[La vaildation se fait à deux nveaux: Niveau interne et au niveau du CTIS]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COVERAGE">
           
           <com:Text xml:lang="en"><![CDATA[The indicator is available at national level]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[L'indicateur est disponible au niveau national]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -2603,15 +2035,11 @@
           
           <com:Text xml:lang="en"><![CDATA[The indicator can be compared to other indicators at the international level]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[L'indicateur peut être comparé aux autres indicateurs au niveau international]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="OTHER_DOC">
           
           <com:Text xml:lang="en"><![CDATA[Statistical yearbook of the Ministry]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[Annuaire statistique du Ministère]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -2619,7 +2047,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="23890e80-6c64-48f5-affe-93fc0c4a8d04">
+  <mes:MetadataSet structureRef="MDS1" setID="6298a2e3-1a31-427b-929e-740f3d4fdbfb">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -2648,15 +2076,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Objective 13. Take urgent action to combat climate change and its repercussions2]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Objectif 13. Prendre d’urgence des mesures pour lutter contre les changements climatiques et leurs répercussions2]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SDG_TARGET">
           
           <com:Text xml:lang="en"><![CDATA[13.1 Build resilience and adaptation capacities in all countries to climate hazards and climate-related natural disasters]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[13.1 Renforcer dans tous les pays, la résilience et les capacités d’adaptation face aux aléas climatiques et aux catastrophes naturelles liées au climat]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -2664,15 +2088,11 @@
           
           <com:Text xml:lang="en"><![CDATA[13.1.1 Number of people who died, disappeared or directly affected during disasters, per 100,000 people]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[13.1.1 Nombre de personnes décédées, disparues ou directement touchées lors de catastrophes, pour 100000 personnes]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="META_LAST_UPDATE">
           
           <com:Text xml:lang="en"><![CDATA[5/1/2020 12:00:00 AM]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[5/1/2020 12:00:00 AM]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -2680,15 +2100,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Ministry of Public Security and Disaster Management]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Ministère de la Sécurité Publique et de la Gestion des Catastrophes]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_NAME">
           
           <com:Text xml:lang="en"><![CDATA[OPC2 HABIMANA Apollinaire]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[OPC2 HABIMANA Apollinaire]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -2696,15 +2112,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Statistical service]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Service statistique]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_FUNCT">
           
           <com:Text xml:lang="en"><![CDATA[SDG focal point within the Ministry]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[point focal des ODD au sein du Ministere]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -2712,15 +2124,11 @@
           
           <com:Text xml:lang="en"><![CDATA[71506879]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[71506879]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_EMAIL">
           
           <com:Text xml:lang="en"><![CDATA[apollohabo@gmail.com]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[apollohabo@gmail.com]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -2728,15 +2136,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Number of people who died, disappeared or directly affected in disasters, per 100,000 people]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Nombre de personnes décédées, disparues ou directement touchées lors de catastrophes, pour 100000 personnes]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="UNIT_MEASURE">
           
           <com:Text xml:lang="en"><![CDATA[Number]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[Nombre]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -2744,15 +2148,11 @@
           
           <com:Text xml:lang="en"><![CDATA[MSPGC Statistical Yearbook]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Annuaire statistique du MSPGC]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COLL_METHOD">
           
           <com:Text xml:lang="en"><![CDATA[Administrative data]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[Données administratives]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -2760,15 +2160,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Annual]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Annuel]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="REL_CAL_POLICY">
           
           <com:Text xml:lang="en"><![CDATA[Annual]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[Annuel]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -2776,15 +2172,11 @@
           
           <com:Text xml:lang="en"><![CDATA[MSPGC]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[MSPGC]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COMPILING_ORG">
           
           <com:Text xml:lang="en"><![CDATA[MSPGC]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[MSPGC]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -2792,15 +2184,11 @@
           
           <com:Text xml:lang="en"><![CDATA[The Ministerial departments are the members of the SSN whose mission is to collect, process and disseminate the data of their sector.]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Les départements Ministériels sont les membres du SSN ayant comme mission de collecter, traiter et diffuser les données de leur secteur]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="RATIONALE">
           
           <com:Text xml:lang="en"><![CDATA[The indicator is relevant because it allows monitoring of the Sendhai Framework]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[L'indicateur est pertinent car il permet du suivi du Cadre de Sendhai]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -2808,15 +2196,11 @@
           
           <com:Text xml:lang="en"><![CDATA[The completeness of this indicator depends on the regular collection of disaster data]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[L'exhaustivité de cet indicateur dépend de la collcte régulière des données des catastrophes]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="DATA_COMP">
           
           <com:Text xml:lang="en"><![CDATA[Count of dead, missing or directly affected by disasters, per 100,000 people]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[Décompte de personnes décédées, disparues ou directement touchées lors de catastrophes, pour 100000 personnes]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -2824,15 +2208,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Validation is carried out at two levels: Internal level and at CTIS level]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[La vaildation se fait à deux nveaux: Niveau interne et au niveau du CTIS]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COVERAGE">
           
           <com:Text xml:lang="en"><![CDATA[The indicator is available at national level]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[L'indicateur est disponible au niveau national]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -2840,15 +2220,11 @@
           
           <com:Text xml:lang="en"><![CDATA[The indicator can be compared to other indicators at the international level]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[L'indicateur peut être comparé aux autres indicateurs au niveau international]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="OTHER_DOC">
           
           <com:Text xml:lang="en"><![CDATA[Statistical yearbook of the Ministry]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[Annuaire statistique du Ministère]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -2856,7 +2232,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="d8ff6020-1499-481e-ba3d-d25ea045c0d3">
+  <mes:MetadataSet structureRef="MDS1" setID="b6bb7c9b-cb2d-4583-8334-7a362a9f0b59">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -2885,15 +2261,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Objective 13. Take urgent action to combat climate change and its repercussions2]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Objectif 13. Prendre d’urgence des mesures pour lutter contre les changements climatiques et leurs répercussions2]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SDG_TARGET">
           
           <com:Text xml:lang="en"><![CDATA[13.1 Build resilience and adaptation capacities in all countries to climate hazards and climate-related natural disasters]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[13.1 Renforcer dans tous les pays, la résilience et les capacités d’adaptation face aux aléas climatiques et aux catastrophes naturelles liées au climat]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -2901,15 +2273,11 @@
           
           <com:Text xml:lang="en"><![CDATA[13.1.1 Number of people who died, disappeared or directly affected during disasters, per 100,000 people]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[13.1.1 Nombre de personnes décédées, disparues ou directement touchées lors de catastrophes, pour 100000 personnes]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="META_LAST_UPDATE">
           
           <com:Text xml:lang="en"><![CDATA[5/1/2020 12:00:00 AM]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[5/1/2020 12:00:00 AM]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -2917,15 +2285,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Ministry of Public Security and Disaster Management]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Ministère de la Sécurité Publique et de la Gestion des Catastrophes]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_NAME">
           
           <com:Text xml:lang="en"><![CDATA[OPC2 HABIMANA Apollinaire]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[OPC2 HABIMANA Apollinaire]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -2933,15 +2297,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Statistical service]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Service statistique]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_FUNCT">
           
           <com:Text xml:lang="en"><![CDATA[SDG focal point within the Ministry]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[point focal des ODD au sein du Ministere]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -2949,15 +2309,11 @@
           
           <com:Text xml:lang="en"><![CDATA[71506879]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[71506879]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_EMAIL">
           
           <com:Text xml:lang="en"><![CDATA[apollohabo@gmail.com]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[apollohabo@gmail.com]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -2965,15 +2321,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Number of people who died, disappeared or directly affected in disasters, per 100,000 people]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Nombre de personnes décédées, disparues ou directement touchées lors de catastrophes, pour 100000 personnes]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="UNIT_MEASURE">
           
           <com:Text xml:lang="en"><![CDATA[Number]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[Nombre]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -2981,15 +2333,11 @@
           
           <com:Text xml:lang="en"><![CDATA[MSPGC Statistical Yearbook]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Annuaire statistique du MSPGC]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COLL_METHOD">
           
           <com:Text xml:lang="en"><![CDATA[Administrative data]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[Données administratives]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -2997,15 +2345,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Annual]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Annuel]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="REL_CAL_POLICY">
           
           <com:Text xml:lang="en"><![CDATA[Annual]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[Annuel]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -3013,15 +2357,11 @@
           
           <com:Text xml:lang="en"><![CDATA[MSPGC]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[MSPGC]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COMPILING_ORG">
           
           <com:Text xml:lang="en"><![CDATA[MSPGC]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[MSPGC]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -3029,15 +2369,11 @@
           
           <com:Text xml:lang="en"><![CDATA[The Ministerial departments are the members of the SSN whose mission is to collect, process and disseminate the data of their sector.]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[Les départements Ministériels sont les membres du SSN ayant comme mission de collecter, traiter et diffuser les données de leur secteur]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="RATIONALE">
           
           <com:Text xml:lang="en"><![CDATA[The indicator is relevant because it allows monitoring of the Sendhai Framework]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[L'indicateur est pertinent car il permet du suivi du Cadre de Sendhai]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -3045,15 +2381,11 @@
           
           <com:Text xml:lang="en"><![CDATA[The completeness of this indicator depends on the regular collection of disaster data]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[L'exhaustivité de cet indicateur dépend de la collcte régulière des données des catastrophes]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="DATA_COMP">
           
           <com:Text xml:lang="en"><![CDATA[Count of dead, missing or directly affected by disasters, per 100,000 people]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[Décompte de personnes décédées, disparues ou directement touchées lors de catastrophes, pour 100000 personnes]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -3061,15 +2393,11 @@
           
           <com:Text xml:lang="en"><![CDATA[Validation is carried out at two levels: Internal level and at CTIS level]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[La vaildation se fait à deux nveaux: Niveau interne et au niveau du CTIS]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COVERAGE">
           
           <com:Text xml:lang="en"><![CDATA[The indicator is available at national level]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[L'indicateur est disponible au niveau national]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -3077,15 +2405,11 @@
           
           <com:Text xml:lang="en"><![CDATA[The indicator can be compared to other indicators at the international level]]></com:Text>
           
-          <com:Text xml:lang="fr"><![CDATA[L'indicateur peut être comparé aux autres indicateurs au niveau international]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="OTHER_DOC">
           
           <com:Text xml:lang="en"><![CDATA[Statistical yearbook of the Ministry]]></com:Text>
-          
-          <com:Text xml:lang="fr"><![CDATA[Annuaire statistique du Ministère]]></com:Text>
           
         </gen:ReportedAttribute>
         

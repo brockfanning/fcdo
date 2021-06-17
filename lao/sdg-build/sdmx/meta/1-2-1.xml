@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
   <mes:Header>
-    <mes:ID>IREF1623075972</mes:ID>
+    <mes:ID>IREF1623936234</mes:ID>
     <mes:Test>True</mes:Test>
-    <mes:Prepared>2021-06-07T14:26:12</mes:Prepared>
+    <mes:Prepared>2021-06-17T13:23:54</mes:Prepared>
     <mes:Sender id="open-sdg_sdg-build@1-3-0"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -12,7 +12,7 @@
     </mes:Structure>
   </mes:Header>
   
-  <mes:MetadataSet structureRef="MDS1" setID="9f58a999-7833-47e1-bb31-c5d569a9229e">
+  <mes:MetadataSet structureRef="MDS1" setID="43c868b2-8005-443e-9121-632cb8fc68d8">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -41,15 +41,11 @@
           
           <com:Text xml:lang="en"><![CDATA[<p>N/A</p>]]></com:Text>
           
-          <com:Text xml:lang="lo"><![CDATA[<p> N/A</p>]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COLL_METHOD">
           
           <com:Text xml:lang="en"><![CDATA[<p>The most recent Expenditure and Consumption Survey (LECS VI) is the sixth LECS survey conducted in Lao PDR. It is a survey in terms of socio-economy at the household echelon. This survey is a sample survey which is carried out in every province and district over the whole country. The survey was undertaken from June 2018 and June 2019 (for a period of 12 months) in order to be able to provide data on expenditure and consumption covering all seasons and relating to aspects of every area and region in the Lao PDR.</p><p>In this survey, data on expenditure and income was collected from households. Data was collected during one month using the daily recording principle. All transactions were captured in a diary and classified by kind of consumption, or by result of agricultural production and business of the household. Data on purchase of goods with long life-time (durables) such as furniture, television, automobile, motorcycle and others were also recorded for the period of the past 12 months.<br/><br/>Data on time use was captured in the middle of the month for all household members aged 10 years and higher.</p><p><strong>Data Collection Mode:</strong> Face-to-face</p><p><strong>Supervision</strong></p><p>Each team comprised 1 supervisor and 2 enumerators for each village. </p><p><strong>Data Collection Notes</strong></p><p>The training for trainers and supervisors was conducted for 5 days at the Department of Statistics, Vientiane Capital, with the participation of all staff from the Statistics Section from 17 provinces.<br/><br/>The training for enumerators lasted 11 days and was held at 4 points:<br/>- first point at …………. province from 8 provinces<br/>- second point at Vientiane Capital for 2 provinces from center<br/>- third point at …………province from…………….</p><h2><strong>Sampling</strong></h2><p># Sampling Procedure: Sample Design and Selection </p><p>First Step: Description of Sample Village</p><p>Second Step: Selection of Sample Household</p><h2><strong>Questionnaires</strong></h2><p>Four questionnaires were used to collect the LECS VI :<br/>- Household Questionnaire<br/>- Dairy Sheet<br/>- Time Use Questionnaire<br/>- Village Questionnaire<br/>- Price Questionnaire</p>]]></com:Text>
-          
-          <com:Text xml:lang="lo"><![CDATA[<p> ການສໍາຫຼວດລາຍຈ່າຍ ແລະ ການບໍລິໂພກຄັ້ງຫຼ້າສຸດ (LECS VI) (LECS VI) ແມ່ນການສໍາຫຼວດ LECS ຄັ້ງທີ 6 ທີ່ດໍາເນີນຢູ່ໃນ Lao PDR. ເປັນການສໍາຫລວດໃນດ້ານເສດຖະກິດ-ສັງຄົມ ຢູ່ທີ່echelon ໃນຄົວເຮືອນ. ການສໍາຫຼວດຄັ້ງນີ້ແມ່ນການສໍາຫຼວດຕົວຢ່າງທີ່ດໍາເນີນຢູ່ທຸກແຂວງ ແລະ ທ້ອງຖິ່ນທົ່ວປະເທດ. ການສໍາຫຼວດໄດ້ດໍາເນີນແຕ່ເດືອນມິຖຸນາ 2018 ແລະ ເດືອນມິຖຸນາ 2019 (ເປັນເວລາ 12 ເດືອນ) ເພື່ອໃຫ້ສາມາດສະຫນອງຂໍ້ມູນກ່ຽວກັບລາຍຈ່າຍ ແລະ ການບໍລິໂພກກວມເອົາທຸກລະດູການ ແລະ ກ່ຽວຂ້ອງກັບທຸກຂົງເຂດ ແລະ ພາກພື້ນໃນ Lao PDR. </p> <p> ໃນການສໍາຫຼວດຄັ້ງນີ້, ໄດ້ເກັບກໍາຂໍ້ມູນກ່ຽວກັບລາຍຈ່າຍ ແລະ ລາຍຮັບຈາກຄົວເຮືອນ. ໄດ້ເກັບກໍາຂໍ້ມູນໃນລະຫວ່າງຫນຶ່ງເດືອນໂດຍໃຊ້ຫຼັກການບັນທຶກປະຈໍາວັນ. ການເຮັດທຸລະກໍາທັງຫມົດໄດ້ຖືກບັນທຶກໄວ້ໃນປວັດແລະຈໍາແນກໂດຍປະເພດຂອງການບໍລິໂພກ, ຫຼືໂດຍຜົນຜະລິດກະສິກໍາແລະທຸລະກິດຂອງຄົວເຮືອນ. ຂໍ້ມູນກ່ຽວກັບການຊື້ສິນຄ້າທີ່ມີອາຍຸຍືນ (ທົນທານ) ເຊັ່ນ: ເຄື່ອງເຟີນີເຈີ, ໂທລະພາບ, ລົດຈັກໃຫຍ່, ລົດຈັກ ແລະ ອື່ນໆ ຍັງຖືກບັນທຶກໄວ້ໃນໄລຍະ 12 ເດືອນທີ່ຜ່ານມາ. <br/> <br/> ຂໍ້ ມູນ ກ່ຽວ ກັບ ການ ໃຊ້ ເວ ລາ ໄດ້ ຖືກ ຈັບ ໄວ້ ໃນ ກາງ ເດືອນ ສໍາ ລັບ ສະ ມາ ຊິກ ໃນ ຄອບ ຄົວ ທຸກ ຄົນ ທີ່ ມີ ອາ ຍຸ 10 ປີ ແລະ ສູງ ກວ່າ. </p> <p> <strong> ຮູບແບບການເກັບຂໍ້ມູນ:</strong> ຫນ້າຕໍ່ຫນ້າ</p><p><strong>ຄຸ້ມຄອງ</strong></p><p><p><p><p>ແຕ່ລະທີມປະກອບມີຜູ້ດູແລ 1 ຄົນ ແລະ 2 enumerators ສໍາລັບແຕ່ລະບ້ານ. </p> <p> <strong> ບັນທຶກການເກັບກໍາຂໍ້ມູນ</strong></p><p><p>ເຝິກອົບຮົມຄູຝຶກ ແລະ ຜູ້ຄຸ້ມຄອງໄດ້ດໍາເນີນເປັນເວລາ 5 ວັນ ຢູ່ທີ່ພະແນກສະຖິຕິ ເມືອງວິລະບູລີ ໂດຍມີການເຂົ້າຮ່ວມຂອງພະນັກງານທັງຫມົດຈາກພາກສະຖິຕິຈາກ 17 ແຂວງ. <br/> <br/> ການຝຶກອົບຮົມສໍາລັບenumerators ໃຊ້ເວລາ 11 ວັນ ແລະ ໄດ້ຈັດຂຶ້ນທີ່ 4 ຈຸດ: <br/>- ຈຸດທໍາອິດທີ່ ............. ແຂວງຈາກ 8 ແຂວງ<br/>- ຈຸດທີສອງທີ່ Vientiane Capital ສໍາລັບ 2 ແຂວງຈາກສູນກາງ<br/>- ຈຸດທີສາມທີ່ ............ province from...</p><h2><strong>Sampling</strong></h2><p># ຂັ້ນຕອນການຈໍາລອງຕົວຢ່າງ: ການອອກແບບແລະການຄັດເລືອກຕົວຢ່າງ </p><p><p><p></p><p><p>ຂັ້ນຕອນທີສອງ: ການຄັດເລືອກຂອງຄົວເຮືອນຕົວຢ່າງ</p></p>[198][198][19]19 89]- ສອບຖາມ</strong></h2></h2>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -57,15 +53,11 @@
           
           <com:Text xml:lang="en"><![CDATA[<p>Lao Statistics Bureau</p>]]></com:Text>
           
-          <com:Text xml:lang="lo"><![CDATA[<p> Lao Statistics Bureau</p>]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_EMAIL">
           
           <com:Text xml:lang="en"><![CDATA[<p><a href="mailto:vilaysooks@gmail.com">vilaysooks@gmail.com</a></p><p><a href="mailto:lstats@lsb.gov.la">lstats@lsb.gov.la</a></p><p>https://www.lsb.gov.la</p>]]></com:Text>
-          
-          <com:Text xml:lang="lo"><![CDATA[<p> <a href="mailto:vilaysooks@gmail.com">vilaysooks@gmail.com</a></p><p><a href="mailto:lstats@lsb.gov.la">lstats@lsb.gov.la</a></p><p>https://www.lsb.gov.la</p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -73,15 +65,11 @@
           
           <com:Text xml:lang="en"><![CDATA[<p>Deputy Director General</p>]]></com:Text>
           
-          <com:Text xml:lang="lo"><![CDATA[<p> ຮອງຜູ້ອໍານວຍການໃຫຍ່</p>]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_MAIL">
           
           <com:Text xml:lang="en"><![CDATA[<p>N/A</p>]]></com:Text>
-          
-          <com:Text xml:lang="lo"><![CDATA[<p> N/A</p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -89,15 +77,11 @@
           
           <com:Text xml:lang="en"><![CDATA[<p>Mr.Vilaysook SISOULATH</p>]]></com:Text>
           
-          <com:Text xml:lang="lo"><![CDATA[<p> Mr.Vilaysook SISOULATH</p>]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_ORGANISATION">
           
           <com:Text xml:lang="en"><![CDATA[<p>Lao Statistics Bureau</p>]]></com:Text>
-          
-          <com:Text xml:lang="lo"><![CDATA[<p> Lao Statistics Bureau</p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -105,15 +89,11 @@
           
           <com:Text xml:lang="en"><![CDATA[<p>+856 20 55 795 043</p><p>+856 21 214 740</p>]]></com:Text>
           
-          <com:Text xml:lang="lo"><![CDATA[<p>+856 20 55 795 043</p><p>+856 21 214 740</p>]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COVERAGE">
           
           <com:Text xml:lang="en"><![CDATA[<p>The Lao Expenditure and Consumption Survey (LECS) have been conducted at five-year intervals since 1992/1993</p><p>Disaggregated by Location (U/R), sex and age group</p>]]></com:Text>
-          
-          <com:Text xml:lang="lo"><![CDATA[<p> ການສໍາຫຼວດລາຍຈ່າຍ ແລະ ການບໍລິໂພກLao (LECS) ໄດ້ດໍາເນີນໃນຊ່ວງເວລາຫ້າປີ ນັບແຕ່ປີ 1992/1993</p><p><p>Disaggated by Location (U/R), ກຸ່ມເພດ ແລະ ອາຍຸ</p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -121,15 +101,11 @@
           
           <com:Text xml:lang="en"><![CDATA[<p><img src="data:image/png;base64,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"/></p><p>Where  is an indicator function that takes on a value of 1 if the bracketed expression is true, and 0 otherwise. If individual consumption or income  is less than the national poverty line (for example, in absolute terms the line could be the price of a consumption bundle or in relative terms a percentage of the income distribution), then  is equal to 1 and the individual is counted as poor.  is the total, urban or rural number of poor. is the total, urban or rural population. </p><p>National poverty rates use a country specific poverty line, reflecting the country’s economic and social circumstances.</p>]]></com:Text>
           
-          <com:Text xml:lang="lo"><![CDATA[<p> <img src="data:image/png;base64,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"/> </p> <p> ບ່ອນໃດເປັນຫນ້າທີ່ຕົວຊີ້ວັດທີ່ໃຊ້ເວລາໃນມູນຄ່າ 1 ຖ້າການສະແດງອອກbracketed ເປັນຄວາມຈິງ, ແລະ 0 ບໍ່ດັ່ງນັ້ນ. ຖ້າການບໍລິໂພກຫຼືລາຍຮັບຂອງບຸກຄົນແມ່ນຫນ້ອຍກວ່າເສັ້ນຄວາມທຸກຍາກຂອງຊາດ (ຕົວຢ່າງ, ໃນແງ່ທີ່ແນ່ນອນເສັ້ນອາດຈະເປັນລາຄາຂອງວົງເງິນການບໍລິໂພກຫຼືໃນແງ່ທີ່ສົມທຽບເປັນເປີເຊັນຂອງການແຈກຢາຍລາຍຮັບ), ແລ້ວແມ່ນເທົ່າກັບ 1 ແລະບຸກຄົນແມ່ນນັບວ່າທຸກຍາກ.  ເປັນຈໍານວນທັງຫມົດ, ຕົວເມືອງ ຫຼື ຊົນນະບົດຂອງຄົນທຸກຍາກ. ເປັນຈໍານວນທັງຫມົດ, ຕົວເມືອງ ຫຼື ຊົນນະບົດ. </p> <p> ອັດຕາຄວາມທຸກຍາກຂອງຊາດໃຊ້ເສັ້ນຄວາມທຸກຍາກສະເພາະປະເທດ, ສະທ້ອນໃຫ້ເຫັນສະພາບການເສດຖະກິດ-ສັງຄົມຂອງປະເທດ. </p>]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="DATA_SOURCE">
           
           <com:Text xml:lang="en"><![CDATA[<p>Lao Statistics Bureau</p>]]></com:Text>
-          
-          <com:Text xml:lang="lo"><![CDATA[<p> Lao Statistics Bureau</p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -137,15 +113,11 @@
           
           <com:Text xml:lang="en"><![CDATA[<p>consultation process with line ministries on the national data submitted to the SDGs Indicators</p>]]></com:Text>
           
-          <com:Text xml:lang="lo"><![CDATA[<p>ຂະບວນການປຶກສາຫາລືກັບບັນດານິຕິກໍາໃນຂໍ້ມູນແຫ່ງຊາດທີ່ສົ່ງຕໍ່ຕົວຊີ້ວັດ SDGs</p>]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="FREQ_COLL">
           
           <com:Text xml:lang="en"><![CDATA[<p>Start: June 2018</p><p>End: June 2019</p>]]></com:Text>
-          
-          <com:Text xml:lang="lo"><![CDATA[<p> ເລີ່ມ: ມິຖຸນາ 2018</p><p>ສິ້ນສຸດ: ມິຖຸນາ 2019</p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -153,15 +125,11 @@
           
           <com:Text xml:lang="en"><![CDATA[<p>Article 19. Survey executing agencies in Statistics Law Number Order 03, Vientiane Municipality 30June 2010 said that Lao Statistics Bureau executes census and national sample surveys and other specific surveys that are defined in the SDNSS in each period of time</p>]]></com:Text>
           
-          <com:Text xml:lang="lo"><![CDATA[<p> ມາດຕາ 19. ສໍາຫຼວດປະຕິບັດຫນ້າທີ່ໃນຄໍາສັ່ງເລກກົດຫມາຍສະຖິຕິ 03, Vientiane Municipality 30June 2010 ກ່າວວ່າ Lao Statistics Bureau ດໍາເນີນການສໍາຫຼວດສໍາມະໂນຄົວແລະການສໍາຫຼວດຕົວຢ່າງຂອງຊາດແລະການສໍາຫຼວດສະເພາະອື່ນໆທີ່ໄດ້ກໍານົດໄວ້ໃນ SDNSS ໃນແຕ່ລະໄລຍະ</p>]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="META_LAST_UPDATE">
           
           <com:Text xml:lang="en"><![CDATA[<p>22 April 2021</p>]]></com:Text>
-          
-          <com:Text xml:lang="lo"><![CDATA[<p>22 ເມສາ 2021</p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -169,15 +137,11 @@
           
           <com:Text xml:lang="en"><![CDATA[<p>Department of Social Statistics</p>]]></com:Text>
           
-          <com:Text xml:lang="lo"><![CDATA[<p> ພະແນກສະຖິຕິສັງຄົມ</p>]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="OTHER_DOC">
           
           <com:Text xml:lang="en"><![CDATA[<p>https://unstats.un.org/sdgs/metadata/</p>]]></com:Text>
-          
-          <com:Text xml:lang="lo"><![CDATA[<p>https://unstats.un.org/sdgs/metadata/</p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -185,15 +149,11 @@
           
           <com:Text xml:lang="en"><![CDATA[<p>To be useful for poverty estimates, surveys must be nationally representative. They must also include enough information to compute a comprehensive estimate of total household consumption or income (including consumption or income from own production) and to construct a correctly weighted distribution of consumption or income per person.</p>]]></com:Text>
           
-          <com:Text xml:lang="lo"><![CDATA[<p> ເພື່ອເປັນປະໂຫຍດຕໍ່ການຄາດຄະເນຄວາມທຸກຍາກ, ການສໍາຫຼວດຕ້ອງເປັນຕົວແທນຂອງຊາດ. ພວກເຂົາຍັງຕ້ອງລວມເອົາຂໍ້ມູນພຽງພໍໃນການປະເມີນຜົນການບໍລິໂພກໃນຄົວເຮືອນທັງຫມົດຫຼືລາຍຮັບ (ລວມທັງການບໍລິໂພກຫຼືລາຍຮັບຈາກການຜະລິດເອງ) ແລະເພື່ອສ້າງການຈໍາຫນ່າຍທີ່ມີນ້ໍາຫນັກຢ່າງຖືກຕ້ອງຂອງການບໍລິໂພກຫຼືລາຍຮັບຕໍ່ຄົນ. </p>]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="REL_CAL_POLICY">
           
           <com:Text xml:lang="en"><![CDATA[<p>2026</p>]]></com:Text>
-          
-          <com:Text xml:lang="lo"><![CDATA[<p>2026</p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -201,15 +161,11 @@
           
           <com:Text xml:lang="en"><![CDATA[<p>World Bank</p>]]></com:Text>
           
-          <com:Text xml:lang="lo"><![CDATA[<p> ທະນາຄານໂລກ</p>]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SDG_GOAL">
           
           <com:Text xml:lang="en"><![CDATA[<p>Goal 1. End poverty in all its forms everywhere</p>]]></com:Text>
-          
-          <com:Text xml:lang="lo"><![CDATA[<p> ເປົ້າຫມາຍທີ 1. ສິ້ນສຸດຄວາມທຸກຍາກໃນທຸກຮູບແບບຂອງມັນຢູ່ທຸກຫົນແຫ່ງ</p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -217,15 +173,11 @@
           
           <com:Text xml:lang="en"><![CDATA[<p>1.2.1 Percentage of population living below the national poverty line</p>]]></com:Text>
           
-          <com:Text xml:lang="lo"><![CDATA[<p>1.2.1 ເປີເຊັນຂອງປະຊາກອນທີ່ດໍາລົງຊີວິດຕ່ໍາກວ່າເສັ້ນຄວາມທຸກຍາກແຫ່ງຊາດ</p>]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SDG_RELATED_INDICATORS">
           
           <com:Text xml:lang="en"><![CDATA[<p>Linkage to Goal 1: End poverty in all its forms everywhere</p>]]></com:Text>
-          
-          <com:Text xml:lang="lo"><![CDATA[<p> ການເຊື່ອມໂຍງເປົ້າຫມາຍ 1: ສິ້ນສຸດຄວາມທຸກຍາກໃນທຸກຮູບແບບຂອງມັນຢູ່ທຸກຫົນແຫ່ງ</p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -233,15 +185,11 @@
           
           <com:Text xml:lang="en"><![CDATA[<p>Proportion of population living below the national poverty line</p>]]></com:Text>
           
-          <com:Text xml:lang="lo"><![CDATA[<p> ອັດຕາສ່ວນຂອງປະຊາກອນທີ່ດໍາລົງຊີວິດຕ່ໍາກວ່າເສັ້ນຄວາມທຸກຍາກແຫ່ງຊາດ</p>]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SDG_TARGET">
           
           <com:Text xml:lang="en"><![CDATA[<p>1.2 By 2030, reduce at least by half the proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions</p>]]></com:Text>
-          
-          <com:Text xml:lang="lo"><![CDATA[<p>1.2 ຮອດປີ 2030, ຫຼຸດລົງຢ່າງຫນ້ອຍເຄິ່ງຫນຶ່ງຂອງອັດຕາສ່ວນຂອງຜູ້ຊາຍ, ແມ່ຍິງ ແລະ ເດັກນ້ອຍທຸກໄວທີ່ດໍາລົງຊີວິດຢູ່ໃນຄວາມທຸກຍາກໃນທຸກມິຕິຕາມຄວາມຫມາຍຂອງຊາດ</p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -249,15 +197,11 @@
           
           <com:Text xml:lang="en"><![CDATA[<p>Survey: Lao Expenditure and Consumption Survey (LECS)</p>]]></com:Text>
           
-          <com:Text xml:lang="lo"><![CDATA[<p> ການສໍາຫຼວດ: Lao Expenditure and Consumption Survey (LECS)</p>]]></com:Text>
-          
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="STAT_CONC_DEF">
           
           <com:Text xml:lang="en"><![CDATA[<p><strong>Definition:</strong></p><p>The national poverty rate is the percentage of the total population living below the national poverty line. The rural poverty rate is the percentage of the rural population living below the national poverty line (or in cases where a separate, rural poverty line is used, the rural poverty line). Urban poverty rate is the percentage of the urban population living below the national poverty line (or in cases where a separate, urban poverty line is used, the urban poverty line). </p><p><strong>Concepts:</strong></p><p>In assessing poverty in a given country, and how best to reduce poverty according to national definitions, one naturally focuses on a poverty line that is considered appropriate for that country. Poverty lines across countries vary in terms of their purchasing power, and they have a strong economic gradient, such that richer countries tend to adopt higher standards of living in defining poverty. Within a country, the cost of living is typically higher in urban areas than in rural areas. Some countries may have separate urban and rural poverty lines to represent different purchasing powers. </p>]]></com:Text>
-          
-          <com:Text xml:lang="lo"><![CDATA[<p> <strong> ນິຍາມ:</strong></p><p><p>ອັດຕາຄວາມທຸກຍາກຂອງຊາດແມ່ນອັດຕາສ່ວນຂອງປະຊາກອນທັງຫມົດທີ່ດໍາລົງຊີວິດຕ່ໍາກວ່າເສັ້ນຄວາມທຸກຍາກແຫ່ງຊາດ. ອັດຕາຄວາມທຸກຍາກໃນເຂດຊົນນະບົດແມ່ນອັດຕາສ່ວນຂອງປະຊາກອນຊົນນະບົດທີ່ດໍາລົງຊີວິດຕ່ໍາກວ່າເສັ້ນຄວາມທຸກຍາກແຫ່ງຊາດ (ຫຼືໃນກໍລະນີທີ່ມີການນໍາໃຊ້ເສັ້ນຄວາມທຸກຍາກໃນເຂດຊົນນະບົດແຍກຕ່າງຫາກ, ເສັ້ນຄວາມທຸກຍາກຊົນນະບົດ). ອັດຕາຄວາມທຸກຍາກໃນຕົວເມືອງແມ່ນອັດຕາສ່ວນຂອງປະຊາກອນເມືອງທີ່ດໍາລົງຊີວິດຕ່ໍາກວ່າເສັ້ນຄວາມທຸກຍາກແຫ່ງຊາດ (ຫຼືໃນກໍລະນີທີ່ມີການນໍາໃຊ້ເສັ້ນຄວາມທຸກຍາກແຍກຕ່າງຫາກ, ເສັ້ນຄວາມທຸກຍາກໃນຕົວເມືອງ). </p> <p> <strong> ແນວຄວາມຄິດ:</strong></p><p>ໃນການປະເມີນຄວາມທຸກຍາກໃນປະເທດໃດຫນຶ່ງ, ແລະ ວິທີທີ່ດີທີ່ສຸດໃນການຫຼຸດຜ່ອນຄວາມທຸກຍາກຕາມນິຍາມຂອງຊາດ, ຫນຶ່ງຕາມທໍາມະຊາດແມ່ນເນັ້ນໃສ່ເສັ້ນຄວາມທຸກຍາກທີ່ຖືວ່າເຫມາະສົມກັບປະເທດນັ້ນ. ເສັ້ນ ທາງ ຄວາມ ທຸກ ຍາກ ໃນ ທົ່ວ ປະ ເທດ ມີ ຄວາມ ແຕກ ຕ່າງ ກັນ ໃນ ດ້ານ ອໍາ ນາດ ການ ຊື້ ຂອງ ຕົນ, ແລະ ພວກ ເຂົາ ເຈົ້າ ມີ ການ ປະ ຕິ ບັດ ເສດ ຖະ ກິດ ທີ່ ເຂັ້ມ ແຂງ, ດັ່ງ ນັ້ນ ປະ ເທດ ທີ່ ຮັ່ງ ມີ ມັກ ຈະ ນໍາ ໃຊ້ ມາດ ຕະ ຖານ ທີ່ ສູງ ກວ່າ ຂອງ ການ ດໍາ ລົງ ຊີ ວິດ ໃນ ການ ກໍາ ນົດ ຄວາມ ທຸກ ຍາກ. ພາຍໃນປະເທດ, ຄ່າໃຊ້ຈ່າຍໃນການດໍາລົງຊີວິດໂດຍປົກກະຕິແມ່ນສູງກວ່າໃນຕົວເມືອງຫຼາຍກວ່າໃນເຂດຊົນນະບົດ. ບາງປະເທດອາດມີເສັ້ນຄວາມທຸກຍາກໃນຕົວເມືອງແລະຊົນນະບົດຕ່າງຫາກເພື່ອເປັນຕົວແທນໃຫ້ແກ່ອໍານາດການຊື້ຂາຍທີ່ແຕກຕ່າງກັນ. </p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
