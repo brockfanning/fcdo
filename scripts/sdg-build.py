@@ -228,7 +228,7 @@ def alter_indicator_id(indicator_id):
 
 def alter_meta(meta):
     for key in meta:
-        if meta[key] is not None:
+        if meta[key] is not None and isinstance(meta[key], str):
             meta[key] = meta[key].replace("'", "&#39;")
     return meta
 
