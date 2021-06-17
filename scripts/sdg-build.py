@@ -226,6 +226,12 @@ def alter_indicator_id(indicator_id):
     return indicator_id.replace('.', '-')
 
 
+def alter_meta(meta):
+    for key in meta:
+        if meta[key] is not None:
+            meta[key] = meta[key].replace("'", "&#39;")
+    return meta
+
 countries = [
     'jordan',
     'palestine',
@@ -243,7 +249,7 @@ for country in countries:
     config_path = os.path.join('scripts', 'sdg-build-config', country + '.yml')
     alter_data = alter_data_by_country(country)
     print('******* ' + country + ' *******')
-    open_sdg_build(config=config_path, alter_data=alter_data, alter_indicator_id=alter_indicator_id)
+    open_sdg_build(config=config_path, alter_data=alter_data, alter_meta=alter_meta, alter_indicator_id=alter_indicator_id)
     source = os.path.join('_build', country)
     destination = os.path.join('web', '_site', country, 'sdg-build')
     shutil.move(source, destination)
