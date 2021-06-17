@@ -13,15 +13,43 @@
             <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/open-sdg/open-sdg-table@0.4.0/open-sdg-table.min.css">
             <style>
                 .btn-primary {
-                    background-color: #1D70B8;
-                    border-color: #1D70B8;
+                    background-color: #00703c;
+                    padding: 8px 10px 7px;
+                    border: 2px solid transparent;
+                    border-radius: 0;
+                    color: #fff;
+                    box-shadow: 0 2px 0 #002d18;
+                    text-decoration: none;
+                }
+                .btn-primary:visited {
+                    color: #fff;
+                }
+                .btn-primary:hover, .btn-primary:not(:disabled):not(.disabled):active {
+                    background-color: #005a30;
+                    text-decoration: none;
+                    border: 2px solid transparent;
+                }
+                .btn-primary:focus:not(:active):not(:hover) {
+                    border-color: #fd0;
+                    color: #0b0c0c;
+                    background-color: #fd0;
+                    box-shadow: 0 2px 0 #0b0c0c;
                 }
                 a {
                     color: #1D70B8;
                     text-decoration: underline;
                 }
+                a:hover {
+                    color: #003078;
+                }
+                a:visited {
+                    color: #4c2c92;
+                }
                 .download-info {
                     margin-left: 12px;
+                }
+                .table-striped tbody tr:nth-of-type(2n+1) {
+                    background-color: #f3f2f1;
                 }
             </style>
         </head>
@@ -35,7 +63,7 @@
                 <div class="container">
                     <h1 style="margin:20px 0">SDMX output</h1>
                     <div>
-                        <p>This output has an SDMX file for each indicator's data, plus one SDMX file with all indicator data. This data uses numbers and codes only, so is not specific to any language.The metadata is output in a 'meta' subfolder' and similarly has one per indicator plus an 'all' file. Translations of the metadata are included in each file using the 'lang' attribute. Examples are below:<p><ul><li><a href="/fcdo/jordan/sdg-build/sdmx/all.xml">sdmx/all.xml (data)</a></li><li><a href="/fcdo/jordan/sdg-build/sdmx/meta/all.xml">sdmx/meta/all.xml (metadata)</a></li><li><a href="/fcdo/jordan/sdg-build/sdmx/1-1-1.xml">sdmx/1-1-1.xml (data)</a></li><li><a href="/fcdo/jordan/sdg-build/sdmx/meta/1-1-1.xml">sdmx/meta/1-1-1.xml (metadata)</a></li><li><a href="/fcdo/jordan/sdg-build/sdmx/1-2-1.xml">sdmx/1-2-1.xml (data)</a></li><li><a href="/fcdo/jordan/sdg-build/sdmx/meta/1-2-1.xml">sdmx/meta/1-2-1.xml (metadata)</a></li><li>etc...</li></ul>
+                        <p>This output has an SDMX file for each indicator's data, plus one SDMX file with all indicator data. This data uses numbers and codes only, so is not specific to any language.The metadata is output in a 'meta' subfolder' and similarly has one per indicator plus an 'all' file. Translations of the metadata are included in each file using the 'lang' attribute. Examples are below:<p><ul><li><a href="/fcdo/jordan/sdg-build/sdmx/all.xml">sdmx/all.xml (all data)</a></li><li><a href="/fcdo/jordan/sdg-build/sdmx/meta/all.xml">sdmx/meta/all.xml (all metadata)</a></li><li><a href="/fcdo/jordan/sdg-build/sdmx/1-1-1.xml">sdmx/1-1-1.xml (data by indicator)</a></li><li><a href="/fcdo/jordan/sdg-build/sdmx/meta/1-1-1.xml">sdmx/meta/1-1-1.xml (metadata by indicator)</a></li><li><a href="/fcdo/jordan/sdg-build/sdmx/1-2-1.xml">sdmx/1-2-1.xml (data by indicator)</a></li><li><a href="/fcdo/jordan/sdg-build/sdmx/meta/1-2-1.xml">sdmx/meta/1-2-1.xml (metadata by indicator)</a></li><li><a href="/fcdo/jordan/sdg-build/sdmx/1.xml">sdmx/1.xml (data by goal)</a></li><li><a href="/fcdo/jordan/sdg-build/sdmx/meta/1.xml">sdmx/meta/1.xml (metadata by goal)</a></li><li><a href="/fcdo/jordan/sdg-build/sdmx/2.xml">sdmx/2.xml (data by goal)</a></li><li><a href="/fcdo/jordan/sdg-build/sdmx/meta/2.xml">sdmx/meta/2.xml (metadata by goal)</a></li><li>etc...</li></ul>
                     </div>
                 </div>
             </div>

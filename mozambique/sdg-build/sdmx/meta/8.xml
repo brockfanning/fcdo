@@ -1,0 +1,1216 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
+  <mes:Header>
+    <mes:ID>IREF1623960155</mes:ID>
+    <mes:Test>True</mes:Test>
+    <mes:Prepared>2021-06-17T20:02:35</mes:Prepared>
+    <mes:Sender id="open-sdg_sdg-build@1-3-0"/>
+    <mes:Structure structureID="MDS1">
+      <com:Structure>
+        <URN>urn:sdmx:org.sdmx.infomodel.metadatastructure.MetadataStructure=IAEG-SDGs:SDG_MSD(0.3)</URN>
+      </com:Structure>
+    </mes:Structure>
+  </mes:Header>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="f610f47a-5f13-47cf-81fa-9d712b478330">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>NY_GDP_PCAP</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>508</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Directorate of National Accounts and Global Indicators </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> 8 Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> 8.1 Sustaining economic growth per capita according to national circumstances and, in particular, an annual growth of at least 7% of the gross domestic product [GDP] in the least developed countries </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[ <h1> 8.1.1 Annual growth rate of real GDP per capita </h1>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_SERIES_DESCR">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> 8.1.1 Annual growth rate of real GDP per capita </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="META_LAST_UPDATE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> 10/6/2020 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_ORGANISATION">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> National Institute of Statistics </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Perpetua Mendonça; Simão Saturday; Cipriano Claudio </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_FUNCT">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Technician, Head of Department and Director </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Perpetual: + 258-823810450 / + 258-873810450; </p>
+ <p> Saturday: + 258-827027780 / + 258-868001057; </p>
+ <p> Cláudio: + 258-824261470 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> <a href="mailto:perpetua.mendoca@ine.gov.mz"> perpetua.mendoca@ine.gov.mz </a>; simao.sabado@ine.gov.mz; claudio.cipriano@ine.gov.mz </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The annual growth rate of real gross domestic product (GDP) per capita is calculated as the percentage change in real GDP per capita between two consecutive years. Real GDP per capita is calculated by dividing GDP at constant prices by the population of a country or region. Real GDP data is measured in constant US dollars to facilitate the calculation of the country&#39;s growth rates, their respective aggregation and comparability between countries or regions. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="UNIT_MEASURE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Percentage </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CLASS_SYSTEM">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Classification of economic activities (CAE), National Classification of Goods and Services (CNBS); Classification of Non-Profit Institutions to Family Services (COPNI); Classification of Government Functions (COFOG), Classification Individual Consumption by Purpose (COICOP) Balance of Payment Manual, Version 6 (MBOP6) </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Monthly surveys, Annual surveys, Administrative data </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COLL_METHOD">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Monthly and annual business surveys are current, probabilistic surveys. Physical or electronic questionnaires are sent to companies for completion and return. They have as key variables: the main and secondary activity, the volume of business, expenses detailed by type of expenditure, No. of workers, remuneration and hours worked. They have their own computer applications with validation rules. </p>
+ <p> Administrative data is received on models used by the sources. When they are received, an assessment is made of their quality. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="FREQ_COLL">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> From January to December of each year </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REL_CAL_POLICY">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> May of each year: Preliminary GDP for year n-1 and Definitive GDP for n-2; October of each year: Provisional GDP of the year n-1 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_SOURCE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Ministries, Bank of Mozambique, state institutions </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> National Institute of Statistics </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="INST_MANDATE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> According to article 19, of Law 7/96 of July 5th: </p>
+ <ol>
+   <li> The National Statistics Institute (INE) is the central executive body of the National Statistical System (SEN) whose objective is the notation, calculation, coordination and dissemination of the country&#39;s official statistical information and is subordinate to the Minister Council. </li>
+   <li> INE is responsible for carrying out the country&#39;s official statistical activity. </li>
+ </ol>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The Real Gross Domestic Product (GDP) per capita is a proxy for the average standard of living of residents in a country or area. A positive percentage change in real annual GDP per capita can be interpreted as an increase in the average standard of living of residents in a country or area </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Lack of strict compliance with statistical legislation; </p>
+ <p> Late reception of data from sources; </p>
+ <p> Lack or insufficient resources to carry out surveys at regular intervals can lead to skewed production and transaction estimates. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The annual growth rate of real gross domestic product (GDP) per capita is calculated as follows: </p>
+ <ol>
+   <li> Convert the annual real GDP (constant prices) into the national currency of a country or region in US dollars using the base year exchange rate. </li>
+   <li> Divide the result by the population of the country or region to obtain the annual real GDP per capita in US dollars. </li>
+   <li> Calculate the annual growth rate of real GDP per capita in year t <sub> +1 </sub>, using the following formula: [(G (t <sub> +1 </sub>) - G (t) G (t <sub> +1 </sub>) is the real GDP per capita in dollars in year t <sub> +1 </sub> and G (t) is the real GDP per capita in dollars of the year t. A0f84d72dce6e5
+ </ol>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_VALIDATION">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Crossing survey data with audited accounts. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DOC_METHOD">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The annual growth rate of real gross domestic product (GDP) per capita is calculated as follows: </p>
+ <ol>
+   <li> Convert the annual real GDP (constant prices) into the national currency of a country or region in US dollars using the base year exchange rate. </li>
+   <li> Divide the result by the population of the country or region to obtain the annual real GDP per capita in US dollars. </li>
+   <li> Calculate the annual growth rate of real GDP per capita in year t <sub> +1 </sub>, using the following formula: [(G (t <sub> +1 </sub>) - G (t) G (t <sub> +1 </sub>) is the real GDP per capita in dollars in year t <sub> +1 </sub> and G (t) is the real GDP per capita in dollars of the year t .. a0f84d72dce6e5
+ </ol>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_MGMNT">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The data compiled and verified by the technicians are reconciled by the heads and submitted to the directors for recheck. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Use of United Nations manuals for National Accounts, SNA 2008; compliance with the reviews recommended by the United Nations. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSMNT">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Sharing with international publications institutions. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> May of each year: GDP Preliminaries for the year <sub> </sub> n; </p>
+ <p> May of each year: Definitive GDP for year n-1; </p>
+ <p> October of each year: Provisional GDP of year n. </p>
+ <p> Data disaggregated by country and by province </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Calculation of this indicator does not differ from calculations made internationally, because United Nations manuals are used for National Accounts, SNA 2008; compliance with the reviews recommended by the United Nations. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> SNA 2008, from the United Nations; </p>
+ <p> National and international classifications; </p>
+ <p> MBOP6 (Mozambique, Balance of Payment Manual, Version 6) </p>
+ <p> http://www.ine.gov.mz/estatisticas/estatisticas-economicas/contas-nacionais </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="d83ee5ca-eb22-4235-a2c0-639fa247ce85">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>SL_TLF_UEM</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>508</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Directorate of Demographic, Vital and Social Statistics </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> 8 PROMOTING INCLUSIVE AND SUSTAINABLE ECONOMIC GROWTH, FULL AND PRODUCTIVE JOBS AND DECENT WORK FOR ALL </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> 8.5 By 2030, achieve full and productive employment and decent work for all women and men, including young people and people with disabilities, and equal pay for work of equal value </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> 8.5.2 a) Unemployment rate by sex according to age </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_SERIES_DESCR">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Unemployment rate by sex according to age </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="META_LAST_UPDATE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> 10/21/2020 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_ORGANISATION">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> NATIONAL INSTITUTE OF STATISTICS </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Teixeira Mandlate, Maria Alfeu and João Mangue </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_FUNCT">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Technicians </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> +258 844386629; +258 823032619; +258 827679480 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_MAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> www.ine.gov.mz </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> <a href="mailto:Teixeira.mandlate@ine.gov.mz"> Teixeira.mandlate@ine.gov.mz </a>; <a href="mailto:maria.alfeu@ine.gov.mz"> maria.alfeu@ine.gov.mz </a>; <a href="mailto:joao.mangue@ine.gov.mz"> joao.mangue@ine.gov.mz </a> </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> According to the recommendations of the International Conference of Labor Statistics (CIET), all persons aged 15 and over are considered unemployed than in the reference week </p>
+ <ol>
+   <li> Did not work or had no work, </li>
+   <li> were available to work and </li>
+   <li> They were looking for work or employment. </li>
+ </ol>
+ <p> For the purposes of the IOF, the criterion “job search” was waived, with the fulfillment of the first two conditions mentioned above being sufficient for the person to be considered unemployed </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="UNIT_MEASURE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Percentage </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Household Surveys </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COLL_METHOD">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The recommended data source to calculate this indicator </p>
+ <p> are the Family Budget Surveys. The data collection questionnaire is designed and subsequently tested in the field in the course of training the interviewers. </p>
+ <p> The IOF 2014/2015 is a probabilistic, stratified and multi-stage survey, designed according to a panel methodology based on households residing in private homes. In other words, each selected household (PA) was visited four times during the complete 12-month cycle, once only in each quarter, in order to reflect seasonality during the year. The visit to each household lasted 7 continuous days. </p>
+ <p> Data collection took place over 12 months starting on August 7, 2014 and ending on August 15, 2015 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="FREQ_COLL">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> 2020 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REL_CAL_POLICY">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> 2021 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_SOURCE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> INE </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> INE </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="INST_MANDATE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Law 7/96 of 5 July </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Although in most developed countries the unemployment rate continues to prove useful as an important indicator of labor market performance and, specifically, as a key measure of underutilization of labor, in many developing countries, however, the significance and significance of the unemployment rate can be questioned. In the absence of unemployment insurance systems or social safety nets, people of working age must avoid unemployment by resorting to some form of economic activity, albeit insignificant or inadequate. Thus, in this context, other measures must supplement the unemployment rate to comprehensively assess the underutilization of labor. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Unemployment rate is the relationship between unemployed people and the total economically active population. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_VALIDATION">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The fieldwork had the supervision and quality control by the technicians of INE Central as well as the Provincial Delegations. In addition, during the data collection, a strict control was established at the level of each team over the collection process, by detecting errors by the critics in the field, which allowed for immediate correction even on the ground. </p>
+ <p> At the level of central coordination, the data critics made a further review of the base data and the problems encountered were reported to the respective teams for correction. </p>
+ <p> Interactive and batch processing of information also allowed, at central level, the periodic obtaining of partial results, for analysis of the data collected until a given moment, through the production of tables for monitoring and quality control. The results of these tabulations were reported in feedback to the inquirers, ensuring the quality of the data. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DOC_METHOD">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> For the collection of IOF data, 5 types of questionnaires were used: </p>
+ <p> 1. Questionnaire on the General Characteristics of the Household; </p>
+ <p> 2. Questionnaire on Household Daily Expenses; </p>
+ <p> 3. Expenses and Revenue Questionnaire (annual and monthly); </p>
+ <p> 4. Community Questionnaire (completed by the Controller). The latter was used only in rural areas; e </p>
+ <p> 5. Questionnaire for people aged 5 and over (employment). In addition, a module on tourist activity in Mozambique has been included. </p>
+ <p> In practical terms, two modalities of data collection were used: </p>
+ <p> Electronics (Tablets) for the 5 types of Questionnaires, </p>
+ <p> On paper for Daily Expenses and Monthly and Annual Expenses and Income Questionnaires to ensure greater reliability given its complexity of collection. The collection of data in a household was made through 3 visits to the accommodation units for 7 continuous days, respecting the following distribution: </p>
+ <p> On the day of the first visit, the inquirer filled out the Household General Characteristics Questionnaire and part of the Daily Expenses Questionnaire (expenses, self-consumption and income in kind corresponding to the previous day). At this stage, the inquirer also completed the module on tourism. </p>
+ <p> On the second visit, (three days after the first) the Inquirer collected monthly and annual expenses and completed the Household Daily Expenditure Questionnaire for the last 3 days. </p>
+ <p> On the third visit (three days after the second) the Inquirer collected income and transfers and filled out the Household Daily Expenses Questionnaire in the last 3 days. The surveyors were regularly asked to, after collecting the data in the field using the Questionnaire on paper or via Tablet, be sent to the respective Controller, who in turn compiled all the data and sent it via the internet to INE Central for the Informatics and Criticism-Coding and Typing sector. The Critics and Coding Team performed a quality analysis and assigned codes to open questions - Questionnaire on paper. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_MGMNT">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Still in development and to be approved by the quality management instrument </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> For the collection of data, the methodology of interviews was applied face to face to the households filling out the Bulletin of Households and Bulletin of collective accommodations. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSMNT">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Still in development and for approval of the instrument for quality assessment </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Information is made available every 5 years and is disaggregated by sex and age groups </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The results of the Family Budget Survey (IOF) allow comparability because the conception of measuring variables derives from the recommendations from the International Conference of Labor Statistics (CIET) as well as from the ILO. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> National Statistics Institute (INE), <a href="http://www.misau.gov.mz"> www.misau.gov.mz </a>; Ministry of Labor, Employment and Social Security (MITESS), <a href="http://www.mitess.gov.mz"> www.mitess.gov.mz </a>; </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="8c4977af-7f77-4e24-aee4-38cbd257cd1d">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>SL_TLF_UEMDIS</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>508</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Directorate of Demographic, Vital and Social Statistics </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> 8 PROMOTING INCLUSIVE AND SUSTAINABLE ECONOMIC GROWTH, FULL AND PRODUCTIVE JOBS AND DECENT WORK FOR ALL </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> 8.5 By 2030, achieve full and productive employment and decent work for all women and men, including young people and people with disabilities, and equal pay for work of equal value </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> 8.5.2 a) Unemployment rate by sex according to age </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_SERIES_DESCR">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Unemployment rate by sex according to age </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="META_LAST_UPDATE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> 10/21/2020 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_ORGANISATION">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> NATIONAL INSTITUTE OF STATISTICS </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Teixeira Mandlate, Maria Alfeu and João Mangue </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_FUNCT">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Technicians </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> +258 844386629; +258 823032619; +258 827679480 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_MAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> www.ine.gov.mz </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> <a href="mailto:Teixeira.mandlate@ine.gov.mz"> Teixeira.mandlate@ine.gov.mz </a>; <a href="mailto:maria.alfeu@ine.gov.mz"> maria.alfeu@ine.gov.mz </a>; <a href="mailto:joao.mangue@ine.gov.mz"> joao.mangue@ine.gov.mz </a> </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> According to the recommendations of the International Conference of Labor Statistics (CIET), all persons aged 15 and over are considered unemployed than in the reference week </p>
+ <ol>
+   <li> Did not work or had no work, </li>
+   <li> were available to work and </li>
+   <li> They were looking for work or employment. </li>
+ </ol>
+ <p> For the purposes of the IOF, the criterion “job search” was waived, with the fulfillment of the first two conditions mentioned above being sufficient for the person to be considered unemployed </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="UNIT_MEASURE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Percentage </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Household Surveys </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COLL_METHOD">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The recommended data source to calculate this indicator </p>
+ <p> are the Family Budget Surveys. The data collection questionnaire is designed and subsequently tested in the field in the course of training the interviewers. </p>
+ <p> The IOF 2014/2015 is a probabilistic, stratified and multi-stage survey, designed according to a panel methodology based on households residing in private homes. In other words, each selected household (PA) was visited four times during the complete 12-month cycle, once only in each quarter, in order to reflect seasonality during the year. The visit to each household lasted 7 continuous days. </p>
+ <p> Data collection took place over 12 months starting on August 7, 2014 and ending on August 15, 2015 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="FREQ_COLL">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> 2020 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REL_CAL_POLICY">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> 2021 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_SOURCE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> INE </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> INE </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="INST_MANDATE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Law 7/96 of 5 July </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Although in most developed countries the unemployment rate continues to prove useful as an important indicator of labor market performance and, specifically, as a key measure of underutilization of labor, in many developing countries, however, the significance and significance of the unemployment rate can be questioned. In the absence of unemployment insurance systems or social safety nets, people of working age must avoid unemployment by resorting to some form of economic activity, albeit insignificant or inadequate. Thus, in this context, other measures must supplement the unemployment rate to comprehensively assess the underutilization of labor. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Unemployment rate is the relationship between unemployed people and the total economically active population. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_VALIDATION">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The fieldwork had the supervision and quality control by the technicians of INE Central as well as the Provincial Delegations. In addition, during the data collection, a strict control was established at the level of each team over the collection process, by detecting errors by the critics in the field, which allowed for immediate correction even on the ground. </p>
+ <p> At the level of central coordination, the data critics made a further review of the base data and the problems encountered were reported to the respective teams for correction. </p>
+ <p> Interactive and batch processing of information also allowed, at central level, the periodic obtaining of partial results, for analysis of the data collected until a given moment, through the production of tables for monitoring and quality control. The results of these tabulations were reported in feedback to the inquirers, ensuring the quality of the data. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DOC_METHOD">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> For the collection of IOF data, 5 types of questionnaires were used: </p>
+ <p> 1. Questionnaire on the General Characteristics of the Household; </p>
+ <p> 2. Questionnaire on Household Daily Expenses; </p>
+ <p> 3. Expenses and Revenue Questionnaire (annual and monthly); </p>
+ <p> 4. Community Questionnaire (completed by the Controller). The latter was used only in rural areas; e </p>
+ <p> 5. Questionnaire for people aged 5 and over (employment). In addition, a module on tourist activity in Mozambique has been included. </p>
+ <p> In practical terms, two modalities of data collection were used: </p>
+ <p> Electronics (Tablets) for the 5 types of Questionnaires, </p>
+ <p> On paper for Daily Expenses and Monthly and Annual Expenses and Income Questionnaires to ensure greater reliability given its complexity of collection. The collection of data in a household was made through 3 visits to the accommodation units for 7 continuous days, respecting the following distribution: </p>
+ <p> On the day of the first visit, the inquirer filled out the Household General Characteristics Questionnaire and part of the Daily Expenses Questionnaire (expenses, self-consumption and income in kind corresponding to the previous day). At this stage, the inquirer also completed the module on tourism. </p>
+ <p> On the second visit, (three days after the first) the Inquirer collected monthly and annual expenses and completed the Household Daily Expenditure Questionnaire for the last 3 days. </p>
+ <p> On the third visit (three days after the second) the Inquirer collected income and transfers and filled out the Household Daily Expenses Questionnaire in the last 3 days. The surveyors were regularly asked to, after collecting the data in the field using the Questionnaire on paper or via Tablet, be sent to the respective Controller, who in turn compiled all the data and sent it via the internet to INE Central for the Informatics and Criticism-Coding and Typing sector. The Critics and Coding Team performed a quality analysis and assigned codes to open questions - Questionnaire on paper. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_MGMNT">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Still in development and to be approved by the quality management instrument </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> For the collection of data, the methodology of interviews was applied face to face to the households filling out the Bulletin of Households and Bulletin of collective accommodations. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSMNT">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Still in development and for approval of the instrument for quality assessment </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Information is made available every 5 years and is disaggregated by sex and age groups </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The results of the Family Budget Survey (IOF) allow comparability because the conception of measuring variables derives from the recommendations from the International Conference of Labor Statistics (CIET) as well as from the ILO. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> National Statistics Institute (INE), <a href="http://www.misau.gov.mz"> www.misau.gov.mz </a>; Ministry of Labor, Employment and Social Security (MITESS), <a href="http://www.mitess.gov.mz"> www.mitess.gov.mz </a>; </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="7da135cd-8ab5-4751-b5d6-8a111a85be8d">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>SL_TLF_NEET</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>508</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Directorate of Demographic, Vital and Social Statistics </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> 8 PROMOTING INCLUSIVE AND SUSTAINABLE ECONOMIC GROWTH, FULL AND PRODUCTIVE JOBS AND DECENT WORK FOR ALL </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> 8.6 By 2020, substantially reduce the proportion of young people without jobs, education or training </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> 8.6.1 Percentage of young people aged between 15 and 24 years old who do not study, do not work or are not in training (TotalHM) </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_SERIES_DESCR">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Percentage of young people aged between 15 and 24 years old who do not study, do not work or are not in training </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="META_LAST_UPDATE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> 10/21/2020 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_ORGANISATION">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> NATIONAL INSTITUTE OF STATISTICS </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Teixeira Mandlate, Maria Alfeu and João Mangue </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_FUNCT">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Technicians </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> +258 844386629; +258 823032619; +258 827679480 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_MAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> www.ine.gov.mz </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> <a href="mailto:Teixeira.mandlate@ine.gov.mz"> Teixeira.mandlate@ine.gov.mz </a>; <a href="mailto:maria.alfeu@ine.gov.mz"> maria.alfeu@ine.gov.mz </a>; <a href="mailto:joao.mangue@ine.gov.mz"> joao.mangue@ine.gov.mz </a> </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The indicator refers to the proportion of young people aged between 15 and 24 who declared during the survey that they are not studying, working or in training. </p>
+ <p> According to the recommendations of the International Conference of Labor Statistics (CIET), all persons aged 15 and over are considered unemployed than in the reference week </p>
+ <ol>
+   <li> Did not work or had no work, </li>
+   <li> were available to work and </li>
+   <li> They were looking for work or employment. </li>
+ </ol>
+ <p> For the purposes of the IOF, the criterion “job search” was waived, with the fulfillment of the first two conditions mentioned above being sufficient for the person to be considered unemployed </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="UNIT_MEASURE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Percentage </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Household Surveys </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COLL_METHOD">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The recommended data source to calculate this indicator </p>
+ <p> are the Family Budget Surveys. The data collection questionnaire is designed and subsequently tested in the field in the course of training the interviewers. </p>
+ <p> The IOF 2014/2015 is a probabilistic, stratified and multi-stage survey, designed according to a panel methodology based on households residing in private homes. In other words, each selected household (PA) was visited four times during the complete 12-month cycle, once only in each quarter, in order to reflect seasonality during the year. The visit to each household lasted 7 continuous days. </p>
+ <p> Data collection took place over 12 months starting on August 7, 2014 and ending on August 15, 2015 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="FREQ_COLL">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> 2020 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REL_CAL_POLICY">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> 2021 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_SOURCE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> INE </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> INE </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="INST_MANDATE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Law 7/96 of 5 July </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Although in most developed countries the unemployment rate continues to prove useful as an important indicator of labor market performance and, specifically, as a key measure of underutilization of labor, in many developing countries, however, the significance and significance of the unemployment rate can be questioned. In the absence of unemployment insurance systems or social safety nets, people of working age must avoid unemployment by resorting to some form of economic activity, albeit insignificant or inadequate. Thus, in this context, other measures must supplement the unemployment rate to comprehensively assess the underutilization of labor. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Percentage of young people aged between 15 and 24 years old who do not study, do not work or are not in training is calculated as the ratio between unemployed people aged 15-24 years old and the total economically active population in the same age group . </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_VALIDATION">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The fieldwork had the supervision and quality control by the technicians of INE Central as well as the Provincial Delegations. In addition, during the data collection, a strict control was established at the level of each team over the collection process, by detecting errors by the critics in the field, which allowed for immediate correction even on the ground. </p>
+ <p> At the level of central coordination, the data critics made a further review of the base data and the problems encountered were reported to the respective teams for correction. </p>
+ <p> Interactive and batch processing of information also allowed, at central level, the periodic obtaining of partial results, for analysis of the data collected until a given moment, through the production of tables for monitoring and quality control. The results of these tabulations were reported in feedback to the inquirers, ensuring the quality of the data. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DOC_METHOD">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> For the collection of IOF data, 5 types of questionnaires were used: </p>
+ <p> 1. Questionnaire on the General Characteristics of the Household; </p>
+ <p> 2. Questionnaire on Household Daily Expenses; </p>
+ <p> 3. Expenses and Revenue Questionnaire (annual and monthly); </p>
+ <p> 4. Community Questionnaire (completed by the Controller). The latter was used only in rural areas; e </p>
+ <p> 5. Questionnaire for people aged 5 and over (employment). In addition, a module on tourist activity in Mozambique has been included. </p>
+ <p> In practical terms, two modalities of data collection were used: </p>
+ <p> Electronics (Tablets) for the 5 types of Questionnaires, </p>
+ <p> On paper for Daily Expenses and Monthly and Annual Expenses and Income Questionnaires to ensure greater reliability given its complexity of collection. The collection of data in a household was made through 3 visits to the accommodation units for 7 continuous days, respecting the following distribution: </p>
+ <p> On the day of the first visit, the inquirer filled out the Household General Characteristics Questionnaire and part of the Daily Expenses Questionnaire (expenses, self-consumption and income in kind corresponding to the previous day). At this stage, the inquirer also completed the module on tourism. </p>
+ <p> On the second visit, (three days after the first) the Inquirer collected monthly and annual expenses and completed the Household Daily Expenditure Questionnaire for the last 3 days. </p>
+ <p> On the third visit (three days after the second) the Inquirer collected income and transfers and filled out the Household Daily Expenses Questionnaire in the last 3 days. The surveyors were regularly asked to, after collecting the data in the field using the Questionnaire on paper or via Tablet, be sent to the respective Controller, who in turn compiled all the data and sent it via the internet to INE Central for the Informatics and Criticism-Coding and Typing sector. The Critics and Coding Team performed a quality analysis and assigned codes to open questions - Questionnaire on paper. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_MGMNT">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Still in development and to be approved by the quality management instrument </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> For the collection of data, the methodology of interviews was applied face to face to the households filling out the Bulletin of Households and Bulletin of collective accommodations. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSMNT">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Still in development and for approval of the instrument for quality assessment </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Information is made available every 5 years and is disaggregated by sex, age groups, rural and urban area of residence, province and country </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The results of the Family Budget Survey (IOF) allow comparability because the conception of measuring variables derives from the recommendations from the International Conference of Labor Statistics (CIET) as well as from the ILO. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> National Statistics Institute (INE), <a href="http://www.misau.gov.mz"> www.misau.gov.mz </a>; Ministry of Labor, Employment and Social Security (MITESS), <a href="http://www.mitess.gov.mz"> www.mitess.gov.mz </a>; </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="e0e25a40-61f7-4b84-bded-0dd0bf791710">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>ST_GDP_ZS</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>508</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Directorate of National Accounts and Global Indicators </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> <strong> 8 </strong>. Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> <strong> 8.9 </strong> By 2030, develop and implement policies to promote sustainable tourism, which creates jobs and promotes local culture and products </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> <strong> 8.9.1 </strong> Direct Gross Value Added by Tourism (VABDT) as a percentage of total GDP and the growth rate </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_SERIES_DESCR">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Direct Gross Value Added of Tourism (VABDT) as a percentage of total GDP and the growth rate </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="META_LAST_UPDATE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> 10/20/2020 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_ORGANISATION">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> National Institute of Statistics </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Perpetua Mendonça; Simão Saturday; Cipriano Cláudio </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_FUNCT">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Technician, Head of Department and Director </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Perpetual: + 258-823810450 / + 258-873810450; </p>
+ <p> Saturday: + 258-827027780 / + 258-868001057; </p>
+ <p> Cláudio: + 258-824261470 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_MAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> info@ine.gov.mz </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> <a href="mailto:perpetua.mendoca@ine.gov.mz"> perpetua.mendoca@ine.gov.mz </a>; simao.sabado@ine.gov.mz; claudio.cipriano@ine.gov.mz </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The Direct Gross Value Added of Tourism (VABDT) is defined as the sum of the part of the Gross Value Added (at basic prices) generated by all activities in response to domestic tourism consumption plus the value of net taxes on products and imports included in the amount of this expense at purchase prices. </p>
+ <p> The annual growth rate of real direct gross value added (VABDT) represents the percentage change in real VABDT between two consecutive years </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="UNIT_MEASURE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Percentage </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CLASS_SYSTEM">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Classification of economic activities (CAE), National Classification of Goods and Services (CNBS); COPNI; COFOG, Classification Individual Consumption by Purpose (COICOP) Balance of Payment Manual, Version 6 (MBOP6) </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The indicator comes from the countries&#39; Tourism Satellite Account, which is a satellite account for National Accounts </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COLL_METHOD">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Monthly and annual business surveys are current, probabilistic surveys. Physical or electronic questionnaires are sent to companies for completion and return. They have as key variables: the main and secondary activity, the volume of business, expenses detailed by type of expenditure, No. of workers, remuneration and hours worked. They have their own computer applications with validation rules. </p>
+ <p> Administrative data is received on models used by the sources. When they are received, an assessment is made of their quality. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="FREQ_COLL">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> From January to December of each year </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REL_CAL_POLICY">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> September of each year: VABDT Preliminaries of year n-1; and Definitive VABDT for year n-2; </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_SOURCE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> National Institute of Statistics </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> National Institute of Statistics </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="INST_MANDATE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> According to article 19, of Law 7/96 of July 5th: </p>
+ <ol>
+   <li> The National Statistics Institute (INE) is the central executive body of the National Statistical System (SEN) whose objective is the notation, calculation, coordination and dissemination of the country&#39;s official statistical information and is subordinate to the Minister Council. </li>
+   <li> INE is responsible for carrying out the country&#39;s official statistical activity. </li>
+ </ol>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The indicator is defined in the target <strong> 8.9 </strong> By 2030, develop and implement policies to promote sustainable tourism, which generates jobs and promotes local culture and products. </p>
+ <p> The indicator has several dimensions, as well as meeting the dimension of tourism as well as promoting tourism itself. The value of the economic contribution of tourism captured by this indicator, and its (relative) increases or decreases, may indicate the degree to which tourism is being successfully promoted. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Given that this indicator is produced as the sum of the various activities that make up the domestic consumption of tourism, the late reception of data from sources; lack or insufficiency of resources to carry out surveys at regular intervals may lead to skewed production estimates from the Tourism Satellite Account (CST). </p>
+ <p> The VABDT / GDP tends not to show great variations from one year to the next and the variations may be due to the numerator and / or denominator, this means that the true dimension of the indicator does not have variation. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Direct Gross Value Added by Tourism VABDT as a share of GDP in% </p>
+ <p> Growth Rate of VABDT </p>
+ <p> ((VABDT <sub> t </sub> / VABDT <sub> t-1 </sub>) -1) * 100 </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_VALIDATION">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The VABDT is derived from the GVA of productive activities that directly serve tourism and, therefore, it may be possible to break down by tourism industries (for example, accommodation for visitors, different types of passenger transport, etc.). </p>
+ <p> The indicator is based on the Tourism Satellite Account (CST): Recommended Methodological Framework SNA 2008, an international standard adopted by the UN Statistical Commission and developed by the World Tourism Organization (WTO), Organization for Economic Cooperation and Development (OECD) ) European Union Statistics Office and EUROSTAT. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_MGMNT">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> The data compiled and verified by the technicians are reconciled by the heads and submitted to the directors for recheck. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Use of United Nations manuals and compliance with the United Nations recommended reviews: </p>
+ <p> - National Accounts (SNA 2008); </p>
+ <p> -World Tourism Organization (WTO), </p>
+ <p> -Organization for Cooperation and Economic Development (OECD) </p>
+ <p> -European Union and EUROSTAT Statistics Office. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSMNT">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Sharing with international publications institutions. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Data are made available annually and have no desegregation </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> Calculation of this indicator does not differ from calculations made internationally, because United Nations manuals are used for National Accounts, SNA 2008; compliance with the reviews recommended by the United Nations. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[ <p> National Accounts (SNA 2008); </p>
+ <p> -World Tourism Organization (WTO), </p>
+ <p> -Organization for Cooperation and Economic Development (OECD) </p>
+ <p> -European Union and EUROSTAT Statistics Office. </p>
+ <p> http://www.ine.gov.mz/estatisticas/estatisticas-economicas/contas-nacionais </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+</mes:GenericMetadata>
+        
