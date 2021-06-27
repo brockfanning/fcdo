@@ -69,6 +69,15 @@ def drop_columns(df, country):
     return df
 
 
+def limit_to_national_ref_area(df, ref_area):
+    def row_matches_ref_area(row):
+        return row['REF_AREA'] == ref_area
+
+    df = df.copy()
+    mask = df.apply(row_matches_ref_area, axis=1)
+    return df[mask]
+
+
 def set_series_and_unit(df, context):
     if 'SERIES' not in df.columns.to_list():
         indicator_id = context['indicator_id']
@@ -194,6 +203,7 @@ def alter_data_cambodia(df, context):
 
 def alter_data_rwanda(df, context):
     df = common_alterations(df)
+    df = limit_to_national_ref_area(df, 'RW')
     return drop_columns(df, 'rwanda')
 
 
