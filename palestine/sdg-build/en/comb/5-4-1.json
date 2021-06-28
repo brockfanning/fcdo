@@ -1,1 +1,0 @@
-{"data":{"Year":["2000","2013","2000","2013"],"SEX":["M","M","F","F"],"REPORTING_TYPE":["N","N","N","N"],"TIME_DETAIL":["2000","2013","2000","2013"],"SERIES":["SL_DOM_TSPD","SL_DOM_TSPD","SL_DOM_TSPD","SL_DOM_TSPD"],"UNIT_MEASURE":["PT","PT","PT","PT"],"Value":[0.03,0.03,0.2,0.18]},"edges":{"From":["SEX","REPORTING_TYPE"],"To":["REPORTING_TYPE","TIME_DETAIL"]}}

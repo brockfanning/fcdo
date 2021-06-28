@@ -71,11 +71,6 @@
             "constraints": {
               "enum": [
                 "",
-                "City of Kigali",
-                "Southern Province",
-                "Western Province",
-                "Northern Province",
-                "Eastern Province",
                 "Rwanda"
               ]
             },

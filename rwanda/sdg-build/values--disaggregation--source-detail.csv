@@ -3,10 +3,10 @@ Value,Disaggregation combinations using this value,Number of indicators
 "BNR, Annual Report",2,1
 BNR,2,2
 "CFSVA, NISR, MINAGRI",2,1
-"DHS, NISR",38,15
+"DHS, NISR",28,15
 Directorate General of Immigration and Emigration (DGIE),1,1
-"EICV-MPI Report, NISR",8,1
-"EICV, NISR",129,12
+"EICV-MPI Report, NISR",3,1
+"EICV, NISR",94,12
 FinScope,1,1
 "LFS, NISR",41,6
 MIGEPROF and GMO,1,1
@@ -25,7 +25,7 @@ Ministry of Finance and Economic Planning (MINECOFIN),3,1
 Ministry of Health (MoH),1,1
 Ministry of Health,4,1
 Ministry of Infrastructure (MININFRA),1,1
-MoE,31,1
+MoE,1,1
 "National Accounts, NISR",3,2
 National Commission for Human  Rights,1,1
 "National Electoral Commission (NEC), GMO",12,1

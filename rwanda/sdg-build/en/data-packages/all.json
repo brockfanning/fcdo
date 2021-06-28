@@ -196,41 +196,6 @@
             "constraints": {
               "enum": [
                 "",
-                "City of Kigali",
-                "Nyarugenge",
-                "Gasabo",
-                "Kicukiro",
-                "Southern Province",
-                "Nyanza",
-                "Gisagara",
-                "Nyaruguru",
-                "Huye",
-                "Nyamagabe",
-                "Ruhango",
-                "Muhanga",
-                "Kamonyi",
-                "Western Province",
-                "Karongi",
-                "Rutsiro",
-                "Rubavu",
-                "Nyabihu",
-                "Ngororero",
-                "Rusizi",
-                "Nyamasheke",
-                "Northern Province",
-                "Rulindo",
-                "Gakenke",
-                "Musanze",
-                "Burera",
-                "Gicumbi",
-                "Eastern Province",
-                "Rwamagana",
-                "Nyagatare",
-                "Gatsibo",
-                "Kayonza",
-                "Kirehe",
-                "Ngoma",
-                "Bugesera",
                 "Rwanda"
               ]
             },
@@ -377,11 +342,6 @@
             "constraints": {
               "enum": [
                 "",
-                "City of Kigali",
-                "Southern Province",
-                "Western Province",
-                "Northern Province",
-                "Eastern Province",
                 "Rwanda"
               ]
             },
@@ -2669,11 +2629,6 @@
             "constraints": {
               "enum": [
                 "",
-                "City of Kigali",
-                "Southern Province",
-                "Western Province",
-                "Northern Province",
-                "Eastern Province",
                 "Rwanda"
               ]
             },
@@ -2819,11 +2774,6 @@
             "constraints": {
               "enum": [
                 "",
-                "City of Kigali",
-                "Southern Province",
-                "Western Province",
-                "Northern Province",
-                "Eastern Province",
                 "Rwanda"
               ]
             },
@@ -11208,36 +11158,6 @@
             "constraints": {
               "enum": [
                 "",
-                "Nyarugenge",
-                "Gasabo",
-                "Kicukiro",
-                "Nyanza",
-                "Gisagara",
-                "Nyaruguru",
-                "Huye",
-                "Nyamagabe",
-                "Ruhango",
-                "Muhanga",
-                "Kamonyi",
-                "Karongi",
-                "Rutsiro",
-                "Rubavu",
-                "Nyabihu",
-                "Ngororero",
-                "Rusizi",
-                "Nyamasheke",
-                "Rulindo",
-                "Gakenke",
-                "Musanze",
-                "Burera",
-                "Gicumbi",
-                "Rwamagana",
-                "Nyagatare",
-                "Gatsibo",
-                "Kayonza",
-                "Kirehe",
-                "Ngoma",
-                "Bugesera",
                 "Rwanda"
               ]
             },

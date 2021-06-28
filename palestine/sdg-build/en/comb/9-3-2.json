@@ -1,1 +1,0 @@
-{"data":{"Year":["2017","2018"],"REPORTING_TYPE":["N","N"],"TIME_DETAIL":["2017","2018"],"SERIES":["FC_ACC_SSID","FC_ACC_SSID"],"UNIT_MEASURE":["PT","PT"],"Value":[1.5,1.6]},"edges":{"From":["REPORTING_TYPE"],"To":["TIME_DETAIL"]}}
