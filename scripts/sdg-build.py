@@ -244,7 +244,7 @@ def alter_meta(meta):
 
 countries = [
     'jordan',
-    'palestine',
+    #'palestine',
     'burundi',
     'ethiopia',
     'mozambique',
