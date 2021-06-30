@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
   <mes:Header>
-    <mes:ID>IREF1624844026</mes:ID>
+    <mes:ID>IREF1625074357</mes:ID>
     <mes:Test>True</mes:Test>
-    <mes:Prepared>2021-06-28T01:33:46</mes:Prepared>
+    <mes:Prepared>2021-06-30T17:32:37</mes:Prepared>
     <mes:Sender id="open-sdg_sdg-build@1-3-0"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -12,7 +12,7 @@
     </mes:Structure>
   </mes:Header>
   
-  <mes:MetadataSet structureRef="MDS1" setID="517be045-4d18-4983-bdc2-a79c6d329941">
+  <mes:MetadataSet structureRef="MDS1" setID="bd2a1e2a-c7cf-4a2c-bdf1-0e7853f15f4a">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
