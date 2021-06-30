@@ -80,7 +80,7 @@ function getConceptTemplates() {
             {{ indicator_available }}
             {% endif %}
 
-            {% definition %}
+            {% if definition %}
             <h2>Definition</h2>
             {{ definition }}
             {% endif %}
