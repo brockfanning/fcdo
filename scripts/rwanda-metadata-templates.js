@@ -55,9 +55,7 @@ function getConceptTemplates() {
             {{ indicator_number }} {{ indicator_name }}
         `,
         'SDG_SERIES_DESCR': ``,
-        'META_LAST_UPDATE': `
-            {{ release_date }}
-        `,
+        'META_LAST_UPDATE': ``,
         'SDG_RELATED_INDICATORS': ``,
         'SDG_CUSTODIAN_AGENCIES': `
             {{ un_custodian_agency }}
@@ -76,7 +74,16 @@ function getConceptTemplates() {
         `,
         'IND_DEF_CON_CLASS': ``,
         'STAT_CONC_DEF': `
+            {% if available_indicator or indicator_available %}
+            <h2>Indicator available</h2>
+            {{ available_indicator }}
+            {{ indicator_available }}
+            {% endif %}
+
+            {% definition %}
+            <h2>Definition</h2>
             {{ definition }}
+            {% endif %}
         `,
         'UNIT_MEASURE': `
             {{ unit_of_measurement }}
@@ -85,7 +92,9 @@ function getConceptTemplates() {
             {{ statistical_classification }}
         `,
         'SRC_TYPE_COLL_METHOD': ``,
-        'SOURCE_TYPE': ``,
+        'SOURCE_TYPE': `
+            {{ data_source }}
+        `,
         'COLL_METHOD': ``,
         'FREQ_COLL': `
             {{ periodicity }}
@@ -96,13 +105,8 @@ function getConceptTemplates() {
             {{ next_release_date }}
             {% endif %}
         `,
-        'DATA_SOURCE': `
-            {{ data_source }}
-            {{ source_the_text_to_show_instead_of_the_url }}
-        `,
-        'COMPILING_ORG': `
-            {{ reporting_organization }}
-        `,
+        'DATA_SOURCE': ``,
+        'COMPILING_ORG': ``,
         'INST_MANDATE': ``,
         'OTHER_METHOD': ``,
         'RATIONALE': ``,
@@ -116,7 +120,12 @@ function getConceptTemplates() {
         'ADJUSTMENT': ``,
         'IMPUTATION': ``,
         'REG_AGG': ``,
-        'DOC_METHOD': ``,
+        'DOC_METHOD': `
+            {% if link_to_un_metadata %}
+            <h2>Link to global metadata</h2>
+            {{ link_to_un_metadata }}
+            {% endif %}
+        `,
         'QUALITY_MGMNT': ``,
         'QUALITY_ASSURE': ``,
         'QUALITY_ASSMNT': ``,
@@ -124,6 +133,11 @@ function getConceptTemplates() {
             {% if earliest_available_data %}
             <h2>Earliest available data</h2>
             {{ earliest_available_data }}
+            {% endif %}
+
+            {% if release_date %}
+            <h2>Latest available data</h2>
+            {{ release_date }}
             {% endif %}
 
             {% if geographical_coverage or geographic_coverage %}
@@ -136,25 +150,13 @@ function getConceptTemplates() {
             {{ disaggregation}}
             {% endif %}
         `,
-        'COMPARABILITY': `
-            {% if available_indicator or indicator_available %}
-            <h2>Indicator available</h2>
-            {{ available_indicator }}
-            {{ indicator_available }}
-            {% endif %}
-
-            {% if global_indicator_description %}
-            <h2>Global indicator description</h2>
-            {{ global_indicator_description }}
-            {% endif %}
-
-            {% if link_to_un_metadata %}
-            <h2>Link to UN Metadata</h2>
-            {{ link_to_un_metadata }}
-            {% endif %}
-
-        `,
+        'COMPARABILITY': ``,
         'OTHER_DOC': `
+            {% if link_to_data_source_the_text_to_show_instead_of_the_url %}
+            <h2>Link to data source</h2>
+            {{ link_to_data_source_the_text_to_show_instead_of_the_url }}
+            {% endif %}
+
             {% if other_information %}
             <h2>Other information</h2>
             {{ other_information }}
