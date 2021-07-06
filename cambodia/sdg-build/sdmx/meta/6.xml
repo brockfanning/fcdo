@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
   <mes:Header>
-    <mes:ID>IREF1625074573</mes:ID>
+    <mes:ID>IREF1625595263</mes:ID>
     <mes:Test>True</mes:Test>
-    <mes:Prepared>2021-06-30T17:36:13</mes:Prepared>
+    <mes:Prepared>2021-07-06T18:14:23</mes:Prepared>
     <mes:Sender id="open-sdg_sdg-build@1-3-0"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -11,6 +11,812 @@
       </com:Structure>
     </mes:Structure>
   </mes:Header>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="a1c2deb6-ff4b-4d4b-881e-d04158301d90">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>SH_SAN_DEFECT</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KH</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="COLL_METHOD">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>CSES is conducted by NIS since 1993. The survey provides a comprehensive set of indicators on living conditions in Cambodia, covering main socio-economic areas such as housing conditions, health, education, labor force, economic activities, victimization, vulnerability and others. The survey questionnaire was asked for the household and for the household members. The CSES is conducted annually from 2007 to 2017. The sample size was determined for annual CSES is about 3,600 households. Every 5 years it is conducted with a big sample size is about 12,000 households. The last four big sample surveys were conducted in 2004, 2009, 2014 and 2019. </p><p>Since the CSES 2004, the diary method for collecting data on household expenditure/consumption and household income was introduced. As the recall method has been used in the previous rounds it was also decided to include in the recall modules. Thus, both methods are retained. The data collection was carried out throughout the whole calendar year, started from January to December. Face-to-face interview using the questionnaire was done and about 15 households per village were selected.  </p><p>The detailed documentations of the survey, such as questionnaire, filed operation annual and technical report on survey design and implementation are stored in NADA (National Data Archive), NIS website: http://nada.nis.gov.kh/index.php/home</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>The WHO/UNICEF Joint Monitoring Programme for Water Supply, Sanitation and Hygiene (JMP) estimates access to basic services for Cambodia by fitting a regression line to a series of data points from household surveys and censuses, for example CSES, CDHS, CIPS and GPCC. This approach the WHO/UNICEF JMP was used to report on use of ‘improved water’ sources for SDG monitoring, whereas Cambodia used only data from CSES.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>National Institute of Statistics</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[<p><a href="mailto:pomao.nis@gmail.com">pomao.nis@gmail.com</a>;  <a href="mailto:bony_som@yahoo.com">bony_som@yahoo.com</a></p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_FUNCT">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Deputy Director </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_MAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>No. 386 Street 360, Sangkat Boeung Kengkang I, Khan Chamkarmon, Phnom Penh,​ Cambodia</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Po Mao (Mr.) / Som Bony (Mr)</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_ORGANISATION">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>National Institute of Statistics (NIS), Ministry of Planning</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>+855 12 894 934 / 12 724 222</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Data availability by geographic location: urban/rural and by ecological zones: Tonle Sap lake, plain, coastal, and plateau and mountain.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>The indictor is computed by dividing the number of households who used an improved sanitation service to the total number of households and multiply by 100.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_SOURCE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>National Institute of Statistics</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_VALIDATION">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>To align the global concept and definition, the applied average household size and the total of population has been used and the results in general are the same of household-based approach.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="FREQ_COLL">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>The next round survey: Qrt1, 2021</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="INST_MANDATE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>By virtue of the article 12 of Statistics Law, NIS in is responsible for:</p><ul><li>Collecting, processing, compiling, analyzing, publishing and disseminating basic data by conducting censuses and surveys, and utilizing administrative data sources;</li><li>Compiling national accounts and price indexes, as well as economic, environment and socio-demographic indicators;  </li><li>Coordination with line ministries as data producers as mandated by the Statistics Law; and</li><li>Functioning as the central repository of SDG indicators.</li></ul>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="META_LAST_UPDATE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>November 2020</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Social Statistics Department and/or Statistical Standard and Statistical Analysis Department</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Cambodia Socio-Economic Survey Reports: <a href="https://www.nis.gov.kh/index.php/km/14-cses/12-cambodia-socio-economic-survey-reports">https://www.nis.gov.kh/index.php/km/14-cses/12-cambodia-socio-economic-survey-reports</a></p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_MGMNT">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>The NIS decided to use statistical methods (calibration) to achieve better comparability between the different rounds of the CSES surveys by adjusting the samples to the population size and structure that was established by the national population census carried out in 2008. To mirror the rapid changes in the population, it proved necessary to project the population forwards to 2017 and backwards to 1993, taking into account fertility, mortality and internal migration rates.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>MDG target 7C called for ‘sustainable access’ to ‘safe drinking water’.  At the start of the MDG period, there was a complete lack of nationally representative data about drinking water safety in developing countries, and such data were not collected through household surveys or censuses. The JMP developed the concept of ‘improved’ water sources, which was used as a proxy for ‘safe water’, as such sources are likely to be protected against faecal contamination, and this metric has been used since 2000 to track progress towards the MDG target. International consultations since 2011 have established consensus on the need to build on and address the shortcomings of this indicator; specifically, to address normative criteria of the human right to water including accessibility, availability and quality.</p><p>The above consultation concluded that JMP should go beyond the basic level of access and address safe management of drinking water services, including dimensions of accessibility, availability and quality. The proposed indicator of ‘safely managed drinking water services’ is designed to address this.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Comparisons of the results from the 2007 CSES with previous surveys in 1993/94, 1996, 1997 and 1999, are not recommended due to differences in the survey design. Fieldwork from the last five surveys (2004, 2007, 2008, 2009 and 2010) covered 15 months, and results can be reported for both 12 month (calendar year) and 15 month periods.</p><p>The weights used in the reports from CSES 2004, are adjusted by using the preliminary population projections which give over estimated population counts. The weights in CSES 2007 are adjusted by using the preliminary result from 2008 Population Census. Some provinces were excluded, due to cost and other reasons, in the sample for 2007. The estimates are however, adjusted for the under coverage error caused by excluding those provinces. A recalculation of the weights in CSES 2004 has been made for the coming analyses to obtain higher comparability between CSES 2004, and the surveys conducted from 2007 and onwards.</p><p>Furthermore, it is import to note that the data for from previous surveys until CSES 2017 to lack of resource and technical limited, data on water quality treatment for faecal and chemical contamination through this survey are not collected.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REL_CAL_POLICY">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>One year after the reference period of the survey</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>6. Ensure availability and sustainable management of water and sanitation for all</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>6.2.1 Proportion of population using safely managed sanitation services [6.2.1] (SH_SAN_SAFE)</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_SERIES_DESCR">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>6.2.1 Proportion of population practicing open defecation [6.2.1] (SH_SAN_DEFECT)</p><p>6.2.1 Proportion of population with basic handwashing facilities on premises [6.2.1] (SH_SAN_HNDWSH)</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>6.2: By 2030, achieve access to adequate and equitable sanitation and hygiene for all and end open defecation, paying special attention to the needs of women and girls and those in vulnerable situations</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Cambodia Socio-Economic Survey (CSES)</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>The proportion of population using safely managed sanitation services, including a hand-washing facility with soap and water is currently being measured by the proportion of the population using a basic sanitation facility which is not shared with other households and where excreta is safely disposed in situ or treated off-site. ‘Improved’ sanitation facilities include: flush or pour flush toilets to sewer systems, septic tanks or pit latrines, ventilated improved pit latrines, pit latrines with a slab, and composting toilets. </p><p>Population with a basic hand washing facility: a device to contain, transport or regulate the flow of water to facilitate hand washing with soap and water in the household.</p><p><strong>Note</strong>: The above-mentioned definition, however Cambodia applies only the proportion of population using improved sanitation facilities. ‘Improved’ sanitation facilities include: flush or pour flush toilets to sewer systems, septic tanks or pit latrines, ventilated improved pit latrines, pit latrines with a slab, and composting toilets.  </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="UNIT_MEASURE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Percent</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="488a9f99-2d21-4b96-a282-94fdb76c0809">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>SH_SAN_HNDWSH</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KH</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="COLL_METHOD">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>CSES is conducted by NIS since 1993. The survey provides a comprehensive set of indicators on living conditions in Cambodia, covering main socio-economic areas such as housing conditions, health, education, labor force, economic activities, victimization, vulnerability and others. The survey questionnaire was asked for the household and for the household members. The CSES is conducted annually from 2007 to 2017. The sample size was determined for annual CSES is about 3,600 households. Every 5 years it is conducted with a big sample size is about 12,000 households. The last four big sample surveys were conducted in 2004, 2009, 2014 and 2019. </p><p>Since the CSES 2004, the diary method for collecting data on household expenditure/consumption and household income was introduced. As the recall method has been used in the previous rounds it was also decided to include in the recall modules. Thus, both methods are retained. The data collection was carried out throughout the whole calendar year, started from January to December. Face-to-face interview using the questionnaire was done and about 15 households per village were selected.  </p><p>The detailed documentations of the survey, such as questionnaire, filed operation annual and technical report on survey design and implementation are stored in NADA (National Data Archive), NIS website: http://nada.nis.gov.kh/index.php/home</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>The WHO/UNICEF Joint Monitoring Programme for Water Supply, Sanitation and Hygiene (JMP) estimates access to basic services for Cambodia by fitting a regression line to a series of data points from household surveys and censuses, for example CSES, CDHS, CIPS and GPCC. This approach the WHO/UNICEF JMP was used to report on use of ‘improved water’ sources for SDG monitoring, whereas Cambodia used only data from CSES.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>National Institute of Statistics</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[<p><a href="mailto:pomao.nis@gmail.com">pomao.nis@gmail.com</a>;  <a href="mailto:bony_som@yahoo.com">bony_som@yahoo.com</a></p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_FUNCT">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Deputy Director </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_MAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>No. 386 Street 360, Sangkat Boeung Kengkang I, Khan Chamkarmon, Phnom Penh,​ Cambodia</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Po Mao (Mr.) / Som Bony (Mr)</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_ORGANISATION">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>National Institute of Statistics (NIS), Ministry of Planning</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>+855 12 894 934 / 12 724 222</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Data availability by geographic location: urban/rural and by ecological zones: Tonle Sap lake, plain, coastal, and plateau and mountain.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>The indictor is computed by dividing the number of households who used an improved sanitation service to the total number of households and multiply by 100.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_SOURCE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>National Institute of Statistics</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_VALIDATION">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>To align the global concept and definition, the applied average household size and the total of population has been used and the results in general are the same of household-based approach.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="FREQ_COLL">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>The next round survey: Qrt1, 2021</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="INST_MANDATE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>By virtue of the article 12 of Statistics Law, NIS in is responsible for:</p><ul><li>Collecting, processing, compiling, analyzing, publishing and disseminating basic data by conducting censuses and surveys, and utilizing administrative data sources;</li><li>Compiling national accounts and price indexes, as well as economic, environment and socio-demographic indicators;  </li><li>Coordination with line ministries as data producers as mandated by the Statistics Law; and</li><li>Functioning as the central repository of SDG indicators.</li></ul>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="META_LAST_UPDATE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>November 2020</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Social Statistics Department and/or Statistical Standard and Statistical Analysis Department</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Cambodia Socio-Economic Survey Reports: <a href="https://www.nis.gov.kh/index.php/km/14-cses/12-cambodia-socio-economic-survey-reports">https://www.nis.gov.kh/index.php/km/14-cses/12-cambodia-socio-economic-survey-reports</a></p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_MGMNT">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>The NIS decided to use statistical methods (calibration) to achieve better comparability between the different rounds of the CSES surveys by adjusting the samples to the population size and structure that was established by the national population census carried out in 2008. To mirror the rapid changes in the population, it proved necessary to project the population forwards to 2017 and backwards to 1993, taking into account fertility, mortality and internal migration rates.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>MDG target 7C called for ‘sustainable access’ to ‘safe drinking water’.  At the start of the MDG period, there was a complete lack of nationally representative data about drinking water safety in developing countries, and such data were not collected through household surveys or censuses. The JMP developed the concept of ‘improved’ water sources, which was used as a proxy for ‘safe water’, as such sources are likely to be protected against faecal contamination, and this metric has been used since 2000 to track progress towards the MDG target. International consultations since 2011 have established consensus on the need to build on and address the shortcomings of this indicator; specifically, to address normative criteria of the human right to water including accessibility, availability and quality.</p><p>The above consultation concluded that JMP should go beyond the basic level of access and address safe management of drinking water services, including dimensions of accessibility, availability and quality. The proposed indicator of ‘safely managed drinking water services’ is designed to address this.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Comparisons of the results from the 2007 CSES with previous surveys in 1993/94, 1996, 1997 and 1999, are not recommended due to differences in the survey design. Fieldwork from the last five surveys (2004, 2007, 2008, 2009 and 2010) covered 15 months, and results can be reported for both 12 month (calendar year) and 15 month periods.</p><p>The weights used in the reports from CSES 2004, are adjusted by using the preliminary population projections which give over estimated population counts. The weights in CSES 2007 are adjusted by using the preliminary result from 2008 Population Census. Some provinces were excluded, due to cost and other reasons, in the sample for 2007. The estimates are however, adjusted for the under coverage error caused by excluding those provinces. A recalculation of the weights in CSES 2004 has been made for the coming analyses to obtain higher comparability between CSES 2004, and the surveys conducted from 2007 and onwards.</p><p>Furthermore, it is import to note that the data for from previous surveys until CSES 2017 to lack of resource and technical limited, data on water quality treatment for faecal and chemical contamination through this survey are not collected.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REL_CAL_POLICY">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>One year after the reference period of the survey</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>6. Ensure availability and sustainable management of water and sanitation for all</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>6.2.1 Proportion of population using safely managed sanitation services [6.2.1] (SH_SAN_SAFE)</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_SERIES_DESCR">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>6.2.1 Proportion of population practicing open defecation [6.2.1] (SH_SAN_DEFECT)</p><p>6.2.1 Proportion of population with basic handwashing facilities on premises [6.2.1] (SH_SAN_HNDWSH)</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>6.2: By 2030, achieve access to adequate and equitable sanitation and hygiene for all and end open defecation, paying special attention to the needs of women and girls and those in vulnerable situations</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Cambodia Socio-Economic Survey (CSES)</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>The proportion of population using safely managed sanitation services, including a hand-washing facility with soap and water is currently being measured by the proportion of the population using a basic sanitation facility which is not shared with other households and where excreta is safely disposed in situ or treated off-site. ‘Improved’ sanitation facilities include: flush or pour flush toilets to sewer systems, septic tanks or pit latrines, ventilated improved pit latrines, pit latrines with a slab, and composting toilets. </p><p>Population with a basic hand washing facility: a device to contain, transport or regulate the flow of water to facilitate hand washing with soap and water in the household.</p><p><strong>Note</strong>: The above-mentioned definition, however Cambodia applies only the proportion of population using improved sanitation facilities. ‘Improved’ sanitation facilities include: flush or pour flush toilets to sewer systems, septic tanks or pit latrines, ventilated improved pit latrines, pit latrines with a slab, and composting toilets.  </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="UNIT_MEASURE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Percent</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="c70c94af-55dc-4796-a199-834518d4fe30">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>SH_SAN_SAFE</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KH</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="COLL_METHOD">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>CSES is conducted by NIS since 1993. The survey provides a comprehensive set of indicators on living conditions in Cambodia, covering main socio-economic areas such as housing conditions, health, education, labor force, economic activities, victimization, vulnerability and others. The survey questionnaire was asked for the household and for the household members. The CSES is conducted annually from 2007 to 2017. The sample size was determined for annual CSES is about 3,600 households. Every 5 years it is conducted with a big sample size is about 12,000 households. The last four big sample surveys were conducted in 2004, 2009, 2014 and 2019. </p><p>Since the CSES 2004, the diary method for collecting data on household expenditure/consumption and household income was introduced. As the recall method has been used in the previous rounds it was also decided to include in the recall modules. Thus, both methods are retained. The data collection was carried out throughout the whole calendar year, started from January to December. Face-to-face interview using the questionnaire was done and about 15 households per village were selected.  </p><p>The detailed documentations of the survey, such as questionnaire, filed operation annual and technical report on survey design and implementation are stored in NADA (National Data Archive), NIS website: http://nada.nis.gov.kh/index.php/home</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>The WHO/UNICEF Joint Monitoring Programme for Water Supply, Sanitation and Hygiene (JMP) estimates access to basic services for Cambodia by fitting a regression line to a series of data points from household surveys and censuses, for example CSES, CDHS, CIPS and GPCC. This approach the WHO/UNICEF JMP was used to report on use of ‘improved water’ sources for SDG monitoring, whereas Cambodia used only data from CSES.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>National Institute of Statistics</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[<p><a href="mailto:pomao.nis@gmail.com">pomao.nis@gmail.com</a>;  <a href="mailto:bony_som@yahoo.com">bony_som@yahoo.com</a></p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_FUNCT">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Deputy Director </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_MAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>No. 386 Street 360, Sangkat Boeung Kengkang I, Khan Chamkarmon, Phnom Penh,​ Cambodia</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Po Mao (Mr.) / Som Bony (Mr)</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_ORGANISATION">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>National Institute of Statistics (NIS), Ministry of Planning</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>+855 12 894 934 / 12 724 222</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Data availability by geographic location: urban/rural and by ecological zones: Tonle Sap lake, plain, coastal, and plateau and mountain.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>The indictor is computed by dividing the number of households who used an improved sanitation service to the total number of households and multiply by 100.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_SOURCE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>National Institute of Statistics</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_VALIDATION">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>To align the global concept and definition, the applied average household size and the total of population has been used and the results in general are the same of household-based approach.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="FREQ_COLL">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>The next round survey: Qrt1, 2021</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="INST_MANDATE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>By virtue of the article 12 of Statistics Law, NIS in is responsible for:</p><ul><li>Collecting, processing, compiling, analyzing, publishing and disseminating basic data by conducting censuses and surveys, and utilizing administrative data sources;</li><li>Compiling national accounts and price indexes, as well as economic, environment and socio-demographic indicators;  </li><li>Coordination with line ministries as data producers as mandated by the Statistics Law; and</li><li>Functioning as the central repository of SDG indicators.</li></ul>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="META_LAST_UPDATE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>November 2020</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Social Statistics Department and/or Statistical Standard and Statistical Analysis Department</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Cambodia Socio-Economic Survey Reports: <a href="https://www.nis.gov.kh/index.php/km/14-cses/12-cambodia-socio-economic-survey-reports">https://www.nis.gov.kh/index.php/km/14-cses/12-cambodia-socio-economic-survey-reports</a></p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_MGMNT">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>The NIS decided to use statistical methods (calibration) to achieve better comparability between the different rounds of the CSES surveys by adjusting the samples to the population size and structure that was established by the national population census carried out in 2008. To mirror the rapid changes in the population, it proved necessary to project the population forwards to 2017 and backwards to 1993, taking into account fertility, mortality and internal migration rates.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>MDG target 7C called for ‘sustainable access’ to ‘safe drinking water’.  At the start of the MDG period, there was a complete lack of nationally representative data about drinking water safety in developing countries, and such data were not collected through household surveys or censuses. The JMP developed the concept of ‘improved’ water sources, which was used as a proxy for ‘safe water’, as such sources are likely to be protected against faecal contamination, and this metric has been used since 2000 to track progress towards the MDG target. International consultations since 2011 have established consensus on the need to build on and address the shortcomings of this indicator; specifically, to address normative criteria of the human right to water including accessibility, availability and quality.</p><p>The above consultation concluded that JMP should go beyond the basic level of access and address safe management of drinking water services, including dimensions of accessibility, availability and quality. The proposed indicator of ‘safely managed drinking water services’ is designed to address this.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Comparisons of the results from the 2007 CSES with previous surveys in 1993/94, 1996, 1997 and 1999, are not recommended due to differences in the survey design. Fieldwork from the last five surveys (2004, 2007, 2008, 2009 and 2010) covered 15 months, and results can be reported for both 12 month (calendar year) and 15 month periods.</p><p>The weights used in the reports from CSES 2004, are adjusted by using the preliminary population projections which give over estimated population counts. The weights in CSES 2007 are adjusted by using the preliminary result from 2008 Population Census. Some provinces were excluded, due to cost and other reasons, in the sample for 2007. The estimates are however, adjusted for the under coverage error caused by excluding those provinces. A recalculation of the weights in CSES 2004 has been made for the coming analyses to obtain higher comparability between CSES 2004, and the surveys conducted from 2007 and onwards.</p><p>Furthermore, it is import to note that the data for from previous surveys until CSES 2017 to lack of resource and technical limited, data on water quality treatment for faecal and chemical contamination through this survey are not collected.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REL_CAL_POLICY">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>One year after the reference period of the survey</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>6. Ensure availability and sustainable management of water and sanitation for all</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>6.2.1 Proportion of population using safely managed sanitation services [6.2.1] (SH_SAN_SAFE)</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_SERIES_DESCR">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>6.2.1 Proportion of population practicing open defecation [6.2.1] (SH_SAN_DEFECT)</p><p>6.2.1 Proportion of population with basic handwashing facilities on premises [6.2.1] (SH_SAN_HNDWSH)</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>6.2: By 2030, achieve access to adequate and equitable sanitation and hygiene for all and end open defecation, paying special attention to the needs of women and girls and those in vulnerable situations</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Cambodia Socio-Economic Survey (CSES)</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>The proportion of population using safely managed sanitation services, including a hand-washing facility with soap and water is currently being measured by the proportion of the population using a basic sanitation facility which is not shared with other households and where excreta is safely disposed in situ or treated off-site. ‘Improved’ sanitation facilities include: flush or pour flush toilets to sewer systems, septic tanks or pit latrines, ventilated improved pit latrines, pit latrines with a slab, and composting toilets. </p><p>Population with a basic hand washing facility: a device to contain, transport or regulate the flow of water to facilitate hand washing with soap and water in the household.</p><p><strong>Note</strong>: The above-mentioned definition, however Cambodia applies only the proportion of population using improved sanitation facilities. ‘Improved’ sanitation facilities include: flush or pour flush toilets to sewer systems, septic tanks or pit latrines, ventilated improved pit latrines, pit latrines with a slab, and composting toilets.  </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="UNIT_MEASURE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Percent</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="5d81ef12-76fc-4977-af1f-d071d8fc6653">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>SH_H2O_SAFE</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KH</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="COLL_METHOD">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>CSES is conducted by NIS since 1993. The survey provides a comprehensive set of indicators on living conditions in Cambodia, covering main socio-economic areas such as housing conditions, health, education, labor force, economic activities, victimization, vulnerability and others. The survey questionnaire was asked for the household and for the household members. The CSES is conducted annually from 2007 to 2017. The sample size was determined for annual CSES is about 3,600 households. Every 5 years it is conducted with a big sample size is about 12,000 households. The last four big sample surveys were conducted in 2004, 2009, 2014 and 2019. </p><p>Since the CSES 2004, the diary method for collecting data on household expenditure/consumption and household income was introduced. As the recall method has been used in the previous rounds it was also decided to include in the recall modules. Thus, both methods are retained. The data collection was carried out throughout the whole calendar year, started from January to December. Face-to-face interview using the questionnaire was done and about 15 households per village were selected.  </p><p>The detailed documentations of the survey, such as questionnaire, filed operation annual and technical report on survey design and implementation are stored in NADA (National Data Archive), NIS website: http://nada.nis.gov.kh/index.php/home</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>The WHO/UNICEF Joint Monitoring Programme for Water Supply, Sanitation and Hygiene (JMP) estimates access to basic services for Cambodia by fitting a regression line to a series of data points from household surveys and censuses, for example CSES, CDHS, CIPS and GPCC. This approach the WHO/UNICEF JMP was used to report on use of ‘improved water’ sources for SDG monitoring, whereas Cambodia used only data from CSES.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>National Institute of Statistics</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[<p><a href="mailto:pomao.nis@gmail.com">pomao.nis@gmail.com</a>;  <a href="mailto:bony_som@yahoo.com">bony_som@yahoo.com</a></p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_FUNCT">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Deputy Director </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_MAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>No. 386 Street 360, Sangkat Boeung Kengkang I, Khan Chamkarmon, Phnom Penh,​ Cambodia</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Po Mao (Mr.) / Som Bony (Mr)</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_ORGANISATION">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>National Institute of Statistics (NIS), Ministry of Planning</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>+855 12 894 934 / 12 724 222</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Data availability by geographic location: urban/rural and by ecological zones: Tonle Sap lake, plain, coastal, and plateau and mountain.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>The indictor is computed by dividing the number of households who used an improved water source to the total number of households and multiply by 100.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_SOURCE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>National Institute of Statistics</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_VALIDATION">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>To align the global concept and definition, the applied average household size and the total of population has been used and the results in general are the same of household-based approach.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="FREQ_COLL">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>The next round survey: Qrt1, 2021</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="INST_MANDATE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>By virtue of the article 12 of Statistics Law, NIS in is responsible for:</p><ul><li>Collecting, processing, compiling, analyzing, publishing and disseminating basic data by conducting censuses and surveys, and utilizing administrative data sources;</li><li>Compiling national accounts and price indexes, as well as economic, environment and socio-demographic indicators;  </li><li>Coordination with line ministries as data producers as mandated by the Statistics Law; and</li><li>Functioning as the central repository of SDG indicators.</li></ul>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="META_LAST_UPDATE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>November 2020</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Social Statistics Department and/or Statistical Standard and Statistical Analysis Department</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Cambodia Socio-Economic Survey Reports: <a href="https://www.nis.gov.kh/index.php/km/14-cses/12-cambodia-socio-economic-survey-reports">https://www.nis.gov.kh/index.php/km/14-cses/12-cambodia-socio-economic-survey-reports</a></p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_MGMNT">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>The NIS decided to use statistical methods (calibration) to achieve better comparability between the different rounds of the CSES surveys by adjusting the samples to the population size and structure that was established by the national population census carried out in 2008. To mirror the rapid changes in the population, it proved necessary to project the population forwards to 2017 and backwards to 1993, taking into account fertility, mortality and internal migration rates.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>MDG target 7C called for ‘sustainable access’ to ‘safe drinking water’.  At the start of the MDG period, there was a complete lack of nationally representative data about drinking water safety in developing countries, and such data were not collected through household surveys or censuses. The JMP developed the concept of ‘improved’ water sources, which was used as a proxy for ‘safe water’, as such sources are likely to be protected against faecal contamination, and this metric has been used since 2000 to track progress towards the MDG target. International consultations since 2011 have established consensus on the need to build on and address the shortcomings of this indicator; specifically, to address normative criteria of the human right to water including accessibility, availability and quality.</p><p>The above consultation concluded that JMP should go beyond the basic level of access and address safe management of drinking water services, including dimensions of accessibility, availability and quality. The proposed indicator of ‘safely managed drinking water services’ is designed to address this.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Comparisons of the results from the 2007 CSES with previous surveys in 1993/94, 1996, 1997 and 1999, are not recommended due to differences in the survey design. Fieldwork from the last five surveys (2004, 2007, 2008, 2009 and 2010) covered 15 months, and results can be reported for both 12 month (calendar year) and 15 month periods.</p><p>The weights used in the reports from CSES 2004, are adjusted by using the preliminary population projections which give over estimated population counts. The weights in CSES 2007 are adjusted by using the preliminary result from 2008 Population Census. Some provinces were excluded, due to cost and other reasons, in the sample for 2007. The estimates are however, adjusted for the under coverage error caused by excluding those provinces. A recalculation of the weights in CSES 2004 has been made for the coming analyses to obtain higher comparability between CSES 2004, and the surveys conducted from 2007 and onwards.</p><p>Due to lack of resource and technical limited, data on water quality treatment for faecal and chemical contamination through this survey are not collected.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REL_CAL_POLICY">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>One year after the reference period of the survey</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>6. Ensure availability and sustainable management of water and sanitation for all</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>6.1.1 Proportion of population using safely managed drinking water services</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>6.1: By 2030, achieve universal and equitable access to safe and affordable drinking water for all</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Cambodia Socio-Economic Survey (CSES)</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Proportion of population using safely managed drinking water services is measured by the proportion of households using an improved basic drinking water source which is located on premises (within the dwelling, yard, or plot), or available when needed. ‘Improved’ drinking water sources include: piped water into dwelling, yard or plot; public taps or standpipes; boreholes or tube wells; protected dug wells; protected springs; packaged water; delivered water; rainwater and bottled water/bought water.</p><p>Drinking water is defined as water used for ingestion, food preparation, and basic hygiene purposes.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="UNIT_MEASURE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Percent</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
   
 </mes:GenericMetadata>
         
