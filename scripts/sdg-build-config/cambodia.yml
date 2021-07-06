@@ -29,7 +29,7 @@ inputs:
       headers:
         User-Agent: Mozilla
   - class: InputSdgMetadata
-    source: https://github.com/sdg-laos/data
+    source: https://github.com/sdg-cambodia/data
     repo_subfolder: translations/meta
     branch: develop
 
