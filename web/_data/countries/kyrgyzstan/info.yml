@@ -12,6 +12,7 @@ platform:
 
 data:
   status: SDMX published
+  sdg_build_remote: "https://brock.tips/fcdo-kg-data/"
 metadata:
   status: Needs SDMX mapping
 

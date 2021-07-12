@@ -6,7 +6,8 @@ platform:
   status: Development
 
 data:
-  status: Unknown
+  status: SDMX started
+  sdg_build_remote: "https://brock.tips/fcdo-np-data/"
 metadata:
   status: Unknown
 
