@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
   <mes:Header>
-    <mes:ID>IREF1626129663</mes:ID>
+    <mes:ID>IREF1627508058</mes:ID>
     <mes:Test>True</mes:Test>
-    <mes:Prepared>2021-07-12T22:41:03</mes:Prepared>
-    <mes:Sender id="open-sdg_sdg-build@1-3-0"/>
+    <mes:Prepared>2021-07-28T21:34:18</mes:Prepared>
+    <mes:Sender id="open-sdg_sdg-build@1-4-0"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
         <URN>urn:sdmx:org.sdmx.infomodel.metadatastructure.MetadataStructure=IAEG-SDGs:SDG_MSD(0.3)</URN>
@@ -12,7 +12,7 @@
     </mes:Structure>
   </mes:Header>
   
-  <mes:MetadataSet structureRef="MDS1" setID="defa688b-d809-4cd1-99c3-00f2d0801924">
+  <mes:MetadataSet structureRef="MDS1" setID="0bb679df-509d-4a8e-9c85-f87ef918795e">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -39,7 +39,13 @@
         
         <gen:ReportedAttribute id="COLL_METHOD">
           
-          <com:Text xml:lang="en"><![CDATA[<p>The CDHS was conducted in 2000, 2005, 2010 and 2014. Before the CDHS, similar surveys known as Demographic Survey 1996 was also conducted by the NIS and followed by Nation Health Survey 1998 was conducted by Ministry of Health.</p><p>The CDHS is national household survey covering many areas related to the demographic and health situation within the population. It includes information on demography, family planning, infant and child mortality, domestic violence, and health-related information such as breastfeeding, antenatal care, children’s immunization, childhood diseases, and HIV/AIDS. Also, the questionnaires are designed to evaluate the nutritional status of mothers and children and to measure the prevalence of anemia.</p><p>The survey covered a sample of 15,000 plus households. All women age 15-49 in these households and all men aged 15-49 in a sub-sample of one-half of the households were eligible to be individually interviewed. The questionnaire is conducted in three parts for household, women and men in the household supplemented by blood collection for HIV and hemoglobin testing. </p><p>The CDHS data were collected by 17 teams, each consisting of a team supervisor, a field editor, and four female interviewers. Each team was in charge of data collection in one province or a group of provinces. Coordination and supervision of the interviewing activities were done by four survey coordinators and four supervisory staff members from the National Institute of Statistics and the Ministry of Health. Data collection took place over a six-month period, from February to July in the year of survey.</p><p>The detailed documentations of the survey, such as questionnaire, filed operation annual and technical report on survey design and implementation are stored in NADA (National Data Archive), NIS website: http://nada.nis.gov.kh/index.php/home</p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[<p>The CDHS was conducted in 2000, 2005, 2010, 2014 and 2021. Before the CDHS, similar surveys known as Demographic Survey 1996 was also conducted by the NIS and followed by Nation Health Survey 1998 was conducted by Ministry of Health.</p><p>The CDHS is national household survey covering many areas related to the demographic and health situation within the population. It includes information on demography, family planning, infant and child mortality, domestic violence, and health-related information such as breastfeeding, antenatal care, children’s immunization, childhood diseases, and HIV/AIDS. Also, the questionnaires are designed to evaluate the nutritional status of mothers and children and to measure the prevalence of anemia.</p><p>The survey covered a sample of 15,000 plus households. All women age 15-49 in these households and all men aged 15-49 in a sub-sample of one-half of the households were eligible to be individually interviewed. The questionnaire is conducted in three parts for household, women and men in the household supplemented by blood collection for HIV and hemoglobin testing. </p><p>The CDHS data were collected by 17 teams, each consisting of a team supervisor, a field editor, and four female interviewers. Each team was in charge of data collection in one province or a group of provinces. Coordination and supervision of the interviewing activities were done by four survey coordinators and four supervisory staff members from the National Institute of Statistics and the Ministry of Health. Data collection took place over a six-month period, from February to July in the year of survey.</p><p>The detailed documentations of the survey, such as questionnaire, filed operation annual and technical report on survey design and implementation are stored in NADA (National Data Archive), NIS website: http://nada.nis.gov.kh/index.php/home</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>The UN Inter-agency Group for Child Mortality Estimation (UN IGME) estimates are derived from nationally representative data from censuses, surveys or vital registration systems. The UN IGME does not use any covariates to derive its estimates. It only applies a curve fitting method to good-quality empirical data to derive trend estimates after data quality assessment. Whereas the country use a direct method is used based on a full birth history, a series of detailed questions on each child a woman has given birth to during her lifetime.</p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -111,25 +117,25 @@
         
         <gen:ReportedAttribute id="FREQ_COLL">
           
-          <com:Text xml:lang="en"><![CDATA[<p>The next round survey: Qrt3, 2021</p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[<p>Every five years, The next round survey: August 2021</p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="INST_MANDATE">
           
-          <com:Text xml:lang="en"><![CDATA[<p>By virtue of the article 12 of Statistics Law, NIS in is responsible for:</p><ul><li>Collecting, processing, compiling, analyzing, publishing and disseminating basic data by conducting censuses and surveys, and utilizing administrative data sources;</li><li>Compiling national accounts and price indexes, as well as economic, environment and socio-demographic indicators;  </li><li>Coordination with line ministries as data producers as mandated by the Statistics Law; and</li><li>Functioning as the central repository of CSDG/SDG indicators.</li></ul>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[<p>By virtue of the article 12 of Statistics Law of 2015, NIS in is responsible for:</p><ul><li>Collecting, processing, compiling, analyzing, publishing and disseminating basic data by conducting censuses and surveys, and utilizing administrative data sources;</li><li>Compiling national accounts and price indexes, as well as economic, environment and socio-demographic indicators;  </li><li>Coordination with line ministries as data producers as mandated by the Statistics Law; and</li><li>Functioning as the central repository of CSDG/SDG indicators.</li></ul>]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="META_LAST_UPDATE">
           
-          <com:Text xml:lang="en"><![CDATA[<p>November 2020</p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[<p>June 2021</p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="ORGANISATION_UNIT">
           
-          <com:Text xml:lang="en"><![CDATA[<p>Demographic Statistics, Population and Survey Department</p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[<p>Demographic Statistics, Population and Survey Department, NIS</p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -139,9 +145,27 @@
           
         </gen:ReportedAttribute>
         
+        <gen:ReportedAttribute id="QUALITY_ASSMNT">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Adheres to the fundamental principles of official statistics and implements national quality assurance framework</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Adheres to the fundamental principles of official statistics and implements national quality assurance framework</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_MGMNT">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>The CDHS data were collected by 17 teams, each consisting of a team supervisor, a field editor, and four female interviewers. Each team was in charge of data collection in one province or a group of provinces. Coordination and supervision of the interviewing activities were done by four survey coordinators and four supervisory staff members from the National Institute of Statistics and the Ministry of Health. <br/>Data processing is using double entry (CSPro) to cross check the unmatch/errors.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
         <gen:ReportedAttribute id="RATIONALE">
           
-          <com:Text xml:lang="en"><![CDATA[<p> Mortality rates among young children are a key output indicator for child health and well-being, and, more broadly, for social and economic development. It is a closely watched public health indicator because it reflects the access of children and communities to basic health interventions such as vaccination, medical treatment of infectious diseases and adequate nutrition.</p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[<p>Mortality rates among young children are a key output indicator for child health and well-being, and, more broadly, for social and economic development. It is a closely watched public health indicator because it reflects the access of children and communities to basic health interventions such as vaccination, medical treatment of infectious diseases and adequate nutrition.</p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -153,7 +177,7 @@
         
         <gen:ReportedAttribute id="REL_CAL_POLICY">
           
-          <com:Text xml:lang="en"><![CDATA[<p>One year after the reference period of the survey</p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[<p>One year after the reference period of the survey, August 2022</p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -165,19 +189,13 @@
         
         <gen:ReportedAttribute id="SDG_INDICATOR">
           
-          <com:Text xml:lang="en"><![CDATA[<p>3.2.1 Under‑5 mortality rate</p>]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="SDG_RELATED_INDICATORS">
-          
-          <com:Text xml:lang="en"><![CDATA[<p>Infant mortality rate; Neonatal mortality rate; Post neonatal mortality rate</p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[<p>3.2.1 Under-five mortality rate [3.2.1] (SH_DYN_MORT)</p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SDG_SERIES_DESCR">
           
-          <com:Text xml:lang="en"><![CDATA[<p>3.2.1 Under-five deaths (number)</p><p>3.2.1 Infant mortality rate</p><p>3.2.1 Infant deaths (number)</p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[<p>3.2.1 Under-five deaths (number) [3.2.1] (SH_DYN_MORTN)</p><p>3.2.1 Infant mortality rate [3.2.1] (SH_DYN_IMRT)</p><p>3.2.1 Infant deaths (number) [3.2.1] (SH_DYN_IMRTN)</p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -209,7 +227,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="1b6cf2a7-124d-4307-afe3-9ece13849371">
+  <mes:MetadataSet structureRef="MDS1" setID="fbba9345-2725-4f8f-b3f2-46be183744f5">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -236,7 +254,13 @@
         
         <gen:ReportedAttribute id="COLL_METHOD">
           
-          <com:Text xml:lang="en"><![CDATA[<p>The CDHS was conducted in 2000, 2005, 2010 and 2014. Before the CDHS, similar surveys known as Demographic Survey 1996 was also conducted by the NIS and followed by Nation Health Survey 1998 was conducted by Ministry of Health.</p><p>The CDHS is national household survey covering many areas related to the demographic and health situation within the population. It includes information on demography, family planning, infant and child mortality, domestic violence, and health-related information such as breastfeeding, antenatal care, children’s immunization, childhood diseases, and HIV/AIDS. Also, the questionnaires are designed to evaluate the nutritional status of mothers and children and to measure the prevalence of anemia.</p><p>The survey covered a sample of 15,000 plus households. All women age 15-49 in these households and all men aged 15-49 in a sub-sample of one-half of the households were eligible to be individually interviewed. The questionnaire is conducted in three parts for household, women and men in the household supplemented by blood collection for HIV and hemoglobin testing. </p><p>The CDHS data were collected by 17 teams, each consisting of a team supervisor, a field editor, and four female interviewers. Each team was in charge of data collection in one province or a group of provinces. Coordination and supervision of the interviewing activities were done by four survey coordinators and four supervisory staff members from the National Institute of Statistics and the Ministry of Health. Data collection took place over a six-month period, from February to July in the year of survey.</p><p>The detailed documentations of the survey, such as questionnaire, filed operation annual and technical report on survey design and implementation are stored in NADA (National Data Archive), NIS website: http://nada.nis.gov.kh/index.php/home</p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[<p>The CDHS was conducted in 2000, 2005, 2010, 2014 and 2021. Before the CDHS, similar surveys known as Demographic Survey 1996 was also conducted by the NIS and followed by Nation Health Survey 1998 was conducted by Ministry of Health.</p><p>The CDHS is national household survey covering many areas related to the demographic and health situation within the population. It includes information on demography, family planning, infant and child mortality, domestic violence, and health-related information such as breastfeeding, antenatal care, children’s immunization, childhood diseases, and HIV/AIDS. Also, the questionnaires are designed to evaluate the nutritional status of mothers and children and to measure the prevalence of anemia.</p><p>The survey covered a sample of 15,000 plus households. All women age 15-49 in these households and all men aged 15-49 in a sub-sample of one-half of the households were eligible to be individually interviewed. The questionnaire is conducted in three parts for household, women and men in the household supplemented by blood collection for HIV and hemoglobin testing. </p><p>The CDHS data were collected by 17 teams, each consisting of a team supervisor, a field editor, and four female interviewers. Each team was in charge of data collection in one province or a group of provinces. Coordination and supervision of the interviewing activities were done by four survey coordinators and four supervisory staff members from the National Institute of Statistics and the Ministry of Health. Data collection took place over a six-month period, from February to July in the year of survey.</p><p>The detailed documentations of the survey, such as questionnaire, filed operation annual and technical report on survey design and implementation are stored in NADA (National Data Archive), NIS website: http://nada.nis.gov.kh/index.php/home</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>The UN Inter-agency Group for Child Mortality Estimation (UN IGME) estimates are derived from nationally representative data from censuses, surveys or vital registration systems. The UN IGME does not use any covariates to derive its estimates. It only applies a curve fitting method to good-quality empirical data to derive trend estimates after data quality assessment. Whereas the country use a direct method is used based on a full birth history, a series of detailed questions on each child a woman has given birth to during her lifetime.</p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -308,25 +332,25 @@
         
         <gen:ReportedAttribute id="FREQ_COLL">
           
-          <com:Text xml:lang="en"><![CDATA[<p>The next round survey: Qrt3, 2021</p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[<p>Every five years, The next round survey: August 2021</p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="INST_MANDATE">
           
-          <com:Text xml:lang="en"><![CDATA[<p>By virtue of the article 12 of Statistics Law, NIS in is responsible for:</p><ul><li>Collecting, processing, compiling, analyzing, publishing and disseminating basic data by conducting censuses and surveys, and utilizing administrative data sources;</li><li>Compiling national accounts and price indexes, as well as economic, environment and socio-demographic indicators;  </li><li>Coordination with line ministries as data producers as mandated by the Statistics Law; and</li><li>Functioning as the central repository of CSDG/SDG indicators.</li></ul>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[<p>By virtue of the article 12 of Statistics Law of 2015, NIS in is responsible for:</p><ul><li>Collecting, processing, compiling, analyzing, publishing and disseminating basic data by conducting censuses and surveys, and utilizing administrative data sources;</li><li>Compiling national accounts and price indexes, as well as economic, environment and socio-demographic indicators;  </li><li>Coordination with line ministries as data producers as mandated by the Statistics Law; and</li><li>Functioning as the central repository of CSDG/SDG indicators.</li></ul>]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="META_LAST_UPDATE">
           
-          <com:Text xml:lang="en"><![CDATA[<p>November 2020</p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[<p>June 2021</p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="ORGANISATION_UNIT">
           
-          <com:Text xml:lang="en"><![CDATA[<p>Demographic Statistics, Population and Survey Department</p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[<p>Demographic Statistics, Population and Survey Department, NIS</p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -336,9 +360,27 @@
           
         </gen:ReportedAttribute>
         
+        <gen:ReportedAttribute id="QUALITY_ASSMNT">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Adheres to the fundamental principles of official statistics and implements national quality assurance framework</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Adheres to the fundamental principles of official statistics and implements national quality assurance framework</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_MGMNT">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>The CDHS data were collected by 17 teams, each consisting of a team supervisor, a field editor, and four female interviewers. Each team was in charge of data collection in one province or a group of provinces. Coordination and supervision of the interviewing activities were done by four survey coordinators and four supervisory staff members from the National Institute of Statistics and the Ministry of Health. <br/>Data processing is using double entry (CSPro) to cross check the unmatch/errors.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
         <gen:ReportedAttribute id="RATIONALE">
           
-          <com:Text xml:lang="en"><![CDATA[<p> Mortality rates among young children are a key output indicator for child health and well-being, and, more broadly, for social and economic development. It is a closely watched public health indicator because it reflects the access of children and communities to basic health interventions such as vaccination, medical treatment of infectious diseases and adequate nutrition.</p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[<p>Mortality rates among young children are a key output indicator for child health and well-being, and, more broadly, for social and economic development. It is a closely watched public health indicator because it reflects the access of children and communities to basic health interventions such as vaccination, medical treatment of infectious diseases and adequate nutrition.</p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -350,7 +392,7 @@
         
         <gen:ReportedAttribute id="REL_CAL_POLICY">
           
-          <com:Text xml:lang="en"><![CDATA[<p>One year after the reference period of the survey</p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[<p>One year after the reference period of the survey, August 2022</p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -362,19 +404,13 @@
         
         <gen:ReportedAttribute id="SDG_INDICATOR">
           
-          <com:Text xml:lang="en"><![CDATA[<p>3.2.1 Under‑5 mortality rate</p>]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="SDG_RELATED_INDICATORS">
-          
-          <com:Text xml:lang="en"><![CDATA[<p>Infant mortality rate; Neonatal mortality rate; Post neonatal mortality rate</p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[<p>3.2.1 Under-five mortality rate [3.2.1] (SH_DYN_MORT)</p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SDG_SERIES_DESCR">
           
-          <com:Text xml:lang="en"><![CDATA[<p>3.2.1 Under-five deaths (number)</p><p>3.2.1 Infant mortality rate</p><p>3.2.1 Infant deaths (number)</p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[<p>3.2.1 Under-five deaths (number) [3.2.1] (SH_DYN_MORTN)</p><p>3.2.1 Infant mortality rate [3.2.1] (SH_DYN_IMRT)</p><p>3.2.1 Infant deaths (number) [3.2.1] (SH_DYN_IMRTN)</p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -406,7 +442,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="8f93512b-8336-4cb3-99d7-57bef6177069">
+  <mes:MetadataSet structureRef="MDS1" setID="7b60305b-d3cc-4b3c-ab54-88229dbda0d1">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -433,7 +469,13 @@
         
         <gen:ReportedAttribute id="COLL_METHOD">
           
-          <com:Text xml:lang="en"><![CDATA[<p>The CDHS was conducted in 2000, 2005, 2010 and 2014. Before the CDHS, similar surveys known as Demographic Survey 1996 was also conducted by the NIS and followed by Nation Health Survey 1998 was conducted by Ministry of Health.</p><p>The CDHS is national household survey covering many areas related to the demographic and health situation within the population. It includes information on demography, family planning, infant and child mortality, domestic violence, and health-related information such as breastfeeding, antenatal care, children’s immunization, childhood diseases, and HIV/AIDS. Also, the questionnaires are designed to evaluate the nutritional status of mothers and children and to measure the prevalence of anemia.</p><p>The survey covered a sample of 15,000 plus households. All women age 15-49 in these households and all men aged 15-49 in a sub-sample of one-half of the households were eligible to be individually interviewed. The questionnaire is conducted in three parts for household, women and men in the household supplemented by blood collection for HIV and hemoglobin testing. </p><p>The CDHS data were collected by 17 teams, each consisting of a team supervisor, a field editor, and four female interviewers. Each team was in charge of data collection in one province or a group of provinces. Coordination and supervision of the interviewing activities were done by four survey coordinators and four supervisory staff members from the National Institute of Statistics and the Ministry of Health. Data collection took place over a six-month period, from February to July in the year of survey.</p><p>The detailed documentations of the survey, such as questionnaire, filed operation annual and technical report on survey design and implementation are stored in NADA (National Data Archive), NIS website: http://nada.nis.gov.kh/index.php/home</p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[<p>The CDHS was conducted in 2000, 2005, 2010, 2014 and 2021. Before the CDHS, similar surveys known as Demographic Survey 1996 was also conducted by the NIS and followed by Nation Health Survey 1998 was conducted by Ministry of Health.</p><p>The CDHS is national household survey covering many areas related to the demographic and health situation within the population. It includes information on demography, family planning, infant and child mortality, domestic violence, and health-related information such as breastfeeding, antenatal care, children’s immunization, childhood diseases, and HIV/AIDS. Also, the questionnaires are designed to evaluate the nutritional status of mothers and children and to measure the prevalence of anemia.</p><p>The survey covered a sample of 15,000 plus households. All women age 15-49 in these households and all men aged 15-49 in a sub-sample of one-half of the households were eligible to be individually interviewed. The questionnaire is conducted in three parts for household, women and men in the household supplemented by blood collection for HIV and hemoglobin testing. </p><p>The CDHS data were collected by 17 teams, each consisting of a team supervisor, a field editor, and four female interviewers. Each team was in charge of data collection in one province or a group of provinces. Coordination and supervision of the interviewing activities were done by four survey coordinators and four supervisory staff members from the National Institute of Statistics and the Ministry of Health. Data collection took place over a six-month period, from February to July in the year of survey.</p><p>The detailed documentations of the survey, such as questionnaire, filed operation annual and technical report on survey design and implementation are stored in NADA (National Data Archive), NIS website: http://nada.nis.gov.kh/index.php/home</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>The UN Inter-agency Group for Child Mortality Estimation (UN IGME) estimates are derived from nationally representative data from censuses, surveys or vital registration systems. The UN IGME does not use any covariates to derive its estimates. It only applies a curve fitting method to good-quality empirical data to derive trend estimates after data quality assessment. Whereas the country use a direct method is used based on a full birth history, a series of detailed questions on each child a woman has given birth to during her lifetime.</p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -505,25 +547,25 @@
         
         <gen:ReportedAttribute id="FREQ_COLL">
           
-          <com:Text xml:lang="en"><![CDATA[<p>The next round survey: Qrt3, 2021</p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[<p>Every five years, The next round survey: August 2021</p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="INST_MANDATE">
           
-          <com:Text xml:lang="en"><![CDATA[<p>By virtue of the article 12 of Statistics Law, NIS in is responsible for:</p><ul><li>Collecting, processing, compiling, analyzing, publishing and disseminating basic data by conducting censuses and surveys, and utilizing administrative data sources;</li><li>Compiling national accounts and price indexes, as well as economic, environment and socio-demographic indicators;  </li><li>Coordination with line ministries as data producers as mandated by the Statistics Law; and</li><li>Functioning as the central repository of CSDG/SDG indicators.</li></ul>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[<p>By virtue of the article 12 of Statistics Law of 2015, NIS in is responsible for:</p><ul><li>Collecting, processing, compiling, analyzing, publishing and disseminating basic data by conducting censuses and surveys, and utilizing administrative data sources;</li><li>Compiling national accounts and price indexes, as well as economic, environment and socio-demographic indicators;  </li><li>Coordination with line ministries as data producers as mandated by the Statistics Law; and</li><li>Functioning as the central repository of CSDG/SDG indicators.</li></ul>]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="META_LAST_UPDATE">
           
-          <com:Text xml:lang="en"><![CDATA[<p>November 2020</p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[<p>June 2021</p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="ORGANISATION_UNIT">
           
-          <com:Text xml:lang="en"><![CDATA[<p>Demographic Statistics, Population and Survey Department</p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[<p>Demographic Statistics, Population and Survey Department, NIS</p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -533,9 +575,27 @@
           
         </gen:ReportedAttribute>
         
+        <gen:ReportedAttribute id="QUALITY_ASSMNT">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Adheres to the fundamental principles of official statistics and implements national quality assurance framework</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Adheres to the fundamental principles of official statistics and implements national quality assurance framework</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_MGMNT">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>The CDHS data were collected by 17 teams, each consisting of a team supervisor, a field editor, and four female interviewers. Each team was in charge of data collection in one province or a group of provinces. Coordination and supervision of the interviewing activities were done by four survey coordinators and four supervisory staff members from the National Institute of Statistics and the Ministry of Health. <br/>Data processing is using double entry (CSPro) to cross check the unmatch/errors.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
         <gen:ReportedAttribute id="RATIONALE">
           
-          <com:Text xml:lang="en"><![CDATA[<p> Mortality rates among young children are a key output indicator for child health and well-being, and, more broadly, for social and economic development. It is a closely watched public health indicator because it reflects the access of children and communities to basic health interventions such as vaccination, medical treatment of infectious diseases and adequate nutrition.</p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[<p>Mortality rates among young children are a key output indicator for child health and well-being, and, more broadly, for social and economic development. It is a closely watched public health indicator because it reflects the access of children and communities to basic health interventions such as vaccination, medical treatment of infectious diseases and adequate nutrition.</p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -547,7 +607,7 @@
         
         <gen:ReportedAttribute id="REL_CAL_POLICY">
           
-          <com:Text xml:lang="en"><![CDATA[<p>One year after the reference period of the survey</p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[<p>One year after the reference period of the survey, August 2022</p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -559,19 +619,13 @@
         
         <gen:ReportedAttribute id="SDG_INDICATOR">
           
-          <com:Text xml:lang="en"><![CDATA[<p>3.2.1 Under‑5 mortality rate</p>]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="SDG_RELATED_INDICATORS">
-          
-          <com:Text xml:lang="en"><![CDATA[<p>Infant mortality rate; Neonatal mortality rate; Post neonatal mortality rate</p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[<p>3.2.1 Under-five mortality rate [3.2.1] (SH_DYN_MORT)</p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SDG_SERIES_DESCR">
           
-          <com:Text xml:lang="en"><![CDATA[<p>3.2.1 Under-five deaths (number)</p><p>3.2.1 Infant mortality rate</p><p>3.2.1 Infant deaths (number)</p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[<p>3.2.1 Under-five deaths (number) [3.2.1] (SH_DYN_MORTN)</p><p>3.2.1 Infant mortality rate [3.2.1] (SH_DYN_IMRT)</p><p>3.2.1 Infant deaths (number) [3.2.1] (SH_DYN_IMRTN)</p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -603,7 +657,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="bbce5afc-b2f0-4ea5-b81a-fe6e722897a5">
+  <mes:MetadataSet structureRef="MDS1" setID="77d6c40a-e6a1-4c2a-bbc6-4c88f6a12d43">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -630,7 +684,13 @@
         
         <gen:ReportedAttribute id="COLL_METHOD">
           
-          <com:Text xml:lang="en"><![CDATA[<p>The CDHS was conducted in 2000, 2005, 2010 and 2014. Before the CDHS, similar surveys known as Demographic Survey 1996 was also conducted by the NIS and followed by Nation Health Survey 1998 was conducted by Ministry of Health.</p><p>The CDHS is national household survey covering many areas related to the demographic and health situation within the population. It includes information on demography, family planning, infant and child mortality, domestic violence, and health-related information such as breastfeeding, antenatal care, children’s immunization, childhood diseases, and HIV/AIDS. Also, the questionnaires are designed to evaluate the nutritional status of mothers and children and to measure the prevalence of anemia.</p><p>The survey covered a sample of 15,000 plus households. All women age 15-49 in these households and all men aged 15-49 in a sub-sample of one-half of the households were eligible to be individually interviewed. The questionnaire is conducted in three parts for household, women and men in the household supplemented by blood collection for HIV and hemoglobin testing. </p><p>The CDHS data were collected by 17 teams, each consisting of a team supervisor, a field editor, and four female interviewers. Each team was in charge of data collection in one province or a group of provinces. Coordination and supervision of the interviewing activities were done by four survey coordinators and four supervisory staff members from the National Institute of Statistics and the Ministry of Health. Data collection took place over a six-month period, from February to July in the year of survey.</p><p>The detailed documentations of the survey, such as questionnaire, filed operation annual and technical report on survey design and implementation are stored in NADA (National Data Archive), NIS website: http://nada.nis.gov.kh/index.php/home</p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[<p>The CDHS was conducted in 2000, 2005, 2010, 2014 and 2021. Before the CDHS, similar surveys known as Demographic Survey 1996 was also conducted by the NIS and followed by Nation Health Survey 1998 was conducted by Ministry of Health.</p><p>The CDHS is national household survey covering many areas related to the demographic and health situation within the population. It includes information on demography, family planning, infant and child mortality, domestic violence, and health-related information such as breastfeeding, antenatal care, children’s immunization, childhood diseases, and HIV/AIDS. Also, the questionnaires are designed to evaluate the nutritional status of mothers and children and to measure the prevalence of anemia.</p><p>The survey covered a sample of 15,000 plus households. All women age 15-49 in these households and all men aged 15-49 in a sub-sample of one-half of the households were eligible to be individually interviewed. The questionnaire is conducted in three parts for household, women and men in the household supplemented by blood collection for HIV and hemoglobin testing. </p><p>The CDHS data were collected by 17 teams, each consisting of a team supervisor, a field editor, and four female interviewers. Each team was in charge of data collection in one province or a group of provinces. Coordination and supervision of the interviewing activities were done by four survey coordinators and four supervisory staff members from the National Institute of Statistics and the Ministry of Health. Data collection took place over a six-month period, from February to July in the year of survey.</p><p>The detailed documentations of the survey, such as questionnaire, filed operation annual and technical report on survey design and implementation are stored in NADA (National Data Archive), NIS website: http://nada.nis.gov.kh/index.php/home</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>The UN Inter-agency Group for Child Mortality Estimation (UN IGME) estimates are derived from nationally representative data from censuses, surveys or vital registration systems. The UN IGME does not use any covariates to derive its estimates. It only applies a curve fitting method to good-quality empirical data to derive trend estimates after data quality assessment. Whereas the country use a direct method is used based on a full birth history, a series of detailed questions on each child a woman has given birth to during her lifetime.</p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -702,25 +762,25 @@
         
         <gen:ReportedAttribute id="FREQ_COLL">
           
-          <com:Text xml:lang="en"><![CDATA[<p>The next round survey: Qrt3, 2021</p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[<p>Every five years, The next round survey: August 2021</p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="INST_MANDATE">
           
-          <com:Text xml:lang="en"><![CDATA[<p>By virtue of the article 12 of Statistics Law, NIS in is responsible for:</p><ul><li>Collecting, processing, compiling, analyzing, publishing and disseminating basic data by conducting censuses and surveys, and utilizing administrative data sources;</li><li>Compiling national accounts and price indexes, as well as economic, environment and socio-demographic indicators;  </li><li>Coordination with line ministries as data producers as mandated by the Statistics Law; and</li><li>Functioning as the central repository of CSDG/SDG indicators.</li></ul>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[<p>By virtue of the article 12 of Statistics Law of 2015, NIS in is responsible for:</p><ul><li>Collecting, processing, compiling, analyzing, publishing and disseminating basic data by conducting censuses and surveys, and utilizing administrative data sources;</li><li>Compiling national accounts and price indexes, as well as economic, environment and socio-demographic indicators;  </li><li>Coordination with line ministries as data producers as mandated by the Statistics Law; and</li><li>Functioning as the central repository of CSDG/SDG indicators.</li></ul>]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="META_LAST_UPDATE">
           
-          <com:Text xml:lang="en"><![CDATA[<p>November 2020</p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[<p>June 2021</p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="ORGANISATION_UNIT">
           
-          <com:Text xml:lang="en"><![CDATA[<p>Demographic Statistics, Population and Survey Department</p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[<p>Demographic Statistics, Population and Survey Department, NIS</p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -730,9 +790,27 @@
           
         </gen:ReportedAttribute>
         
+        <gen:ReportedAttribute id="QUALITY_ASSMNT">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Adheres to the fundamental principles of official statistics and implements national quality assurance framework</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Adheres to the fundamental principles of official statistics and implements national quality assurance framework</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_MGMNT">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>The CDHS data were collected by 17 teams, each consisting of a team supervisor, a field editor, and four female interviewers. Each team was in charge of data collection in one province or a group of provinces. Coordination and supervision of the interviewing activities were done by four survey coordinators and four supervisory staff members from the National Institute of Statistics and the Ministry of Health. <br/>Data processing is using double entry (CSPro) to cross check the unmatch/errors.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
         <gen:ReportedAttribute id="RATIONALE">
           
-          <com:Text xml:lang="en"><![CDATA[<p> Mortality rates among young children are a key output indicator for child health and well-being, and, more broadly, for social and economic development. It is a closely watched public health indicator because it reflects the access of children and communities to basic health interventions such as vaccination, medical treatment of infectious diseases and adequate nutrition.</p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[<p>Mortality rates among young children are a key output indicator for child health and well-being, and, more broadly, for social and economic development. It is a closely watched public health indicator because it reflects the access of children and communities to basic health interventions such as vaccination, medical treatment of infectious diseases and adequate nutrition.</p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -744,7 +822,7 @@
         
         <gen:ReportedAttribute id="REL_CAL_POLICY">
           
-          <com:Text xml:lang="en"><![CDATA[<p>One year after the reference period of the survey</p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[<p>One year after the reference period of the survey, August 2022</p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -756,19 +834,13 @@
         
         <gen:ReportedAttribute id="SDG_INDICATOR">
           
-          <com:Text xml:lang="en"><![CDATA[<p>3.2.1 Under‑5 mortality rate</p>]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="SDG_RELATED_INDICATORS">
-          
-          <com:Text xml:lang="en"><![CDATA[<p>Infant mortality rate; Neonatal mortality rate; Post neonatal mortality rate</p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[<p>3.2.1 Under-five mortality rate [3.2.1] (SH_DYN_MORT)</p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SDG_SERIES_DESCR">
           
-          <com:Text xml:lang="en"><![CDATA[<p>3.2.1 Under-five deaths (number)</p><p>3.2.1 Infant mortality rate</p><p>3.2.1 Infant deaths (number)</p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[<p>3.2.1 Under-five deaths (number) [3.2.1] (SH_DYN_MORTN)</p><p>3.2.1 Infant mortality rate [3.2.1] (SH_DYN_IMRT)</p><p>3.2.1 Infant deaths (number) [3.2.1] (SH_DYN_IMRTN)</p>]]></com:Text>
           
         </gen:ReportedAttribute>
         

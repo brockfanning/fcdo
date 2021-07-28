@@ -1427,7 +1427,7 @@
           },
           {
             "name": "SERIES",
-            "type": "number"
+            "type": "string"
           },
           {
             "name": "UNIT_MEASURE",

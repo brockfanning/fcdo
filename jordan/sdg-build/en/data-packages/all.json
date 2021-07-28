@@ -1548,7 +1548,7 @@
           },
           {
             "name": "SERIES",
-            "type": "number",
+            "type": "string",
             "title": "SERIES"
           },
           {

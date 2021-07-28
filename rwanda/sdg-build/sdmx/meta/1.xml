@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
   <mes:Header>
-    <mes:ID>IREF1626130176</mes:ID>
+    <mes:ID>IREF1627508490</mes:ID>
     <mes:Test>True</mes:Test>
-    <mes:Prepared>2021-07-12T22:49:36</mes:Prepared>
-    <mes:Sender id="open-sdg_sdg-build@1-3-0"/>
+    <mes:Prepared>2021-07-28T21:41:30</mes:Prepared>
+    <mes:Sender id="open-sdg_sdg-build@1-4-0"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
         <URN>urn:sdmx:org.sdmx.infomodel.metadatastructure.MetadataStructure=IAEG-SDGs:SDG_MSD(0.3)</URN>
@@ -12,7 +12,7 @@
     </mes:Structure>
   </mes:Header>
   
-  <mes:MetadataSet structureRef="MDS1" setID="6c896e9c-6113-4e1b-b5eb-a8c03a5db737">
+  <mes:MetadataSet structureRef="MDS1" setID="f858d73d-d464-4671-b988-5f5e0409eb13">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -125,7 +125,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="e9edea87-7c21-4f33-a8d3-4105f0484cf8">
+  <mes:MetadataSet structureRef="MDS1" setID="3d4810dd-3b57-40bb-bf37-9f6e4d3ae1ca">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -238,7 +238,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="a174541d-9b3e-40eb-ab91-9adfaeb6dcc3">
+  <mes:MetadataSet structureRef="MDS1" setID="05c4e7e7-39b5-4f82-a79d-a83efd7c98ac">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -351,7 +351,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="1605a47e-58cc-4823-bd13-6675a10f4d13">
+  <mes:MetadataSet structureRef="MDS1" setID="86061654-b794-49f0-88d6-9bd01a8b97f0">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -464,7 +464,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="48484a9f-1626-4cec-a49d-e01fe47786b2">
+  <mes:MetadataSet structureRef="MDS1" setID="e972af14-a265-421f-b3b6-95d24dad9304">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -577,7 +577,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="69ef47f8-3b4b-4ea5-bfa7-8041ebc5d8df">
+  <mes:MetadataSet structureRef="MDS1" setID="5f6e8fb8-c61e-46ac-a818-e723c953a037">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -690,7 +690,120 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="eae7e067-2a59-44fe-abe2-6ef33202dfed">
+  <mes:MetadataSet structureRef="MDS1" setID="b5eca729-433c-4735-a86f-71ae3967a350">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>SD_MDP_ANDIHH</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>RW</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>1.2</p><p>By 2030, reduce at least by half the proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>1.2.2</p><p>Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="META_LAST_UPDATE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>2018</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_CUSTODIAN_AGENCIES">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>United Nations Children&#39;s Fund (UNICEFF) World Bank (WB) United Nations Development Programme (UNDP)</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_ORGANISATION">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>National Institute of Statistics of Rwanda (NISR)</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[<p><a href="mailto:info@statistics.gov.rw">info@statistics.gov.rw</a></p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>The Multidimensional Poverty measures those experiencing multiple deprivations (Maria et al, October 2011), and the global dimensions measured are health, education and standard of living. In Rwanda, the multidimensional Poverty identifies multiple deprivations at the household and individual level in Education, housing, Public services, social services &amp; Economic activity. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="UNIT_MEASURE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Percent (%)</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="FREQ_COLL">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>3 years</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_SOURCE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Integrated Household Living Conditions Survey (EICV)</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>It identifies who is poor by considering the intensity of deprivations they suffer and includes an aggregation method.</p><p>Mathematically, the MPI combines two aspects of poverty: </p><p>MPI = H x A </p><p>1) Incidence (H) denotes the percentage of people who are multidimensionally poor, or the headcount</p><p>2) Intensity of peopleâ€™s poverty (A) denotes the average percentage of dimensions in which poor people are deprived</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[<h2>Geographical coverage</h2><p>National</p><h2>Disaggregation</h2><p>Urban/Rural areas, province, wealth quintiles </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[<h2>Global indicator description</h2><p>Monitoring national poverty is important for country-specific development agendas. National poverty lines are used to make more accurate estimates of poverty consistent with the countryâ€™s specific economic and social circumstances and are not intended for international comparisons of poverty rates.</p><h2>Link to UN Metadata</h2><p><a href="https://unstats.un.org/sdgs/metadata/files/Metadata-01-02-01.pdf" target="_blank"><u><br/></u>United Nations Sustainable Development Goals Metadata (PDF 894 KB)</a></p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[<h2>UN designated tier</h2><p>2</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="2cef9b34-ed01-452e-83b2-eafaa050a843">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -797,7 +910,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="1cc9160f-7dc5-40d1-a36a-4cc9bb137524">
+  <mes:MetadataSet structureRef="MDS1" setID="3389372e-947f-4525-963b-7c4c0264967a">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -904,7 +1017,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="e510b566-d1cd-4ae2-996a-f13774189d93">
+  <mes:MetadataSet structureRef="MDS1" setID="24ad0e58-b496-48c1-963b-078d0d189298">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -1011,7 +1124,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="d64df6ae-2eb9-4a77-817c-ea94900520ff">
+  <mes:MetadataSet structureRef="MDS1" setID="ac46e792-e5b0-4057-b7e0-e7f98338a30a">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -1106,7 +1219,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="5a768d42-4719-4991-ab5c-371484ed1c7e">
+  <mes:MetadataSet structureRef="MDS1" setID="a4fbca86-ed20-4a33-955a-382c1b563ce4">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -1201,7 +1314,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="ce543dc8-dffa-41b7-abb4-b6348a5e853a">
+  <mes:MetadataSet structureRef="MDS1" setID="b87983c6-954d-44e2-a330-f7c26afac115">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -1296,7 +1409,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="84bb0326-17f1-4c91-9f9d-cf8a3a9d6513">
+  <mes:MetadataSet structureRef="MDS1" setID="046a6409-cb3f-4255-b040-9c3421658409">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -1391,7 +1504,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="bf5287b6-38c5-4454-99e9-f931b792dcef">
+  <mes:MetadataSet structureRef="MDS1" setID="3744efdb-e10b-4037-a3d8-2b9b9ec6e270">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -1486,7 +1599,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="f20a7a52-4c34-4fe7-929b-2327df2aae5d">
+  <mes:MetadataSet structureRef="MDS1" setID="cca62a38-97e0-4fd4-a121-bc21568952e9">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -1581,7 +1694,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="ef801a5d-f8ff-4f14-946c-ddbe0c0befef">
+  <mes:MetadataSet structureRef="MDS1" setID="363f079e-bbc0-456c-9dc0-2f9802556d11">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -1676,7 +1789,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="e9ddbaaa-cc12-4a17-9deb-560b20aef788">
+  <mes:MetadataSet structureRef="MDS1" setID="f1d0c75b-dade-4033-82c6-aee24b3d7b97">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -1771,7 +1884,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="06755129-d072-4c5e-9942-dbcf40366186">
+  <mes:MetadataSet structureRef="MDS1" setID="b29ae7ad-2907-4653-a02d-106b7424dd1a">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -1866,7 +1979,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="2f5ca84d-9391-451a-acca-831fc55aae60">
+  <mes:MetadataSet structureRef="MDS1" setID="6741e724-9c18-4887-b663-cd357fae2cc5">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -1961,7 +2074,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="13bf8790-98d9-4b8e-a6fe-4578506b73db">
+  <mes:MetadataSet structureRef="MDS1" setID="475125dd-89d7-4862-a109-1d0ea5a85ead">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -2056,7 +2169,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="de0e11c5-a5a2-41e8-a20a-49edde4be67f">
+  <mes:MetadataSet structureRef="MDS1" setID="8b0adfa1-515f-49c4-9bda-aebcf138e8d3">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -2151,7 +2264,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="cc75b5a3-795d-4e1e-95b7-7ac956be709e">
+  <mes:MetadataSet structureRef="MDS1" setID="7af080db-e7eb-41a0-ace0-5f64c5f51143">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -2246,7 +2359,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="64aab9ea-88dd-4ae8-b885-d3adb5d57a50">
+  <mes:MetadataSet structureRef="MDS1" setID="9df30cb2-d931-43f2-92e2-c4adf0204c05">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -2323,7 +2436,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="699f1282-7bdd-42ff-a961-eb233b937e9c">
+  <mes:MetadataSet structureRef="MDS1" setID="68909b8f-0882-42f4-8e9f-f615684c3d51">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -2400,7 +2513,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="c15a967c-c594-4a29-824f-d463619d46cd">
+  <mes:MetadataSet structureRef="MDS1" setID="c7de3981-586c-4209-b0fa-94b81010df76">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -2477,7 +2590,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="a4d619c9-5120-4f6b-a3d2-37fc6c82eead">
+  <mes:MetadataSet structureRef="MDS1" setID="b64935d6-bbeb-4f46-b531-1ac512e93096">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -2560,7 +2673,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="94e876d7-1593-4c2e-9018-498856eceb56">
+  <mes:MetadataSet structureRef="MDS1" setID="8c8d543e-f855-4a31-bee1-951286ff558d">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -2643,7 +2756,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="63c3fdb3-e358-446f-9511-4154c41668ec">
+  <mes:MetadataSet structureRef="MDS1" setID="68eef05f-ed46-4d97-bc5c-1573454bab30">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
