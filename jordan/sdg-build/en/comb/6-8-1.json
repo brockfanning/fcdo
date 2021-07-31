@@ -1,1 +1,0 @@
-{"data":{"Year":["2016"],"REPORTING_TYPE":["N"],"TIME_DETAIL":["2016"],"SERIES":[null],"UNIT_MEASURE":["NUMBER"],"Value":[0.214]},"edges":{"From":["REPORTING_TYPE"],"To":["TIME_DETAIL"]}}

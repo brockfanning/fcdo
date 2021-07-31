@@ -1,4 +1,0 @@
-Year,SERIES,REF_AREA,SEX,AGE,location,disability,UNIT_MEASURE,UNIT_MULT,REPORTING_TYPE,TIME_DETAIL,Value
-2016,SH_DYN_NMRT,UG,F,M0,_T,_T,"deaths per 1,000 live births",0,N,2016,23.0
-2016,SH_DYN_NMRT,UG,M,M0,_T,_T,"deaths per 1,000 live births",0,N,2016,31.0
-2016,SH_DYN_NMRT,UG,_T,M0,_T,_T,"deaths per 1,000 live births",0,N,2016,27.0

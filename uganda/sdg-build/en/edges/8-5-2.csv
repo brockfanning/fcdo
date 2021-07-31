@@ -1,8 +1,0 @@
-From,To
-REF_AREA,SEX
-SEX,AGE
-AGE,location
-location,disability
-disability,UNIT_MULT
-UNIT_MULT,REPORTING_TYPE
-REPORTING_TYPE,TIME_DETAIL
