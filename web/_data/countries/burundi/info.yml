@@ -10,15 +10,12 @@ platform:
     metadata: https://burundi.opendataforafrica.org/grivyuf/burundi-sdg-indicators-metadata-repository?0-c-indicateurs-prioris%C3%A9s-dans-le-rapport-national-odd=1.3.1.%20Nombre%20d%E2%80%99associations%20mutualistes%20engag%C3%A9s%20dans%20la%20promotion%20des%20programmes%20de%20d%C3%A9veloppement%20communautaire%20(%25)
 
 data:
-  status: SDMX published
-  details: Some unexpected attributes
-  sdg_build: true
+  status: Partially uploaded to SDG Lab on behalf of country
+  details: More work could be done to complete mappings on behalf of country
+  sdg_build_remote: "https://brock.tips/fcdo-bi-data/"
 metadata:
-  status: Needs SDMX mapping
-  details: TBD.
-
-sdglab:
-  country: 15
+  status: Uploaded to SDG Lab on behalf of country
+  details: Machine-translated into English
 
 notes:
   - What is the connection between indicators and metadata/data/sdmx?

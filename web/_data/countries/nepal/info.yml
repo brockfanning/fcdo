@@ -6,10 +6,11 @@ platform:
   status: Development
 
 data:
-  status: SDMX started
+  status: Uploaded to SDG Lab on behalf of country
+  details: Taken directly from platform - not very much data
   sdg_build_remote: "https://brock.tips/fcdo-np-data/"
 metadata:
-  status: Unknown
+  status: Uploaded to SDG Lab on behalf of country
 
 sdglab:
   country: 27

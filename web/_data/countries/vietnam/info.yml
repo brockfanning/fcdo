@@ -6,9 +6,10 @@ platform:
   status: Development
 
 data:
-  status: Unknown
+  status: Uploaded to SDG Lab on behalf of country
+  sdg_build_remote: "https://brock.tips/fcdo-vn-data/"
 metadata:
-  status: Unknown
+  status: Uploaded to SDG Lab on behalf of country
 
 sdglab:
   country: 4

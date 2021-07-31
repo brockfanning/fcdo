@@ -6,9 +6,10 @@ platform:
   status: Development
 
 data:
-  status: Unknown
+  status: Country trained and producing SDMX
 metadata:
-  status: Unknown
+  status: Country trained and producing SDMX
+
 
 sdglab:
   country: 19

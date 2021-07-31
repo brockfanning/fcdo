@@ -13,9 +13,9 @@ platform:
     metadata: https://github.com/sustainabledevelopment-ghana/sdg-indicators/blob/develop/_indicators/1-1-1.md
 
 data:
-  status: SDMX training completed and conversion in progress
+  status: Country trained and producing SDMX
 metadata:
-  status: Unknown
+  status: Country trained and producing SDMX
 
 sdglab:
   country: 0

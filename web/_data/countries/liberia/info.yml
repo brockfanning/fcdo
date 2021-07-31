@@ -10,10 +10,10 @@ platform:
     metadata: Links to global metadata
 
 data:
-  status: Unknown
+  status: Data in platform in need of updates
   details: The SDMX format is not compatible with the SDG Lab. Also disaggregation is not identified in dimensions - only name.
 metadata:
-  status: Using global
+  status: Not available
 
 sdglab:
   country: 0

@@ -5,7 +5,6 @@ install:
 
 build:
 	cd web && bundle exec jekyll build
-	python scripts/sdg-build.py
 
 serve: build
 	cd web && bundle exec jekyll serve --skip-initial-build

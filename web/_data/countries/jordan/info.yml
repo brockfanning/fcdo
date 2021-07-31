@@ -85,10 +85,10 @@ platform:
     metadata: Click on "About table"
 
 data:
-  status: Needs SDMX mapping
+  status: Preliminary investigation of data
   sdg_build: true
 metadata:
-  status: Needs machine readable version
+  status: Scripted migration of metadata in progress
 
 sdglab:
   country: 8

@@ -11,11 +11,12 @@ platform:
     metadata: https://github.com/sustainabledevelopment-rwanda/sdg-data-rwanda/blob/develop/meta/1-1-1.md
 
 data:
-  status: SDMX published
-  details: ''
-  sdg_build: true
+  status: Uploaded to SDG Lab on behalf of country
+  details: Taken directly from platform
+  sdg_build_remote: "https://brock.tips/fcdo-rw-data/"
 metadata:
-  status: Needs SDMX mapping
+  status: Uploaded to SDG Lab on behalf of country
+  details: Migrated from '77 Indicators' document
 
 sdglab:
   country: 44

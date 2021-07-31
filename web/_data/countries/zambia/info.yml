@@ -10,12 +10,11 @@ platform:
     metadata: Links to global metadata
 
 data:
-  status: SDMX conversion in progress
+  status: Preliminary investigation of data
   details: Some unexpected attributes
-  example: https://zambia.opendataforafrica.org/api/1.0/sdmx/data/SDGZAMBIA?key=1.1000010.1000010.SI_POV_EMP1.ZM._T._T._T._T._T._T._T
   sdg_build: true
 metadata:
-  status: Using global
+  status: Not available
 
 sdglab:
   country: 33

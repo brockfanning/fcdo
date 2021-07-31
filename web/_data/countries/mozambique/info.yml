@@ -10,12 +10,12 @@ platform:
     metadata: http://www.ine.gov.mz/documentos/metadados/objectivos-de-desenvolvimento-sustentavel-ods/ods_metadados_1-1-1-proporcao-da-populacao-abaixo-da-linha-de-pobreza-internacional-desagregados-por-sexo-e-idade.pdf/view
 
 data:
-  status: SDMX conversion in progress
+  status: Partially uploaded to SDG Lab on behalf of country
   details: Some unexpected attributes
-  sdg_build: true
+  sdg_build_remote: "https://brock.tips/fcdo-mz-data/"
 metadata:
-  status: SDMX compliant
-  details: Using some global PDFs, but also using authoring tool templates
+  status: Uploaded to SDG Lab on behalf of country
+  details: Machine-translated into English
 
 sdglab:
   country: 0

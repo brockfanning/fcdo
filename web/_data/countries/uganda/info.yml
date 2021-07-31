@@ -10,12 +10,11 @@ platform:
     metadat: Links to global metadata
 
 data:
-  status: SDMX conversion in progress
+  status: Preliminary investigation of data
   details: Some unexpected attributes
-  example: https://uganda.opendataforafrica.org/api/1.0/sdmx/data/SDGUGANDA?key=1.1000430.1000480.SP_LGL_LNDDOC.UG._T._T._T._T
   sdg_build: true
 metadata:
-  status: Using global
+  status: Not available
 
 sdglab:
   country: 39

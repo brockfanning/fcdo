@@ -11,10 +11,12 @@ platform:
     metadata: https://github.com/sdg-kyrgyzstan/open-sdg-data-starter/blob/develop/meta/1-1-1.xlsx
 
 data:
-  status: SDMX published
+  status: Uploaded to SDG Lab on behalf of country
+  details: Data taken directly from platform
   sdg_build_remote: "https://brock.tips/fcdo-kg-data/"
 metadata:
-  status: Needs SDMX mapping
+  status: Uploaded to SDG Lab on behalf of country
+  details: Metadata taken directly from platform and mapped
 
 kyryzstan: 17
 

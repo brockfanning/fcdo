@@ -13,7 +13,7 @@ data:
   status: Needs SDMX mapping
   details: Using Frictionless DataPackages
 metadata:
-  status: Unknown
+  status: Country trained and producing SDMX
 
 sdglab:
   country: 0

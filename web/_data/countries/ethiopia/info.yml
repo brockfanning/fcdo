@@ -10,11 +10,11 @@ platform:
     metadata: Links to global
 
 data:
-  status: SDMX published
+  status: Preliminary investigation of data
   details: Some unexpected attributes
   sdg_build: true
 metadata:
-  status: Using global
+  status: Not available
 
 sdglab:
   country: 18
